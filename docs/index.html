@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>每日五大台灣半導體新聞</title>
+    <meta name="description" content="每日整理台灣半導體相關新聞，列出每日五大要聞（標題 + 來源連結）。" />
+    <meta property="og:title" content="每日五大台灣半導體新聞" />
+    <meta property="og:description" content="每日整理台灣半導體相關新聞，列出每日五大要聞（標題 + 來源連結）。" />
+    <meta property="og:type" content="website" />
+    <style>
+        :root{--bg:#f7f7f8;--card:#fff;--muted:#6b7280;--accent:#0b63d6}
+        html,body{height:100%}
+        body{
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', 'Microsoft JhengHei', sans-serif;
+            margin:0;padding:24px;background:var(--bg);color:#111;line-height:1.45;
+        }
+        .container{max-width:980px;margin:0 auto}
+        header{display:flex;align-items:center;justify-content:space-between;gap:12px}
+        .brand{display:flex;flex-direction:column}
+        h1{margin:0;font-size:20px}
+        .subtitle{color:var(--muted);font-size:13px}
+        .controls{display:flex;align-items:center;gap:10px}
+        .lang-btn{background:transparent;border:1px solid transparent;padding:6px 10px;border-radius:6px;cursor:pointer}
+        .lang-btn.active{background:#eef6ff;border-color:var(--accent);color:var(--accent)}
+        .generated{color:var(--muted);font-size:13px}
+
+        main{margin-top:18px}
+        .card{background:var(--card);border-radius:10px;padding:14px;margin:12px 0;box-shadow:0 6px 18px rgba(13,38,59,0.04)}
+        .card a{color:var(--accent);text-decoration:none;font-weight:600}
+        .meta{color:var(--muted);font-size:13px;margin-top:8px}
+
+        footer{margin-top:28px;color:var(--muted);font-size:13px}
+
+        @media (max-width:640px){body{padding:14px}h1{font-size:18px}}
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="brand">
+                <h1 id="title">每日五大台灣半導體新聞</h1>
+                <div class="subtitle" id="subtitle">Top 5 Taiwan semiconductor news • 每日更新</div>
+            </div>
+
+            <div class="controls">
+                <div class="generated"><span id="generatedLabel">更新時間：</span><span id="generatedTime">更新中...</span></div>
+                <div>
+                    <button id="btn-zh" class="lang-btn">中文</button>
+                    <button id="btn-en" class="lang-btn">EN</button>
+                </div>
+            </div>
+        </header>
+
+        <main id="list">
+            <p id="loading">載入中…</p>
+        </main>
+
+        <footer id="footer">來源：顯示新聞標題與連結，如需修改來源請更新 scripts/feeds.json。</footer>
+    </div>
+
+    <script>
+        const i18n = {
+            zh: {
+                title: '每日五大台灣半導體新聞',
+                subtitle: 'Top 5 Taiwan semiconductor news • 每日更新',
+                loading: '載入中…',
+                noNews: '目前沒有新聞。',
+                loadFailed: '載入失敗，請稍後再試。',
+                generatedLabel: '更新時間：',
+                footer: '來源：顯示新聞標題與連結，如需修改來源請更新 scripts/feeds.json。'
+            },
+            en: {
+                title: 'Top 5 Taiwan Semiconductor News',
+                subtitle: 'Daily top 5 • Updated daily',
+                loading: 'Loading…',
+                noNews: 'No news available.',
+                loadFailed: 'Failed to load, please try later.',
+                generatedLabel: 'Updated:',
+                footer: 'Source: shows title and link. Edit scripts/feeds.json to change feeds.'
+            }
+        };
+
+        function setLang(lang){
+            const t = i18n[lang] || i18n.zh;
+            document.getElementById('title').textContent = t.title;
+            document.getElementById('subtitle').textContent = t.subtitle;
+            document.getElementById('loading').textContent = t.loading;
+            document.getElementById('generatedLabel').textContent = t.generatedLabel;
+            document.getElementById('footer').textContent = t.footer;
+            document.getElementById('btn-zh').classList.toggle('active', lang==='zh');
+            document.getElementById('btn-en').classList.toggle('active', lang==='en');
+            localStorage.setItem('site_lang', lang);
+        }
+
+        document.getElementById('btn-zh').addEventListener('click', ()=>{ setLang('zh'); });
+        document.getElementById('btn-en').addEventListener('click', ()=>{ setLang('en'); });
+
+        const prefer = localStorage.getItem('site_lang') || (navigator.language&&navigator.language.startsWith('en')? 'en':'zh');
+        setLang(prefer);
+
+        async function load(){
+            try{
+                const res = await fetch('news.json', {cache: 'no-store'});
+                if(!res.ok) throw new Error('Fetch failed');
+                const data = await res.json();
+                const gen = document.getElementById('generatedTime');
+                gen.textContent = data.generated ? new Date(data.generated).toLocaleString() : '';
+                const list = document.getElementById('list');
+                list.innerHTML = '';
+                if(!data.items || data.items.length===0){ list.innerHTML = `<p>${i18n[localStorage.getItem('site_lang')||'zh'].noNews}</p>`; return }
+                data.items.forEach(it=>{
+                    const el = document.createElement('article'); el.className='card';
+                    const title = document.createElement('div');
+                    title.innerHTML = `<a href="${it.link}" target="_blank" rel="noopener">${it.title}</a>`;
+                    const meta = document.createElement('div'); meta.className='meta';
+                    meta.textContent = `${it.source} • ${it.isoDate ? new Date(it.isoDate).toLocaleString() : ''}`;
+                    el.appendChild(title); el.appendChild(meta);
+                    list.appendChild(el);
+                });
+            }catch(e){
+                document.getElementById('list').innerHTML = `<p>${i18n[localStorage.getItem('site_lang')||'zh'].loadFailed}</p>`;
+                console.error(e);
+            }
+        }
+
+        load();
+    </script>
+</body>
+
+</html>

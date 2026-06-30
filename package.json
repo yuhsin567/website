@@ -1,0 +1,11 @@
+{
+    "name": "tw-semi-daily",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "fetch-news": "node scripts/fetch_news.js"
+    },
+    "dependencies": {
+        "rss-parser": "^3.12.0"
+    }
+}

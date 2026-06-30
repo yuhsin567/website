@@ -1,0 +1,14 @@
+[
+    {
+        "name": "科技新報",
+        "url": "https://technews.tw/feed/"
+    },
+    {
+        "name": "數位時代",
+        "url": "https://www.bnext.com.tw/rss"
+    },
+    {
+        "name": "中央社科技",
+        "url": "https://www.cna.com.tw/list/rss/tech.xml"
+    }
+]
