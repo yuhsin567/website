@@ -1,15 +1,15 @@
 ![Daily deploy news](https://github.com/yuhsin567/website/actions/workflows/daily_fetch.yml/badge.svg)
 
-# GitHub Pages - 每日台灣半導體五大新聞
+# GitHub Pages - 每小時台灣半導體五大新聞
 
-這個專案會使用 GitHub Pages 作為靜態網站承載，並透過 GitHub Actions 每日排程從 RSS 擷取新聞，產生 `docs/news.json`，由 `docs/index.html` 顯示「每日五大」列表。
+這個專案會使用 GitHub Pages 作為靜態網站承載，並透過 GitHub Actions 每小時排程從 RSS 擷取新聞，產生 `docs/news.json`，由 `docs/index.html` 顯示「每日五大」列表。
 
 ## 運維狀態
 
 - 網站來源：`gh-pages` branch（根目錄）
-- 自動更新時間：每天 **09:00 台灣時間**
+- 自動更新時間：每小時整點（UTC）
 - 工作流程：`.github/workflows/daily_fetch.yml`
-- 手動觸發：GitHub repo → `Actions` → `Daily deploy news` → `Run workflow`
+- 手動觸發：GitHub repo → `Actions` → `Hourly deploy news` → `Run workflow`
 - 監控：如果 workflow 失敗，請先檢查 `Actions` 日誌，再確認是否為 RSS 來源問題或 GitHub Pages 部署權限問題。
 
 ## 快速開始
