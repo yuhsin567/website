@@ -1,9 +1,9 @@
-name: Daily deploy news
+name: Hourly deploy news
 
 on:
   schedule:
-    # 每日 09:00 台灣時間（UTC+8）
-    - cron: '0 1 * * *' # 01:00 UTC
+    # 每小時整點執行（UTC）
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
