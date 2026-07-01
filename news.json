@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-01T19:52:05.731Z",
+  "generated": "2026-07-01T21:26:32.032Z",
   "count": 5,
   "items": [
+    {
+      "title": "研究揭露AirDrop與Quick Share安全漏洞，允許駭客癱瘓分享功能",
+      "link": "https://www.ithome.com.tw/news/177024",
+      "isoDate": "2026-07-02T05:07:28.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "歐幾里得拍下銀河系中心最精細影像，助未來測量系外行星質量",
       "link": "https://technews.tw/2026/07/01/euclid-captures-the-most-detailed-image-yet-of-the-milky-way-center/",
@@ -28,13 +35,6 @@
       "link": "https://www.ithome.com.tw/news/177005",
       "isoDate": "2026-07-01T12:07:17.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "對手看不到車尾燈！外資瑞穗證券上修台積電先進製程與先進封裝產能",
-      "link": "https://finance.technews.tw/2026/07/01/foreign-firm-mizuho-securities-revised-its-forecast-for-tsmcs-advanced-process-and-packaging-capacity-upwards/",
-      "isoDate": "2026-07-01T11:15:42.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
