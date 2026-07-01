@@ -2,7 +2,7 @@ name: Routine deploy news
 
 on:
   schedule:
-    # 每小時整點執行（UTC）
+    # 整點更新排程（UTC）
     - cron: '0 * * * *'
   workflow_dispatch:
 
@@ -34,6 +34,6 @@ jobs:
           publish_branch: gh-pages
           user_name: github-actions[bot]
           user_email: github-actions[bot]@users.noreply.github.com
-          commit_message: 'chore: deploy daily news to gh-pages'
+          commit_message: 'chore: deploy hourly news to gh-pages'
           keep_files: false
           allow_empty_commit: false
