@@ -1,36 +1,41 @@
 {
-  "generated": "2026-07-01T01:56:54.609Z",
+  "generated": "2026-07-01T03:24:16.077Z",
   "count": 5,
   "items": [
     {
-      "title": "美商務部解除 Fable、Mythos 模型出口管制，Anthropic 宣布隔日恢復存取",
-      "link": "https://technews.tw/2026/07/01/department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-claude-mythos-5/",
-      "isoDate": "2026-07-01T01:55:16.000Z",
-      "source": "科技新報"
+      "title": "超級電腦晶創 26 系統 Nano4 正式營運，開放算力申請",
+      "link": "https://technews.tw/2026/07/01/nano4-supercomputer-operational-compute-applications/",
+      "isoDate": "2026-07-01T03:20:09.000Z",
+      "source": "科技新報",
+      "category": "科技"
     },
     {
-      "title": "Apple Watch X 傳聞再現，明年喜迎全新錶帶連接系統？",
-      "link": "https://technews.tw/2026/07/01/2027-apple-watch-x/",
-      "isoDate": "2026-07-01T01:53:47.000Z",
-      "source": "科技新報"
+      "title": "環球晶圓現貨價將追上合約價，野村力挺 1,200 元目標價帶動股價攻漲停",
+      "link": "https://finance.technews.tw/2026/07/01/globalwafers-spot-prices-will-catch-up-with-contract-prices/",
+      "isoDate": "2026-07-01T03:15:13.000Z",
+      "source": "科技新報",
+      "category": "科技"
     },
     {
-      "title": "麥可貝瑞：費半乖離率觸泡沫前高  放空應材／SOXX",
-      "link": "https://finance.technews.tw/2026/07/01/michael-burry-says-hes-shorting-caterpillar-for-the-first-time-after-it-nearly-doubled-in-the-ai-driven-rally-of-2026/",
-      "isoDate": "2026-07-01T01:50:35.000Z",
-      "source": "科技新報"
+      "title": "首張吉伊卡哇信用卡登場！聯邦賴點 Visa 卡聯名優惠一次看",
+      "link": "https://finance.technews.tw/2026/07/01/jiyikawa/",
+      "isoDate": "2026-07-01T03:13:53.000Z",
+      "source": "科技新報",
+      "category": "科技"
     },
     {
-      "title": "解密失智症退化關鍵！陽明交大重磅研究揪出 59 種「護腦」腸道菌",
-      "link": "https://technews.tw/2026/07/01/akkermansia/",
-      "isoDate": "2026-07-01T01:46:32.000Z",
-      "source": "科技新報"
+      "title": "打造國產 AI  日本政府將金援軟銀「AI 專案」",
+      "link": "https://technews.tw/2026/07/01/japanese-government-fund-softbank-ai-project-domestic-ai-development/",
+      "isoDate": "2026-07-01T03:10:26.000Z",
+      "source": "科技新報",
+      "category": "科技"
     },
     {
-      "title": "供需失衡推升晶片股，克瑞莫點名美光、英特爾、AMD 將受惠",
-      "link": "https://technews.tw/2026/07/01/jim-cramer-says-the-ai-trade-has-shifted/",
-      "isoDate": "2026-07-01T01:40:35.000Z",
-      "source": "科技新報"
+      "title": "Nike 復甦之路仍漫長、大中華銷售年減 12%  盤後挫",
+      "link": "https://finance.technews.tw/2026/07/01/nike-inc-reports-fiscal-2026-fourth-quarter-and-full-year-results/",
+      "isoDate": "2026-07-01T03:00:55.000Z",
+      "source": "科技新報",
+      "category": "科技"
     }
   ]
 }
