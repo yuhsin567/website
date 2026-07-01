@@ -2,7 +2,8 @@ name: Daily deploy news
 
 on:
   schedule:
-    - cron: '0 2 * * *' # 每日 02:00 UTC
+    # 每日 09:00 台灣時間（UTC+8）
+    - cron: '0 1 * * *' # 01:00 UTC
   workflow_dispatch:
 
 jobs:
