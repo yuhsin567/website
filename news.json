@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-01T04:01:47.694Z",
+  "generated": "2026-07-01T07:15:14.504Z",
   "count": 5,
   "items": [
+    {
+      "title": "Google發布Chrome 150穩定版，修補382項漏洞，15項屬於重大等級",
+      "link": "https://www.ithome.com.tw/news/177003",
+      "isoDate": "2026-07-01T12:07:49.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "美國保險龍頭Aflac日本分公司遭駭，438萬用戶資料外洩",
+      "link": "https://www.ithome.com.tw/news/177004",
+      "isoDate": "2026-07-01T12:07:24.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "AWS成立FDE組織，派遣AI工程師進駐企業部署代理AI",
+      "link": "https://www.ithome.com.tw/news/177005",
+      "isoDate": "2026-07-01T12:07:17.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "新型Mistic後門疑與勒索軟體存取掮客有關，偽裝端點安全工具元件躲避偵測",
       "link": "https://www.ithome.com.tw/news/176998",
@@ -13,27 +34,6 @@
       "title": "勒索軟體Settra聲稱竊得PChome旗下Pi拍錢包350萬用戶資料",
       "link": "https://www.ithome.com.tw/news/177000",
       "isoDate": "2026-07-01T11:07:18.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "WinRAR發布7.23版，修補可能導致記憶體損毀與路徑遍歷攻擊的漏洞",
-      "link": "https://www.ithome.com.tw/news/176999",
-      "isoDate": "2026-07-01T11:07:16.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "PChome旗下拍付國際傳遭竊取個資，數發部將進行行政檢查",
-      "link": "https://www.ithome.com.tw/news/177001",
-      "isoDate": "2026-07-01T11:07:12.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic發表Claude Sonnet 5，成為免費與Pro版預設模型",
-      "link": "https://www.ithome.com.tw/news/177002",
-      "isoDate": "2026-07-01T11:07:09.000Z",
       "source": "iThome",
       "category": "科技"
     }
