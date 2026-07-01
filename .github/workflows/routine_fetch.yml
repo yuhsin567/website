@@ -1,4 +1,4 @@
-name: Hourly deploy news
+name: Routine deploy news
 
 on:
   schedule:

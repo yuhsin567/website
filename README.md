@@ -1,4 +1,4 @@
-![Hourly deploy news](https://github.com/yuhsin567/website/actions/workflows/hourly_fetch.yml/badge.svg)
+![Routine deploy news](https://github.com/yuhsin567/website/actions/workflows/routine_fetch.yml/badge.svg)
 
 # GitHub Pages - 每小時台灣半導體五大新聞
 
@@ -8,8 +8,8 @@
 
 - 網站來源：`gh-pages` branch（根目錄）
 - 自動更新時間：每小時整點（UTC）
-- 工作流程：`.github/workflows/hourly_fetch.yml`
-- 手動觸發：GitHub repo → `Actions` → `Hourly deploy news` → `Run workflow`
+- 工作流程：`.github/workflows/routine_fetch.yml`
+- 手動觸發：GitHub repo → `Actions` → `Routine deploy news` → `Run workflow`
 - 監控：如果 workflow 失敗，請先檢查 `Actions` 日誌，再確認是否為 RSS 來源問題或 GitHub Pages 部署權限問題。
 
 ## 快速開始
@@ -35,6 +35,6 @@ npm run fetch-news
 - `docs/index.html` - 前端顯示頁面
 - `scripts/fetch_news.js` - 擷取 RSS 並生成 `docs/news.json`
 - `scripts/feeds.json` - RSS URL 清單（可編輯）
-- `.github/workflows/hourly_fetch.yml` - GitHub Actions workflow，部署到 `gh-pages` 分支
+- `.github/workflows/routine_fetch.yml` - GitHub Actions workflow，部署到 `gh-pages` 分支
 
 如需我代為調整樣式或新增 RSS 範例清單，請告訴我要加入哪些新聞來源。
