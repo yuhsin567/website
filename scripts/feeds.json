@@ -1,14 +1,37 @@
 [
     {
         "name": "科技新報",
-        "url": "https://technews.tw/feed/"
+        "url": "https://technews.tw/feed/",
+        "category": "科技",
+        "priority": 1,
+        "enabled": true
     },
     {
-        "name": "數位時代",
-        "url": "https://www.bnext.com.tw/rss"
+        "name": "iThome",
+        "url": "https://www.ithome.com.tw/rss",
+        "category": "科技",
+        "priority": 2,
+        "enabled": true
     },
     {
-        "name": "中央社科技",
-        "url": "https://www.cna.com.tw/list/rss/tech.xml"
+        "name": "科技報橘",
+        "url": "https://buzzorange.com/techorange/feed/",
+        "category": "產業",
+        "priority": 3,
+        "enabled": true
+    },
+    {
+        "name": "科技新報 - AI",
+        "url": "https://technews.tw/tag/ai/feed/",
+        "category": "AI",
+        "priority": 1,
+        "enabled": true
+    },
+    {
+        "name": "科技新報 - 半導體",
+        "url": "https://technews.tw/tag/semiconductor/feed/",
+        "category": "半導體",
+        "priority": 1,
+        "enabled": true
     }
 ]

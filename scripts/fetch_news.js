@@ -7,7 +7,7 @@ async function main() {
     const feedsPath = path.join(__dirname, 'feeds.json');
     let feeds = [];
     try {
-        feeds = JSON.parse(fs.readFileSync(feedsPath, 'utf8'));
+        feeds = JSON.parse(fs.readFileSync(feedsPath, 'utf8')).filter(f => f.enabled !== false);
     } catch (e) {
         console.error('Cannot read feeds.json:', e.message);
         process.exit(1);
@@ -23,7 +23,8 @@ async function main() {
                     title: it.title || '',
                     link: it.link || '',
                     isoDate: it.isoDate || it.pubDate || null,
-                    source
+                    source,
+                    category: f.category || ''
                 });
             });
         } catch (err) {
@@ -42,6 +43,9 @@ async function main() {
     });
 
     unique.sort((a, b) => {
+        const pa = typeof a.priority === 'number' ? a.priority : 0;
+        const pb = typeof b.priority === 'number' ? b.priority : 0;
+        if (pa !== pb) return pb - pa;
         const da = a.isoDate ? Date.parse(a.isoDate) : 0;
         const db = b.isoDate ? Date.parse(b.isoDate) : 0;
         return db - da;

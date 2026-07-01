@@ -107,6 +107,17 @@
             margin-top: 8px
         }
 
+        .tag {
+            display: inline-block;
+            padding: 2px 8px;
+            margin-bottom: 6px;
+            border-radius: 999px;
+            background: rgba(11, 99, 214, 0.08);
+            color: #0b63d6;
+            font-size: 11px;
+            letter-spacing: 0.02em;
+        }
+
         footer {
             margin-top: 28px;
             color: var(--muted);
@@ -134,8 +145,8 @@
             </div>
 
             <div class="controls">
-                <div class="generated"><span id="generatedLabel">更新時間：</span><span id="generatedTime">更新中...</span>
-                </div>
+                <div class="generated"><span id="generatedLabel">更新時間：</span><span id="generatedTime">更新中...</span></div>
+                <div class="generated"><span id="countLabel">總數：</span><span id="itemCount">0</span></div>
                 <div>
                     <button id="btn-zh" class="lang-btn">中文</button>
                     <button id="btn-en" class="lang-btn">EN</button>
@@ -159,6 +170,7 @@
                 noNews: '目前沒有新聞。',
                 loadFailed: '載入失敗，請稍後再試。',
                 generatedLabel: '更新時間：',
+                countLabel: '總數：',
                 footer: '來源：顯示新聞標題與連結，如需修改來源請更新 scripts/feeds.json。'
             },
             en: {
@@ -168,16 +180,19 @@
                 noNews: 'No news available.',
                 loadFailed: 'Failed to load, please try later.',
                 generatedLabel: 'Updated:',
+                countLabel: 'Count:',
                 footer: 'Source: shows title and link. Edit scripts/feeds.json to change feeds.'
             }
         };
 
         function setLang(lang) {
+            currentLang = lang;
             const t = i18n[lang] || i18n.zh;
             document.getElementById('title').textContent = t.title;
             document.getElementById('subtitle').textContent = t.subtitle;
             document.getElementById('loading').textContent = t.loading;
             document.getElementById('generatedLabel').textContent = t.generatedLabel;
+            document.getElementById('countLabel').textContent = t.countLabel;
             document.getElementById('footer').textContent = t.footer;
             document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
             document.getElementById('btn-en').classList.toggle('active', lang === 'en');
@@ -187,30 +202,45 @@
         document.getElementById('btn-zh').addEventListener('click', () => { setLang('zh'); });
         document.getElementById('btn-en').addEventListener('click', () => { setLang('en'); });
 
+        let currentLang = 'zh';
         const prefer = localStorage.getItem('site_lang') || (navigator.language && navigator.language.startsWith('en') ? 'en' : 'zh');
         setLang(prefer);
 
         async function load() {
+            const t = i18n[currentLang] || i18n.zh;
             try {
                 const res = await fetch('news.json', { cache: 'no-store' });
                 if (!res.ok) throw new Error('Fetch failed');
                 const data = await res.json();
                 const gen = document.getElementById('generatedTime');
                 gen.textContent = data.generated ? new Date(data.generated).toLocaleString() : '';
+                const count = document.getElementById('itemCount');
+                count.textContent = data.count || (data.items ? data.items.length : 0);
+                document.getElementById('countLabel').textContent = t.countLabel;
                 const list = document.getElementById('list');
                 list.innerHTML = '';
-                if (!data.items || data.items.length === 0) { list.innerHTML = `<p>${i18n[localStorage.getItem('site_lang') || 'zh'].noNews}</p>`; return }
+                if (!data.items || data.items.length === 0) {
+                    list.innerHTML = `<p>${t.noNews}</p>`;
+                    return;
+                }
                 data.items.forEach(it => {
                     const el = document.createElement('article'); el.className = 'card';
                     const title = document.createElement('div');
                     title.innerHTML = `<a href="${it.link}" target="_blank" rel="noopener">${it.title}</a>`;
                     const meta = document.createElement('div'); meta.className = 'meta';
+                    if (it.category) {
+                        const tag = document.createElement('span');
+                        tag.className = 'tag';
+                        tag.textContent = it.category;
+                        el.appendChild(tag);
+                    }
                     meta.textContent = `${it.source} • ${it.isoDate ? new Date(it.isoDate).toLocaleString() : ''}`;
-                    el.appendChild(title); el.appendChild(meta);
+                    el.appendChild(title);
+                    el.appendChild(meta);
                     list.appendChild(el);
                 });
             } catch (e) {
-                document.getElementById('list').innerHTML = `<p>${i18n[localStorage.getItem('site_lang') || 'zh'].loadFailed}</p>`;
+                document.getElementById('list').innerHTML = `<p>${t.loadFailed}</p>`;
                 console.error(e);
             }
         }
