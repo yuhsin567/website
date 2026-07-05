@@ -1,0 +1,94 @@
+/* Custom cursor styles */
+:root {
+    --cursor-size: 10px;
+    --cursor-ring-size: 36px;
+    --cursor-color: rgba(255, 255, 255, 0.95);
+    --cursor-ring-color: rgba(255, 255, 255, 0.06);
+}
+
+.cursor-dot,
+.cursor-ring {
+    position: fixed;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: opacity 120ms linear;
+    z-index: 9999;
+    mix-blend-mode: normal;
+}
+
+.cursor-dot {
+    width: var(--cursor-size);
+    height: var(--cursor-size);
+    background: var(--cursor-color);
+    border-radius: 999px;
+    will-change: transform;
+    opacity: 0.98;
+}
+
+.cursor-ring {
+    width: var(--cursor-ring-size);
+    height: var(--cursor-ring-size);
+    border-radius: 999px;
+    border: 2px solid var(--cursor-ring-color);
+    background: transparent;
+    will-change: left, top, transform;
+    opacity: 0.9;
+}
+
+/* hide default cursor when using custom */
+html.use-custom-cursor,
+body.use-custom-cursor {
+    cursor: none !important;
+}
+
+/* hover states */
+.a-hover,
+a:hover,
+button:hover,
+.card:hover,
+.go-link:hover {
+    --cursor-ring-size: 52px;
+    --cursor-ring-color: rgba(157, 78, 221, 0.12);
+    --cursor-color: rgba(157, 78, 221, 0.95);
+}
+
+/* small screens: disable (better UX) */
+@media (max-width: 720px) {
+
+    .cursor-dot,
+    .cursor-ring {
+        display: none;
+    }
+
+    html.use-custom-cursor,
+    body.use-custom-cursor {
+        cursor: auto !important;
+    }
+}
+
+/* particle drops */
+.cursor-particle {
+    position: fixed;
+    pointer-events: none;
+    z-index: 9998;
+    font-size: 14px;
+    opacity: 1;
+    transform-origin: center;
+}
+
+@keyframes cursor-fall {
+    0% {
+        transform: translateY(0) scale(1);
+        opacity: 1;
+    }
+
+    70% {
+        transform: translateY(48px) rotate(12deg) scale(0.9);
+        opacity: 0.9;
+    }
+
+    100% {
+        transform: translateY(88px) rotate(18deg) scale(0.6);
+        opacity: 0;
+    }
+}
