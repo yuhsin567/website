@@ -35,10 +35,16 @@
     opacity: 0.9;
 }
 
-/* hide default cursor when using custom */
-html.use-custom-cursor,
-body.use-custom-cursor {
+/* Hide native cursor globally, but allow text inputs and editable areas to show caret */
+html.use-custom-cursor * {
     cursor: none !important;
+}
+html.use-custom-cursor input,
+html.use-custom-cursor textarea,
+html.use-custom-cursor select,
+html.use-custom-cursor [contenteditable="true"] {
+    cursor: text !important;
+    caret-color: var(--cursor-color);
 }
 
 /* hover states */
@@ -60,8 +66,8 @@ button:hover,
         display: none;
     }
 
-    html.use-custom-cursor,
-    body.use-custom-cursor {
+    /* Restore native cursor on small screens */
+    html.use-custom-cursor * {
         cursor: auto !important;
     }
 }
