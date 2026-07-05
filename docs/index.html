@@ -3,250 +3,458 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>整點五大台灣半導體新聞</title>
-    <meta name="description" content="整點整理台灣半導體相關新聞，列出整點五大要聞（標題 + 來源連結）。" />
-    <meta property="og:title" content="整點五大台灣半導體新聞" />
-    <meta property="og:description" content="整點整理台灣半導體相關新聞，列出整點五大要聞（標題 + 來源連結）。" />
-    <meta property="og:type" content="website" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Yuhsin's Web Hub | 靜態網站整合入口</title>
+    <meta name="description" content="Yuhsin's Web Hub - 整合了多個精美的靜態網頁應用，包含半導體新聞與待辦事項工具。" />
+
+    <!-- Google Fonts: Inter & Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap"
+        rel="stylesheet">
+
     <style>
         :root {
-            --bg: #f7f7f8;
-            --card: #fff;
-            --muted: #6b7280;
-            --accent: #0b63d6
+            --bg-color: #080c14;
+            --card-bg: rgba(17, 24, 39, 0.6);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --card-hover-border: rgba(99, 102, 241, 0.4);
+            --text-primary: #f3f4f6;
+            --text-muted: #9ca3af;
+            --accent-cyan: #00f2fe;
+            --accent-purple: #9d4edd;
+            --accent-blue: #3b82f6;
+            --font-display: 'Outfit', 'Inter', system-ui, -apple-system, sans-serif;
+            --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
         }
 
-        html,
-        body {
-            height: 100%
-        }
-
-        body {
-            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', 'Microsoft JhengHei', sans-serif;
+        * {
+            box-sizing: border-box;
             margin: 0;
-            padding: 24px;
-            background: var(--bg);
-            color: #111;
-            line-height: 1.45;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: var(--font-sans);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        /* Glowing background blobs */
+        .blur-bg {
+            position: absolute;
+            width: 500px;
+            height: 500px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(99, 102, 241, 0.15) 0%, rgba(0, 0, 0, 0) 70%);
+            filter: blur(50px);
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        .blob-1 {
+            top: -100px;
+            left: -100px;
+            background: radial-gradient(circle, rgba(0, 242, 254, 0.12) 0%, rgba(0, 0, 0, 0) 75%);
+        }
+
+        .blob-2 {
+            bottom: -150px;
+            right: -100px;
+            background: radial-gradient(circle, rgba(157, 78, 221, 0.15) 0%, rgba(0, 0, 0, 0) 75%);
+        }
+
+        /* Subtle grid pattern overlay */
+        body::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background-image:
+                linear-gradient(rgba(255, 255, 255, 0.015) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 255, 255, 0.015) 1px, transparent 1px);
+            background-size: 30px 30px;
+            z-index: -2;
+            pointer-events: none;
         }
 
         .container {
-            max-width: 980px;
-            margin: 0 auto
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 60px 24px;
+            width: 100%;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
 
         header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 12px
-        }
-
-        .brand {
-            display: flex;
-            flex-direction: column
+            text-align: center;
+            margin-bottom: 60px;
+            animation: fadeInDown 0.8s ease-out;
         }
 
         h1 {
-            margin: 0;
-            font-size: 20px
+            font-family: var(--font-display);
+            font-size: 3.2rem;
+            font-weight: 800;
+            letter-spacing: -0.03em;
+            background: linear-gradient(135deg, #fff 10%, var(--accent-cyan) 60%, var(--accent-purple) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 16px;
+            position: relative;
+            display: inline-block;
         }
 
         .subtitle {
-            color: var(--muted);
-            font-size: 13px
+            font-size: 1.15rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+            font-weight: 300;
         }
 
-        .controls {
+        /* Grid Layout */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 28px;
+            margin-bottom: 60px;
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+        }
+
+        /* Glassmorphic Card */
+        .card {
+            background: var(--card-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--card-border);
+            border-radius: 20px;
+            padding: 32px;
+            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 280px;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        /* Glowing overlay on hover */
+        .card::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(800px circle at var(--x, 0px) var(--y, 0px), rgba(255, 255, 255, 0.04), transparent 40%);
+            z-index: 1;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+
+        .card:hover::before {
+            opacity: 1;
+        }
+
+        .card:hover {
+            transform: translateY(-8px);
+            border-color: var(--card-hover-border);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3),
+                0 0 30px rgba(99, 102, 241, 0.1);
+        }
+
+        /* Card Content */
+        .card-top {
+            position: relative;
+            z-index: 2;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .card:nth-child(1) .badge {
+            color: var(--accent-cyan);
+            background: rgba(0, 242, 254, 0.08);
+            border-color: rgba(0, 242, 254, 0.15);
+        }
+
+        .card:nth-child(2) .badge {
+            color: var(--accent-purple);
+            background: rgba(157, 78, 221, 0.08);
+            border-color: rgba(157, 78, 221, 0.15);
+        }
+
+        .card.placeholder .badge {
+            color: var(--text-muted);
+        }
+
+        .card h2 {
+            font-family: var(--font-display);
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            transition: color 0.3s ease;
+        }
+
+        .card:hover h2 {
+            color: #fff;
+        }
+
+        .card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.6;
+            font-weight: 300;
+        }
+
+        .card-bottom {
             display: flex;
             align-items: center;
-            gap: 10px
+            justify-content: space-between;
+            margin-top: auto;
+            position: relative;
+            z-index: 2;
         }
 
-        .lang-btn {
-            background: transparent;
-            border: 1px solid transparent;
-            padding: 6px 10px;
-            border-radius: 6px;
-            cursor: pointer
+        .go-link {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            transition: gap 0.3s ease;
         }
 
-        .lang-btn.active {
-            background: #eef6ff;
-            border-color: var(--accent);
-            color: var(--accent)
+        .card:hover .go-link {
+            gap: 12px;
+            color: var(--accent-cyan);
         }
 
-        .generated {
-            color: var(--muted);
-            font-size: 13px
+        .card:nth-child(2):hover .go-link {
+            color: var(--accent-purple);
         }
 
-        main {
-            margin-top: 18px
+        .go-link svg {
+            width: 18px;
+            height: 18px;
+            fill: currentColor;
+            transition: transform 0.3s ease;
         }
 
-        .card {
-            background: var(--card);
-            border-radius: 10px;
-            padding: 14px;
-            margin: 12px 0;
-            box-shadow: 0 6px 18px rgba(13, 38, 59, 0.04)
+        /* Placeholder Card Styling */
+        .card.placeholder {
+            border-style: dashed;
+            background: rgba(17, 24, 39, 0.2);
+            cursor: default;
         }
 
-        .card a {
-            color: var(--accent);
-            text-decoration: none;
-            font-weight: 600
+        .card.placeholder:hover {
+            transform: none;
+            border-color: var(--card-border);
+            box-shadow: none;
         }
 
-        .meta {
-            color: var(--muted);
-            font-size: 13px;
-            margin-top: 8px
+        .card.placeholder p {
+            font-style: italic;
         }
 
-        .tag {
-            display: inline-block;
-            padding: 2px 8px;
-            margin-bottom: 6px;
-            border-radius: 999px;
-            background: rgba(11, 99, 214, 0.08);
-            color: #0b63d6;
-            font-size: 11px;
-            letter-spacing: 0.02em;
+        .placeholder-icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px dashed rgba(255, 255, 255, 0.1);
+            color: var(--text-muted);
         }
 
+        /* Footer styling */
         footer {
-            margin-top: 28px;
-            color: var(--muted);
-            font-size: 13px
+            text-align: center;
+            padding: 30px 24px;
+            border-top: 1px solid rgba(255, 255, 255, 0.03);
+            font-size: 0.85rem;
+            color: #4b5563;
+            animation: fadeIn 1s ease-out 0.4s both;
         }
 
-        @media (max-width:640px) {
-            body {
-                padding: 14px
+        footer a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        footer a:hover {
+            color: #fff;
+        }
+
+        /* Keyframes */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
             }
 
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
             h1 {
-                font-size: 18px
+                font-size: 2.4rem;
+            }
+
+            .container {
+                padding: 40px 16px;
+            }
+
+            .grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .card {
+                height: 260px;
+                padding: 24px;
             }
         }
     </style>
 </head>
 
 <body>
+    <!-- Blurs for ambient light -->
+    <div class="blur-bg blob-1"></div>
+    <div class="blur-bg blob-2"></div>
+
     <div class="container">
         <header>
-            <div class="brand">
-                <h1 id="title">整點五大台灣半導體新聞</h1>
-                <div class="subtitle" id="subtitle">Top 5 Taiwan semiconductor news • 整點更新</div>
-            </div>
-
-            <div class="controls">
-                <div class="generated"><span id="generatedLabel">更新時間：</span><span id="generatedTime">更新中...</span>
-                </div>
-                <div class="generated"><span id="countLabel">總數：</span><span id="itemCount">0</span></div>
-                <div>
-                    <button id="btn-zh" class="lang-btn">中文</button>
-                    <button id="btn-en" class="lang-btn">EN</button>
-                </div>
-            </div>
+            <h1 id="main-title">Yuhsin's Web Hub</h1>
+            <p class="subtitle" id="main-subtitle">
+                歡迎光臨！此處託管了多個靜態網頁與應用程式。透過同一個 Repository 的子目錄結構，實現多站點無縫部署。
+            </p>
         </header>
 
-        <main id="list">
-            <p id="loading">載入中…</p>
-        </main>
+        <main class="grid">
+            <!-- Site 1: Semiconductor News -->
+            <a href="./semi-news/index.html" class="card" id="card-semi-news">
+                <div class="card-top">
+                    <span class="badge">自動化排程</span>
+                    <h2>半導體整點新聞</h2>
+                    <p>每小時整點自動從各大科技媒體 RSS 擷取，整理並呈現台灣半導體產業的五大最新要聞列表。</p>
+                </div>
+                <div class="card-bottom">
+                    <span class="go-link">
+                        立即瀏覽
+                        <svg viewBox="0 0 24 24">
+                            <path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21.14 12l-8.29-8.29-1.42 1.42 5.43 5.43H5v2z" />
+                        </svg>
+                    </span>
+                </div>
+            </a>
 
-        <footer id="footer">來源：顯示新聞標題與連結，如需修改來源請更新 scripts/feeds.json。</footer>
+            <!-- Site 2: Todo App -->
+            <a href="./todo-app/index.html" class="card" id="card-todo-app">
+                <div class="card-top">
+                    <span class="badge">開發範本</span>
+                    <h2>待辦事項 App</h2>
+                    <p>一款極具現代質感的待辦事項管理器，支援任務分類過濾、進度條視覺化與 LocalStorage 瀏覽器儲存。</p>
+                </div>
+                <div class="card-bottom">
+                    <span class="go-link">
+                        開啟應用
+                        <svg viewBox="0 0 24 24">
+                            <path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21.14 12l-8.29-8.29-1.42 1.42 5.43 5.43H5v2z" />
+                        </svg>
+                    </span>
+                </div>
+            </a>
+
+            <!-- Site 3: Placeholder for Future Site -->
+            <div class="card placeholder" id="card-placeholder">
+                <div class="card-top">
+                    <span class="badge">擴充預留</span>
+                    <h2>準備好新增網站了嗎？</h2>
+                    <p>在此 Repo 的 <code>docs/</code> 下建立一個新目錄（例如 <code>docs/my-new-site/</code>）並放入首頁，即可在此處增加對應卡片。</p>
+                </div>
+                <div class="card-bottom">
+                    <div class="placeholder-icon">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="12" y1="5" x2="12" y2="19"></line>
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </main>
     </div>
 
+    <footer>
+        <p>© 2026 Yuhsin. Hosted on GitHub Pages via <a href="https://github.com/yuhsin567/website" target="_blank"
+                rel="noopener">yuhsin567/website</a>.</p>
+    </footer>
+
     <script>
-        const i18n = {
-            zh: {
-                title: '整點五大台灣半導體新聞',
-                subtitle: 'Top 5 Taiwan semiconductor news • 整點更新',
-                loading: '載入中…',
-                noNews: '目前沒有新聞。',
-                loadFailed: '載入失敗，請稍後再試。',
-                generatedLabel: '更新時間：',
-                countLabel: '總數：',
-                footer: '來源：顯示新聞標題與連結，如需修改來源請更新 scripts/feeds.json。'
-            },
-            en: {
-                title: 'Top 5 Taiwan Semiconductor News',
-                subtitle: 'Top 5 Taiwan semiconductor news • Updated on the hour',
-                loading: 'Loading…',
-                noNews: 'No news available.',
-                loadFailed: 'Failed to load, please try later.',
-                generatedLabel: 'Updated:',
-                countLabel: 'Count:',
-                footer: 'Source: shows title and link. Edit scripts/feeds.json to change feeds.'
-            }
-        };
-
-        function setLang(lang) {
-            currentLang = lang;
-            const t = i18n[lang] || i18n.zh;
-            document.getElementById('title').textContent = t.title;
-            document.getElementById('subtitle').textContent = t.subtitle;
-            document.getElementById('loading').textContent = t.loading;
-            document.getElementById('generatedLabel').textContent = t.generatedLabel;
-            document.getElementById('countLabel').textContent = t.countLabel;
-            document.getElementById('footer').textContent = t.footer;
-            document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
-            document.getElementById('btn-en').classList.toggle('active', lang === 'en');
-            localStorage.setItem('site_lang', lang);
-        }
-
-        document.getElementById('btn-zh').addEventListener('click', () => { setLang('zh'); });
-        document.getElementById('btn-en').addEventListener('click', () => { setLang('en'); });
-
-        let currentLang = 'zh';
-        const prefer = localStorage.getItem('site_lang') || (navigator.language && navigator.language.startsWith('en') ? 'en' : 'zh');
-        setLang(prefer);
-
-        async function load() {
-            const t = i18n[currentLang] || i18n.zh;
-            try {
-                const res = await fetch('news.json', { cache: 'no-store' });
-                if (!res.ok) throw new Error('Fetch failed');
-                const data = await res.json();
-                const gen = document.getElementById('generatedTime');
-                gen.textContent = data.generated ? new Date(data.generated).toLocaleString() : '';
-                const count = document.getElementById('itemCount');
-                count.textContent = data.count || (data.items ? data.items.length : 0);
-                document.getElementById('countLabel').textContent = t.countLabel;
-                const list = document.getElementById('list');
-                list.innerHTML = '';
-                if (!data.items || data.items.length === 0) {
-                    list.innerHTML = `<p>${t.noNews}</p>`;
-                    return;
-                }
-                data.items.forEach(it => {
-                    const el = document.createElement('article'); el.className = 'card';
-                    const title = document.createElement('div');
-                    title.innerHTML = `<a href="${it.link}" target="_blank" rel="noopener">${it.title}</a>`;
-                    const meta = document.createElement('div'); meta.className = 'meta';
-                    if (it.category) {
-                        const tag = document.createElement('span');
-                        tag.className = 'tag';
-                        tag.textContent = it.category;
-                        el.appendChild(tag);
-                    }
-                    meta.textContent = `${it.source} • ${it.isoDate ? new Date(it.isoDate).toLocaleString() : ''}`;
-                    el.appendChild(title);
-                    el.appendChild(meta);
-                    list.appendChild(el);
-                });
-            } catch (e) {
-                document.getElementById('list').innerHTML = `<p>${t.loadFailed}</p>`;
-                console.error(e);
-            }
-        }
-
-        load();
+        // Interactive mouse-glow effect on cards
+        const cards = document.querySelectorAll('.card');
+        cards.forEach(card => {
+            card.addEventListener('mousemove', e => {
+                const rect = card.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const y = e.clientY - rect.top;
+                card.style.setProperty('--x', `${x}px`);
+                card.style.setProperty('--y', `${y}px`);
+            });
+        });
     </script>
 </body>
 

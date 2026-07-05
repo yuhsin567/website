@@ -54,11 +54,12 @@ async function main() {
     const top = unique.slice(0, 5);
     const out = { generated: new Date().toISOString(), count: top.length, items: top };
 
-    const docsDir = path.join(__dirname, '..', 'docs');
+    const docsDir = path.join(__dirname, '..', 'docs', 'semi-news');
     if (!fs.existsSync(docsDir)) fs.mkdirSync(docsDir, { recursive: true });
     const outPath = path.join(docsDir, 'news.json');
     fs.writeFileSync(outPath, JSON.stringify(out, null, 2), 'utf8');
     console.log('Wrote', outPath);
+    process.exit(0);
 }
 
 main().catch(err => {

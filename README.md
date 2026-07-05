@@ -25,6 +25,37 @@ npm run fetch-news
 
 - 部署：CI workflow 會生成 `docs/news.json`，並將 `docs/` 的內容部署到 `gh-pages` 分支。請在 GitHub Pages 設定中選擇 `gh-pages` 分支的根目錄作為來源。
 
+### 本機部署指引
+
+如果你想從本地直接把 `docs/` 推到 `gh-pages`：
+
+1. 產生 `news.json` 並檢查變更：
+
+```bash
+npm ci
+npm run fetch-news
+git add docs
+git commit -m "chore(docs): update generated docs" || true
+```
+
+2. 使用 git subtree 推送到 `gh-pages`（若尚無 `gh-pages` 分支會建立）：
+
+```bash
+git subtree push --prefix docs origin gh-pages
+```
+
+或使用專案內建的部署腳本（Unix/macOS）：
+
+```bash
+npm run deploy-local
+```
+
+Windows 使用 PowerShell：
+
+```powershell
+.\scripts\deploy.ps1
+```
+
 注意事項
 
 - 請確認 RSS/來源授權，僅顯示標題、摘要與來源連結，避免未授權全文轉載。
