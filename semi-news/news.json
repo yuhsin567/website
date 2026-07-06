@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T16:54:58.708Z",
+  "generated": "2026-07-06T17:41:28.654Z",
   "count": 5,
   "items": [
     {
@@ -10,31 +10,31 @@
       "category": "科技"
     },
     {
-      "title": "聚焦合規上雲、數據治理與顧客經營，助金控業實現數據驅動成長",
-      "link": "https://finance.technews.tw/2026/07/06/focusing-on-compliance-with-cloud-adoption-data-governance-and-customer-management/",
-      "isoDate": "2026-07-06T11:50:07.000Z",
-      "source": "科技新報",
+      "title": "駭客團體Armored Likho鎖定政府機關、能源產業，散布竊資軟體BusySnake Stealer",
+      "link": "https://www.ithome.com.tw/news/177101",
+      "isoDate": "2026-07-06T12:07:51.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "飛彈裝上汽車晶片、火箭用上製藥設備：新一代軍工業為何跨界「借技術」？",
-      "link": "https://techorange.com/2026/07/06/drone-warfare-is-forcing-arms-producers-to-rethink/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-06T10:44:48.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "中裕：愛滋新藥獲 TFDA 領證通知，台灣上市邁最後階段",
-      "link": "https://technews.tw/2026/07/06/trogarzo-tfda/",
-      "isoDate": "2026-07-06T10:30:54.000Z",
-      "source": "科技新報",
+      "title": "AWS為Amazon OpenSearch Service新增日誌分析引擎，改善儲存與查詢效率  ",
+      "link": "https://www.ithome.com.tw/news/177099",
+      "isoDate": "2026-07-06T12:07:16.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "宇瞻6月營收月減3.6%",
-      "link": "https://finance.technews.tw/2026/07/06/apacer-8271-202606-financial-report/",
-      "isoDate": "2026-07-06T10:30:19.000Z",
-      "source": "科技新報",
+      "title": "小型嵌入式裝置檔案系統元件FatFs存在7個弱點，恐影響大量隨身碟與SD記憶卡，以及配備這些儲存裝置的各種物聯網設備",
+      "link": "https://www.ithome.com.tw/news/177089",
+      "isoDate": "2026-07-06T12:07:11.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "JetBrains修補開發環境身分管理平臺重大漏洞，未更新恐導致帳號接管與權限提升 ",
+      "link": "https://www.ithome.com.tw/news/177100",
+      "isoDate": "2026-07-06T12:07:09.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
