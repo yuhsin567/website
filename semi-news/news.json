@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-06T21:27:07.496Z",
+  "generated": "2026-07-06T23:05:06.221Z",
   "count": 5,
   "items": [
+    {
+      "title": "TeraWulf 拿下 Anthropic 20 年算力長約，190 億美元合約收入落袋",
+      "link": "https://finance.technews.tw/2026/07/07/terawulf-announces-anthropic-lease-at-justified-data-campus/",
+      "isoDate": "2026-07-06T21:59:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】AI 供應鏈吃緊：韓國晶片戰加速、三星獲利暴增、NVIDIA 機櫃延後",
+      "link": "https://techorange.com/2026/07/07/ai-supply-chain-korea-chip-samsung-nvidia-rack-delay/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-06T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "逃過紅巨星吞噬的系外行星，韋伯望遠鏡靠「殘餘熱能」破解不死之謎",
       "link": "https://technews.tw/2026/07/06/webb-unravels-exoplanet-survival-mystery/",
@@ -20,20 +34,6 @@
       "title": "AWS為Amazon OpenSearch Service新增日誌分析引擎，改善儲存與查詢效率  ",
       "link": "https://www.ithome.com.tw/news/177099",
       "isoDate": "2026-07-06T12:07:16.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "小型嵌入式裝置檔案系統元件FatFs存在7個弱點，恐影響大量隨身碟與SD記憶卡，以及配備這些儲存裝置的各種物聯網設備",
-      "link": "https://www.ithome.com.tw/news/177089",
-      "isoDate": "2026-07-06T12:07:11.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "JetBrains修補開發環境身分管理平臺重大漏洞，未更新恐導致帳號接管與權限提升 ",
-      "link": "https://www.ithome.com.tw/news/177100",
-      "isoDate": "2026-07-06T12:07:09.000Z",
       "source": "iThome",
       "category": "科技"
     }
