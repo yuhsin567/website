@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RSVP | 秋日晚宴邀請</title>
+    <meta name="description" content="活動資訊與 Google Form 回覆入口，適合 GitHub Pages 上線。" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="blur-bg blob-1" aria-hidden="true"></div>
+    <div class="blur-bg blob-2" aria-hidden="true"></div>
+
+    <main class="container">
+      <header class="hero" data-event-time="2026-09-20T18:00:00+08:00">
+        <p class="eyebrow">RSVP • GitHub Pages</p>
+        <h1>秋日晚宴邀請</h1>
+        <p class="subtitle">
+          這個版本改為 Google Form + Google Sheet 的回覆流程，避免暴露 Apps Script endpoint，仍可保有美觀的活動頁與統計入口。
+        </p>
+
+        <div class="quick-nav" aria-label="快速導覽">
+          <button type="button" class="jump-btn" data-target="overview">活動亮點</button>
+          <button type="button" class="jump-btn" data-target="program">活動流程</button>
+          <button type="button" class="jump-btn" data-target="transport">交通方式</button>
+          <button type="button" class="jump-btn" data-target="faq">常見問題</button>
+          <button type="button" class="jump-btn emphasis" data-target="rsvp">立即回覆</button>
+        </div>
+
+        <section class="countdown" aria-label="活動倒數">
+          <h2>活動倒數</h2>
+          <div class="count-grid">
+            <article>
+              <strong id="countDays">--</strong>
+              <span>天</span>
+            </article>
+            <article>
+              <strong id="countHours">--</strong>
+              <span>時</span>
+            </article>
+            <article>
+              <strong id="countMins">--</strong>
+              <span>分</span>
+            </article>
+          </div>
+        </section>
+      </header>
+
+      <section class="panel" id="overview" aria-label="活動亮點">
+        <h2>活動亮點</h2>
+        <div class="feature-grid">
+          <article>
+            <h3>時間地點</h3>
+            <p>2026/09/20 (日) 17:30 報到，18:00 開始</p>
+            <p>台北市中山區中山北路二段 39 巷 3 號 2F</p>
+          </article>
+          <article>
+            <h3>主題內容</h3>
+            <p>主題分享、晚宴交流、互動遊戲與合照。</p>
+            <p>可攜伴參加，名額有限，請儘早回覆。</p>
+          </article>
+          <article>
+            <h3>Dress Code</h3>
+            <p>Smart casual，現場冷氣偏強，建議攜帶薄外套。</p>
+            <p>若有飲食禁忌，請於表單備註欄告知。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="panel" id="program" aria-label="活動流程">
+        <h2>活動流程</h2>
+        <ol class="timeline">
+          <li>
+            <span>17:30</span>
+            <div>
+              <h3>來賓報到</h3>
+              <p>簽到、領取名牌、自由交流暖場。</p>
+            </div>
+          </li>
+          <li>
+            <span>18:00</span>
+            <div>
+              <h3>開場與主題分享</h3>
+              <p>主持人開場、介紹流程與活動緣起。</p>
+            </div>
+          </li>
+          <li>
+            <span>18:20</span>
+            <div>
+              <h3>晚宴與互動</h3>
+              <p>分區交流、餐敘與小遊戲抽獎。</p>
+            </div>
+          </li>
+          <li>
+            <span>19:30</span>
+            <div>
+              <h3>合影與散場</h3>
+              <p>大合照、自由交流、領取紀念小物。</p>
+            </div>
+          </li>
+        </ol>
+      </section>
+
+      <section class="panel" id="transport" aria-label="交通資訊">
+        <h2>交通資訊</h2>
+        <div class="transport-switch" role="tablist" aria-label="交通方式切換">
+          <button type="button" class="transport-tab active" data-panel="transportTransit" aria-selected="true">
+            大眾運輸
+          </button>
+          <button type="button" class="transport-tab" data-panel="transportDrive" aria-selected="false">
+            自行開車
+          </button>
+        </div>
+
+        <article id="transportTransit" class="transport-panel active" role="tabpanel">
+          <ul>
+            <li>捷運淡水信義線：雙連站 2 號出口，步行約 6 分鐘</li>
+            <li>公車：中山分局站，下車步行約 3 分鐘</li>
+            <li>YouBike：中山北路站點步行約 2 分鐘</li>
+          </ul>
+        </article>
+
+        <article id="transportDrive" class="transport-panel" role="tabpanel" hidden>
+          <ul>
+            <li>建議停車場：中山二停車場，步行約 4 分鐘</li>
+            <li>備用停車場：晶華酒店地下停車場，步行約 7 分鐘</li>
+            <li>尖峰時段車位較少，建議提前 20 分鐘抵達</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="panel" id="faq" aria-label="常見問題">
+        <h2>常見問題</h2>
+        <div class="faq-list">
+          <details>
+            <summary>回覆截止日是什麼時候？</summary>
+            <p>請於 2026/09/01 前完成回覆，方便主辦方安排席次。</p>
+          </details>
+          <details>
+            <summary>可以臨時修改出席人數嗎？</summary>
+            <p>可以，請重新提交一次，或直接聯絡主辦窗口更新資料。</p>
+          </details>
+          <details>
+            <summary>有素食或過敏需求怎麼填？</summary>
+            <p>請在下方表單備註欄註明，我們會在餐點與座位上協助安排。</p>
+          </details>
+        </div>
+      </section>
+
+      <section class="panel" id="rsvp" aria-label="回覆表單">
+        <div class="panel-heading">
+          <div>
+            <h2>自訂 RSVP 表單</h2>
+            <p class="panel-copy">這裡採用你自己的活動風格，提交後仍會由 Google Form 將資料寫入對應的 Google Sheet。</p>
+          </div>
+          <div class="panel-actions">
+            <a id="formLink" class="button primary" href="#" target="_blank" rel="noopener noreferrer">前往 Google Form</a>
+            <a id="sheetLink" class="button secondary" href="#" target="_blank" rel="noopener noreferrer">查看 Google Sheet</a>
+          </div>
+        </div>
+
+        <div class="status" id="status" aria-live="polite"></div>
+
+        <form id="rsvpForm" class="custom-form" novalidate>
+          <div class="form-grid">
+            <label class="field">
+              <span>姓名</span>
+              <input type="text" name="name" maxlength="100" required />
+            </label>
+
+            <label class="field">
+              <span>大人數量</span>
+              <input type="number" name="adults" min="0" max="20" required />
+            </label>
+
+            <label class="field">
+              <span>小孩數量</span>
+              <input type="number" name="kids" min="0" max="20" required />
+            </label>
+
+            <label class="field">
+              <span>素食者人數</span>
+              <input type="number" name="vegetarian" min="0" max="20" required />
+            </label>
+          </div>
+
+          <label class="field full">
+            <span>想說的話</span>
+            <textarea name="message" rows="4" maxlength="500"></textarea>
+          </label>
+
+          <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+          <div class="form-actions">
+            <button type="submit" id="submitBtn" class="button primary">送出回覆</button>
+          </div>
+        </form>
+
+        <p class="note">
+          送出後會由 Google Form 將資料寫入你連結好的 Google Sheet，頁面本身不需要嵌入原生表單。
+        </p>
+      </section>
+    </main>
+
+    <button type="button" id="floatingRsvp" class="floating-rsvp" aria-label="快速前往回覆表單">立即回覆</button>
+
+    <script src="./config.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
