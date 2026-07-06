@@ -94,25 +94,78 @@
     }
   };
 
-  const getPayload = (fd) => {
-    const params = new URLSearchParams();
-    params.set("fvv", "1");
-    params.set("fbzx", formBzx);
-    params.set("pageHistory", "0");
+  const hiddenForm = document.getElementById("googleFormSubmit");
+  const hiddenFieldName = document.getElementById("hiddenFieldName");
+  const hiddenFieldAdults = document.getElementById("hiddenFieldAdults");
+  const hiddenFieldKids = document.getElementById("hiddenFieldKids");
+  const hiddenFieldVegetarian = document.getElementById("hiddenFieldVegetarian");
+  const hiddenFieldNote = document.getElementById("hiddenFieldNote");
 
+  if (hiddenForm) {
+    hiddenForm.action = responseEndpoint;
+    hiddenForm.method = "POST";
+    hiddenForm.enctype = "application/x-www-form-urlencoded";
+    hiddenForm.target = "googleFormTarget";
+    if (hiddenForm.elements["fvv"]) {
+      hiddenForm.elements["fvv"].value = "1";
+    }
+    if (hiddenForm.elements["fbzx"]) {
+      hiddenForm.elements["fbzx"].value = formBzx;
+    }
+    if (hiddenForm.elements["partialResponse"]) {
+      hiddenForm.elements["partialResponse"].value = "";
+    }
+    if (hiddenForm.elements["pageHistory"]) {
+      hiddenForm.elements["pageHistory"].value = "0";
+    }
+    if (hiddenForm.elements["submissionTimestamp"]) {
+      hiddenForm.elements["submissionTimestamp"].value = "-1";
+    }
+  }
+
+  const getPayload = (fd) => {
     const name = (fd.get("name") || "").toString().trim();
     const adults = (fd.get("adults") || "0").toString();
     const kids = (fd.get("kids") || "0").toString();
     const vegetarian = (fd.get("vegetarian") || "0").toString();
     const message = (fd.get("message") || "").toString().trim();
 
-    if (fieldIds.name) params.set(fieldIds.name, name);
-    if (fieldIds.adults) params.set(fieldIds.adults, adults);
-    if (fieldIds.kids) params.set(fieldIds.kids, kids);
-    if (fieldIds.vegetarian) params.set(fieldIds.vegetarian, vegetarian);
-    if (fieldIds.note && message) params.set(fieldIds.note, message);
+    if (hiddenFieldName && fieldIds.name) {
+      hiddenFieldName.name = fieldIds.name;
+      hiddenFieldName.value = name;
+    }
+    if (hiddenFieldAdults && fieldIds.adults) {
+      hiddenFieldAdults.name = fieldIds.adults;
+      hiddenFieldAdults.value = adults;
+    }
+    if (hiddenFieldKids && fieldIds.kids) {
+      hiddenFieldKids.name = fieldIds.kids;
+      hiddenFieldKids.value = kids;
+    }
+    if (hiddenFieldVegetarian && fieldIds.vegetarian) {
+      hiddenFieldVegetarian.name = fieldIds.vegetarian;
+      hiddenFieldVegetarian.value = vegetarian;
+    }
+    if (hiddenFieldNote && fieldIds.note) {
+      hiddenFieldNote.name = fieldIds.note;
+      hiddenFieldNote.value = message;
+    }
 
-    return params;
+    if (hiddenForm) {
+      hiddenForm.action = responseEndpoint;
+      hiddenForm.method = "POST";
+      hiddenForm.enctype = "application/x-www-form-urlencoded";
+      hiddenForm.target = "googleFormTarget";
+      if (hiddenForm.elements["fvv"]) {
+        hiddenForm.elements["fvv"].value = "1";
+      }
+      if (hiddenForm.elements["fbzx"]) {
+        hiddenForm.elements["fbzx"].value = formBzx;
+      }
+      if (hiddenForm.elements["pageHistory"]) {
+        hiddenForm.elements["pageHistory"].value = "0";
+      }
+    }
   };
 
   const validate = (fd) => {
@@ -213,18 +266,14 @@
       renderStatus("送出中，請稍候...", "");
 
       try {
-        const payload = getPayload(fd);
-        await fetch(responseEndpoint, {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"
-          },
-          body: payload.toString(),
-          mode: "no-cors"
-        });
-
-        renderStatus("送出成功，謝謝你的回覆。", "ok");
-        form.reset();
+        getPayload(fd);
+        if (hiddenForm) {
+          hiddenForm.submit();
+          renderStatus("送出成功，謝謝你的回覆。", "ok");
+          form.reset();
+        } else {
+          throw new Error("hiddenForm not found");
+        }
       } catch (error) {
         console.error(error);
         renderStatus("送出時發生錯誤，請稍後再試。", "err");
