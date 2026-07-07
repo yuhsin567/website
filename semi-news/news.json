@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-07T06:45:05.857Z",
+  "generated": "2026-07-07T10:24:43.489Z",
   "count": 5,
   "items": [
+    {
+      "title": "北韓駭客Lazarus發動NPM供應鏈攻擊，偽裝Rollup建置工具以竊取機密資料與加密貨幣資產",
+      "link": "https://www.ithome.com.tw/news/177138",
+      "isoDate": "2026-07-07T12:07:09.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "北韓駭客發動PolinRider攻擊活動，於NPM、Packagist、Go、Chrome Web Store上架惡意套件",
       "link": "https://www.ithome.com.tw/news/177137",
@@ -27,13 +34,6 @@
       "title": "AWS Certificate Manager支援ACME，自動化公開TLS憑證管理",
       "link": "https://www.ithome.com.tw/news/177134",
       "isoDate": "2026-07-07T11:07:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "NIST更新系統規畫指引，強化安全、隱私與供應鏈風險治理",
-      "link": "https://www.ithome.com.tw/news/177133",
-      "isoDate": "2026-07-07T11:07:43.000Z",
       "source": "iThome",
       "category": "科技"
     }
