@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-07T21:22:33.635Z",
+  "generated": "2026-07-07T22:59:50.935Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】AI 全球重排：聯合國喊管制、中國轉本土晶片、Microsoft 裁 4,800 人控成本",
+      "link": "https://techorange.com/2026/07/08/ai-global-realignment-un-regulation-china-chips-microsoft-layoffs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-07T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "造星速度狂飆 10 倍，哈伯望遠鏡揭密微小星系 MXDFz4.4 如何釋放驚人能量照亮宇宙",
       "link": "https://technews.tw/2026/07/07/hubble-detects-ionizing-uv-radiation-from-mxdfz4-4/",
@@ -27,13 +34,6 @@
       "title": "OpenSSH 10.4正式發布，修補多項漏洞並導入混合式PQC簽章",
       "link": "https://www.ithome.com.tw/news/177136",
       "isoDate": "2026-07-07T11:07:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI重塑紅隊演練執行模式，DEVCORE指出未來轉變路線",
-      "link": "https://www.ithome.com.tw/news/177115",
-      "isoDate": "2026-07-07T11:07:57.000Z",
       "source": "iThome",
       "category": "科技"
     }
