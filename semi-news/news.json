@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-07T02:54:33.068Z",
+  "generated": "2026-07-07T06:45:05.857Z",
   "count": 5,
   "items": [
     {
-      "title": "微軟宣布裁撤4,800名員工，主要集中於企業業務與Xbox",
-      "link": "https://www.ithome.com.tw/news/177130",
-      "isoDate": "2026-07-07T10:07:06.000Z",
+      "title": "北韓駭客發動PolinRider攻擊活動，於NPM、Packagist、Go、Chrome Web Store上架惡意套件",
+      "link": "https://www.ithome.com.tw/news/177137",
+      "isoDate": "2026-07-07T12:07:08.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Akira勒索軟體攻擊者以搜尋引擎最佳化中毒手法，誘導IT管理員下載惡意安裝程式",
-      "link": "https://www.ithome.com.tw/news/177131",
-      "isoDate": "2026-07-07T10:07:01.000Z",
+      "title": "OpenSSH 10.4正式發布，修補多項漏洞並導入混合式PQC簽章",
+      "link": "https://www.ithome.com.tw/news/177136",
+      "isoDate": "2026-07-07T11:07:59.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "營運 21 年走入歷史！亞馬遜群眾外包平台 MTurk 停收新客戶，零工平台鼻祖淡出舞台",
-      "link": "https://technews.tw/2026/07/07/amazons-artificial-artificial-intelligence-is-being-eaten-by-ai/",
-      "isoDate": "2026-07-07T02:50:31.000Z",
-      "source": "科技新報",
+      "title": "AI重塑紅隊演練執行模式，DEVCORE指出未來轉變路線",
+      "link": "https://www.ithome.com.tw/news/177115",
+      "isoDate": "2026-07-07T11:07:57.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "市場評估 AI 浪潮下的軟體贏家／輸家  資安股獲青睞",
-      "link": "https://finance.technews.tw/2026/07/07/winners-and-losers-among-software-stocks/",
-      "isoDate": "2026-07-07T02:40:15.000Z",
-      "source": "科技新報",
+      "title": "AWS Certificate Manager支援ACME，自動化公開TLS憑證管理",
+      "link": "https://www.ithome.com.tw/news/177134",
+      "isoDate": "2026-07-07T11:07:55.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "目標市值也是衝破 1 兆美元，OpenAI 已祕密遞交 IPO 申請",
-      "link": "https://finance.technews.tw/2026/07/07/we-expect-it-to-leak-openai-is-frontrunning-the-narrative-around-its-1-trillion-ipo/",
-      "isoDate": "2026-07-07T02:30:56.000Z",
-      "source": "科技新報",
+      "title": "NIST更新系統規畫指引，強化安全、隱私與供應鏈風險治理",
+      "link": "https://www.ithome.com.tw/news/177133",
+      "isoDate": "2026-07-07T11:07:43.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
