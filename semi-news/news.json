@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-07T13:18:13.611Z",
+  "generated": "2026-07-07T16:28:55.535Z",
   "count": 5,
   "items": [
+    {
+      "title": "造星速度狂飆 10 倍，哈伯望遠鏡揭密微小星系 MXDFz4.4 如何釋放驚人能量照亮宇宙",
+      "link": "https://technews.tw/2026/07/07/hubble-detects-ionizing-uv-radiation-from-mxdfz4-4/",
+      "isoDate": "2026-07-07T13:58:11.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "北韓駭客Lazarus發動NPM供應鏈攻擊，偽裝Rollup建置工具以竊取機密資料與加密貨幣資產",
       "link": "https://www.ithome.com.tw/news/177138",
@@ -27,13 +34,6 @@
       "title": "AI重塑紅隊演練執行模式，DEVCORE指出未來轉變路線",
       "link": "https://www.ithome.com.tw/news/177115",
       "isoDate": "2026-07-07T11:07:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AWS Certificate Manager支援ACME，自動化公開TLS憑證管理",
-      "link": "https://www.ithome.com.tw/news/177134",
-      "isoDate": "2026-07-07T11:07:55.000Z",
       "source": "iThome",
       "category": "科技"
     }
