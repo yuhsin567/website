@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-06T23:05:06.221Z",
+  "generated": "2026-07-07T02:54:33.068Z",
   "count": 5,
   "items": [
     {
-      "title": "TeraWulf 拿下 Anthropic 20 年算力長約，190 億美元合約收入落袋",
-      "link": "https://finance.technews.tw/2026/07/07/terawulf-announces-anthropic-lease-at-justified-data-campus/",
-      "isoDate": "2026-07-06T21:59:39.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "【科技早餐】AI 供應鏈吃緊：韓國晶片戰加速、三星獲利暴增、NVIDIA 機櫃延後",
-      "link": "https://techorange.com/2026/07/07/ai-supply-chain-korea-chip-samsung-nvidia-rack-delay/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-06T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "逃過紅巨星吞噬的系外行星，韋伯望遠鏡靠「殘餘熱能」破解不死之謎",
-      "link": "https://technews.tw/2026/07/06/webb-unravels-exoplanet-survival-mystery/",
-      "isoDate": "2026-07-06T14:26:37.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "駭客團體Armored Likho鎖定政府機關、能源產業，散布竊資軟體BusySnake Stealer",
-      "link": "https://www.ithome.com.tw/news/177101",
-      "isoDate": "2026-07-06T12:07:51.000Z",
+      "title": "微軟宣布裁撤4,800名員工，主要集中於企業業務與Xbox",
+      "link": "https://www.ithome.com.tw/news/177130",
+      "isoDate": "2026-07-07T10:07:06.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AWS為Amazon OpenSearch Service新增日誌分析引擎，改善儲存與查詢效率  ",
-      "link": "https://www.ithome.com.tw/news/177099",
-      "isoDate": "2026-07-06T12:07:16.000Z",
+      "title": "Akira勒索軟體攻擊者以搜尋引擎最佳化中毒手法，誘導IT管理員下載惡意安裝程式",
+      "link": "https://www.ithome.com.tw/news/177131",
+      "isoDate": "2026-07-07T10:07:01.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "營運 21 年走入歷史！亞馬遜群眾外包平台 MTurk 停收新客戶，零工平台鼻祖淡出舞台",
+      "link": "https://technews.tw/2026/07/07/amazons-artificial-artificial-intelligence-is-being-eaten-by-ai/",
+      "isoDate": "2026-07-07T02:50:31.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "市場評估 AI 浪潮下的軟體贏家／輸家  資安股獲青睞",
+      "link": "https://finance.technews.tw/2026/07/07/winners-and-losers-among-software-stocks/",
+      "isoDate": "2026-07-07T02:40:15.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "目標市值也是衝破 1 兆美元，OpenAI 已祕密遞交 IPO 申請",
+      "link": "https://finance.technews.tw/2026/07/07/we-expect-it-to-leak-openai-is-frontrunning-the-narrative-around-its-1-trillion-ipo/",
+      "isoDate": "2026-07-07T02:30:56.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
