@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-08T04:13:11.884Z",
+  "generated": "2026-07-08T07:28:03.949Z",
   "count": 5,
   "items": [
+    {
+      "title": "駭客團體UAT-7810打造新的惡意軟體架設ORB網路",
+      "link": "https://www.ithome.com.tw/news/177172",
+      "isoDate": "2026-07-08T12:07:59.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "調查商業間諜軟體濫用，歐洲議會PEGA委員會成員反遭Pegasus入侵",
       "link": "https://www.ithome.com.tw/news/177169",
@@ -10,30 +17,23 @@
       "category": "科技"
     },
     {
+      "title": "騰達路由器韌體存在隱藏後門，可繞過驗證取得管理員權限",
+      "link": "https://www.ithome.com.tw/news/177173",
+      "isoDate": "2026-07-08T12:07:12.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "報告揭露美國政府機關支付100萬美元平息資料勒索",
+      "link": "https://www.ithome.com.tw/news/177171",
+      "isoDate": "2026-07-08T12:07:08.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
       "title": "ClickFix成2026年3月至5月主要惡意程式投遞手法，首度擴及macOS平臺",
       "link": "https://www.ithome.com.tw/news/177165",
       "isoDate": "2026-07-08T11:07:40.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "開源版本控制系統Gitea重大漏洞遭到利用",
-      "link": "https://www.ithome.com.tw/news/177163",
-      "isoDate": "2026-07-08T11:07:35.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google搜尋控制臺新增平臺屬性，首度可分析社交帳號的搜尋流量",
-      "link": "https://www.ithome.com.tw/news/177161",
-      "isoDate": "2026-07-08T11:07:33.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "俄羅斯網路戰鎖定烏克蘭媒體，對電視臺發動DDoS攻擊",
-      "link": "https://www.ithome.com.tw/news/177160",
-      "isoDate": "2026-07-08T11:07:07.000Z",
       "source": "iThome",
       "category": "科技"
     }
