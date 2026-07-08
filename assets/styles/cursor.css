@@ -39,6 +39,7 @@
 html.use-custom-cursor * {
     cursor: none !important;
 }
+
 html.use-custom-cursor input,
 html.use-custom-cursor textarea,
 html.use-custom-cursor select,
