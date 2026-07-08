@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-08T21:05:45.735Z",
+  "generated": "2026-07-08T23:05:27.105Z",
   "count": 5,
   "items": [
+    {
+      "title": "蘋果與博通達成 300 億美元規模協議，市場關注蘋果首款自研 AI 伺服器晶片",
+      "link": "https://finance.technews.tw/2026/07/09/apple-and-broadcom-reach-30-billion-agreement/",
+      "isoDate": "2026-07-08T23:00:51.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "記憶體三大原廠鬆口氣？中國長鑫存儲搶攻 HBM 市場傳聞可能不如預期",
+      "link": "https://finance.technews.tw/2026/07/09/rumors-of-chinas-changxin-memorys-aggressive-push-into-the-hbm-market-may-not-be-as-strong-as-expected/",
+      "isoDate": "2026-07-08T23:00:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "從 EV 到 ESS，本田攜手 LG 打造新能源跨界戰略",
+      "link": "https://technews.tw/2026/07/09/honda-lg-new-energy-crossover-strategy-ev-ess/",
+      "isoDate": "2026-07-08T23:00:13.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】前沿 AI 進入管制、供應鏈與資本戰，中美審模型、DeepSeek 補晶片",
+      "link": "https://techorange.com/2026/07/09/frontier-ai-regulation-supply-chain-capital/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-08T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "太空牛仔出任務，老舊衛星「雨燕天文台」將實施在軌延壽首例",
       "link": "https://technews.tw/2026/07/08/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
       "isoDate": "2026-07-08T14:32:13.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "群聯 6 月營收年增逾 300% 創新高，潘健成指 NAND 需求仍高度成長",
-      "link": "https://finance.technews.tw/2026/07/08/phisons-june-revenue-increased-by-over-300-year-on-year-setting-a-new-record/",
-      "isoDate": "2026-07-08T12:20:01.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "維護公司信用及股東權益，威盛董事會決議第五次買回庫藏股",
-      "link": "https://finance.technews.tw/2026/07/08/via-technologies-board-of-directors-resolved-to-repurchase-treasury-shares-for-the-fifth-time/",
-      "isoDate": "2026-07-08T12:10:59.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "駭客團體UAT-7810打造新的惡意軟體架設ORB網路",
-      "link": "https://www.ithome.com.tw/news/177172",
-      "isoDate": "2026-07-08T12:07:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "調查商業間諜軟體濫用，歐洲議會PEGA委員會成員反遭Pegasus入侵",
-      "link": "https://www.ithome.com.tw/news/177169",
-      "isoDate": "2026-07-08T12:07:32.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
