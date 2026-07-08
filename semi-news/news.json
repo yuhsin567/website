@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-07T22:59:50.935Z",
+  "generated": "2026-07-08T00:07:23.301Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】AI 全球重排：聯合國喊管制、中國轉本土晶片、Microsoft 裁 4,800 人控成本",
-      "link": "https://techorange.com/2026/07/08/ai-global-realignment-un-regulation-china-chips-microsoft-layoffs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-07T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "造星速度狂飆 10 倍，哈伯望遠鏡揭密微小星系 MXDFz4.4 如何釋放驚人能量照亮宇宙",
-      "link": "https://technews.tw/2026/07/07/hubble-detects-ionizing-uv-radiation-from-mxdfz4-4/",
-      "isoDate": "2026-07-07T13:58:11.000Z",
+      "title": "AI 律師真的上法庭了！機器人律師首度勝訴，法律人飯碗會被端走嗎？",
+      "link": "https://finance.technews.tw/2026/07/08/ai-law-firm-garfield-helps-freelancer-win-a-case-in-english-court/",
+      "isoDate": "2026-07-08T00:00:20.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "北韓駭客Lazarus發動NPM供應鏈攻擊，偽裝Rollup建置工具以竊取機密資料與加密貨幣資產",
-      "link": "https://www.ithome.com.tw/news/177138",
-      "isoDate": "2026-07-07T12:07:09.000Z",
-      "source": "iThome",
+      "title": "容積率大鬆綁！東京引導民間巨頭插旗平價住宅，翻轉澀谷精華區居住生態",
+      "link": "https://finance.technews.tw/2026/07/08/tokyo-new-policy-spurs-affordable-housing-renovations/",
+      "isoDate": "2026-07-07T23:50:59.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "北韓駭客發動PolinRider攻擊活動，於NPM、Packagist、Go、Chrome Web Store上架惡意套件",
-      "link": "https://www.ithome.com.tw/news/177137",
-      "isoDate": "2026-07-07T12:07:08.000Z",
-      "source": "iThome",
+      "title": "破解燃料荒難題，IBM 攜手科學家利用量子超級運算取得核融合新突破",
+      "link": "https://technews.tw/2026/07/08/quantum-computing-solves-fusion-ibm-scientists-simulate-key-fuel-molecules/",
+      "isoDate": "2026-07-07T23:40:47.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "OpenSSH 10.4正式發布，修補多項漏洞並導入混合式PQC簽章",
-      "link": "https://www.ithome.com.tw/news/177136",
-      "isoDate": "2026-07-07T11:07:59.000Z",
-      "source": "iThome",
+      "title": "AI 代理效率致命傷：GPU 逾半時間空轉，耗電量大破表",
+      "link": "https://technews.tw/2026/07/08/ai-agents-energy-crisis/",
+      "isoDate": "2026-07-07T23:20:55.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "英特爾研發 XBM 次世代記憶體架構挑戰 HBM4，規劃 2030 年進入商業化市場",
+      "link": "https://technews.tw/2026/07/08/intels-xbm-next-generation-memory-architecture-challenges-hbm4/",
+      "isoDate": "2026-07-07T23:15:40.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
