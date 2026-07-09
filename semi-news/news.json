@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-09T02:48:29.106Z",
+  "generated": "2026-07-09T06:42:42.857Z",
   "count": 5,
   "items": [
     {
-      "title": "Linux核心存在長達15年的漏洞GhostLock",
-      "link": "https://www.ithome.com.tw/news/177191",
-      "isoDate": "2026-07-09T10:07:51.000Z",
+      "title": "Ubiquiti修補UniFi OS與多款應用程式漏洞，含7項重大漏洞",
+      "link": "https://www.ithome.com.tw/news/177204",
+      "isoDate": "2026-07-09T12:07:52.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "SpaceXAI推出Grok 4.5，首款與Cursor共同訓練的AI模型",
-      "link": "https://www.ithome.com.tw/news/177190",
-      "isoDate": "2026-07-09T10:07:49.000Z",
+      "title": "中國駭客Mustang Panda鎖定印度政府，濫用Zoho WorkDrive從事網路間諜活動",
+      "link": "https://www.ithome.com.tw/news/177205",
+      "isoDate": "2026-07-09T12:07:22.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Anthropic公布Claude Code Web、手機版App從Max方案開始部署",
-      "link": "https://www.ithome.com.tw/news/177189",
-      "isoDate": "2026-07-09T10:07:24.000Z",
+      "title": "中國駭客假借提供印度稅務申報工具，散布木馬程式DcRAT",
+      "link": "https://www.ithome.com.tw/news/177201",
+      "isoDate": "2026-07-09T12:07:21.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "駭客冒充IT支援人員，透過微軟Teams散布惡意軟體EtherRAT",
-      "link": "https://www.ithome.com.tw/news/177193",
-      "isoDate": "2026-07-09T10:07:14.000Z",
+      "title": "ChatGPT Voice導入GPT-Live，AI語音互動邁向同步對話",
+      "link": "https://www.ithome.com.tw/news/177203",
+      "isoDate": "2026-07-09T12:07:18.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Accenture證實遭駭，攻擊者聲稱竊得35GB資料",
-      "link": "https://www.ithome.com.tw/news/177194",
-      "isoDate": "2026-07-09T10:07:08.000Z",
+      "title": "中國駭客利用郵件伺服器Roundcube已知漏洞，攻擊美國大學物理與工程學系",
+      "link": "https://www.ithome.com.tw/news/177198",
+      "isoDate": "2026-07-09T11:07:44.000Z",
       "source": "iThome",
       "category": "科技"
     }
