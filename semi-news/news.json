@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-09T20:46:01.733Z",
+  "generated": "2026-07-09T22:20:58.003Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】AI 資源戰再擴大：Apple 加碼美國晶片、中國擬放行 NVIDIA H200、Meta 押注加拿大電力",
+      "link": "https://techorange.com/2026/07/10/ai-resource-race-apple-nvidia-h200-meta-canada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-09T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "海韻電6月營收1.41 億元",
       "link": "https://finance.technews.tw/2026/07/09/sea-sonic-6203-202606-financial-report/",
@@ -27,13 +34,6 @@
       "title": "Ubiquiti修補UniFi OS與多款應用程式漏洞，含7項重大漏洞",
       "link": "https://www.ithome.com.tw/news/177204",
       "isoDate": "2026-07-09T12:07:52.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國駭客Mustang Panda鎖定印度政府，濫用Zoho WorkDrive從事網路間諜活動",
-      "link": "https://www.ithome.com.tw/news/177205",
-      "isoDate": "2026-07-09T12:07:22.000Z",
       "source": "iThome",
       "category": "科技"
     }
