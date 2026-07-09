@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-09T10:23:40.215Z",
+  "generated": "2026-07-09T13:48:44.164Z",
   "count": 5,
   "items": [
+    {
+      "title": "確保美國關鍵製造材料穩定，美光宣布投資美國環球晶圓 5 億美元",
+      "link": "https://finance.technews.tw/2026/07/09/micron-announces-500-million-investment-in-globalwafers/",
+      "isoDate": "2026-07-09T13:00:37.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "久元6月營收3.90 億元",
+      "link": "https://finance.technews.tw/2026/07/09/ytec-6261-202606-financial-report/",
+      "isoDate": "2026-07-09T12:10:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Ubiquiti修補UniFi OS與多款應用程式漏洞，含7項重大漏洞",
       "link": "https://www.ithome.com.tw/news/177204",
@@ -20,20 +34,6 @@
       "title": "中國駭客假借提供印度稅務申報工具，散布木馬程式DcRAT",
       "link": "https://www.ithome.com.tw/news/177201",
       "isoDate": "2026-07-09T12:07:21.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "ChatGPT Voice導入GPT-Live，AI語音互動邁向同步對話",
-      "link": "https://www.ithome.com.tw/news/177203",
-      "isoDate": "2026-07-09T12:07:18.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國駭客利用郵件伺服器Roundcube已知漏洞，攻擊美國大學物理與工程學系",
-      "link": "https://www.ithome.com.tw/news/177198",
-      "isoDate": "2026-07-09T11:07:44.000Z",
       "source": "iThome",
       "category": "科技"
     }
