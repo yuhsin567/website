@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-08T23:05:27.105Z",
+  "generated": "2026-07-09T02:48:29.106Z",
   "count": 5,
   "items": [
     {
-      "title": "蘋果與博通達成 300 億美元規模協議，市場關注蘋果首款自研 AI 伺服器晶片",
-      "link": "https://finance.technews.tw/2026/07/09/apple-and-broadcom-reach-30-billion-agreement/",
-      "isoDate": "2026-07-08T23:00:51.000Z",
-      "source": "科技新報",
+      "title": "Linux核心存在長達15年的漏洞GhostLock",
+      "link": "https://www.ithome.com.tw/news/177191",
+      "isoDate": "2026-07-09T10:07:51.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "記憶體三大原廠鬆口氣？中國長鑫存儲搶攻 HBM 市場傳聞可能不如預期",
-      "link": "https://finance.technews.tw/2026/07/09/rumors-of-chinas-changxin-memorys-aggressive-push-into-the-hbm-market-may-not-be-as-strong-as-expected/",
-      "isoDate": "2026-07-08T23:00:39.000Z",
-      "source": "科技新報",
+      "title": "SpaceXAI推出Grok 4.5，首款與Cursor共同訓練的AI模型",
+      "link": "https://www.ithome.com.tw/news/177190",
+      "isoDate": "2026-07-09T10:07:49.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "從 EV 到 ESS，本田攜手 LG 打造新能源跨界戰略",
-      "link": "https://technews.tw/2026/07/09/honda-lg-new-energy-crossover-strategy-ev-ess/",
-      "isoDate": "2026-07-08T23:00:13.000Z",
-      "source": "科技新報",
+      "title": "Anthropic公布Claude Code Web、手機版App從Max方案開始部署",
+      "link": "https://www.ithome.com.tw/news/177189",
+      "isoDate": "2026-07-09T10:07:24.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】前沿 AI 進入管制、供應鏈與資本戰，中美審模型、DeepSeek 補晶片",
-      "link": "https://techorange.com/2026/07/09/frontier-ai-regulation-supply-chain-capital/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-08T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
+      "title": "駭客冒充IT支援人員，透過微軟Teams散布惡意軟體EtherRAT",
+      "link": "https://www.ithome.com.tw/news/177193",
+      "isoDate": "2026-07-09T10:07:14.000Z",
+      "source": "iThome",
+      "category": "科技"
     },
     {
-      "title": "太空牛仔出任務，老舊衛星「雨燕天文台」將實施在軌延壽首例",
-      "link": "https://technews.tw/2026/07/08/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
-      "isoDate": "2026-07-08T14:32:13.000Z",
-      "source": "科技新報",
+      "title": "Accenture證實遭駭，攻擊者聲稱竊得35GB資料",
+      "link": "https://www.ithome.com.tw/news/177194",
+      "isoDate": "2026-07-09T10:07:08.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
