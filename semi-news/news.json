@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-10T04:50:32.028Z",
+  "generated": "2026-07-10T08:20:55.299Z",
   "count": 5,
   "items": [
+    {
+      "title": "研究揭LLM攻擊新手法HalluSquatting，可誘使AI程式開發助理安裝惡意程式",
+      "link": "https://www.ithome.com.tw/news/177230",
+      "isoDate": "2026-07-10T12:07:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "OpenAI升級ChatGPT桌面程式，ChatGPT Atlas瀏覽器將退場",
       "link": "https://www.ithome.com.tw/news/177228",
@@ -27,13 +34,6 @@
       "title": "GuardFall攻擊鎖定開源AI程式開發代理，可繞過Shell命令防護",
       "link": "https://www.ithome.com.tw/news/177226",
       "isoDate": "2026-07-10T11:07:58.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "歐盟推AI資安行動計畫，強化模型安全評估與網路韌性",
-      "link": "https://www.ithome.com.tw/news/177225",
-      "isoDate": "2026-07-10T10:07:48.000Z",
       "source": "iThome",
       "category": "科技"
     }
