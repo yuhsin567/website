@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-10T11:50:09.922Z",
+  "generated": "2026-07-10T14:21:55.245Z",
   "count": 5,
   "items": [
+    {
+      "title": "眾達-KY6月營收8,228.00 萬元",
+      "link": "https://finance.technews.tw/2026/07/10/pcl-4977-202606-financial-report/",
+      "isoDate": "2026-07-10T12:30:03.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "研究揭LLM攻擊新手法HalluSquatting，可誘使AI程式開發助理安裝惡意程式",
       "link": "https://www.ithome.com.tw/news/177230",
@@ -27,13 +34,6 @@
       "title": "金融詐欺攻擊利用ClickFix手法散布SCMBANKER工具包",
       "link": "https://www.ithome.com.tw/news/177227",
       "isoDate": "2026-07-10T12:07:36.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "GuardFall攻擊鎖定開源AI程式開發代理，可繞過Shell命令防護",
-      "link": "https://www.ithome.com.tw/news/177226",
-      "isoDate": "2026-07-10T11:07:58.000Z",
       "source": "iThome",
       "category": "科技"
     }
