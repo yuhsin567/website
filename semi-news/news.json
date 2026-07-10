@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-10T22:00:17.408Z",
+  "generated": "2026-07-10T23:08:25.169Z",
   "count": 5,
   "items": [
+    {
+      "title": "微軟打造AI視覺化中介語言Flint，以語意規格簡化圖表生成",
+      "link": "https://www.ithome.com.tw/news/177236",
+      "isoDate": "2026-07-11T07:07:37.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "【AI 時代的曝光成效衡量】14 倍長期價值遭財報低估，CMO 需打破「最後點擊」盲點找回獲利",
+      "link": "https://techorange.com/2026/07/11/ads-measurement-in-the-ai-era/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-10T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "史密森尼 VR 導覽帶你親眼見證，大霹靂誕生的瞬間與恆星之死",
       "link": "https://technews.tw/2026/07/10/smithsonian-starstruck-vr-explore-black-holes-supernovae/",
@@ -20,20 +34,6 @@
       "title": "研究揭LLM攻擊新手法HalluSquatting，可誘使AI程式開發助理安裝惡意程式",
       "link": "https://www.ithome.com.tw/news/177230",
       "isoDate": "2026-07-10T12:07:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI升級ChatGPT桌面程式，ChatGPT Atlas瀏覽器將退場",
-      "link": "https://www.ithome.com.tw/news/177228",
-      "isoDate": "2026-07-10T12:07:44.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI獲准全面推出GPT-5.6系列，登上GitHub Copilot、M365 Copilot",
-      "link": "https://www.ithome.com.tw/news/177229",
-      "isoDate": "2026-07-10T12:07:41.000Z",
       "source": "iThome",
       "category": "科技"
     }
