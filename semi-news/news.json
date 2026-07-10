@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-10T00:04:04.570Z",
+  "generated": "2026-07-10T04:50:32.028Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】AI 資源戰再擴大：Apple 加碼美國晶片、中國擬放行 NVIDIA H200、Meta 押注加拿大電力",
-      "link": "https://techorange.com/2026/07/10/ai-resource-race-apple-nvidia-h200-meta-canada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-09T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "Ubiquiti修補UniFi OS與多款應用程式漏洞，含7項重大漏洞",
-      "link": "https://www.ithome.com.tw/news/177204",
-      "isoDate": "2026-07-09T12:07:52.000Z",
+      "title": "OpenAI升級ChatGPT桌面程式，ChatGPT Atlas瀏覽器將退場",
+      "link": "https://www.ithome.com.tw/news/177228",
+      "isoDate": "2026-07-10T12:07:44.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "中國駭客Mustang Panda鎖定印度政府，濫用Zoho WorkDrive從事網路間諜活動",
-      "link": "https://www.ithome.com.tw/news/177205",
-      "isoDate": "2026-07-09T12:07:22.000Z",
+      "title": "OpenAI獲准全面推出GPT-5.6系列，登上GitHub Copilot、M365 Copilot",
+      "link": "https://www.ithome.com.tw/news/177229",
+      "isoDate": "2026-07-10T12:07:41.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "中國駭客假借提供印度稅務申報工具，散布木馬程式DcRAT",
-      "link": "https://www.ithome.com.tw/news/177201",
-      "isoDate": "2026-07-09T12:07:21.000Z",
+      "title": "金融詐欺攻擊利用ClickFix手法散布SCMBANKER工具包",
+      "link": "https://www.ithome.com.tw/news/177227",
+      "isoDate": "2026-07-10T12:07:36.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "ChatGPT Voice導入GPT-Live，AI語音互動邁向同步對話",
-      "link": "https://www.ithome.com.tw/news/177203",
-      "isoDate": "2026-07-09T12:07:18.000Z",
+      "title": "GuardFall攻擊鎖定開源AI程式開發代理，可繞過Shell命令防護",
+      "link": "https://www.ithome.com.tw/news/177226",
+      "isoDate": "2026-07-10T11:07:58.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "歐盟推AI資安行動計畫，強化模型安全評估與網路韌性",
+      "link": "https://www.ithome.com.tw/news/177225",
+      "isoDate": "2026-07-10T10:07:48.000Z",
       "source": "iThome",
       "category": "科技"
     }
