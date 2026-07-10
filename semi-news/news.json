@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-10T14:21:55.245Z",
+  "generated": "2026-07-10T16:54:44.534Z",
   "count": 5,
   "items": [
+    {
+      "title": "史密森尼 VR 導覽帶你親眼見證，大霹靂誕生的瞬間與恆星之死",
+      "link": "https://technews.tw/2026/07/10/smithsonian-starstruck-vr-explore-black-holes-supernovae/",
+      "isoDate": "2026-07-10T14:59:00.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "眾達-KY6月營收8,228.00 萬元",
       "link": "https://finance.technews.tw/2026/07/10/pcl-4977-202606-financial-report/",
@@ -27,13 +34,6 @@
       "title": "OpenAI獲准全面推出GPT-5.6系列，登上GitHub Copilot、M365 Copilot",
       "link": "https://www.ithome.com.tw/news/177229",
       "isoDate": "2026-07-10T12:07:41.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "金融詐欺攻擊利用ClickFix手法散布SCMBANKER工具包",
-      "link": "https://www.ithome.com.tw/news/177227",
-      "isoDate": "2026-07-10T12:07:36.000Z",
       "source": "iThome",
       "category": "科技"
     }
