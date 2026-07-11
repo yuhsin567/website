@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-11T15:54:28.338Z",
+  "generated": "2026-07-11T16:56:02.583Z",
   "count": 5,
   "items": [
+    {
+      "title": "NASA 衛星捕捉罕見地質奇景！俾斯麥海火山噴發，新島嶼有望成形",
+      "link": "https://technews.tw/2026/07/12/nasa-satellite-submarine-volcano-eruption-new-island-emerges/",
+      "isoDate": "2026-07-11T16:04:00.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "美國放寬對阿聯 AI 晶片與軍備出口，民主黨痛批新制淪為川普腐敗交易",
       "link": "https://finance.technews.tw/2026/07/11/the-united-states-has-eased-restrictions-on-exports-of-ai-chips-and-military-equipment-to-the-united-arab-emirates/",
@@ -27,13 +34,6 @@
       "title": "英特爾大秀 EMIB-T 先進封裝技術，挑戰台積電 CoWoS 先進封裝技術",
       "link": "https://finance.technews.tw/2026/07/11/intel-showcases-its-advanced-emib-t-packaging-technology/",
       "isoDate": "2026-07-11T07:00:02.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "「Academic Humanizer」問世，抹除 AI 寫作痕跡引發學界爭議",
-      "link": "https://technews.tw/2026/07/11/ai-papers-tool-academic-humanizer/",
-      "isoDate": "2026-07-11T06:38:51.000Z",
       "source": "科技新報",
       "category": "科技"
     }
