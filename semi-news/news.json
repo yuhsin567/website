@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T22:45:30.238Z",
+  "generated": "2026-07-11T23:53:23.337Z",
   "count": 5,
   "items": [
     {
@@ -7,6 +7,20 @@
       "link": "https://www.ithome.com.tw/news/177240",
       "isoDate": "2026-07-12T01:07:48.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI 推語音模型 GPT‑Live，AI 聆聽、回應對話還會適時插話",
+      "link": "https://technews.tw/2026/07/12/openai-introduces-gpt%e2%80%91live/",
+      "isoDate": "2026-07-11T23:29:43.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "AI 是救星還是毀滅創意？Epic 執行長與開發商對「生成式遊戲」態度兩極",
+      "link": "https://technews.tw/2026/07/12/epic-ceo-ai-save-destiny-devs-worry-ai-kill-creative-soul/",
+      "isoDate": "2026-07-11T23:19:59.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
@@ -21,20 +35,6 @@
       "link": "https://finance.technews.tw/2026/07/11/the-united-states-has-eased-restrictions-on-exports-of-ai-chips-and-military-equipment-to-the-united-arab-emirates/",
       "isoDate": "2026-07-11T10:00:08.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "代工廠晶合集成登陸港交所掛牌，穩居中國第三大晶圓代工廠位階",
-      "link": "https://finance.technews.tw/2026/07/11/nexchip-a-contract-manufacturer-listed-on-the-hong-kong-stock-exchange/",
-      "isoDate": "2026-07-11T09:15:41.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "微軟打造AI視覺化中介語言Flint，以語意規格簡化圖表生成",
-      "link": "https://www.ithome.com.tw/news/177236",
-      "isoDate": "2026-07-11T07:07:37.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
