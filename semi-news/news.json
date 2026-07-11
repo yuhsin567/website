@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-11T16:56:02.583Z",
+  "generated": "2026-07-11T17:54:49.124Z",
   "count": 5,
   "items": [
+    {
+      "title": "Binarly研究人員揭露開源開機載入程式U-Boot存在6個資安漏洞，大量伺服器、網路設備、物聯網設備均可能受到影響",
+      "link": "https://www.ithome.com.tw/news/177240",
+      "isoDate": "2026-07-12T01:07:48.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "NASA 衛星捕捉罕見地質奇景！俾斯麥海火山噴發，新島嶼有望成形",
       "link": "https://technews.tw/2026/07/12/nasa-satellite-submarine-volcano-eruption-new-island-emerges/",
@@ -28,13 +35,6 @@
       "link": "https://www.ithome.com.tw/news/177236",
       "isoDate": "2026-07-11T07:07:37.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "英特爾大秀 EMIB-T 先進封裝技術，挑戰台積電 CoWoS 先進封裝技術",
-      "link": "https://finance.technews.tw/2026/07/11/intel-showcases-its-advanced-emib-t-packaging-technology/",
-      "isoDate": "2026-07-11T07:00:02.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
