@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-12T08:20:10.091Z",
+  "generated": "2026-07-12T10:25:53.101Z",
   "count": 5,
   "items": [
+    {
+      "title": "蘋果告 OpenAI 竊密，馬斯克加入戰局嗆奧特曼「詐騙全新境界」",
+      "link": "https://ccc.technews.tw/2026/07/12/elon-musk-sam-altman-openai-apple/",
+      "isoDate": "2026-07-12T09:29:59.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "一台 100 美元口袋型探測器，就能偵測穿越你身體的宇宙粒子",
       "link": "https://technews.tw/2026/07/12/cosmicwatch-particle-muon/",
@@ -27,13 +34,6 @@
       "title": "AI 眼鏡掀全球「智慧作弊潮」，常春藤名校、台大都淪陷",
       "link": "https://technews.tw/2026/07/12/ai-glasses-cheating-frequently-reported-globally/",
       "isoDate": "2026-07-12T06:01:27.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "IBM 推出全新 z17 與 LinuxONE 系統，協助企業應對資料中心空間及成本壓力",
-      "link": "https://technews.tw/2026/07/12/ibm-new-z17-linuxone-systems-address-data-center-space-cost-pressures/",
-      "isoDate": "2026-07-12T06:00:14.000Z",
       "source": "科技新報",
       "category": "科技"
     }
