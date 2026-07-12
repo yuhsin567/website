@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-11T23:53:23.337Z",
+  "generated": "2026-07-12T02:34:43.678Z",
   "count": 5,
   "items": [
+    {
+      "title": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光",
+      "link": "https://technews.tw/2026/07/12/sea-anemones-protein-fight-viruses/",
+      "isoDate": "2026-07-12T02:31:44.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "PChome 旗下拍錢包遭駭，子公司赴日上市添變數",
+      "link": "https://finance.technews.tw/2026/07/12/pi-app-hacked-pchome-faces-new-risks/",
+      "isoDate": "2026-07-12T02:04:01.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "CANMAKE 推 AI 社員介紹產品，網友質疑：假人如何真實傳達妝感？",
+      "link": "https://technews.tw/2026/07/12/canmake-ai-employees/",
+      "isoDate": "2026-07-12T01:34:48.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Binarly研究人員揭露開源開機載入程式U-Boot存在6個資安漏洞，大量伺服器、網路設備、物聯網設備均可能受到影響",
       "link": "https://www.ithome.com.tw/news/177240",
@@ -10,30 +31,9 @@
       "category": "科技"
     },
     {
-      "title": "OpenAI 推語音模型 GPT‑Live，AI 聆聽、回應對話還會適時插話",
-      "link": "https://technews.tw/2026/07/12/openai-introduces-gpt%e2%80%91live/",
-      "isoDate": "2026-07-11T23:29:43.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 是救星還是毀滅創意？Epic 執行長與開發商對「生成式遊戲」態度兩極",
-      "link": "https://technews.tw/2026/07/12/epic-ceo-ai-save-destiny-devs-worry-ai-kill-creative-soul/",
-      "isoDate": "2026-07-11T23:19:59.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "NASA 衛星捕捉罕見地質奇景！俾斯麥海火山噴發，新島嶼有望成形",
-      "link": "https://technews.tw/2026/07/12/nasa-satellite-submarine-volcano-eruption-new-island-emerges/",
-      "isoDate": "2026-07-11T16:04:00.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "美國放寬對阿聯 AI 晶片與軍備出口，民主黨痛批新制淪為川普腐敗交易",
-      "link": "https://finance.technews.tw/2026/07/11/the-united-states-has-eased-restrictions-on-exports-of-ai-chips-and-military-equipment-to-the-united-arab-emirates/",
-      "isoDate": "2026-07-11T10:00:08.000Z",
+      "title": "AI 裁員潮大翻車！客服崩潰、人才斷層，企業為何紛紛「請回」人類員工？",
+      "link": "https://technews.tw/2026/07/12/layoffs-ai-cost-effective-companies-regret/",
+      "isoDate": "2026-07-12T01:03:55.000Z",
       "source": "科技新報",
       "category": "科技"
     }
