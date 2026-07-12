@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-12T21:47:49.878Z",
+  "generated": "2026-07-12T22:45:00.895Z",
   "count": 5,
   "items": [
+    {
+      "title": "中油宣布汽柴油價格不調整，持續吸收成本穩定油價",
+      "link": "https://technews.tw/2026/07/13/car-gas-price-not-change/",
+      "isoDate": "2026-07-12T22:30:51.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】AI 基建從缺貨走向自研：SK 海力士示警 2027 最缺，Meta 晶片交台積電",
+      "link": "https://techorange.com/2026/07/13/ai-infrastructure-memory-shortage-meta-tsmc-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-12T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "NASA 以迄今最細緻半人馬座 A 影像慶祝韋伯望遠鏡四週年，中心黑洞與塵埃結構清晰可見",
       "link": "https://technews.tw/2026/07/12/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
@@ -20,20 +34,6 @@
       "title": "一台 100 美元口袋型探測器，就能偵測穿越你身體的宇宙粒子",
       "link": "https://technews.tw/2026/07/12/cosmicwatch-particle-muon/",
       "isoDate": "2026-07-12T07:20:23.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "嘉義科學園區二期基地正式動土，台積電先進封裝擴產進入新里程",
-      "link": "https://finance.technews.tw/2026/07/12/the-groundbreaking-ceremony-for-the-second-phase-of-the-chiayi-science-park-was-officially-held/",
-      "isoDate": "2026-07-12T07:00:57.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用",
-      "link": "https://technews.tw/2026/07/12/why-do-men-have-adams-apple/",
-      "isoDate": "2026-07-12T06:32:33.000Z",
       "source": "科技新報",
       "category": "科技"
     }
