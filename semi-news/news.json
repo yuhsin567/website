@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-13T21:54:43.584Z",
+  "generated": "2026-07-13T22:54:45.048Z",
   "count": 5,
   "items": [
+    {
+      "title": "英特爾投資 50 億歐元擴建愛爾蘭廠區，瞄準新世代 Xeon 處理器生產",
+      "link": "https://finance.technews.tw/2026/07/14/intel-invests-e5-billion-to-expand-its-factory-in-ireland/",
+      "isoDate": "2026-07-13T22:00:38.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "川普自稱守護者要接管荷莫茲海峽，研議收 20% 海峽過路費衝擊油價",
+      "link": "https://finance.technews.tw/2026/07/14/trump-wants-to-take-over-the-strait-of-hormuz/",
+      "isoDate": "2026-07-13T22:00:35.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
+      "link": "https://techorange.com/2026/07/14/ai-resource-race-intel-tsmc-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-13T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "比太陽還古老！人類首度解碼星際彗星 3I/ATLAS 化學指紋，揭開遠古宇宙身世",
       "link": "https://technews.tw/2026/07/13/3iatlas-may-be-older-than-the-sun/",
@@ -13,27 +34,6 @@
       "title": "語音網釣鎖定Microsoft 365使用者，攻擊者企圖註冊自行控制的通行金鑰",
       "link": "https://www.ithome.com.tw/news/177252",
       "isoDate": "2026-07-13T12:07:50.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Progress要求ShareFile用戶關閉Storage Zone Controller，因應突發資安威脅 ",
-      "link": "https://www.ithome.com.tw/news/177255",
-      "isoDate": "2026-07-13T12:07:28.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "駭客利用後門程式WP-ShellStorm入侵WordPress網站並兜售存取權限，來自臺灣的IP位址存取基礎設施次數居冠引起關注",
-      "link": "https://www.ithome.com.tw/news/177253",
-      "isoDate": "2026-07-13T12:07:22.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Debian 13.6發布安全更新，修補逾百項軟體元件，並因應UEFI Secure Boot憑證到期問題",
-      "link": "https://www.ithome.com.tw/news/177250",
-      "isoDate": "2026-07-13T11:07:53.000Z",
       "source": "iThome",
       "category": "科技"
     }
