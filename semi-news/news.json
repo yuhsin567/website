@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-13T10:24:05.479Z",
+  "generated": "2026-07-13T16:31:16.049Z",
   "count": 5,
   "items": [
+    {
+      "title": "比太陽還古老！人類首度解碼星際彗星 3I/ATLAS 化學指紋，揭開遠古宇宙身世",
+      "link": "https://technews.tw/2026/07/13/3iatlas-may-be-older-than-the-sun/",
+      "isoDate": "2026-07-13T14:34:26.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "語音網釣鎖定Microsoft 365使用者，攻擊者企圖註冊自行控制的通行金鑰",
       "link": "https://www.ithome.com.tw/news/177252",
@@ -27,13 +34,6 @@
       "title": "Debian 13.6發布安全更新，修補逾百項軟體元件，並因應UEFI Secure Boot憑證到期問題",
       "link": "https://www.ithome.com.tw/news/177250",
       "isoDate": "2026-07-13T11:07:53.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI降低程式撰寫門檻，FT警告開源生態面臨維護斷層",
-      "link": "https://www.ithome.com.tw/news/177247",
-      "isoDate": "2026-07-13T11:07:42.000Z",
       "source": "iThome",
       "category": "科技"
     }
