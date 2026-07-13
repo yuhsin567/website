@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-13T22:54:45.048Z",
+  "generated": "2026-07-13T23:53:12.093Z",
   "count": 5,
   "items": [
     {
-      "title": "英特爾投資 50 億歐元擴建愛爾蘭廠區，瞄準新世代 Xeon 處理器生產",
-      "link": "https://finance.technews.tw/2026/07/14/intel-invests-e5-billion-to-expand-its-factory-in-ireland/",
-      "isoDate": "2026-07-13T22:00:38.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "川普自稱守護者要接管荷莫茲海峽，研議收 20% 海峽過路費衝擊油價",
-      "link": "https://finance.technews.tw/2026/07/14/trump-wants-to-take-over-the-strait-of-hormuz/",
-      "isoDate": "2026-07-13T22:00:35.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
-      "link": "https://techorange.com/2026/07/14/ai-resource-race-intel-tsmc-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-13T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "比太陽還古老！人類首度解碼星際彗星 3I/ATLAS 化學指紋，揭開遠古宇宙身世",
-      "link": "https://technews.tw/2026/07/13/3iatlas-may-be-older-than-the-sun/",
-      "isoDate": "2026-07-13T14:34:26.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "語音網釣鎖定Microsoft 365使用者，攻擊者企圖註冊自行控制的通行金鑰",
-      "link": "https://www.ithome.com.tw/news/177252",
-      "isoDate": "2026-07-13T12:07:50.000Z",
+      "title": "新型攻擊GhostCommit將提示注入指令藏進圖片，誘使AI代理外洩機密",
+      "link": "https://www.ithome.com.tw/news/177271",
+      "isoDate": "2026-07-14T07:07:10.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "美國與中國分居最大出口市場與進口來源國下的台灣貿易結構",
+      "link": "https://technews.tw/2026/07/14/us-china-taiwans-largest-export-market-import-source-trade-structure/",
+      "isoDate": "2026-07-13T23:50:17.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "16 位諾貝爾獎得主聯署發聲：AI 衝擊超越工業革命，籲立即建立制度",
+      "link": "https://technews.tw/2026/07/14/a-statement-on-ai-s-transformation-of-the-economy/",
+      "isoDate": "2026-07-13T23:44:16.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "駭客圈上演黑吃黑，新型蠕蟲 CAI 清剿同行強占算力",
+      "link": "https://infosecu.technews.tw/2026/07/14/new-cai-worm-purges-rivals/",
+      "isoDate": "2026-07-13T23:30:43.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Atlas 人型機器人在世足賽大秀球技，足球員也失業？",
+      "link": "https://technews.tw/2026/07/14/how-boston-dynamics-got-its-atlas-humanoid-robot-fit-for-the-world-cup/",
+      "isoDate": "2026-07-13T23:30:09.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
