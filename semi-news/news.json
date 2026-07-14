@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-14T02:20:45.940Z",
+  "generated": "2026-07-14T05:28:12.390Z",
   "count": 5,
   "items": [
     {
-      "title": "新型攻擊GhostCommit將提示注入指令藏進圖片，誘使AI代理外洩機密",
-      "link": "https://www.ithome.com.tw/news/177271",
-      "isoDate": "2026-07-14T07:07:10.000Z",
+      "title": "網路流量分析工具Wireshark發布4.6.7版，修補12項漏洞",
+      "link": "https://www.ithome.com.tw/news/177292",
+      "isoDate": "2026-07-14T12:07:52.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "蘋果創高  分析師看好秋季新品發表會再添動能",
-      "link": "https://finance.technews.tw/2026/07/14/apple-record-high-analysts-bullish-fall-product-launch-momentum/",
-      "isoDate": "2026-07-14T02:20:08.000Z",
-      "source": "科技新報",
+      "title": "【臺灣資安大會直擊】從一場虛擬紅隊演練，解構紅隊與藍隊的攻防作為",
+      "link": "https://www.ithome.com.tw/news/177293",
+      "isoDate": "2026-07-14T12:07:43.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "台積電法說倒數！外資齊喊買、最高衝上 3,800 元，價格重點一次看",
-      "link": "https://technews.tw/2026/07/14/foreign-investors-see-tsmc-2026-q2-and-capex/",
-      "isoDate": "2026-07-14T02:14:40.000Z",
-      "source": "科技新報",
+      "title": "全球經濟學家與科技領袖聯署籲正視AI經濟衝擊",
+      "link": "https://www.ithome.com.tw/news/177291",
+      "isoDate": "2026-07-14T12:07:17.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "常人僅獲微利，巨頭卻狂賺百倍！Palantir 執行長戳破 AI 產業「人人受益」的美好糖衣",
-      "link": "https://technews.tw/2026/07/14/alex-karp-says-the-biggest-problem-with-ai-is-that-not-everyone-will-get-that-rich-from-it/",
-      "isoDate": "2026-07-14T02:10:40.000Z",
-      "source": "科技新報",
+      "title": "IBM與紅帽正式推出Lightwell，首波提供逾6,500項完成安全修補與驗證的相依套件",
+      "link": "https://www.ithome.com.tw/news/177285",
+      "isoDate": "2026-07-14T11:07:59.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Tesla AI5 完成 Tape-out，三星 2 奈米即將量產",
-      "link": "https://technews.tw/2026/07/14/tesla-ai5-tape-out-samsung-2/",
-      "isoDate": "2026-07-14T02:08:38.000Z",
-      "source": "科技新報",
+      "title": "中國、印度背景駭客分別鎖定巴基斯坦同一警察機關，陳情系統遭植入惡意程式",
+      "link": "https://www.ithome.com.tw/news/177290",
+      "isoDate": "2026-07-14T11:07:58.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
