@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-14T12:10:08.202Z",
+  "generated": "2026-07-14T14:48:32.544Z",
   "count": 5,
   "items": [
+    {
+      "title": "隼鳥二號成功飛掠「鳥船」小行星，一窺花生狀奇特外貌",
+      "link": "https://technews.tw/2026/07/14/hayabusa2-successfully-flies-by-and-captures-images-of-torifune/",
+      "isoDate": "2026-07-14T14:33:03.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI 為一般使用者發布 GPT-5.6 提示詞指南：別想太多，先講結果",
+      "link": "https://technews.tw/2026/07/14/openai-launches-prompting-guidance-for-gpt-5-6/",
+      "isoDate": "2026-07-14T13:11:21.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "網路流量分析工具Wireshark發布4.6.7版，修補12項漏洞",
       "link": "https://www.ithome.com.tw/news/177292",
@@ -20,20 +34,6 @@
       "title": "全球經濟學家與科技領袖聯署籲正視AI經濟衝擊",
       "link": "https://www.ithome.com.tw/news/177291",
       "isoDate": "2026-07-14T12:07:17.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "IBM與紅帽正式推出Lightwell，首波提供逾6,500個完成安全修補與驗證的相依套件",
-      "link": "https://www.ithome.com.tw/news/177285",
-      "isoDate": "2026-07-14T11:07:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國、印度背景駭客分別鎖定巴基斯坦同一警察機關，陳情系統遭植入惡意程式",
-      "link": "https://www.ithome.com.tw/news/177290",
-      "isoDate": "2026-07-14T11:07:58.000Z",
       "source": "iThome",
       "category": "科技"
     }
