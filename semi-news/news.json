@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-14T22:56:29.107Z",
+  "generated": "2026-07-14T23:54:07.102Z",
   "count": 5,
   "items": [
     {
-      "title": "英特爾外包台積電策略大轉彎，Nova Lake 運算晶片大部分回 intel 18A 製造",
-      "link": "https://finance.technews.tw/2026/07/15/intels-strategy-of-outsourcing-to-tsmc-takes-a-major-turn/",
-      "isoDate": "2026-07-14T22:45:23.000Z",
+      "title": "你的數位垃圾，可能正在替駭客開門：企業最容易忽略的資安危機",
+      "link": "https://finance.technews.tw/2026/07/15/digital-waste-opening-doors-for-hackers-cybersecurity-risk-businesses-overlook/",
+      "isoDate": "2026-07-14T23:50:34.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "聯電宣布矽光子晶圓交貨，外資花旗按讚看好第二季營收攀升",
-      "link": "https://finance.technews.tw/2026/07/15/citigroup-is-bullish-on-umcs-announcement-of-silicon-photonics-wafer-deliveries/",
-      "isoDate": "2026-07-14T22:30:50.000Z",
+      "title": "科技巨頭大舉押注 AI，科技業掀退休潮：不願被新技術綁架",
+      "link": "https://technews.tw/2026/07/15/tech-giants-bet-big-ai-sparking-tech-industry-retirement-wave/",
+      "isoDate": "2026-07-14T23:40:30.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】AI 算力擴張擠壓供應鏈，Meta 加碼 5GW、手機出貨創 13 年同期新低",
-      "link": "https://techorange.com/2026/07/15/meta-hyperion-5gw-ai-memory-shortage-smartphone-shipments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-14T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
-      "link": "https://technews.tw/2026/07/15/demis-hassabis-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "isoDate": "2026-07-14T18:54:12.000Z",
+      "title": "AI 需求擠壓產能，傳台積電成熟製程明年起調漲價格",
+      "link": "https://finance.technews.tw/2026/07/15/tsmc-reportedly-raising-prices-mature-process/",
+      "isoDate": "2026-07-14T23:30:01.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "隼鳥二號成功飛掠「鳥船」小行星，一窺花生狀奇特外貌",
-      "link": "https://technews.tw/2026/07/14/hayabusa2-successfully-flies-by-and-captures-images-of-torifune/",
-      "isoDate": "2026-07-14T14:33:03.000Z",
+      "title": "Google 前「點擊詐欺沙皇」重返資安戰場，Reken 推出裝置端 AI 防堵深偽與釣魚詐騙",
+      "link": "https://infosecu.technews.tw/2026/07/15/ai-protection-reken/",
+      "isoDate": "2026-07-14T23:20:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Google 前研究員：文字 LLM 已遇瓶頸，要教 AI 用「視覺」直接思考",
+      "link": "https://technews.tw/2026/07/15/elorian-ai-argues-future-ai-should-think-in-images/",
+      "isoDate": "2026-07-14T23:10:46.000Z",
       "source": "科技新報",
       "category": "科技"
     }
