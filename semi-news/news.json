@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-14T21:55:46.052Z",
+  "generated": "2026-07-14T22:56:29.107Z",
   "count": 5,
   "items": [
+    {
+      "title": "英特爾外包台積電策略大轉彎，Nova Lake 運算晶片大部分回 intel 18A 製造",
+      "link": "https://finance.technews.tw/2026/07/15/intels-strategy-of-outsourcing-to-tsmc-takes-a-major-turn/",
+      "isoDate": "2026-07-14T22:45:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "聯電宣布矽光子晶圓交貨，外資花旗按讚看好第二季營收攀升",
+      "link": "https://finance.technews.tw/2026/07/15/citigroup-is-bullish-on-umcs-announcement-of-silicon-photonics-wafer-deliveries/",
+      "isoDate": "2026-07-14T22:30:50.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】AI 算力擴張擠壓供應鏈，Meta 加碼 5GW、手機出貨創 13 年同期新低",
+      "link": "https://techorange.com/2026/07/15/meta-hyperion-5gw-ai-memory-shortage-smartphone-shipments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-14T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
       "link": "https://technews.tw/2026/07/15/demis-hassabis-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
@@ -14,27 +35,6 @@
       "link": "https://technews.tw/2026/07/14/hayabusa2-successfully-flies-by-and-captures-images-of-torifune/",
       "isoDate": "2026-07-14T14:33:03.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI 為一般使用者發布 GPT-5.6 提示詞指南：別想太多，先講結果",
-      "link": "https://technews.tw/2026/07/14/openai-launches-prompting-guidance-for-gpt-5-6/",
-      "isoDate": "2026-07-14T13:11:21.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "網路流量分析工具Wireshark發布4.6.7版，修補12項漏洞",
-      "link": "https://www.ithome.com.tw/news/177292",
-      "isoDate": "2026-07-14T12:07:52.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "【臺灣資安大會直擊】從一場虛擬紅隊演練，解構紅隊與藍隊的攻防作為",
-      "link": "https://www.ithome.com.tw/news/177293",
-      "isoDate": "2026-07-14T12:07:43.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
