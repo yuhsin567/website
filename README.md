@@ -1,71 +1,84 @@
 ![Routine deploy news](https://github.com/yuhsin567/website/actions/workflows/routine_fetch.yml/badge.svg)
+![Deploy docs to gh-pages](https://github.com/yuhsin567/website/actions/workflows/deploy-gh-pages.yml/badge.svg)
 
-# GitHub Pages - 整點台灣半導體五大新聞
+# Yuhsin's Web Hub | 靜態網站整合入口
 
-這個專案會使用 GitHub Pages 作為靜態網站承載，並透過 GitHub Actions 每小時整點排程從 RSS 擷取新聞，產生 `docs/news.json`，由 `docs/index.html` 顯示「整點五大」列表。
+本專案是一個基於 GitHub Pages 託管的靜態網頁應用程式入口網站。透過一個 Repository 搭配子目錄結構，實現了多個獨立應用的無縫發佈與整合。
 
-## 運維狀態
+## 託管站點列表
 
-- 網站來源：`gh-pages` branch（根目錄）
-- 自動更新時間：整點（UTC）
-- 工作流程：`.github/workflows/routine_fetch.yml`
-- 手動觸發：GitHub repo → `Actions` → `Routine deploy news` → `Run workflow`
-- 監控：如果 workflow 失敗，請先檢查 `Actions` 日誌，再確認是否為 RSS 來源問題或 GitHub Pages 部署權限問題。
+1. **半導體整點新聞** ([`docs/semi-news/`](file:///d:/projects/website/docs/semi-news/))
+   - **特色**：每小時整點自動從各大科技媒體 RSS 擷取，整理並呈現台灣半導體產業的五大最新要聞。
+   - **機制**：透過 GitHub Actions 執行自動化擷取腳本，生成最新新聞資料。
 
-## 快速開始
+2. **待辦事項 App** ([`docs/todo-app/`](file:///d:/projects/website/docs/todo-app/))
+   - **特色**：現代質感的待辦事項管理器，支援任務分類過濾、進度條視覺化與 LocalStorage 瀏覽器本地儲存。
 
-- 本地安裝相依套件並測試擷取腳本：
+3. **RSVP 活動回覆頁** ([`docs/rsvp/`](file:///d:/projects/website/docs/rsvp/))
+   - **特色**：採用 Google Form + Google Sheet 作為後端資料庫的邀請函回覆網頁，方便在 GitHub Pages 上直接提供安全且美觀的回覆入口。
 
-```bash
-npm install
-npm run fetch-news
-```
+4. **物理互動教室** ([`docs/animation_web/`](file:///d:/projects/website/docs/animation_web/))
+   - **特色**：基於 **React + Vite + TypeScript** 開發的互動教室，將經典力學、牛頓三大運動定律、摩擦力與拋體運動轉化為生動直觀的互動動畫。
+   - **開發與建置**：本子應用為一個獨立的 Vite 專案，在 GitHub Actions 部署流程中會被自動編譯，並將編譯結果輸出至 `docs/animation_web/dist/` 以供首頁載入。
 
-- 變更 RSS 清單：編輯 `scripts/feeds.json`，加入想要的新聞 RSS。
+---
 
-- 部署：CI workflow 會生成 `docs/news.json`，並將 `docs/` 的內容部署到 `gh-pages` 分支。請在 GitHub Pages 設定中選擇 `gh-pages` 分支的根目錄作為來源。
+## 本地開發與部署指引
 
-### 本機部署指引
+### 1. 根目錄 (Portal) 與新聞擷取腳本
 
-如果你想從本地直接把 `docs/` 推到 `gh-pages`：
+- **安裝依賴**：
+  ```bash
+  npm install
+  ```
+- **執行新聞擷取測試**：
+  ```bash
+  npm run fetch-news
+  ```
+- **編輯 RSS 來源**：編輯 `scripts/feeds.json`，加入想要的 RSS 清單。
 
-1. 產生 `news.json` 並檢查變更：
+### 2. 物理互動教室子專案 (Vite + React)
 
-```bash
-npm ci
-npm run fetch-news
-git add docs
-git commit -m "chore(docs): update generated docs" || true
-```
+- **進入目錄**：
+  ```bash
+  cd docs/animation_web
+  ```
+- **安裝依賴**：
+  ```bash
+  npm install
+  ```
+- **啟動本地開發伺服器**：
+  ```bash
+  npm run dev
+  ```
+- **本地編譯測試**：
+  ```bash
+  npm run build
+  ```
 
-2. 使用 git subtree 推送到 `gh-pages`（若尚無 `gh-pages` 分支會建立）：
+---
 
-```bash
-git subtree push --prefix docs origin gh-pages
-```
+## 運維與自動部署
 
-或使用專案內建的部署腳本（Unix/macOS）：
+- **自動部署機制**：當推送到 `main`（或 `master`）分支時，GitHub Actions [Deploy docs to gh-pages](file:///d:/projects/website/.github/workflows/deploy-gh-pages.yml) 會自動啟動：
+  1. 安裝根目錄與子專案的相依套件。
+  2. 執行新聞擷取，更新 `docs/semi-news/news.json`。
+  3. 編譯 `docs/animation_web` React 子應用，生成 `docs/animation_web/dist/`。
+  4. 使用 `peaceiris/actions-gh-pages` 將整個 `docs/` 資料夾發佈至 `gh-pages` 分支。
+- **新聞整點更新**：由 [Routine deploy news](file:///d:/projects/website/.github/workflows/routine_fetch.yml) 負責每小時自動擷取。
 
-```bash
-npm run deploy-local
-```
+---
 
-Windows 使用 PowerShell：
+## 專案目錄結構說明
 
-```powershell
-.\scripts\deploy.ps1
-```
-
-注意事項
-
-- 請確認 RSS/來源授權，僅顯示標題、摘要與來源連結，避免未授權全文轉載。
-- 若需要更多頻繁更新或全文索引，建議改用付費 News API 或後端服務。
-
-檔案說明
-
-- `docs/index.html` - 前端顯示頁面
-- `scripts/fetch_news.js` - 擷取 RSS 並生成 `docs/news.json`
-- `scripts/feeds.json` - RSS URL 清單（可編輯）
-- `.github/workflows/routine_fetch.yml` - GitHub Actions workflow，部署到 `gh-pages` 分支
-
-如需我代為調整樣式或新增 RSS 範例清單，請告訴我要加入哪些新聞來源。
+- `docs/` - 部署至 GitHub Pages 的所有靜態網頁內容
+  - `index.html` - 入口首頁
+  - `semi-news/` - 半導體整點新聞頁面
+  - `todo-app/` - 待辦事項應用程式
+  - `rsvp/` - RSVP 邀請函頁面
+  - `animation_web/` - 物理互動教室源碼與設定
+    - `src/` - React 應用程式原始碼
+    - `dist/` - React 應用程式編譯輸出目錄 (由 CI 自動生成)
+- `scripts/` - 自動化指令碼目錄
+  - `fetch_news.js` - 新聞擷取主邏輯
+  - `feeds.json` - RSS 新聞來源清單

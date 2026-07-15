@@ -16,13 +16,19 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
-      - name: Install dependencies
+      - name: Install root dependencies
         run: npm ci
 
       - name: Generate news.json
         run: npm run fetch-news
+
+      - name: Build animation_web sub-app
+        run: |
+          cd docs/animation_web
+          npm ci
+          npm run build
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3

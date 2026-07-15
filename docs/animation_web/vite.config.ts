@@ -6,5 +6,5 @@ const isProduction = process.env.NODE_ENV === 'production'
 
 export default defineConfig({
   plugins: [react()],
-  base: isProduction ? '/animation_web/' : '/',
+  base: isProduction ? './' : '/',
 })
