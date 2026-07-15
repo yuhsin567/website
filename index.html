@@ -25,6 +25,7 @@
             --accent-cyan: #00f2fe;
             --accent-purple: #9d4edd;
             --accent-blue: #3b82f6;
+            --accent-orange: #ff8f1f;
             --font-display: 'Outfit', 'Inter', system-ui, -apple-system, sans-serif;
             --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
         }
@@ -205,6 +206,18 @@
             border-color: rgba(157, 78, 221, 0.15);
         }
 
+        .card:nth-child(3) .badge {
+            color: var(--accent-blue);
+            background: rgba(59, 130, 246, 0.08);
+            border-color: rgba(59, 130, 246, 0.15);
+        }
+
+        .card:nth-child(4) .badge {
+            color: var(--accent-orange);
+            background: rgba(255, 143, 31, 0.08);
+            border-color: rgba(255, 143, 31, 0.15);
+        }
+
         .card.placeholder .badge {
             color: var(--text-muted);
         }
@@ -254,6 +267,14 @@
 
         .card:nth-child(2):hover .go-link {
             color: var(--accent-purple);
+        }
+
+        .card:nth-child(3):hover .go-link {
+            color: var(--accent-blue);
+        }
+
+        .card:nth-child(4):hover .go-link {
+            color: var(--accent-orange);
         }
 
         .go-link svg {
@@ -429,6 +450,23 @@
                 <div class="card-bottom">
                     <span class="go-link">
                         開啟 RSVP
+                        <svg viewBox="0 0 24 24">
+                            <path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21.14 12l-8.29-8.29-1.42 1.42 5.43 5.43H5v2z" />
+                        </svg>
+                    </span>
+                </div>
+            </a>
+
+            <!-- Site 4: Physics Simulations -->
+            <a href="./animation_web/dist/index.html" class="card" id="card-animation-web">
+                <div class="card-top">
+                    <span class="badge">物理模擬</span>
+                    <h2>物理互動教室</h2>
+                    <p>將經典力學、牛頓三大運動定律、摩擦力與拋體運動轉化為生動直觀的網頁互動動畫，引導學生親自調整參數、深入理解物理觀念。</p>
+                </div>
+                <div class="card-bottom">
+                    <span class="go-link">
+                        開啟動畫
                         <svg viewBox="0 0 24 24">
                             <path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21.14 12l-8.29-8.29-1.42 1.42 5.43 5.43H5v2z" />
                         </svg>

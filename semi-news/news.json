@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-15T02:13:09.493Z",
+  "generated": "2026-07-15T03:42:52.892Z",
   "count": 5,
   "items": [
     {
-      "title": "Google 遭出版商與作家集體提告，指控 Gemini 盜用版權內容訓練 AI",
-      "link": "https://finance.technews.tw/2026/07/15/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "isoDate": "2026-07-15T02:10:40.000Z",
-      "source": "科技新報",
+      "title": "Google更新Chrome 150穩定版，修補15項漏洞，兩項屬於重大等級",
+      "link": "https://www.ithome.com.tw/news/177328",
+      "isoDate": "2026-07-15T11:07:50.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美軍加速趕工金穹，L3Harris 和 Sierra Space 獲得 17.5 億美元合約開發新預警衛星",
-      "link": "https://technews.tw/2026/07/15/us-sda-awarded-l3harris-and-sierra-space-with-1-75-billion-contract-to-build-amdt3/",
-      "isoDate": "2026-07-15T02:02:51.000Z",
-      "source": "科技新報",
+      "title": "Google Cloud開源k8s-aibom專案，協助盤點Kubernetes叢集內的AI工作負載",
+      "link": "https://www.ithome.com.tw/news/177327",
+      "isoDate": "2026-07-15T11:07:46.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "外資狠拋 518 億投信孤軍苦撐！生技傳產大噴發，台積法說前夕晶圓鏈屏息",
-      "link": "https://finance.technews.tw/2026/07/15/foreign-selloff-nt51-8-billion-local-funds-struggle-biotech-traditional-industries-surge-wafer-chain-awaits-tsmc-earnings-call/",
-      "isoDate": "2026-07-15T02:00:28.000Z",
-      "source": "科技新報",
+      "title": "AWS開源企業AI代理平臺Loom，整合身分委派、權限控管與人工核准",
+      "link": "https://www.ithome.com.tw/news/177318",
+      "isoDate": "2026-07-15T10:07:53.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "摺疊 iPhone 備貨維持 700 萬至 800 萬支，蘋果高階產品策略成形",
-      "link": "https://finance.technews.tw/2026/07/15/2h26-foldable-iphone/",
-      "isoDate": "2026-07-15T01:53:54.000Z",
-      "source": "科技新報",
+      "title": "微軟7月例行更新揭露3個零時差漏洞",
+      "link": "https://www.ithome.com.tw/news/177324",
+      "isoDate": "2026-07-15T10:07:50.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "彭博披露評估赴美發行 ADR，三星電子否認",
-      "link": "https://finance.technews.tw/2026/07/15/bloomberg-samsung-electronics-us-adr-issuance-denied/",
-      "isoDate": "2026-07-15T01:50:06.000Z",
-      "source": "科技新報",
+      "title": "微軟7月例行更新修補自家產品622個漏洞，連同Chromium總計超過1千個",
+      "link": "https://www.ithome.com.tw/news/177319",
+      "isoDate": "2026-07-15T10:07:46.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
