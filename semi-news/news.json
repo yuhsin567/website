@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-15T03:51:38.173Z",
+  "generated": "2026-07-15T05:29:11.574Z",
   "count": 5,
   "items": [
     {
-      "title": "Google更新Chrome 150穩定版，修補15項漏洞，兩項屬於重大等級",
-      "link": "https://www.ithome.com.tw/news/177328",
-      "isoDate": "2026-07-15T11:07:50.000Z",
+      "title": "NIST發布ICT供應商盡職調查指南，提出5類調查項目",
+      "link": "https://www.ithome.com.tw/news/177333",
+      "isoDate": "2026-07-15T12:07:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google Cloud開源k8s-aibom專案，協助盤點Kubernetes叢集內的AI工作負載",
-      "link": "https://www.ithome.com.tw/news/177327",
-      "isoDate": "2026-07-15T11:07:46.000Z",
+      "title": "Adobe修補12款產品漏洞，ColdFusion與Commerce更新優先度最高",
+      "link": "https://www.ithome.com.tw/news/177334",
+      "isoDate": "2026-07-15T12:07:32.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "SonicWall修補防火牆已遭利用的滿分漏洞",
-      "link": "https://www.ithome.com.tw/news/177329",
-      "isoDate": "2026-07-15T11:07:34.000Z",
+      "title": "Grok Build被發現偷偷把用戶整個程式庫上傳到雲端，馬斯克承諾將刪除",
+      "link": "https://www.ithome.com.tw/news/177331",
+      "isoDate": "2026-07-15T12:07:26.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "紐約州發出全美首個暫停資料中心進駐令",
-      "link": "https://www.ithome.com.tw/news/177330",
-      "isoDate": "2026-07-15T11:07:24.000Z",
+      "title": "CISA將SonicWall防火牆、微軟ADFS與SharePoint資安漏洞列KEV",
+      "link": "https://www.ithome.com.tw/news/177332",
+      "isoDate": "2026-07-15T12:07:10.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AWS開源企業AI代理平臺Loom，整合身分委派、權限控管與人工核准",
-      "link": "https://www.ithome.com.tw/news/177318",
-      "isoDate": "2026-07-15T10:07:53.000Z",
+      "title": "聚焦自主AI代理交易，FIDO聯盟啟動Agentic Commerce標準制定，OpenAI亦加入理事會",
+      "link": "https://www.ithome.com.tw/news/177321",
+      "isoDate": "2026-07-15T12:07:06.000Z",
       "source": "iThome",
       "category": "科技"
     }
