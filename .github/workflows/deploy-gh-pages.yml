@@ -29,6 +29,10 @@ jobs:
           cd docs/animation_web
           npm ci
           npm run build
+          mv dist ../animation_web_temp
+          cd ..
+          rm -rf animation_web
+          mv animation_web_temp animation_web
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
