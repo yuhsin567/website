@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T03:46:42.085Z",
+  "generated": "2026-07-15T03:51:38.173Z",
   "count": 5,
   "items": [
     {
@@ -17,23 +17,23 @@
       "category": "科技"
     },
     {
+      "title": "SonicWall修補防火牆已遭利用的滿分漏洞",
+      "link": "https://www.ithome.com.tw/news/177329",
+      "isoDate": "2026-07-15T11:07:34.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "紐約州發出全美首個暫停資料中心進駐令",
+      "link": "https://www.ithome.com.tw/news/177330",
+      "isoDate": "2026-07-15T11:07:24.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
       "title": "AWS開源企業AI代理平臺Loom，整合身分委派、權限控管與人工核准",
       "link": "https://www.ithome.com.tw/news/177318",
       "isoDate": "2026-07-15T10:07:53.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟7月例行更新揭露3個零時差漏洞",
-      "link": "https://www.ithome.com.tw/news/177324",
-      "isoDate": "2026-07-15T10:07:50.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟7月例行更新修補自家產品622個漏洞，連同Chromium總計超過1千個",
-      "link": "https://www.ithome.com.tw/news/177319",
-      "isoDate": "2026-07-15T10:07:46.000Z",
       "source": "iThome",
       "category": "科技"
     }
