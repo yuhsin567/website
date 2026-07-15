@@ -21,11 +21,20 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
       - name: Install dependencies
         run: npm ci
       - name: Fetch news
         run: npm run fetch-news
+      - name: Build animation_web sub-app
+        run: |
+          cd docs/animation_web
+          npm ci
+          npm run build
+          mv dist ../animation_web_temp
+          cd ..
+          rm -rf animation_web
+          mv animation_web_temp animation_web
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
