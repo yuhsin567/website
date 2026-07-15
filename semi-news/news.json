@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-15T14:48:21.295Z",
+  "generated": "2026-07-15T16:20:08.056Z",
   "count": 5,
   "items": [
+    {
+      "title": "既怕依賴又怕落後，德勤調查揭家長對孩子用 AI 的矛盾心情",
+      "link": "https://technews.tw/2026/07/16/half-of-parents-are-worried-their-kids-are-too-hooked-on-ai/",
+      "isoDate": "2026-07-15T16:00:49.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "NASA 前署長轟阿提米絲登月計畫「過度複雜」，登陸器難產成致命傷",
+      "link": "https://technews.tw/2026/07/16/former-nasa-administrator-artemis-program-too-complex/",
+      "isoDate": "2026-07-15T16:00:19.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "不必推翻宇宙演化論，「超愛丁頓吸積」模型成功破解早期黑洞快速成長謎團",
       "link": "https://technews.tw/2026/07/15/early-black-holes-may-not-be-as-massive-as-once-thought/",
@@ -20,20 +34,6 @@
       "title": "Adobe修補12款產品漏洞，ColdFusion與Commerce更新優先度最高",
       "link": "https://www.ithome.com.tw/news/177334",
       "isoDate": "2026-07-15T12:07:32.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Grok Build被發現偷偷把用戶整個程式庫上傳到雲端，馬斯克承諾將刪除",
-      "link": "https://www.ithome.com.tw/news/177331",
-      "isoDate": "2026-07-15T12:07:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "CISA將SonicWall防火牆、微軟ADFS與SharePoint資安漏洞列KEV",
-      "link": "https://www.ithome.com.tw/news/177332",
-      "isoDate": "2026-07-15T12:07:10.000Z",
       "source": "iThome",
       "category": "科技"
     }
