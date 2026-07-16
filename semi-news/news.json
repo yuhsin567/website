@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-15T23:02:50.002Z",
+  "generated": "2026-07-16T02:26:11.850Z",
   "count": 5,
   "items": [
     {
-      "title": "從 AI 防詐到 AI 治理，雲林如何把智慧城市變成一套解決問題的方法？",
-      "link": "https://technews.tw/2026/07/16/yunlin-smart-city/",
-      "isoDate": "2026-07-15T23:01:35.000Z",
+      "title": "Mozilla發布Firefox 152.0.6，修補兩個重大等級弱點",
+      "link": "https://www.ithome.com.tw/news/177350",
+      "isoDate": "2026-07-16T09:07:06.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "博通修補VMware Avi負載平衡系統7個高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/177349",
+      "isoDate": "2026-07-16T08:07:48.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "巴菲特要在 2034 年前捐光財富，蓋茲基金會不再是受贈對象",
+      "link": "https://finance.technews.tw/2026/07/16/buffett-omits-gift-to-bill-gates-foundation-after-microsoft-cofounders-epstein-ties-disclosed/",
+      "isoDate": "2026-07-16T02:20:40.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "台達電 SST 迎大型合作案，100 MW 搶攻美國 AI 資料中心",
-      "link": "https://technews.tw/2026/07/16/delta-sst-is-going-inusa-market/",
-      "isoDate": "2026-07-15T23:00:58.000Z",
+      "title": "逆風進場，Hyundai 啟用美國電池廠",
+      "link": "https://technews.tw/2026/07/16/hyundai-georgia-battery-plant-open/",
+      "isoDate": "2026-07-16T02:12:23.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "從 Whoscall 到 Watchmen，Gogolook 為雲林打造 AI 防詐中樞",
-      "link": "https://infosecu.technews.tw/2026/07/16/gogolook-yunlin-smart-city/",
-      "isoDate": "2026-07-15T23:00:45.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "代理式 AI 改革 EDA 技術，衝刺 L4 / L5 自動化與 Multiphysics 鎔鑄",
-      "link": "https://technews.tw/2026/07/16/agentic-ai-eda-technology-innovation-accelerating-l4-l5-autonomy-multiphysics-fusion/",
-      "isoDate": "2026-07-15T23:00:32.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "ASML 賺到盆滿缽滿還要漲價，最大客戶台積電強烈反對",
-      "link": "https://finance.technews.tw/2026/07/16/asml-plans-to-raise-prices-but-its-largest-customer-tsmc-strongly-opposes-it/",
-      "isoDate": "2026-07-15T23:00:03.000Z",
+      "title": "Google TPU 傳放棄台積電 CoWoS 轉向英特爾 EMIB-T，以分散風險與降低成本",
+      "link": "https://technews.tw/2026/07/16/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints/",
+      "isoDate": "2026-07-16T02:10:00.000Z",
       "source": "科技新報",
       "category": "科技"
     }
