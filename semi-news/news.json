@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-16T12:23:35.991Z",
+  "generated": "2026-07-16T14:59:50.507Z",
   "count": 5,
   "items": [
+    {
+      "title": "歷時 13 個月航行十億公里，天問二號準備揭開振盪天星神祕面紗",
+      "link": "https://technews.tw/2026/07/16/tianwen-2-arrives-earth-quasi-satellite-13-months/",
+      "isoDate": "2026-07-16T14:00:09.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "【資安日報】7月16日，日本食品與低溫物流龍頭Nichirei驚傳遭網路攻擊",
       "link": "https://www.ithome.com.tw/news/177361",
@@ -27,13 +34,6 @@
       "title": "微軟Entra ID今年9月起預設使用通行金鑰，2027年停止傳送簡訊與語音驗證訊息",
       "link": "https://www.ithome.com.tw/news/177362",
       "isoDate": "2026-07-16T12:07:19.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "292個假GitHub儲存庫冒充知名品牌散布BoryptGrab竊資程式",
-      "link": "https://www.ithome.com.tw/news/177364",
-      "isoDate": "2026-07-16T12:07:10.000Z",
       "source": "iThome",
       "category": "科技"
     }
