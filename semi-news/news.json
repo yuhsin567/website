@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-16T16:25:01.368Z",
+  "generated": "2026-07-16T18:04:59.537Z",
   "count": 5,
   "items": [
+    {
+      "title": "Uber 砸 148 億美元收購 foodpanda 母公司，複雜監管審查成變數",
+      "link": "https://finance.technews.tw/2026/07/17/uber-announces-acquisition-offer-for-delivery-hero/",
+      "isoDate": "2026-07-16T17:09:44.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "歷時 13 個月航行十億公里，天問二號準備揭開振盪天星神祕面紗",
       "link": "https://technews.tw/2026/07/16/tianwen-2-arrives-earth-quasi-satellite-13-months/",
@@ -24,16 +31,9 @@
       "category": "科技"
     },
     {
-      "title": "資安業者揭露RabbitMQ重大漏洞，可能導致OAuth金鑰外洩與訊息中介伺服器遭接管",
+      "title": "資安業者揭露RabbitMQ重大漏洞，可能導致OAuth金鑰外洩與訊息佇列伺服器遭接管",
       "link": "https://www.ithome.com.tw/news/177365",
       "isoDate": "2026-07-16T12:07:41.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟Entra ID今年9月起預設使用通行金鑰，2027年停止傳送簡訊與語音驗證訊息",
-      "link": "https://www.ithome.com.tw/news/177362",
-      "isoDate": "2026-07-16T12:07:19.000Z",
       "source": "iThome",
       "category": "科技"
     }
