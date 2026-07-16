@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-16T05:38:39.887Z",
+  "generated": "2026-07-16T08:09:24.358Z",
   "count": 5,
   "items": [
+    {
+      "title": "【資安日報】7月16日，日本食品與低溫物流龍頭Nichirei驚傳遭網路攻擊",
+      "link": "https://www.ithome.com.tw/news/177361",
+      "isoDate": "2026-07-16T12:07:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "傳蘋果計畫收購AI晶片新創公司",
       "link": "https://www.ithome.com.tw/news/177363",
@@ -27,13 +34,6 @@
       "title": "292個假GitHub儲存庫冒充知名品牌散布BoryptGrab竊資程式",
       "link": "https://www.ithome.com.tw/news/177364",
       "isoDate": "2026-07-16T12:07:10.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "F5以單輪越獄評測26款頂尖AI模型，平均攻擊成功率達71.3%",
-      "link": "https://www.ithome.com.tw/news/177360",
-      "isoDate": "2026-07-16T11:07:37.000Z",
       "source": "iThome",
       "category": "科技"
     }
