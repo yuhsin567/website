@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-16T02:26:11.850Z",
+  "generated": "2026-07-16T05:38:39.887Z",
   "count": 5,
   "items": [
     {
-      "title": "Mozilla發布Firefox 152.0.6，修補兩個重大等級弱點",
-      "link": "https://www.ithome.com.tw/news/177350",
-      "isoDate": "2026-07-16T09:07:06.000Z",
+      "title": "傳蘋果計畫收購AI晶片新創公司",
+      "link": "https://www.ithome.com.tw/news/177363",
+      "isoDate": "2026-07-16T12:07:53.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "博通修補VMware Avi負載平衡系統7個高風險漏洞",
-      "link": "https://www.ithome.com.tw/news/177349",
-      "isoDate": "2026-07-16T08:07:48.000Z",
+      "title": "資安業者揭露RabbitMQ重大漏洞，可能導致OAuth金鑰外洩與訊息中介伺服器遭接管",
+      "link": "https://www.ithome.com.tw/news/177365",
+      "isoDate": "2026-07-16T12:07:41.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "巴菲特要在 2034 年前捐光財富，蓋茲基金會不再是受贈對象",
-      "link": "https://finance.technews.tw/2026/07/16/buffett-omits-gift-to-bill-gates-foundation-after-microsoft-cofounders-epstein-ties-disclosed/",
-      "isoDate": "2026-07-16T02:20:40.000Z",
-      "source": "科技新報",
+      "title": "微軟Entra ID今年9月起預設使用通行金鑰，2027年停止傳送簡訊與語音驗證訊息",
+      "link": "https://www.ithome.com.tw/news/177362",
+      "isoDate": "2026-07-16T12:07:19.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "逆風進場，Hyundai 啟用美國電池廠",
-      "link": "https://technews.tw/2026/07/16/hyundai-georgia-battery-plant-open/",
-      "isoDate": "2026-07-16T02:12:23.000Z",
-      "source": "科技新報",
+      "title": "292個假GitHub儲存庫冒充知名品牌散布BoryptGrab竊資程式",
+      "link": "https://www.ithome.com.tw/news/177364",
+      "isoDate": "2026-07-16T12:07:10.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google TPU 傳放棄台積電 CoWoS 轉向英特爾 EMIB-T，以分散風險與降低成本",
-      "link": "https://technews.tw/2026/07/16/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints/",
-      "isoDate": "2026-07-16T02:10:00.000Z",
-      "source": "科技新報",
+      "title": "F5以單輪越獄評測26款頂尖AI模型，平均攻擊成功率達71.3%",
+      "link": "https://www.ithome.com.tw/news/177360",
+      "isoDate": "2026-07-16T11:07:37.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
