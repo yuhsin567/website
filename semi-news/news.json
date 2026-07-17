@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-17T22:48:11.400Z",
+  "generated": "2026-07-17T23:51:28.257Z",
   "count": 5,
   "items": [
+    {
+      "title": "買得起更要「懂得買」，AI 熱潮催生科技圈新時尚",
+      "link": "https://technews.tw/2026/07/18/ai-boom-tech-trend/",
+      "isoDate": "2026-07-17T23:30:03.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "旋轉快到看不見，美國西北大學找到新方法開發「隱形無人機」",
+      "link": "https://technews.tw/2026/07/18/northwestern-university-developed-new-spinning-drones-that-can-be-invisible/",
+      "isoDate": "2026-07-17T23:00:34.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【AI、機器人與網路的代理化未來】99% 機器人是惡意程式，如何精準分辨「惡意攻擊」與「AI 變現機會」？",
+      "link": "https://techorange.com/2026/07/18/ai-bots-and-the-agentic-future-of-the-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-17T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "解開宇宙燈塔之謎，NASA 探測器首度成功測量脈衝星磁場",
       "link": "https://technews.tw/2026/07/18/ixpe-first-maps-magnetic-field-structure-lighthouse-nebula-pulsar/",
@@ -14,27 +35,6 @@
       "link": "https://technews.tw/2026/07/18/milky-way-spiral-arms-farther-than-expected/",
       "isoDate": "2026-07-17T16:00:30.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "延續亞股下跌走勢，美股開盤持續走低考驗投資人信心",
-      "link": "https://finance.technews.tw/2026/07/17/us-stocks-continued-to-decline-at-the-open-testing-investor-confidence/",
-      "isoDate": "2026-07-17T14:15:15.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Pat Gelsinger 持續示警晶片對台灣依賴風險，還指英特爾該讓有技術背景者領導",
-      "link": "https://finance.technews.tw/2026/07/17/pat-gelsinger-continues-to-warn-of-the-risks-of-chip-dependence-on-taiwan/",
-      "isoDate": "2026-07-17T13:50:05.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "美國戰爭部暫停CMMC第二階段，檢討國防承包商資安認證制度",
-      "link": "https://www.ithome.com.tw/news/177389",
-      "isoDate": "2026-07-17T12:07:24.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
