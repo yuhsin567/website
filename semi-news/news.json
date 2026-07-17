@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-17T15:11:33.780Z",
+  "generated": "2026-07-17T17:09:18.758Z",
   "count": 5,
   "items": [
+    {
+      "title": "解開宇宙燈塔之謎，NASA 探測器首度成功測量脈衝星磁場",
+      "link": "https://technews.tw/2026/07/18/ixpe-first-maps-magnetic-field-structure-lighthouse-nebula-pulsar/",
+      "isoDate": "2026-07-17T16:00:58.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "最新研究運用「光回波」精準測距，證實銀河系螺旋臂比預期更遙遠",
+      "link": "https://technews.tw/2026/07/18/milky-way-spiral-arms-farther-than-expected/",
+      "isoDate": "2026-07-17T16:00:30.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "延續亞股下跌走勢，美股開盤持續走低考驗投資人信心",
       "link": "https://finance.technews.tw/2026/07/17/us-stocks-continued-to-decline-at-the-open-testing-investor-confidence/",
@@ -20,20 +34,6 @@
       "title": "美國戰爭部暫停CMMC第二階段，檢討國防承包商資安認證制度",
       "link": "https://www.ithome.com.tw/news/177389",
       "isoDate": "2026-07-17T12:07:24.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "高階後門Daxin、Stupig鎖定臺灣製造業發動攻擊",
-      "link": "https://www.ithome.com.tw/news/177390",
-      "isoDate": "2026-07-17T12:07:23.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Cloudflare以eBPF整合DDoS防護、流量分流與系統觀測",
-      "link": "https://www.ithome.com.tw/news/177391",
-      "isoDate": "2026-07-17T12:07:21.000Z",
       "source": "iThome",
       "category": "科技"
     }
