@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-17T13:23:25.687Z",
+  "generated": "2026-07-17T15:11:33.780Z",
   "count": 5,
   "items": [
+    {
+      "title": "延續亞股下跌走勢，美股開盤持續走低考驗投資人信心",
+      "link": "https://finance.technews.tw/2026/07/17/us-stocks-continued-to-decline-at-the-open-testing-investor-confidence/",
+      "isoDate": "2026-07-17T14:15:15.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Pat Gelsinger 持續示警晶片對台灣依賴風險，還指英特爾該讓有技術背景者領導",
+      "link": "https://finance.technews.tw/2026/07/17/pat-gelsinger-continues-to-warn-of-the-risks-of-chip-dependence-on-taiwan/",
+      "isoDate": "2026-07-17T13:50:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "美國戰爭部暫停CMMC第二階段，檢討國防承包商資安認證制度",
       "link": "https://www.ithome.com.tw/news/177389",
@@ -20,20 +34,6 @@
       "title": "Cloudflare以eBPF整合DDoS防護、流量分流與系統觀測",
       "link": "https://www.ithome.com.tw/news/177391",
       "isoDate": "2026-07-17T12:07:21.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "近8成組織將AI用於資安，但僅36%建立正式AI風險管理計畫",
-      "link": "https://www.ithome.com.tw/news/177383",
-      "isoDate": "2026-07-17T11:07:58.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "CISA警告Fortinet沙箱平臺重大漏洞遭到利用",
-      "link": "https://www.ithome.com.tw/news/177387",
-      "isoDate": "2026-07-17T11:07:54.000Z",
       "source": "iThome",
       "category": "科技"
     }
