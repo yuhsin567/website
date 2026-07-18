@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-18T02:14:11.446Z",
+  "generated": "2026-07-18T05:23:29.738Z",
   "count": 5,
   "items": [
     {
-      "title": "iPhone 殺了諾基亞、AI 卻沒殺死資安，關鍵差在「補充性資產」重估",
-      "link": "https://infosecu.technews.tw/2026/07/18/iphone-killed-nokia-ai-didnt-kill-cybersecurity-key-re-evaluating-complementary-assets/",
-      "isoDate": "2026-07-18T02:00:42.000Z",
+      "title": "1Password替Claude加上受控登入功能，AI代理能登入網站卻看不到密碼",
+      "link": "https://www.ithome.com.tw/news/177407",
+      "isoDate": "2026-07-18T10:07:25.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "宛如吉卜力精靈走入現實，日本全新「飄浮 AI 伴侶」打造無聲溫柔陪伴",
+      "link": "https://technews.tw/2026/07/18/japan-develops-floating-ai-companion/",
+      "isoDate": "2026-07-18T05:00:17.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "SpaceX 傳洽美國防部出售 AI 算力，馬斯克加速布局 AI 基礎設施市場",
-      "link": "https://technews.tw/2026/07/18/spacex-in-talks-us-pentagon-for-computing-power/",
-      "isoDate": "2026-07-18T01:56:04.000Z",
+      "title": "黃仁勳在東京辦「居酒屋峰會」！日 AI 供應鏈高層齊聚，完整名單曝光",
+      "link": "https://technews.tw/2026/07/18/nvidia-ceo-jensen-meet-japan-companies-ceo/",
+      "isoDate": "2026-07-18T03:56:03.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "傳 Meta 擬出租算力給 Anthropic，洽談規模高達 100 億美元",
-      "link": "https://technews.tw/2026/07/18/meta-anthropic-in-talks-for-compute-deal/",
-      "isoDate": "2026-07-18T01:37:45.000Z",
+      "title": "演算法偷走了「共同回憶」！從重溫《六人行》到狂聽老歌，解析分眾時代的懷舊狂熱",
+      "link": "https://technews.tw/2026/07/18/the-10-billion-nostalgia-boom-sweeping-the-globe/",
+      "isoDate": "2026-07-18T03:00:44.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "算數學的晶片也能寫 DNA？哈佛顛覆性研究讓矽晶片變成「造物工廠」",
-      "link": "https://technews.tw/2026/07/18/harvard-silicon-chip-writes-dna/",
-      "isoDate": "2026-07-18T01:30:49.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "蘋果一度超車輝達重登全球市值王！市場看 AI 投資風向已改變",
-      "link": "https://finance.technews.tw/2026/07/18/apple-nvidia-world-most-valuable-company/",
-      "isoDate": "2026-07-18T01:06:05.000Z",
+      "title": "開會用 AI 做筆記要當心，專家警告：「聲紋」與商業機密恐成資安新破口",
+      "link": "https://infosecu.technews.tw/2026/07/18/ai-meeting-note-tools-efficiency-privacy-trap/",
+      "isoDate": "2026-07-18T02:30:22.000Z",
       "source": "科技新報",
       "category": "科技"
     }
