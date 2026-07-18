@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-18T22:46:33.603Z",
+  "generated": "2026-07-18T23:52:06.950Z",
   "count": 5,
   "items": [
+    {
+      "title": "曬娃貼文可能成為 AI 犯罪素材，三步驟防範孩子照片遭惡意深偽",
+      "link": "https://infosecu.technews.tw/2026/07/19/parents-warned-not-to-publicly-share-childrens-images-amid-ai-abuse-risks/",
+      "isoDate": "2026-07-18T23:30:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "半人馬座 ω 首見恆星級黑洞，揭開 120 億年星團面紗",
       "link": "https://technews.tw/2026/07/19/astronomers-finally-discover-stellar-mass-black-hole-in-omega-centauri/",
@@ -28,13 +35,6 @@
       "link": "https://www.ithome.com.tw/news/177407",
       "isoDate": "2026-07-18T10:07:25.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "DeepSeek 時刻重演？中國最新開源模型 Kimi K3，嚇倒美半導體類股",
-      "link": "https://technews.tw/2026/07/18/china-new-ai-model-kimi-k3/",
-      "isoDate": "2026-07-18T10:02:02.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
