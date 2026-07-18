@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T07:46:11.455Z",
+  "generated": "2026-07-18T09:23:01.801Z",
   "count": 5,
   "items": [
     {
@@ -7,6 +7,13 @@
       "link": "https://www.ithome.com.tw/news/177407",
       "isoDate": "2026-07-18T10:07:25.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "免吃藥開刀！美大學首創「智慧睡眠貼片」，精準延長 REM 睡眠抗憂鬱",
+      "link": "https://technews.tw/2026/07/18/neusleep-quick-rem-sleep/",
+      "isoDate": "2026-07-18T08:00:02.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
@@ -27,13 +34,6 @@
       "title": "效率狂飆的副作用，AI 生成程式碼引爆「當責危機」與職場「AI 罰則」",
       "link": "https://technews.tw/2026/07/18/ai-code-efficiency-side-effects-accountability-crisis/",
       "isoDate": "2026-07-18T06:30:17.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "虛擬資產邁入專法時代！XREX 交易所：定期定額用戶有八成配置比特幣",
-      "link": "https://finance.technews.tw/2026/07/18/xrex-80-of-dca-users-allocate-to-bitcoin/",
-      "isoDate": "2026-07-18T06:00:10.000Z",
       "source": "科技新報",
       "category": "科技"
     }
