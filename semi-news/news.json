@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T09:23:01.801Z",
+  "generated": "2026-07-18T11:01:27.307Z",
   "count": 5,
   "items": [
     {
@@ -7,6 +7,13 @@
       "link": "https://www.ithome.com.tw/news/177407",
       "isoDate": "2026-07-18T10:07:25.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "DeepSeek 時刻重演？中國最新開源模型 Kimi K3，嚇倒美半導體類股",
+      "link": "https://technews.tw/2026/07/18/china-new-ai-model-kimi-k3/",
+      "isoDate": "2026-07-18T10:02:02.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
@@ -27,13 +34,6 @@
       "title": "AI 光收發模組市場進入高速成長階段，LPO、矽光子技術受關注",
       "link": "https://technews.tw/2026/07/18/trendforce-counterpoint-research-see-ai-datacenter/",
       "isoDate": "2026-07-18T06:31:13.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "效率狂飆的副作用，AI 生成程式碼引爆「當責危機」與職場「AI 罰則」",
-      "link": "https://technews.tw/2026/07/18/ai-code-efficiency-side-effects-accountability-crisis/",
-      "isoDate": "2026-07-18T06:30:17.000Z",
       "source": "科技新報",
       "category": "科技"
     }
