@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-19T10:26:01.571Z",
+  "generated": "2026-07-19T11:56:07.357Z",
   "count": 5,
   "items": [
+    {
+      "title": "阿里巴巴開源 T-Head SAIL，挑戰 NVIDIA CUDA 生態系",
+      "link": "https://technews.tw/2026/07/19/t-head-sail-open-sourced/",
+      "isoDate": "2026-07-19T10:44:02.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Meta 平台當機，Facebook、Instagram 同步受影響",
       "link": "https://technews.tw/2026/07/19/facebook-outage-hits-users-worldwide/",
@@ -27,13 +34,6 @@
       "title": "Kimi K3 引熱議，開放權重模型恐推向「AI 共產主義」",
       "link": "https://technews.tw/2026/07/19/dean-ball-shares-his-thoughts-on-kimi-k3/",
       "isoDate": "2026-07-19T06:59:45.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 省了時間卻失去方向？三大職場研究揭企業導入 AI 盲點",
-      "link": "https://finance.technews.tw/2026/07/19/3-ai-workplace-research-studies-every-leader-should-know-this-week/",
-      "isoDate": "2026-07-19T06:30:43.000Z",
       "source": "科技新報",
       "category": "科技"
     }
