@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-19T22:49:54.255Z",
+  "generated": "2026-07-19T23:55:08.786Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】中美 AI 差距縮小：Kimi K3 逼近美國，算力與監管戰同步升溫",
-      "link": "https://techorange.com/2026/07/20/kimi-k3-us-china-ai-gap-compute-regulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-19T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "彙整、強化與擴展旗下多種資安產品線，Sophos打造AI原生網路安全防禦系統",
-      "link": "https://www.ithome.com.tw/news/177421",
-      "isoDate": "2026-07-19T11:07:13.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "阿里巴巴開源 T-Head SAIL，挑戰 NVIDIA CUDA 生態系",
-      "link": "https://technews.tw/2026/07/19/t-head-sail-open-sourced/",
-      "isoDate": "2026-07-19T10:44:02.000Z",
+      "title": "淺談 RTX 50 vs. RTX Spark：內戰 or 互補？",
+      "link": "https://technews.tw/2026/07/20/rtx-50-vs-rtx-spark/",
+      "isoDate": "2026-07-19T23:50:13.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Meta 平台當機，Facebook、Instagram 同步受影響",
-      "link": "https://technews.tw/2026/07/19/facebook-outage-hits-users-worldwide/",
-      "isoDate": "2026-07-19T10:09:42.000Z",
+      "title": "一片材料當兩種用，韓大學靠「厚度」讓二硒化鉑同時是半金屬與半導體",
+      "link": "https://technews.tw/2026/07/20/2d-material-seamless-semiconductor-conduction-metal-electrode-barrier-free/",
+      "isoDate": "2026-07-19T23:40:20.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "蘋果 Face ID 發明者轉戰醫療 AI，立志讓大腦健康檢測像驗血簡單",
-      "link": "https://technews.tw/2026/07/19/hemispheric-brain-ai-diagnostics/",
-      "isoDate": "2026-07-19T08:00:04.000Z",
+      "title": "信驊一張股票值一間「台北市房子」！台股千金盛世，三年暴增 39 檔千金股",
+      "link": "https://finance.technews.tw/2026/07/20/taiwan-sees-39-new-high-priced-stocks-in-three-years/",
+      "isoDate": "2026-07-19T23:30:33.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "跨越「懂 AI」到「用 AI」的鴻溝，企業如何打造具備「AI 實戰力」的團隊",
+      "link": "https://technews.tw/2026/07/20/ai-literacy-to-fluency/",
+      "isoDate": "2026-07-19T23:20:42.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "馬斯克：X 全面開源，貼文推薦演算法完全公開",
+      "link": "https://technews.tw/2026/07/20/x-fully-open-sources-its-recommendation-algorithm/",
+      "isoDate": "2026-07-19T23:10:11.000Z",
       "source": "科技新報",
       "category": "科技"
     }
