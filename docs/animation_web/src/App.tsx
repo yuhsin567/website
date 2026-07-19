@@ -310,8 +310,18 @@ function App() {
 
   return (
     <div className="app-shell">
+      {/* Ambient glow blobs */}
+      <div className="blur-bg blob-1" aria-hidden="true"></div>
+      <div className="blur-bg blob-2" aria-hidden="true"></div>
+
       <header className="hero-section">
         <nav className="top-nav" aria-label="主題導覽">
+          <a href="../index.html" className="back-link" aria-label="返回主頁">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M15 18l-6-6 6-6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" fill="none" />
+            </svg>
+            返回主頁
+          </a>
           <a href="#overview">課程總覽</a>
           <a href="#simulations">互動動畫</a>
           <a href="#teaching">教學提示</a>
@@ -826,7 +836,7 @@ function App() {
       </main>
 
       <footer className="site-footer">
-        <p>以 Vite 建置，針對 GitHub Pages 靜態部署調整。適合用於課堂投影與學生自主操作。</p>
+        <p>© 2026 Yuhsin &nbsp;·&nbsp; 物理互動教室 · 以 Vite 建置，部署於 <a href="https://github.com/yuhsin567/website" target="_blank" rel="noopener" style={{ color: 'var(--text-muted)', textDecoration: 'none' }}>GitHub Pages</a>。</p>
       </footer>
     </div>
   )
