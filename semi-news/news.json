@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-19T14:53:42.177Z",
+  "generated": "2026-07-19T15:56:02.366Z",
   "count": 5,
   "items": [
+    {
+      "title": "彙整、強化與擴展旗下多種資安產品線，Sophos打造AI原生網路安全防禦系統",
+      "link": "https://www.ithome.com.tw/news/177421",
+      "isoDate": "2026-07-19T11:07:13.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "阿里巴巴開源 T-Head SAIL，挑戰 NVIDIA CUDA 生態系",
       "link": "https://technews.tw/2026/07/19/t-head-sail-open-sourced/",
@@ -27,13 +34,6 @@
       "title": "股神巴菲特的四大財富分配金律，為何父母都該提早學？",
       "link": "https://finance.technews.tw/2026/07/19/buffett-on-wealth-distribution/",
       "isoDate": "2026-07-19T07:00:37.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Kimi K3 引熱議，開放權重模型恐推向「AI 共產主義」",
-      "link": "https://technews.tw/2026/07/19/dean-ball-shares-his-thoughts-on-kimi-k3/",
-      "isoDate": "2026-07-19T06:59:45.000Z",
       "source": "科技新報",
       "category": "科技"
     }
