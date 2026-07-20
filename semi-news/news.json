@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-19T23:55:08.786Z",
+  "generated": "2026-07-20T02:46:28.758Z",
   "count": 5,
   "items": [
     {
-      "title": "淺談 RTX 50 vs. RTX Spark：內戰 or 互補？",
-      "link": "https://technews.tw/2026/07/20/rtx-50-vs-rtx-spark/",
-      "isoDate": "2026-07-19T23:50:13.000Z",
-      "source": "科技新報",
+      "title": "HTTP/2伺服器存在流量控制漏洞恐引發DoS攻擊，影響Apache Traffic Server、Citrix、F5",
+      "link": "https://www.ithome.com.tw/news/177430",
+      "isoDate": "2026-07-20T10:07:33.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "一片材料當兩種用，韓大學靠「厚度」讓二硒化鉑同時是半金屬與半導體",
-      "link": "https://technews.tw/2026/07/20/2d-material-seamless-semiconductor-conduction-metal-electrode-barrier-free/",
-      "isoDate": "2026-07-19T23:40:20.000Z",
-      "source": "科技新報",
+      "title": "OpenSSL存在DDoS漏洞HollowByte，攻擊者可利用11位元組酬載癱瘓運作",
+      "link": "https://www.ithome.com.tw/news/177425",
+      "isoDate": "2026-07-20T10:07:26.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "信驊一張股票值一間「台北市房子」！台股千金盛世，三年暴增 39 檔千金股",
-      "link": "https://finance.technews.tw/2026/07/20/taiwan-sees-39-new-high-priced-stocks-in-three-years/",
-      "isoDate": "2026-07-19T23:30:33.000Z",
-      "source": "科技新報",
+      "title": "WordPress核心存在遠端程式碼執行漏洞wp2shell",
+      "link": "https://www.ithome.com.tw/news/177424",
+      "isoDate": "2026-07-20T09:07:22.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "跨越「懂 AI」到「用 AI」的鴻溝，企業如何打造具備「AI 實戰力」的團隊",
-      "link": "https://technews.tw/2026/07/20/ai-literacy-to-fluency/",
-      "isoDate": "2026-07-19T23:20:42.000Z",
-      "source": "科技新報",
+      "title": "Windows 11 24H2將在10月技術支援到期",
+      "link": "https://www.ithome.com.tw/news/177426",
+      "isoDate": "2026-07-20T09:07:20.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "馬斯克：X 全面開源，貼文推薦演算法完全公開",
-      "link": "https://technews.tw/2026/07/20/x-fully-open-sources-its-recommendation-algorithm/",
-      "isoDate": "2026-07-19T23:10:11.000Z",
-      "source": "科技新報",
+      "title": "NotebookLM改名Gemini Notebook，整合進Gemini App和Google搜尋中",
+      "link": "https://www.ithome.com.tw/news/177428",
+      "isoDate": "2026-07-20T09:07:12.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
