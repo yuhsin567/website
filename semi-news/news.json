@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-20T21:10:44.087Z",
+  "generated": "2026-07-20T22:58:43.156Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】AI 擴張撞上基建瓶頸：Kimi 卡算力、記憶體喊缺、美國 42 州抗議資料中心",
+      "link": "https://techorange.com/2026/07/21/ai-infrastructure-bottlenecks-kimi-memory-data-center-protests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-20T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "新恆星普查結果支持宇宙年齡約 138 億年，化解古老恆星年齡爭議",
       "link": "https://technews.tw/2026/07/20/new-stellar-survey-supports-a-13-8-billion-year-old-universe/",
@@ -27,13 +34,6 @@
       "title": "亞培傳出遭兩組駭客團體入侵，其中一組是ShinyHunters",
       "link": "https://www.ithome.com.tw/news/177435",
       "isoDate": "2026-07-20T11:07:58.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "駭客用傳統文字加鹽手法，騙過新式AI郵件防護",
-      "link": "https://www.ithome.com.tw/news/177434",
-      "isoDate": "2026-07-20T11:07:49.000Z",
       "source": "iThome",
       "category": "科技"
     }
