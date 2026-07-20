@@ -1,18 +1,25 @@
 {
-  "generated": "2026-07-20T06:16:17.553Z",
+  "generated": "2026-07-20T09:58:58.964Z",
   "count": 5,
   "items": [
     {
-      "title": "ServiceNow修補AI平臺重大等級的RCE漏洞",
+      "title": "ServiceNow揭露AI平臺重大等級的RCE漏洞",
       "link": "https://www.ithome.com.tw/news/177439",
       "isoDate": "2026-07-20T12:07:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "F5修補8項Nginx與BIG-IP漏洞，重大漏洞若遭利用將導致堆疊緩衝區溢位與程式碼執行",
+      "title": "F5修補8項Nginx與BIG-IP漏洞，重大漏洞若遭利用將導致堆積緩衝區溢位與程式碼執行",
       "link": "https://www.ithome.com.tw/news/177437",
       "isoDate": "2026-07-20T12:07:21.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "亞培傳出遭兩組駭客團體入侵，其中一組是ShinyHunters",
+      "link": "https://www.ithome.com.tw/news/177435",
+      "isoDate": "2026-07-20T11:07:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
@@ -27,13 +34,6 @@
       "title": "Zoom修補Windows版產品4個漏洞，包括可能導致帳號遭接管的重大漏洞",
       "link": "https://www.ithome.com.tw/news/177432",
       "isoDate": "2026-07-20T11:07:39.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國籌組全球AI治理組織，29國加入",
-      "link": "https://www.ithome.com.tw/news/177431",
-      "isoDate": "2026-07-20T11:07:29.000Z",
       "source": "iThome",
       "category": "科技"
     }
