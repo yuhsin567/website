@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-20T12:22:33.192Z",
+  "generated": "2026-07-20T15:10:27.036Z",
   "count": 5,
   "items": [
+    {
+      "title": "新恆星普查結果支持宇宙年齡約 138 億年，化解古老恆星年齡爭議",
+      "link": "https://technews.tw/2026/07/20/new-stellar-survey-supports-a-13-8-billion-year-old-universe/",
+      "isoDate": "2026-07-20T14:37:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "ServiceNow揭露AI平臺重大等級的RCE漏洞",
       "link": "https://www.ithome.com.tw/news/177439",
@@ -27,13 +34,6 @@
       "title": "駭客用傳統文字加鹽手法，騙過新式AI郵件防護",
       "link": "https://www.ithome.com.tw/news/177434",
       "isoDate": "2026-07-20T11:07:49.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Zoom修補Windows版產品4個漏洞，包括可能導致帳號遭接管的重大漏洞",
-      "link": "https://www.ithome.com.tw/news/177432",
-      "isoDate": "2026-07-20T11:07:39.000Z",
       "source": "iThome",
       "category": "科技"
     }
