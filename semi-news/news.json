@@ -1,11 +1,18 @@
 {
-  "generated": "2026-07-21T04:13:49.277Z",
+  "generated": "2026-07-21T07:31:31.150Z",
   "count": 5,
   "items": [
     {
       "title": "惡意郵件成勒索軟體首要入侵管道，與網路釣魚合計占五成",
       "link": "https://www.ithome.com.tw/news/177478",
       "isoDate": "2026-07-21T12:07:58.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "晶片設計軟體廠Synopsys傳出遭駭，該公司否認並聲稱未發現資料洩露跡象",
+      "link": "https://www.ithome.com.tw/news/177480",
+      "isoDate": "2026-07-21T12:07:43.000Z",
       "source": "iThome",
       "category": "科技"
     },
@@ -24,16 +31,9 @@
       "category": "科技"
     },
     {
-      "title": "英國衛服部將重罰非法讀取病患資料的醫護員工",
+      "title": "英國衛福部將重罰非法讀取病患資料的醫護員工",
       "link": "https://www.ithome.com.tw/news/177476",
       "isoDate": "2026-07-21T11:07:48.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "歐盟AI透明規範8月上路，聊天機器人與深偽內容須主動揭露",
-      "link": "https://www.ithome.com.tw/news/177468",
-      "isoDate": "2026-07-21T11:07:36.000Z",
       "source": "iThome",
       "category": "科技"
     }
