@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-21T21:06:47.471Z",
+  "generated": "2026-07-21T22:54:24.206Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】Microsoft 評估 Kimi K3、擴大 AMD 算力，中國也擬收緊 AI 技術出口",
+      "link": "https://techorange.com/2026/07/22/microsoft-kimi-k3-amd-ai-compute-china-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-21T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "虛擬資產監理元年，為何台灣業者真正要打的是「跨境戰」？",
       "link": "https://techorange.com/2026/07/21/vasp-mjtaiwan-kpmg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -28,13 +35,6 @@
       "link": "https://www.ithome.com.tw/news/177479",
       "isoDate": "2026-07-21T12:07:29.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "數學界天翻地覆，代數幾何 87 年懸案「雅可比猜想」遭 Claude 證偽",
-      "link": "https://technews.tw/2026/07/21/jacobian-conjecture-claude-math-problem/",
-      "isoDate": "2026-07-21T11:14:59.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
