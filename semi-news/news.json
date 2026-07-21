@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-21T22:54:24.206Z",
+  "generated": "2026-07-21T23:54:58.979Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】Microsoft 評估 Kimi K3、擴大 AMD 算力，中國也擬收緊 AI 技術出口",
-      "link": "https://techorange.com/2026/07/22/microsoft-kimi-k3-amd-ai-compute-china-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-21T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "虛擬資產監理元年，為何台灣業者真正要打的是「跨境戰」？",
-      "link": "https://techorange.com/2026/07/21/vasp-mjtaiwan-kpmg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-21T12:13:45.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "惡意郵件成勒索軟體首要入侵管道，與網路釣魚合計占五成",
-      "link": "https://www.ithome.com.tw/news/177478",
-      "isoDate": "2026-07-21T12:07:58.000Z",
-      "source": "iThome",
+      "title": "AI 成本飆升就急砍預算？Anthropic 示警：一刀切恐扼殺創新，聰明部署才是解方",
+      "link": "https://technews.tw/2026/07/22/anthropic-executive-warns-stopping-ai-use-cost-concerns-wrong-approach/",
+      "isoDate": "2026-07-21T23:50:00.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "晶片設計軟體廠Synopsys傳出遭駭，該公司否認並聲稱未發現資料洩露跡象",
-      "link": "https://www.ithome.com.tw/news/177480",
-      "isoDate": "2026-07-21T12:07:43.000Z",
-      "source": "iThome",
+      "title": "德銀示警聯準會：AI 難複製 1990 年代奇蹟，通膨與升息隱憂仍存",
+      "link": "https://finance.technews.tw/2026/07/22/deutsche-bank-warns-fed-ai-no-90s-miracle/",
+      "isoDate": "2026-07-21T23:40:31.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "開源LLM推理框架SGLang存在重大反序列化漏洞，可能導致遠端執行程式碼攻擊",
-      "link": "https://www.ithome.com.tw/news/177479",
-      "isoDate": "2026-07-21T12:07:29.000Z",
-      "source": "iThome",
+      "title": "美對伊戰事耗資已達 375 億美元，赫格賽斯示警演訓將被迫停擺",
+      "link": "https://technews.tw/2026/07/22/us-war-in-iran-has-cost-37-5-billion-us-dollars/",
+      "isoDate": "2026-07-21T23:30:27.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "日本 ispace 要搭太空探索星艦的便車來登月",
+      "link": "https://technews.tw/2026/07/22/with-spacex-starship-japans-ispace-provides-ride-share-to-the-moon/",
+      "isoDate": "2026-07-21T23:30:08.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "成功率高達 98%！新型攻擊「GhostWriter」駭入 AI 長期記憶，悄悄植入惡意指令",
+      "link": "https://infosecu.technews.tw/2026/07/22/ai-assistant-ghostwriter-attack/",
+      "isoDate": "2026-07-21T23:20:33.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
