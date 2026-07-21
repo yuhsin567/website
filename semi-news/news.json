@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-21T00:03:14.741Z",
+  "generated": "2026-07-21T04:13:49.277Z",
   "count": 5,
   "items": [
     {
-      "title": "日本兆元補貼全面啟動，先進製程加速東移，台日合作走向競合",
-      "link": "https://technews.tw/2026/07/21/japan-trillion-subsidies-advanced-process-east-shift-taiwan-japan-coopetition/",
-      "isoDate": "2026-07-21T00:00:03.000Z",
-      "source": "科技新報",
+      "title": "惡意郵件成勒索軟體首要入侵管道，與網路釣魚合計占五成",
+      "link": "https://www.ithome.com.tw/news/177478",
+      "isoDate": "2026-07-21T12:07:58.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "掌管 OpenAI Codex 額度的「Cyber 義父」，到底什麼來頭？",
-      "link": "https://technews.tw/2026/07/21/who-is-tibo/",
-      "isoDate": "2026-07-20T23:50:29.000Z",
-      "source": "科技新報",
+      "title": "開源LLM推理框架SGLang存在重大反序列化漏洞，可能導致遠端執行程式碼攻擊",
+      "link": "https://www.ithome.com.tw/news/177479",
+      "isoDate": "2026-07-21T12:07:29.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "越錯越自信？研究揭 AI 讓人失去說「不知道」的能力，正確率狂跌仍深信不疑",
-      "link": "https://technews.tw/2026/07/21/ai-over-reliance-stifles-human-admitting-ignorance/",
-      "isoDate": "2026-07-20T23:40:15.000Z",
-      "source": "科技新報",
+      "title": "微軟發布開源Dusseldorf資安測試平臺，協助偵測SSRF等頻外漏洞",
+      "link": "https://www.ithome.com.tw/news/177470",
+      "isoDate": "2026-07-21T11:07:55.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "歐盟宣布《DMA》新規範，強制 Google 共享搜尋資料並讓 Android 整合其他 AI",
-      "link": "https://infosecu.technews.tw/2026/07/21/eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "isoDate": "2026-07-20T23:30:41.000Z",
-      "source": "科技新報",
+      "title": "英國衛服部將重罰非法讀取病患資料的醫護員工",
+      "link": "https://www.ithome.com.tw/news/177476",
+      "isoDate": "2026-07-21T11:07:48.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "GPU 助攻氣象預報大突破：熱帶氣旋模擬提速 5 倍、耗能降 5 倍",
-      "link": "https://technews.tw/2026/07/21/gpus-accelerate-tropical-cyclone-simulation/",
-      "isoDate": "2026-07-20T23:20:26.000Z",
-      "source": "科技新報",
+      "title": "歐盟AI透明規範8月上路，聊天機器人與深偽內容須主動揭露",
+      "link": "https://www.ithome.com.tw/news/177468",
+      "isoDate": "2026-07-21T11:07:36.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
