@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-20T22:58:43.156Z",
+  "generated": "2026-07-21T00:03:14.741Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】AI 擴張撞上基建瓶頸：Kimi 卡算力、記憶體喊缺、美國 42 州抗議資料中心",
-      "link": "https://techorange.com/2026/07/21/ai-infrastructure-bottlenecks-kimi-memory-data-center-protests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-20T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "新恆星普查結果支持宇宙年齡約 138 億年，化解古老恆星年齡爭議",
-      "link": "https://technews.tw/2026/07/20/new-stellar-survey-supports-a-13-8-billion-year-old-universe/",
-      "isoDate": "2026-07-20T14:37:23.000Z",
+      "title": "日本兆元補貼全面啟動，先進製程加速東移，台日合作走向競合",
+      "link": "https://technews.tw/2026/07/21/japan-trillion-subsidies-advanced-process-east-shift-taiwan-japan-coopetition/",
+      "isoDate": "2026-07-21T00:00:03.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "ServiceNow揭露AI平臺重大等級的RCE漏洞",
-      "link": "https://www.ithome.com.tw/news/177439",
-      "isoDate": "2026-07-20T12:07:58.000Z",
-      "source": "iThome",
+      "title": "掌管 OpenAI Codex 額度的「Cyber 義父」，到底什麼來頭？",
+      "link": "https://technews.tw/2026/07/21/who-is-tibo/",
+      "isoDate": "2026-07-20T23:50:29.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "F5修補8項Nginx與BIG-IP漏洞，重大漏洞若遭利用將導致堆積緩衝區溢位與程式碼執行",
-      "link": "https://www.ithome.com.tw/news/177437",
-      "isoDate": "2026-07-20T12:07:21.000Z",
-      "source": "iThome",
+      "title": "越錯越自信？研究揭 AI 讓人失去說「不知道」的能力，正確率狂跌仍深信不疑",
+      "link": "https://technews.tw/2026/07/21/ai-over-reliance-stifles-human-admitting-ignorance/",
+      "isoDate": "2026-07-20T23:40:15.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "亞培傳出遭兩組駭客團體入侵，其中一組是ShinyHunters",
-      "link": "https://www.ithome.com.tw/news/177435",
-      "isoDate": "2026-07-20T11:07:58.000Z",
-      "source": "iThome",
+      "title": "歐盟宣布《DMA》新規範，強制 Google 共享搜尋資料並讓 Android 整合其他 AI",
+      "link": "https://infosecu.technews.tw/2026/07/21/eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "isoDate": "2026-07-20T23:30:41.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "GPU 助攻氣象預報大突破：熱帶氣旋模擬提速 5 倍、耗能降 5 倍",
+      "link": "https://technews.tw/2026/07/21/gpus-accelerate-tropical-cyclone-simulation/",
+      "isoDate": "2026-07-20T23:20:26.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
