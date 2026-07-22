@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-22T11:07:48.021Z",
+  "generated": "2026-07-22T13:47:50.991Z",
   "count": 5,
   "items": [
+    {
+      "title": "三星 Galaxy Watch Ultra2、Galaxy Watch9 亮相",
+      "link": "https://technews.tw/2026/07/22/galaxy-watch-ultra2-galaxy-watch9/",
+      "isoDate": "2026-07-22T13:01:31.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Galaxy Z Fold8 換上全新螢幕比例，4：3 內頁打入寬摺疊市場",
+      "link": "https://technews.tw/2026/07/22/galaxy-z-fold8/",
+      "isoDate": "2026-07-22T13:00:49.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Intel攜手Fortinet開發Security Processor 6，推進資安專用ASIC晶片布局 ",
       "link": "https://www.ithome.com.tw/news/177514",
@@ -20,20 +34,6 @@
       "title": "駭客利用多個SharePoint漏洞從事攻擊，部署Webshell並竊取IIS機器金鑰",
       "link": "https://www.ithome.com.tw/news/177512",
       "isoDate": "2026-07-22T12:07:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟偕Mistral進駐歐洲主權AI雲基礎架構市場",
-      "link": "https://www.ithome.com.tw/news/177515",
-      "isoDate": "2026-07-22T12:07:03.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "重大SharePoint漏洞被用於竊取機器金鑰",
-      "link": "https://www.ithome.com.tw/news/177511",
-      "isoDate": "2026-07-22T12:07:03.000Z",
       "source": "iThome",
       "category": "科技"
     }
