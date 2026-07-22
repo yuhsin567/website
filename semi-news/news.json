@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-22T21:09:38.947Z",
+  "generated": "2026-07-22T23:00:50.694Z",
   "count": 5,
   "items": [
+    {
+      "title": "BOSCH SD148 晶片助力 48V 架構，樹立車用控制單晶片新標竿",
+      "link": "https://technews.tw/2026/07/23/bosch-sd148-chip-48v-architecture-new-automotive-control-mcu-benchmark/",
+      "isoDate": "2026-07-22T23:00:26.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】AI 競賽進入成本、產能與資本戰：台積電傳漲價 10％、緯創赴美量產 GB300",
+      "link": "https://techorange.com/2026/07/23/ai-cost-capacity-capital-tsmc-price-hike-wistron-gb300/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-22T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "黃仁勳：台廠因智慧信任與美合作　無須拿槍指著台灣的頭",
       "link": "https://technews.tw/2026/07/22/jensen-huang-taiwan-firms-us-cooperation-intelligent-trust-no-gun-taiwan-head/",
@@ -21,20 +35,6 @@
       "link": "https://technews.tw/2026/07/22/galaxy-z-fold8/",
       "isoDate": "2026-07-22T13:00:49.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Intel攜手Fortinet開發Security Processor 6，推進資安專用ASIC晶片布局 ",
-      "link": "https://www.ithome.com.tw/news/177514",
-      "isoDate": "2026-07-22T12:07:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AWS計費系統使用錯誤單位價格資料，部分客戶收到數十億美元異常費用通知",
-      "link": "https://www.ithome.com.tw/news/177510",
-      "isoDate": "2026-07-22T12:07:46.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
