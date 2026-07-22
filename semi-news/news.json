@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-22T13:47:50.991Z",
+  "generated": "2026-07-22T15:40:06.586Z",
   "count": 5,
   "items": [
+    {
+      "title": "黃仁勳：台廠因智慧信任與美合作　無須拿槍指著台灣的頭",
+      "link": "https://technews.tw/2026/07/22/jensen-huang-taiwan-firms-us-cooperation-intelligent-trust-no-gun-taiwan-head/",
+      "isoDate": "2026-07-22T13:54:50.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "三星 Galaxy Watch Ultra2、Galaxy Watch9 亮相",
       "link": "https://technews.tw/2026/07/22/galaxy-watch-ultra2-galaxy-watch9/",
@@ -27,13 +34,6 @@
       "title": "AWS計費系統使用錯誤單位價格資料，部分客戶收到數十億美元異常費用通知",
       "link": "https://www.ithome.com.tw/news/177510",
       "isoDate": "2026-07-22T12:07:46.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "駭客利用多個SharePoint漏洞從事攻擊，部署Webshell並竊取IIS機器金鑰",
-      "link": "https://www.ithome.com.tw/news/177512",
-      "isoDate": "2026-07-22T12:07:26.000Z",
       "source": "iThome",
       "category": "科技"
     }
