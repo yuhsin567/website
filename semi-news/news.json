@@ -1,41 +1,41 @@
 {
-  "generated": "2026-07-21T23:54:58.979Z",
+  "generated": "2026-07-22T02:28:19.197Z",
   "count": 5,
   "items": [
     {
-      "title": "AI 成本飆升就急砍預算？Anthropic 示警：一刀切恐扼殺創新，聰明部署才是解方",
-      "link": "https://technews.tw/2026/07/22/anthropic-executive-warns-stopping-ai-use-cost-concerns-wrong-approach/",
-      "isoDate": "2026-07-21T23:50:00.000Z",
+      "title": "研究人員借助GPT5.6 Sol Ultra的力量找出WordPress重大漏洞wp2shell",
+      "link": "https://www.ithome.com.tw/news/177498",
+      "isoDate": "2026-07-22T09:07:50.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "美國警告甫修補的WordPress資安漏洞遭到利用",
+      "link": "https://www.ithome.com.tw/news/177497",
+      "isoDate": "2026-07-22T09:07:11.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "【新加坡直擊】新一代急救培訓模式！新加坡樟宜醫院聯手IBM，結合MR和AI代理重現兒童急診現場",
+      "link": "https://www.ithome.com.tw/news/177494",
+      "isoDate": "2026-07-22T08:07:17.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "中華電攜富士通與 1Finity 加速台全光網路創新應用",
+      "link": "https://technews.tw/2026/07/22/cht-1finity-fujitsu/",
+      "isoDate": "2026-07-22T02:25:02.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "德銀示警聯準會：AI 難複製 1990 年代奇蹟，通膨與升息隱憂仍存",
-      "link": "https://finance.technews.tw/2026/07/22/deutsche-bank-warns-fed-ai-no-90s-miracle/",
-      "isoDate": "2026-07-21T23:40:31.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "美對伊戰事耗資已達 375 億美元，赫格賽斯示警演訓將被迫停擺",
-      "link": "https://technews.tw/2026/07/22/us-war-in-iran-has-cost-37-5-billion-us-dollars/",
-      "isoDate": "2026-07-21T23:30:27.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "日本 ispace 要搭太空探索星艦的便車來登月",
-      "link": "https://technews.tw/2026/07/22/with-spacex-starship-japans-ispace-provides-ride-share-to-the-moon/",
-      "isoDate": "2026-07-21T23:30:08.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "成功率高達 98%！新型攻擊「GhostWriter」駭入 AI 長期記憶，悄悄植入惡意指令",
-      "link": "https://infosecu.technews.tw/2026/07/22/ai-assistant-ghostwriter-attack/",
-      "isoDate": "2026-07-21T23:20:33.000Z",
-      "source": "科技新報",
-      "category": "科技"
+      "title": "研究指 75% AI Mode 搜尋未產生外部點擊：Google 築起流量圍牆，開放網路迎來「Google Zero」？",
+      "link": "https://techorange.com/2026/07/22/google-ai-open-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-22T02:23:14.000Z",
+      "source": "科技報橘",
+      "category": "產業"
     }
   ]
 }
