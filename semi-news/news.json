@@ -1,41 +1,41 @@
 {
-  "generated": "2026-07-22T02:28:19.197Z",
+  "generated": "2026-07-22T05:48:12.621Z",
   "count": 5,
   "items": [
     {
-      "title": "研究人員借助GPT5.6 Sol Ultra的力量找出WordPress重大漏洞wp2shell",
-      "link": "https://www.ithome.com.tw/news/177498",
-      "isoDate": "2026-07-22T09:07:50.000Z",
+      "title": "Intel攜手Fortinet開發Security Processor 6，推進資安專用ASIC晶片布局 ",
+      "link": "https://www.ithome.com.tw/news/177514",
+      "isoDate": "2026-07-22T12:07:57.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美國警告甫修補的WordPress資安漏洞遭到利用",
-      "link": "https://www.ithome.com.tw/news/177497",
-      "isoDate": "2026-07-22T09:07:11.000Z",
+      "title": "AWS計費系統使用錯誤單位價格資料，部分客戶收到數十億美元異常費用通知",
+      "link": "https://www.ithome.com.tw/news/177510",
+      "isoDate": "2026-07-22T12:07:46.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "【新加坡直擊】新一代急救培訓模式！新加坡樟宜醫院聯手IBM，結合MR和AI代理重現兒童急診現場",
-      "link": "https://www.ithome.com.tw/news/177494",
-      "isoDate": "2026-07-22T08:07:17.000Z",
+      "title": "駭客利用多個SharePoint漏洞從事攻擊，部署Webshell並竊取IIS機器金鑰",
+      "link": "https://www.ithome.com.tw/news/177512",
+      "isoDate": "2026-07-22T12:07:26.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "中華電攜富士通與 1Finity 加速台全光網路創新應用",
-      "link": "https://technews.tw/2026/07/22/cht-1finity-fujitsu/",
-      "isoDate": "2026-07-22T02:25:02.000Z",
-      "source": "科技新報",
+      "title": "微軟偕Mistral進駐歐洲主權AI雲基礎架構市場",
+      "link": "https://www.ithome.com.tw/news/177515",
+      "isoDate": "2026-07-22T12:07:03.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "研究指 75% AI Mode 搜尋未產生外部點擊：Google 築起流量圍牆，開放網路迎來「Google Zero」？",
-      "link": "https://techorange.com/2026/07/22/google-ai-open-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-22T02:23:14.000Z",
-      "source": "科技報橘",
-      "category": "產業"
+      "title": "重大SharePoint漏洞被用於竊取機器金鑰",
+      "link": "https://www.ithome.com.tw/news/177511",
+      "isoDate": "2026-07-22T12:07:03.000Z",
+      "source": "iThome",
+      "category": "科技"
     }
   ]
 }
