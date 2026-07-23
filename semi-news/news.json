@@ -1,41 +1,41 @@
 {
-  "generated": "2026-07-23T02:33:17.985Z",
+  "generated": "2026-07-23T05:51:53.833Z",
   "count": 5,
   "items": [
     {
-      "title": "開源路由器韌體DD-WRT已知漏洞出現攻擊行動",
-      "link": "https://www.ithome.com.tw/news/177542",
-      "isoDate": "2026-07-23T10:07:24.000Z",
+      "title": "雅詩蘭黛終於證實Oracle EBS被駭，員工資料遭竊",
+      "link": "https://www.ithome.com.tw/news/177556",
+      "isoDate": "2026-07-23T12:07:59.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "網路間諜框架Project CAV3RN濫用Outlook行事曆，打造隱蔽C2通道",
-      "link": "https://www.ithome.com.tw/news/177541",
-      "isoDate": "2026-07-23T09:07:27.000Z",
+      "title": "Alphabet公布Q2財報，Gemini App每月活躍用戶數成長至9.5億",
+      "link": "https://www.ithome.com.tw/news/177554",
+      "isoDate": "2026-07-23T12:07:36.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "OpenAI 打造 3.2 GW 電力巨獸，Project Camellia 啟動",
-      "link": "https://technews.tw/2026/07/23/openai-launches-project-camellia-3-2gw-power-behemoth/",
-      "isoDate": "2026-07-23T02:31:12.000Z",
-      "source": "科技新報",
+      "title": "Oracle發布2026年7月關鍵安全修補更新，共修補1,235個漏洞，含多個CVSS滿分重大漏洞",
+      "link": "https://www.ithome.com.tw/news/177555",
+      "isoDate": "2026-07-23T12:07:30.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "川普關稅恐成「新常態」？專家：美債壓力讓下任政府難放棄",
-      "link": "https://finance.technews.tw/2026/07/23/tariffs-will-long-outlive-trump/",
-      "isoDate": "2026-07-23T02:30:38.000Z",
-      "source": "科技新報",
+      "title": "可口可樂旗下乳製品品牌Fairlife遭駭，勒索軟體Anubis宣稱是他們所為",
+      "link": "https://www.ithome.com.tw/news/177552",
+      "isoDate": "2026-07-23T11:07:59.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "人形機器人租賃潮：租而不買的背後，是廠商搶建資料飛輪的商業邏輯",
-      "link": "https://techorange.com/2026/07/23/robots-available-for-rent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-23T02:25:05.000Z",
-      "source": "科技報橘",
-      "category": "產業"
+      "title": "開源威脅知識庫PR3TACK收錄潛在攻擊技術，協助資安團隊提前部署防禦",
+      "link": "https://www.ithome.com.tw/news/177546",
+      "isoDate": "2026-07-23T11:07:49.000Z",
+      "source": "iThome",
+      "category": "科技"
     }
   ]
 }
