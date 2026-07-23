@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-23T13:52:36.570Z",
+  "generated": "2026-07-23T15:53:56.924Z",
   "count": 5,
   "items": [
+    {
+      "title": "神祕天體 1998 SH2 軌道異常之謎解開，科學家首次直擊暗彗星活動",
+      "link": "https://technews.tw/2026/07/23/asteroid-that-strayed-off-course-turns-out-to-be-a-dark-comet/",
+      "isoDate": "2026-07-23T14:07:10.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "雅詩蘭黛終於證實Oracle EBS被駭，員工資料遭竊",
       "link": "https://www.ithome.com.tw/news/177556",
@@ -27,13 +34,6 @@
       "title": "可口可樂旗下乳製品品牌Fairlife遭駭，勒索軟體Anubis宣稱是他們所為",
       "link": "https://www.ithome.com.tw/news/177552",
       "isoDate": "2026-07-23T11:07:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "開源威脅知識庫PR3TACK收錄潛在攻擊技術，協助資安團隊提前部署防禦",
-      "link": "https://www.ithome.com.tw/news/177546",
-      "isoDate": "2026-07-23T11:07:49.000Z",
       "source": "iThome",
       "category": "科技"
     }
