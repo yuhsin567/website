@@ -1,41 +1,41 @@
 {
-  "generated": "2026-07-22T23:00:50.694Z",
+  "generated": "2026-07-23T02:33:17.985Z",
   "count": 5,
   "items": [
     {
-      "title": "BOSCH SD148 晶片助力 48V 架構，樹立車用控制單晶片新標竿",
-      "link": "https://technews.tw/2026/07/23/bosch-sd148-chip-48v-architecture-new-automotive-control-mcu-benchmark/",
-      "isoDate": "2026-07-22T23:00:26.000Z",
+      "title": "開源路由器韌體DD-WRT已知漏洞出現攻擊行動",
+      "link": "https://www.ithome.com.tw/news/177542",
+      "isoDate": "2026-07-23T10:07:24.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "網路間諜框架Project CAV3RN濫用Outlook行事曆，打造隱蔽C2通道",
+      "link": "https://www.ithome.com.tw/news/177541",
+      "isoDate": "2026-07-23T09:07:27.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI 打造 3.2 GW 電力巨獸，Project Camellia 啟動",
+      "link": "https://technews.tw/2026/07/23/openai-launches-project-camellia-3-2gw-power-behemoth/",
+      "isoDate": "2026-07-23T02:31:12.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】AI 競賽進入成本、產能與資本戰：台積電傳漲價 10％、緯創赴美量產 GB300",
-      "link": "https://techorange.com/2026/07/23/ai-cost-capacity-capital-tsmc-price-hike-wistron-gb300/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-22T21:30:00.000Z",
+      "title": "川普關稅恐成「新常態」？專家：美債壓力讓下任政府難放棄",
+      "link": "https://finance.technews.tw/2026/07/23/tariffs-will-long-outlive-trump/",
+      "isoDate": "2026-07-23T02:30:38.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "人形機器人租賃潮：租而不買的背後，是廠商搶建資料飛輪的商業邏輯",
+      "link": "https://techorange.com/2026/07/23/robots-available-for-rent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-23T02:25:05.000Z",
       "source": "科技報橘",
       "category": "產業"
-    },
-    {
-      "title": "黃仁勳：台廠因智慧信任與美合作　無須拿槍指著台灣的頭",
-      "link": "https://technews.tw/2026/07/22/jensen-huang-taiwan-firms-us-cooperation-intelligent-trust-no-gun-taiwan-head/",
-      "isoDate": "2026-07-22T13:54:50.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "三星 Galaxy Watch Ultra2、Galaxy Watch9 亮相",
-      "link": "https://technews.tw/2026/07/22/galaxy-watch-ultra2-galaxy-watch9/",
-      "isoDate": "2026-07-22T13:01:31.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Galaxy Z Fold8 換上全新螢幕比例，4：3 內頁打入寬摺疊市場",
-      "link": "https://technews.tw/2026/07/22/galaxy-z-fold8/",
-      "isoDate": "2026-07-22T13:00:49.000Z",
-      "source": "科技新報",
-      "category": "科技"
     }
   ]
 }
