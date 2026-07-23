@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-23T21:01:36.186Z",
+  "generated": "2026-07-23T22:54:04.126Z",
   "count": 5,
   "items": [
+    {
+      "title": "AMD：AI運算重心轉向推論，蘇姿丰：CPU需求增速甚至超越GPU",
+      "link": "https://www.ithome.com.tw/news/177586",
+      "isoDate": "2026-07-24T06:07:01.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "【美國AMD全球發表會直擊】AMD發表最新AI加速器及第六代EPYC處理器，挾Helios機櫃搶攻AI工廠市場",
       "link": "https://www.ithome.com.tw/news/177584",
@@ -10,31 +17,24 @@
       "category": "科技"
     },
     {
-      "title": "神祕天體 1998 SH2 軌道異常之謎解開，科學家首次直擊暗彗星活動",
-      "link": "https://technews.tw/2026/07/23/asteroid-that-strayed-off-course-turns-out-to-be-a-dark-comet/",
-      "isoDate": "2026-07-23T14:07:10.000Z",
+      "title": "蘇姿丰揭示未來藍圖，EPYC 與 Instinct 世代交替引領 AI 推論效能飆升 2,000 倍",
+      "link": "https://finance.technews.tw/2026/07/24/epyc-and-instinct-generational-shift/",
+      "isoDate": "2026-07-23T22:10:23.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "雅詩蘭黛終於證實Oracle EBS被駭，員工資料遭竊",
-      "link": "https://www.ithome.com.tw/news/177556",
-      "isoDate": "2026-07-23T12:07:59.000Z",
-      "source": "iThome",
+      "title": "AMD 發表 Ryzen AI Embedded X100 與 Kria AI 模組，全面布局實體 AI 機器人市場",
+      "link": "https://finance.technews.tw/2026/07/24/amd-unveils-ryzen-ai-embedded-x100-and-kria-ai-module/",
+      "isoDate": "2026-07-23T22:05:58.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Alphabet公布Q2財報，Gemini App每月活躍用戶數成長至9.5億",
-      "link": "https://www.ithome.com.tw/news/177554",
-      "isoDate": "2026-07-23T12:07:36.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Oracle發布2026年7月關鍵安全修補更新，共修補1,235個漏洞，含多個CVSS滿分重大漏洞",
-      "link": "https://www.ithome.com.tw/news/177555",
-      "isoDate": "2026-07-23T12:07:30.000Z",
-      "source": "iThome",
+      "title": "瞄準 NVIDIA Vera 而來！直擊 AMD 發表第六代 EPYC Venice 伺服器處理器",
+      "link": "https://finance.technews.tw/2026/07/24/live-coverage-of-amds-6th-generation-epyc-venice-server-processor-launch/",
+      "isoDate": "2026-07-23T22:05:55.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
