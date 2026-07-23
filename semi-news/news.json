@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-23T17:20:18.776Z",
+  "generated": "2026-07-23T19:13:16.189Z",
   "count": 5,
   "items": [
+    {
+      "title": "【美國AMD全球發表會直擊】AMD發表最新AI加速器及第六代EPYC處理器，挾Helio機櫃搶攻AI工廠市場",
+      "link": "https://www.ithome.com.tw/news/177584",
+      "isoDate": "2026-07-24T02:07:37.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "神祕天體 1998 SH2 軌道異常之謎解開，科學家首次直擊暗彗星活動",
       "link": "https://technews.tw/2026/07/23/asteroid-that-strayed-off-course-turns-out-to-be-a-dark-comet/",
@@ -27,13 +34,6 @@
       "title": "Oracle發布2026年7月關鍵安全修補更新，共修補1,235個漏洞，含多個CVSS滿分重大漏洞",
       "link": "https://www.ithome.com.tw/news/177555",
       "isoDate": "2026-07-23T12:07:30.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "可口可樂旗下乳製品品牌Fairlife遭駭，勒索軟體Anubis宣稱是他們所為",
-      "link": "https://www.ithome.com.tw/news/177552",
-      "isoDate": "2026-07-23T11:07:59.000Z",
       "source": "iThome",
       "category": "科技"
     }
