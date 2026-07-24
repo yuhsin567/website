@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T21:00:38.544Z",
+  "generated": "2026-07-24T22:59:12.258Z",
   "count": 5,
   "items": [
     {
@@ -8,6 +8,13 @@
       "isoDate": "2026-07-25T12:07:54.000Z",
       "source": "iThome",
       "category": "科技"
+    },
+    {
+      "title": "【企業資料主權的危機與行動策略】35% 企業重兵佈局「混合雲」，掌握資料主權是加速 AI 創新的底層引擎",
+      "link": "https://techorange.com/2026/07/25/data-sovereignty/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-24T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
     },
     {
       "title": "婚姻誓言擋不住虛擬感情，美婚前協議新趨勢納入 AI 不忠條款",
@@ -28,13 +35,6 @@
       "link": "https://technews.tw/2026/07/24/galactic-center-lobe/",
       "isoDate": "2026-07-24T14:30:27.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "資安業者警示Windmill漏洞遭實際利用，若未修補可能導致攻擊者讀取伺服器檔案",
-      "link": "https://www.ithome.com.tw/news/177601",
-      "isoDate": "2026-07-24T12:07:49.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
