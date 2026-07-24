@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-24T15:24:06.333Z",
+  "generated": "2026-07-24T17:28:31.352Z",
   "count": 5,
   "items": [
+    {
+      "title": "Google緊急更新Chrome 150版，修補4個高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/177624",
+      "isoDate": "2026-07-25T12:07:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "婚姻誓言擋不住虛擬感情，美婚前協議新趨勢納入 AI 不忠條款",
+      "link": "https://technews.tw/2026/07/25/virtual-affection-marriage-vows-ai-infidelity-us-prenup-trend/",
+      "isoDate": "2026-07-24T16:00:25.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "無人機玩家爭取「空拍權」！從台灣禁航區到國安疑慮，各國規定大不同",
+      "link": "https://infosecu.technews.tw/2026/07/25/drones-laws/",
+      "isoDate": "2026-07-24T16:00:07.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "困擾天文學家 40 年的銀河中心瓣，原來只是恆星的材料泡",
       "link": "https://technews.tw/2026/07/24/galactic-center-lobe/",
@@ -13,27 +34,6 @@
       "title": "資安業者警示Windmill漏洞遭實際利用，若未修補可能導致攻擊者讀取伺服器檔案",
       "link": "https://www.ithome.com.tw/news/177601",
       "isoDate": "2026-07-24T12:07:49.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "俄羅斯駭客利用Zimbra漏洞竊取郵件與雙因素認證碼",
-      "link": "https://www.ithome.com.tw/news/177600",
-      "isoDate": "2026-07-24T12:07:30.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "LG顯示器暗中透過Windows Update於用戶電腦安裝McAfee軟體試用版，微軟強力介入阻止",
-      "link": "https://www.ithome.com.tw/news/177597",
-      "isoDate": "2026-07-24T11:07:39.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "2026上半年漏洞揭露量增51%，供應鏈攻擊擴及軟體開發生態系",
-      "link": "https://www.ithome.com.tw/news/177593",
-      "isoDate": "2026-07-24T11:07:38.000Z",
       "source": "iThome",
       "category": "科技"
     }
