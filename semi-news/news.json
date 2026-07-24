@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-23T23:58:20.562Z",
+  "generated": "2026-07-24T03:24:18.166Z",
   "count": 5,
   "items": [
     {
-      "title": "AMD：AI運算重心轉向推論，蘇姿丰：CPU需求增速甚至超越GPU",
-      "link": "https://www.ithome.com.tw/news/177586",
-      "isoDate": "2026-07-24T06:07:01.000Z",
+      "title": "2026上半年漏洞揭露量增51%，供應鏈攻擊擴及軟體開發生態系",
+      "link": "https://www.ithome.com.tw/news/177593",
+      "isoDate": "2026-07-24T11:07:38.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "【美國AMD全球發表會直擊】AMD發表最新AI加速器及第六代EPYC處理器，挾Helios機櫃搶攻AI工廠市場",
-      "link": "https://www.ithome.com.tw/news/177584",
-      "isoDate": "2026-07-24T02:07:37.000Z",
+      "title": "OpenAI在美國公開推出ChatGPT Health，可串接病歷與Apple Health",
+      "link": "https://www.ithome.com.tw/news/177595",
+      "isoDate": "2026-07-24T11:07:35.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "淺談 2027 PC 市場：SoC 大軍來襲？",
-      "link": "https://technews.tw/2026/07/24/soc-attack-2027/",
-      "isoDate": "2026-07-23T23:50:38.000Z",
-      "source": "科技新報",
+      "title": "華碩修補路由器重大漏洞，攻擊者可透過偽造伺服器執行任意指令",
+      "link": "https://www.ithome.com.tw/news/177591",
+      "isoDate": "2026-07-24T10:07:45.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "突破設計瓶頸，LLNL 結合高效能運算與機器學習精準加速鋰、鈉電池研發",
-      "link": "https://technews.tw/2026/07/24/llnl-hpc-ml-break-design-bottlenecks-accelerate-lithium-sodium-battery-rd/",
-      "isoDate": "2026-07-23T23:40:15.000Z",
-      "source": "科技新報",
+      "title": "蘋果開放Apple Maps供車廠內建，福特2027年率先導入",
+      "link": "https://www.ithome.com.tw/news/177589",
+      "isoDate": "2026-07-24T10:07:17.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "杜拜政府：居民邀請親友造訪，可獲得價值 2.6 萬元旅遊禮包",
-      "link": "https://technews.tw/2026/07/24/a-dubai-invite/",
-      "isoDate": "2026-07-23T23:30:38.000Z",
-      "source": "科技新報",
+      "title": "北韓駭客Kimsuky入侵韓國協作軟體供應商，藉此攻擊下游客戶",
+      "link": "https://www.ithome.com.tw/news/177588",
+      "isoDate": "2026-07-24T10:07:13.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
