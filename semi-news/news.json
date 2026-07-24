@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-24T13:40:27.823Z",
+  "generated": "2026-07-24T15:24:06.333Z",
   "count": 5,
   "items": [
+    {
+      "title": "困擾天文學家 40 年的銀河中心瓣，原來只是恆星的材料泡",
+      "link": "https://technews.tw/2026/07/24/galactic-center-lobe/",
+      "isoDate": "2026-07-24T14:30:27.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "資安業者警示Windmill漏洞遭實際利用，若未修補可能導致攻擊者讀取伺服器檔案",
       "link": "https://www.ithome.com.tw/news/177601",
@@ -27,13 +34,6 @@
       "title": "2026上半年漏洞揭露量增51%，供應鏈攻擊擴及軟體開發生態系",
       "link": "https://www.ithome.com.tw/news/177593",
       "isoDate": "2026-07-24T11:07:38.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI在美國公開推出ChatGPT Health，可串接病歷與Apple Health",
-      "link": "https://www.ithome.com.tw/news/177595",
-      "isoDate": "2026-07-24T11:07:35.000Z",
       "source": "iThome",
       "category": "科技"
     }
