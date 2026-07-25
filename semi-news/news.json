@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-25T15:00:37.369Z",
+  "generated": "2026-07-25T16:54:28.543Z",
   "count": 5,
   "items": [
+    {
+      "title": "能計步、當開關還能變形，哈佛最新「多穩態」智慧布料顛覆穿戴裝置想像",
+      "link": "https://technews.tw/2026/07/26/harvard-multistability-smart-knitted-fabric/",
+      "isoDate": "2026-07-25T16:00:34.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病",
+      "link": "https://technews.tw/2026/07/26/ai-blood-test-detects-six-major-cardiovascular-diseases-15-years-early/",
+      "isoDate": "2026-07-25T16:00:12.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Fortinet 漏洞擴大，台企資安拉警報",
       "link": "https://infosecu.technews.tw/2026/07/25/fortinet-vulnerabilities-widen-raising-cybersecurity-alarm-taiwanese-companies/",
@@ -21,20 +35,6 @@
       "link": "https://www.ithome.com.tw/news/177624",
       "isoDate": "2026-07-25T12:07:54.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI 的未來，會不會建立在更高的電力成本上？",
-      "link": "https://technews.tw/2026/07/25/ai-future-higher-electricity-costs/",
-      "isoDate": "2026-07-25T09:01:31.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 與量子運算強強聯手，丹麥團隊精準打造新世代胜肽",
-      "link": "https://technews.tw/2026/07/25/ai-quantum-computing-crafts-next-generation-peptides/",
-      "isoDate": "2026-07-25T07:33:47.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
