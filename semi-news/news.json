@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T22:59:12.258Z",
+  "generated": "2026-07-25T00:11:25.503Z",
   "count": 5,
   "items": [
     {
@@ -7,6 +7,13 @@
       "link": "https://www.ithome.com.tw/news/177624",
       "isoDate": "2026-07-25T12:07:54.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "逛超市逛出「全球唯一」生技專利，瑞磁獨家技術獲 FDA 認證，長征 18 年首度虧轉盈",
+      "link": "https://finance.technews.tw/2026/07/25/applied-biocodesupermarket-inspired-globally-unique-biotech-patent-exclusive-fda-approval-first-profit-18-year/",
+      "isoDate": "2026-07-25T00:00:42.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
@@ -27,13 +34,6 @@
       "title": "無人機玩家爭取「空拍權」！從台灣禁航區到國安疑慮，各國規定大不同",
       "link": "https://infosecu.technews.tw/2026/07/25/drones-laws/",
       "isoDate": "2026-07-24T16:00:07.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "困擾天文學家 40 年的銀河中心瓣，原來只是恆星的材料泡",
-      "link": "https://technews.tw/2026/07/24/galactic-center-lobe/",
-      "isoDate": "2026-07-24T14:30:27.000Z",
       "source": "科技新報",
       "category": "科技"
     }
