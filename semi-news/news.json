@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-25T13:20:44.002Z",
+  "generated": "2026-07-25T15:00:37.369Z",
   "count": 5,
   "items": [
+    {
+      "title": "Fortinet 漏洞擴大，台企資安拉警報",
+      "link": "https://infosecu.technews.tw/2026/07/25/fortinet-vulnerabilities-widen-raising-cybersecurity-alarm-taiwanese-companies/",
+      "isoDate": "2026-07-25T14:38:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "日本 ATT12 望遠鏡落腳南極，預計揭開千萬個塵封星系誕生之謎",
+      "link": "https://technews.tw/2026/07/25/antarctic-12-m-terahertz-telescope/",
+      "isoDate": "2026-07-25T14:38:01.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Google緊急更新Chrome 150版，修補4個高風險漏洞",
       "link": "https://www.ithome.com.tw/news/177624",
@@ -20,20 +34,6 @@
       "title": "AI 與量子運算強強聯手，丹麥團隊精準打造新世代胜肽",
       "link": "https://technews.tw/2026/07/25/ai-quantum-computing-crafts-next-generation-peptides/",
       "isoDate": "2026-07-25T07:33:47.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "美 301 關稅正式生效，台灣稅率保底 10%、五大豁免條件一次看",
-      "link": "https://finance.technews.tw/2026/07/25/us-301-tariffs-effective-taiwan-10-percent-minimum-5-exemption-conditions/",
-      "isoDate": "2026-07-25T07:00:47.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AR 眼鏡不再「擋視線」，跨國團隊全新遮罩技術讓虛擬與現實完美融合",
-      "link": "https://technews.tw/2026/07/25/ar-glasses-no-longer-obstruct-view/",
-      "isoDate": "2026-07-25T06:48:08.000Z",
       "source": "科技新報",
       "category": "科技"
     }
