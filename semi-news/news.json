@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-26T09:11:16.389Z",
+  "generated": "2026-07-26T11:17:43.676Z",
   "count": 5,
   "items": [
+    {
+      "title": "聯準會「鷹」霾未散欠投資！瑞銀財管 CIO 估黃金將下探 3,850 美元",
+      "link": "https://finance.technews.tw/2026/07/26/lack-of-investment/",
+      "isoDate": "2026-07-26T09:16:26.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "攜手民間登月球踏火星，NASA 啟動 41 項前瞻太空技術合作案",
       "link": "https://technews.tw/2026/07/26/nasa-41-space-lunar-mars/",
@@ -27,13 +34,6 @@
       "title": "Google 前產品主管創「Ghost Font」，人眼可見但 AI 一頭霧水",
       "link": "https://infosecu.technews.tw/2026/07/26/ghost-font-the-anti-ai-font-only-humans-can-read/",
       "isoDate": "2026-07-26T06:00:27.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "神雲科技搭載第六代 AMD EPYC  伺服器處理器，推進代理式 AI 基礎架構",
-      "link": "https://technews.tw/2026/07/26/mitac-gen6-amd-epyc-server/",
-      "isoDate": "2026-07-26T06:00:21.000Z",
       "source": "科技新報",
       "category": "科技"
     }
