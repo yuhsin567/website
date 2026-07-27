@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-27T02:43:23.868Z",
+  "generated": "2026-07-27T06:27:59.646Z",
   "count": 5,
   "items": [
     {
-      "title": "Suno遭駭外洩郵件與付款資料，波及5,530萬個帳號",
-      "link": "https://www.ithome.com.tw/news/177625",
-      "isoDate": "2026-07-27T10:07:19.000Z",
+      "title": "非人類身分治理成企業新課題，CSA發布NHI治理報告",
+      "link": "https://www.ithome.com.tw/news/177637",
+      "isoDate": "2026-07-27T12:07:21.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "OpenJDK有望內建JSON API，簡單處理可免用外部函式庫",
-      "link": "https://www.ithome.com.tw/news/177623",
-      "isoDate": "2026-07-27T08:07:16.000Z",
+      "title": "拒絕旁觀！網路詐騙通報查詢網展現公私協力，8位熱心民眾通報破萬件，下一步聚焦廣告生態系聯防",
+      "link": "https://www.ithome.com.tw/news/177634",
+      "isoDate": "2026-07-27T12:07:09.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "黃仁勳：半導體短期不會衰退，這波成長「不一樣」非景氣循環",
-      "link": "https://technews.tw/2026/07/27/nvidia-ceo-jensen-huang-denies-the-chip-boom-will-go-bust-soon-and-actually-utters-the-infamous-phrase-this-time-is-different/",
-      "isoDate": "2026-07-27T02:40:30.000Z",
-      "source": "科技新報",
+      "title": "FreePBX修補兩項重大漏洞，攻擊者可遠端執行指令或接管管理員帳號",
+      "link": "https://www.ithome.com.tw/news/177635",
+      "isoDate": "2026-07-27T12:07:07.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "長鑫存儲上市首日股價一度大漲 471.6%，躍居中國市值最高上市企業",
-      "link": "https://finance.technews.tw/2026/07/27/changxin-memorys-stock-price-surged-by-as-much-as-471-6-on-its-first-day-of-trading/",
-      "isoDate": "2026-07-27T02:30:44.000Z",
-      "source": "科技新報",
+      "title": "研究人員揭露Claude Cowork沙箱逃逸漏洞，可導致AI代理讀寫Mac主機檔案",
+      "link": "https://www.ithome.com.tw/news/177638",
+      "isoDate": "2026-07-27T12:07:02.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "英國 AI 副大臣：晶片製造和硬體建設是再工業化重點",
-      "link": "https://technews.tw/2026/07/27/chips-and-drones-to-be-at-heart-of-andy-burnhams-push-to-reindustrialise-ai-minister-says/",
-      "isoDate": "2026-07-27T02:30:28.000Z",
-      "source": "科技新報",
+      "title": "中國駭客組織JadeProx利用惡意程式TriBack Loader攻擊政府與醫療機構",
+      "link": "https://www.ithome.com.tw/news/177632",
+      "isoDate": "2026-07-27T11:07:45.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
