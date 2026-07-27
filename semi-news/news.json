@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-26T23:01:59.189Z",
+  "generated": "2026-07-27T02:43:23.868Z",
   "count": 5,
   "items": [
     {
-      "title": "全球儲能產業發展趨勢：政策、法規與標準化",
-      "link": "https://technews.tw/2026/07/27/global-energy-storage-industry-development-trends-policies-regulations-standardization/",
-      "isoDate": "2026-07-26T23:00:37.000Z",
+      "title": "Suno遭駭外洩郵件與付款資料，波及5,530萬個帳號",
+      "link": "https://www.ithome.com.tw/news/177625",
+      "isoDate": "2026-07-27T10:07:19.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "OpenJDK有望內建JSON API，簡單處理可免用外部函式庫",
+      "link": "https://www.ithome.com.tw/news/177623",
+      "isoDate": "2026-07-27T08:07:16.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "黃仁勳：半導體短期不會衰退，這波成長「不一樣」非景氣循環",
+      "link": "https://technews.tw/2026/07/27/nvidia-ceo-jensen-huang-denies-the-chip-boom-will-go-bust-soon-and-actually-utters-the-infamous-phrase-this-time-is-different/",
+      "isoDate": "2026-07-27T02:40:30.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】AI 資本競賽加速：美韓合作上看 9,500 億美元，四巨頭支出達 7,250 億美元",
-      "link": "https://techorange.com/2026/07/27/ai-capital-race-korea-us-big-tech-spending/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-26T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "聯準會「鷹」霾未散欠投資！瑞銀財管 CIO 估黃金將下探 3,850 美元",
-      "link": "https://finance.technews.tw/2026/07/26/lack-of-investment/",
-      "isoDate": "2026-07-26T09:16:26.000Z",
+      "title": "長鑫存儲上市首日股價一度大漲 471.6%，躍居中國市值最高上市企業",
+      "link": "https://finance.technews.tw/2026/07/27/changxin-memorys-stock-price-surged-by-as-much-as-471-6-on-its-first-day-of-trading/",
+      "isoDate": "2026-07-27T02:30:44.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "攜手民間登月球踏火星，NASA 啟動 41 項前瞻太空技術合作案",
-      "link": "https://technews.tw/2026/07/26/nasa-41-space-lunar-mars/",
-      "isoDate": "2026-07-26T07:31:48.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "外資狂掃緯創連五紅！這六檔「高瑋創含量 ETF」最高報酬飆破 5%",
-      "link": "https://finance.technews.tw/2026/07/26/innovation-etf/",
-      "isoDate": "2026-07-26T07:15:25.000Z",
+      "title": "英國 AI 副大臣：晶片製造和硬體建設是再工業化重點",
+      "link": "https://technews.tw/2026/07/27/chips-and-drones-to-be-at-heart-of-andy-burnhams-push-to-reindustrialise-ai-minister-says/",
+      "isoDate": "2026-07-27T02:30:28.000Z",
       "source": "科技新報",
       "category": "科技"
     }
