@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-27T20:20:43.179Z",
+  "generated": "2026-07-27T22:04:40.471Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】NVIDIA 傳為 OpenAI 擔保 2,500 億美元，AI 算力戰從晶片打到融資",
+      "link": "https://techorange.com/2026/07/28/nvidia-openai-ai-data-center-financing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-27T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "非人類身分治理成企業新課題，CSA發布NHI治理報告",
       "link": "https://www.ithome.com.tw/news/177637",
@@ -27,13 +34,6 @@
       "title": "研究人員揭露Claude Cowork沙箱逃逸漏洞，可導致AI代理讀寫Mac主機檔案",
       "link": "https://www.ithome.com.tw/news/177638",
       "isoDate": "2026-07-27T12:07:02.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國駭客組織JadeProx利用惡意程式TriBack Loader攻擊政府與醫療機構",
-      "link": "https://www.ithome.com.tw/news/177632",
-      "isoDate": "2026-07-27T11:07:45.000Z",
       "source": "iThome",
       "category": "科技"
     }
