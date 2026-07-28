@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-28T04:07:09.390Z",
+  "generated": "2026-07-28T07:36:17.473Z",
   "count": 5,
   "items": [
+    {
+      "title": "惡意廣告攻擊出現新手法，駭客分次傳送惡意程式資料，再由瀏覽器組裝執行",
+      "link": "https://www.ithome.com.tw/news/177679",
+      "isoDate": "2026-07-28T12:07:46.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "攻擊活動Operation BlueDash透過假Teams更新控制受害電腦",
+      "link": "https://www.ithome.com.tw/news/177680",
+      "isoDate": "2026-07-28T12:07:40.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic執行長否認支持開放權重AI禁令，主張管制晶片與模型蒸餾",
+      "link": "https://www.ithome.com.tw/news/177681",
+      "isoDate": "2026-07-28T12:07:14.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Redis發布7個更新版本，因應AI模型Kimi K3發現的遠端執行程式碼重大漏洞",
+      "link": "https://www.ithome.com.tw/news/177682",
+      "isoDate": "2026-07-28T12:07:01.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Nvidia偕大廠、Linux基金會合組開放安全AI聯盟，以開源技術修補AI漏洞",
       "link": "https://www.ithome.com.tw/news/177677",
       "isoDate": "2026-07-28T11:07:49.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Qualys揭露潛伏9年的Linux核心漏洞RefluXFS，可能影響全球超過1,640萬臺主機",
-      "link": "https://www.ithome.com.tw/news/177678",
-      "isoDate": "2026-07-28T11:07:35.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "歐洲發布EN 18286標準，協助高風險AI業者因應歐盟AI法案",
-      "link": "https://www.ithome.com.tw/news/177674",
-      "isoDate": "2026-07-28T11:07:24.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Moonshot AI釋出Kimi K3完整權重，參數規模達2.8兆",
-      "link": "https://www.ithome.com.tw/news/177676",
-      "isoDate": "2026-07-28T11:07:14.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "萬達寵物發布資安重訊，指出合作廠商遭駭疑似導致個資外洩",
-      "link": "https://www.ithome.com.tw/news/177675",
-      "isoDate": "2026-07-28T11:07:06.000Z",
       "source": "iThome",
       "category": "科技"
     }
