@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T22:56:05.161Z",
+  "generated": "2026-07-28T23:58:01.603Z",
   "count": 5,
   "items": [
     {
@@ -10,31 +10,31 @@
       "category": "科技"
     },
     {
-      "title": "Bloom Energy 第二季營收首破 10 億美元，客戶包含所有美國大型雲端業者",
-      "link": "https://technews.tw/2026/07/29/bloom-energy-q2-revenue-exceeds-1-billion-ai-data-center-demand-boosts-full-year-outlook/",
-      "isoDate": "2026-07-28T21:36:17.000Z",
+      "title": "不只是贊助商，Google Cloud 如何用 Formula E 給自己的 AI 做壓力測試",
+      "link": "https://technews.tw/2026/07/29/formula-e-google-cloud/",
+      "isoDate": "2026-07-28T23:50:32.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】NVIDIA 傳承租 1 GW AI 資料中心，全球晶片銷售上看 1.5 兆美元",
-      "link": "https://techorange.com/2026/07/29/nvidia-1gw-ai-data-center-global-chip-sales/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-28T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "中國 DUV 交付消息引發半導體連鎖殺盤效應，專家解析真相指劃錯重點",
-      "link": "https://finance.technews.tw/2026/07/28/news-of-chinas-duv-delivery-triggers-a-chain-reaction-in-the-semiconductor-industry/",
-      "isoDate": "2026-07-28T13:50:36.000Z",
+      "title": "對付登革熱，斯里蘭卡動用無人機",
+      "link": "https://technews.tw/2026/07/29/sri-lanka-uses-air-force-drones-to-tackle-spreading-dengue-outbreak/",
+      "isoDate": "2026-07-28T23:30:55.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "惡意廣告攻擊出現新手法，駭客分次傳送惡意程式資料，再由瀏覽器組裝執行",
-      "link": "https://www.ithome.com.tw/news/177679",
-      "isoDate": "2026-07-28T12:07:46.000Z",
-      "source": "iThome",
+      "title": "無怪魏哲家羨慕！SK 海力士第二季營收獲利再創新高，淨利率達驚人 118%",
+      "link": "https://finance.technews.tw/2026/07/29/sk-hynixs-revenue-and-profit-hit-new-highs-in-the-second-quarter/",
+      "isoDate": "2026-07-28T23:30:01.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "你沒說的它都知道，四句提示詞測出 AI 已能從零星對話精準推斷使用者隱私",
+      "link": "https://infosecu.technews.tw/2026/07/29/4-prompts-chatgpt-gemini-see-through-privacy/",
+      "isoDate": "2026-07-28T23:20:46.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
