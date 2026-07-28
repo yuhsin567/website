@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-28T21:04:58.436Z",
+  "generated": "2026-07-28T22:56:05.161Z",
   "count": 5,
   "items": [
+    {
+      "title": "Anthropic反對全面禁用開放權重模型，主張從晶片、蒸餾與測試控管風險",
+      "link": "https://www.ithome.com.tw/news/177701",
+      "isoDate": "2026-07-29T05:07:53.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Bloom Energy 第二季營收首破 10 億美元，客戶包含所有美國大型雲端業者",
+      "link": "https://technews.tw/2026/07/29/bloom-energy-q2-revenue-exceeds-1-billion-ai-data-center-demand-boosts-full-year-outlook/",
+      "isoDate": "2026-07-28T21:36:17.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】NVIDIA 傳承租 1 GW AI 資料中心，全球晶片銷售上看 1.5 兆美元",
+      "link": "https://techorange.com/2026/07/29/nvidia-1gw-ai-data-center-global-chip-sales/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-28T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "中國 DUV 交付消息引發半導體連鎖殺盤效應，專家解析真相指劃錯重點",
       "link": "https://finance.technews.tw/2026/07/28/news-of-chinas-duv-delivery-triggers-a-chain-reaction-in-the-semiconductor-industry/",
@@ -13,27 +34,6 @@
       "title": "惡意廣告攻擊出現新手法，駭客分次傳送惡意程式資料，再由瀏覽器組裝執行",
       "link": "https://www.ithome.com.tw/news/177679",
       "isoDate": "2026-07-28T12:07:46.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "攻擊活動Operation BlueDash透過假Teams更新控制受害電腦",
-      "link": "https://www.ithome.com.tw/news/177680",
-      "isoDate": "2026-07-28T12:07:40.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic執行長否認支持開放權重AI禁令，主張管制晶片與模型蒸餾",
-      "link": "https://www.ithome.com.tw/news/177681",
-      "isoDate": "2026-07-28T12:07:14.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Redis發布7個更新版本，因應AI模型Kimi K3發現的遠端執行程式碼重大漏洞",
-      "link": "https://www.ithome.com.tw/news/177682",
-      "isoDate": "2026-07-28T12:07:01.000Z",
       "source": "iThome",
       "category": "科技"
     }
