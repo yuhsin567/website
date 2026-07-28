@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-28T00:00:51.970Z",
+  "generated": "2026-07-28T04:07:09.390Z",
   "count": 5,
   "items": [
     {
-      "title": "當供應鏈、資料中心同時停擺，企業準備好面對下次資安危機了嗎？",
-      "link": "https://finance.technews.tw/2026/07/28/what-happens-if-china-hacks-the-us-water-supply/",
-      "isoDate": "2026-07-28T00:00:12.000Z",
-      "source": "科技新報",
+      "title": "Nvidia偕大廠、Linux基金會合組開放安全AI聯盟，以開源技術修補AI漏洞",
+      "link": "https://www.ithome.com.tw/news/177677",
+      "isoDate": "2026-07-28T11:07:49.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 模型也需要接受安全檢查？歐盟打造全球 AI 資安治理新標準",
-      "link": "https://infosecu.technews.tw/2026/07/28/the-eu-adopts-a-plan-to-address-ai-risks-and-cyber-threats/",
-      "isoDate": "2026-07-27T23:50:08.000Z",
-      "source": "科技新報",
+      "title": "Qualys揭露潛伏9年的Linux核心漏洞RefluXFS，可能影響全球超過1,640萬臺主機",
+      "link": "https://www.ithome.com.tw/news/177678",
+      "isoDate": "2026-07-28T11:07:35.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "破解「量子專屬」神話，科學家僅用普通筆電成功挑戰高難度量子運算",
-      "link": "https://technews.tw/2026/07/28/laptops-solve-quantum-problems/",
-      "isoDate": "2026-07-27T23:40:20.000Z",
-      "source": "科技新報",
+      "title": "歐洲發布EN 18286標準，協助高風險AI業者因應歐盟AI法案",
+      "link": "https://www.ithome.com.tw/news/177674",
+      "isoDate": "2026-07-28T11:07:24.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "GLP-1 減肥藥可望對抗主要物質成癮問題，科學家找到大腦關鍵機制",
-      "link": "https://technews.tw/2026/07/28/prenups-are-confronting-a-new-question-can-you-cheat-with-ai/",
-      "isoDate": "2026-07-27T23:30:52.000Z",
-      "source": "科技新報",
+      "title": "Moonshot AI釋出Kimi K3完整權重，參數規模達2.8兆",
+      "link": "https://www.ithome.com.tw/news/177676",
+      "isoDate": "2026-07-28T11:07:14.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "英學者打造低成本 3D 列印「鐵基液流電池」，開源設計加速綠能普及",
-      "link": "https://technews.tw/2026/07/28/3d-printed-iron-based-battery/",
-      "isoDate": "2026-07-27T23:20:21.000Z",
-      "source": "科技新報",
+      "title": "萬達寵物發布資安重訊，指出合作廠商遭駭疑似導致個資外洩",
+      "link": "https://www.ithome.com.tw/news/177675",
+      "isoDate": "2026-07-28T11:07:06.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
