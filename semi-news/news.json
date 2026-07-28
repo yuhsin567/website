@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-27T22:04:40.471Z",
+  "generated": "2026-07-28T00:00:51.970Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】NVIDIA 傳為 OpenAI 擔保 2,500 億美元，AI 算力戰從晶片打到融資",
-      "link": "https://techorange.com/2026/07/28/nvidia-openai-ai-data-center-financing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-27T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "非人類身分治理成企業新課題，CSA發布NHI治理報告",
-      "link": "https://www.ithome.com.tw/news/177637",
-      "isoDate": "2026-07-27T12:07:21.000Z",
-      "source": "iThome",
+      "title": "當供應鏈、資料中心同時停擺，企業準備好面對下次資安危機了嗎？",
+      "link": "https://finance.technews.tw/2026/07/28/what-happens-if-china-hacks-the-us-water-supply/",
+      "isoDate": "2026-07-28T00:00:12.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "拒絕旁觀！網路詐騙通報查詢網展現公私協力，8位熱心民眾通報破萬件，下一步聚焦廣告生態系聯防",
-      "link": "https://www.ithome.com.tw/news/177634",
-      "isoDate": "2026-07-27T12:07:09.000Z",
-      "source": "iThome",
+      "title": "AI 模型也需要接受安全檢查？歐盟打造全球 AI 資安治理新標準",
+      "link": "https://infosecu.technews.tw/2026/07/28/the-eu-adopts-a-plan-to-address-ai-risks-and-cyber-threats/",
+      "isoDate": "2026-07-27T23:50:08.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "FreePBX修補兩項重大漏洞，攻擊者可遠端執行指令或接管管理員帳號",
-      "link": "https://www.ithome.com.tw/news/177635",
-      "isoDate": "2026-07-27T12:07:07.000Z",
-      "source": "iThome",
+      "title": "破解「量子專屬」神話，科學家僅用普通筆電成功挑戰高難度量子運算",
+      "link": "https://technews.tw/2026/07/28/laptops-solve-quantum-problems/",
+      "isoDate": "2026-07-27T23:40:20.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "研究人員揭露Claude Cowork沙箱逃逸漏洞，可導致AI代理讀寫Mac主機檔案",
-      "link": "https://www.ithome.com.tw/news/177638",
-      "isoDate": "2026-07-27T12:07:02.000Z",
-      "source": "iThome",
+      "title": "GLP-1 減肥藥可望對抗主要物質成癮問題，科學家找到大腦關鍵機制",
+      "link": "https://technews.tw/2026/07/28/prenups-are-confronting-a-new-question-can-you-cheat-with-ai/",
+      "isoDate": "2026-07-27T23:30:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "英學者打造低成本 3D 列印「鐵基液流電池」，開源設計加速綠能普及",
+      "link": "https://technews.tw/2026/07/28/3d-printed-iron-based-battery/",
+      "isoDate": "2026-07-27T23:20:21.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
