@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-28T12:51:44.977Z",
+  "generated": "2026-07-28T15:18:47.676Z",
   "count": 5,
   "items": [
+    {
+      "title": "中國 DUV 交付消息引發半導體連鎖殺盤效應，專家解析真相指劃錯重點",
+      "link": "https://finance.technews.tw/2026/07/28/news-of-chinas-duv-delivery-triggers-a-chain-reaction-in-the-semiconductor-industry/",
+      "isoDate": "2026-07-28T13:50:36.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "惡意廣告攻擊出現新手法，駭客分次傳送惡意程式資料，再由瀏覽器組裝執行",
       "link": "https://www.ithome.com.tw/news/177679",
@@ -27,13 +34,6 @@
       "title": "Redis發布7個更新版本，因應AI模型Kimi K3發現的遠端執行程式碼重大漏洞",
       "link": "https://www.ithome.com.tw/news/177682",
       "isoDate": "2026-07-28T12:07:01.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia偕大廠、Linux基金會合組開放安全AI聯盟，以開源技術修補AI漏洞",
-      "link": "https://www.ithome.com.tw/news/177677",
-      "isoDate": "2026-07-28T11:07:49.000Z",
       "source": "iThome",
       "category": "科技"
     }
