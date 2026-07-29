@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-29T20:11:32.778Z",
+  "generated": "2026-07-29T21:59:05.923Z",
   "count": 5,
   "items": [
+    {
+      "title": "GitHub導入OpenSSF跨生態系資料，Dependabot惡意套件警示擴及PyPI",
+      "link": "https://www.ithome.com.tw/news/177730",
+      "isoDate": "2026-07-30T05:07:09.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】中國傳啟動國產 DUV、美國封殺中國機器人，AI 供應鏈進入管制與長約戰",
+      "link": "https://techorange.com/2026/07/30/china-duv-us-robot-ban-ai-memory-contracts/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-29T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "高階 AOI 出貨穩定，牧德上半年 EPS 達 9.8 元",
       "link": "https://technews.tw/2026/07/29/mustek-stable-first-half-profits-increased-high-end-product-share/",
@@ -20,20 +34,6 @@
       "title": "網路釣魚成2026年第2季主要初始入侵手法，身分驗證濫用威脅升溫",
       "link": "https://www.ithome.com.tw/news/177716",
       "isoDate": "2026-07-29T12:07:53.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "CREST推出AI輔助資安服務認證，納入AI治理與滲透測試要求",
-      "link": "https://www.ithome.com.tw/news/177715",
-      "isoDate": "2026-07-29T12:07:45.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟對AD CS Certighost權限提升漏洞修補提出進一步說明，建議企業優先更新CA伺服器",
-      "link": "https://www.ithome.com.tw/news/177714",
-      "isoDate": "2026-07-29T12:07:22.000Z",
       "source": "iThome",
       "category": "科技"
     }
