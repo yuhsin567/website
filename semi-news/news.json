@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-29T03:13:29.431Z",
+  "generated": "2026-07-29T06:28:47.117Z",
   "count": 5,
   "items": [
     {
-      "title": "逾千名AI業界人士連署，籲美國建立放慢頂尖AI發展機制",
-      "link": "https://www.ithome.com.tw/news/177706",
-      "isoDate": "2026-07-29T11:07:02.000Z",
+      "title": "網路釣魚成2026年第2季主要初始入侵手法，身分驗證濫用威脅升溫",
+      "link": "https://www.ithome.com.tw/news/177716",
+      "isoDate": "2026-07-29T12:07:53.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "JetBrains讓AI代理直接使用Rider分析工具，能找測試、查瓶頸與重構程式",
-      "link": "https://www.ithome.com.tw/news/177703",
-      "isoDate": "2026-07-29T10:07:27.000Z",
+      "title": "CREST推出AI輔助資安服務認證，納入AI治理與滲透測試要求",
+      "link": "https://www.ithome.com.tw/news/177715",
+      "isoDate": "2026-07-29T12:07:45.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Anthropic反對全面禁用開放權重模型，主張從晶片、蒸餾與測試控管風險",
-      "link": "https://www.ithome.com.tw/news/177701",
-      "isoDate": "2026-07-29T05:07:53.000Z",
+      "title": "微軟對AD CS Certighost權限提升漏洞修補提出進一步說明，建議企業優先更新CA伺服器",
+      "link": "https://www.ithome.com.tw/news/177714",
+      "isoDate": "2026-07-29T12:07:22.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 帶旺儲存需求  希捷 Q4 營收獲利雙贏，盤後勁揚 6%",
-      "link": "https://finance.technews.tw/2026/07/29/seagate-beats-on-q4-revenue-and-profit-jumps-6-after-hours/",
-      "isoDate": "2026-07-29T03:10:19.000Z",
-      "source": "科技新報",
+      "title": "勒索軟體停用端點防護手法普及，最快不到一小時部署勒索軟體",
+      "link": "https://www.ithome.com.tw/news/177713",
+      "isoDate": "2026-07-29T12:07:04.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "刺透奈米極限直攻 Å 世代！衡信斥資 6 億進駐竹科破解次奈米晶片缺陷",
-      "link": "https://finance.technews.tw/2026/07/29/a-generation/",
-      "isoDate": "2026-07-29T03:01:28.000Z",
-      "source": "科技新報",
+      "title": "Perplexity AI公布Windows版Personal Computer自主代理人",
+      "link": "https://www.ithome.com.tw/news/177712",
+      "isoDate": "2026-07-29T12:07:03.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
