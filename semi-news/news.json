@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-29T11:59:24.226Z",
+  "generated": "2026-07-29T14:26:39.174Z",
   "count": 5,
   "items": [
+    {
+      "title": "高階 AOI 出貨穩定，牧德上半年 EPS 達 9.8 元",
+      "link": "https://technews.tw/2026/07/29/mustek-stable-first-half-profits-increased-high-end-product-share/",
+      "isoDate": "2026-07-29T13:44:42.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "汲取黑洞能量打造終極運算，科學家探討「戴森大腦」宇宙資料中心成真可能",
+      "link": "https://technews.tw/2026/07/29/could-alien-technology-exist-around-black-holes/",
+      "isoDate": "2026-07-29T13:40:06.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "網路釣魚成2026年第2季主要初始入侵手法，身分驗證濫用威脅升溫",
       "link": "https://www.ithome.com.tw/news/177716",
@@ -20,20 +34,6 @@
       "title": "微軟對AD CS Certighost權限提升漏洞修補提出進一步說明，建議企業優先更新CA伺服器",
       "link": "https://www.ithome.com.tw/news/177714",
       "isoDate": "2026-07-29T12:07:22.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "勒索軟體停用端點防護手法普及，最快不到一小時部署勒索軟體",
-      "link": "https://www.ithome.com.tw/news/177713",
-      "isoDate": "2026-07-29T12:07:04.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Perplexity AI公布Windows版Personal Computer自主代理人",
-      "link": "https://www.ithome.com.tw/news/177712",
-      "isoDate": "2026-07-29T12:07:03.000Z",
       "source": "iThome",
       "category": "科技"
     }
