@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-30T21:07:19.648Z",
+  "generated": "2026-07-30T23:04:13.558Z",
   "count": 5,
   "items": [
+    {
+      "title": "因應印太戰場，美軍要開發垂直起降戰略轟炸機與 B-21 互補",
+      "link": "https://technews.tw/2026/07/31/usaf-wants-vtol-strategic-bomber/",
+      "isoDate": "2026-07-30T23:00:59.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "台積電第二季法說會觀察：CapEx 二度上修至 640 億美元，同步推動先進製程與全球布局",
+      "link": "https://finance.technews.tw/2026/07/31/tsmc-q2-earnings-call-observations-capex-revised-upwards-second-time-64-billion-boosting-advanced-process-global-expansion/",
+      "isoDate": "2026-07-30T23:00:33.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】AI 算力仍供不應求：Microsoft Azure 年營收破千億美元、Meta 投資上看 1,450 億美元",
+      "link": "https://techorange.com/2026/07/31/ai-compute-demand-microsoft-azure-meta-capex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-30T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "失蹤的宇宙物質找到了，科學家用快速電波爆發揭開謎團",
       "link": "https://technews.tw/2026/07/30/frbs-help-solve-the-mystery-of-the-universe-missing-baryons/",
@@ -14,27 +35,6 @@
       "link": "https://finance.technews.tw/2026/07/30/three-arrows-to-rescue-the-market/",
       "isoDate": "2026-07-30T13:36:01.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "美國FCC禁售外國人形機器人、太陽能變流器",
-      "link": "https://www.ithome.com.tw/news/177750",
-      "isoDate": "2026-07-30T12:07:46.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "勒索軟體利用金流匿蹤、AI助攻釣魚入侵，資安署示警臺灣企業不能再心存僥倖",
-      "link": "https://www.ithome.com.tw/news/177748",
-      "isoDate": "2026-07-30T12:07:44.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "資安業者盤點全球暴露於IPMI漏洞風險的伺服器，臺灣也有319臺入列",
-      "link": "https://www.ithome.com.tw/news/177751",
-      "isoDate": "2026-07-30T12:07:31.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
