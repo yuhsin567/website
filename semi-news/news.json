@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T05:38:55.903Z",
+  "generated": "2026-07-30T08:22:53.816Z",
   "count": 5,
   "items": [
     {
@@ -17,6 +17,13 @@
       "category": "科技"
     },
     {
+      "title": "資安業者盤點全球暴露於IPMI漏洞風險的伺服器，臺灣也有319臺入列",
+      "link": "https://www.ithome.com.tw/news/177751",
+      "isoDate": "2026-07-30T12:07:31.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
       "title": "北韓駭客假面試攻擊，SVG圖檔藏惡意程式竊取開發者資料",
       "link": "https://www.ithome.com.tw/news/177743",
       "isoDate": "2026-07-30T12:07:29.000Z",
@@ -24,16 +31,9 @@
       "category": "科技"
     },
     {
-      "title": "Google發布Chrome 151穩定版，修補370個漏洞",
-      "link": "https://www.ithome.com.tw/news/177746",
-      "isoDate": "2026-07-30T11:07:58.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "博通修補VMware三項重大漏洞，攻擊者恐繞過身分驗證，或在vCenter與ESX主機執行程式碼",
-      "link": "https://www.ithome.com.tw/news/177745",
-      "isoDate": "2026-07-30T11:07:38.000Z",
+      "title": "俄羅斯駭客Laundry Bear攻擊Exchange用戶，藉由半點擊漏洞散布惡意程式OWAReaper",
+      "link": "https://www.ithome.com.tw/news/177749",
+      "isoDate": "2026-07-30T12:07:07.000Z",
       "source": "iThome",
       "category": "科技"
     }
