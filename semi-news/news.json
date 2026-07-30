@@ -1,40 +1,40 @@
 {
-  "generated": "2026-07-30T02:09:50.579Z",
+  "generated": "2026-07-30T05:38:55.903Z",
   "count": 5,
   "items": [
     {
-      "title": "CISA將思科防火牆管理平臺FMC零時差漏洞列KEV",
-      "link": "https://www.ithome.com.tw/news/177738",
-      "isoDate": "2026-07-30T09:07:43.000Z",
+      "title": "美國FCC禁售外國人形機器人、太陽能變流器",
+      "link": "https://www.ithome.com.tw/news/177750",
+      "isoDate": "2026-07-30T12:07:46.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "思科防火牆管理軟體存在遭積極利用的資安漏洞",
-      "link": "https://www.ithome.com.tw/news/177737",
-      "isoDate": "2026-07-30T09:07:24.000Z",
+      "title": "勒索軟體利用金流匿蹤、AI助攻釣魚入侵，資安署示警臺灣企業不能再心存僥倖",
+      "link": "https://www.ithome.com.tw/news/177748",
+      "isoDate": "2026-07-30T12:07:44.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Visual Studio Copilot代理升級，內建.NET與Azure技能並可直接分析Git分支",
-      "link": "https://www.ithome.com.tw/news/177736",
-      "isoDate": "2026-07-30T08:07:52.000Z",
+      "title": "北韓駭客假面試攻擊，SVG圖檔藏惡意程式竊取開發者資料",
+      "link": "https://www.ithome.com.tw/news/177743",
+      "isoDate": "2026-07-30T12:07:29.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "GitHub導入OpenSSF跨生態系資料，Dependabot惡意套件警示擴及PyPI",
-      "link": "https://www.ithome.com.tw/news/177730",
-      "isoDate": "2026-07-30T05:07:09.000Z",
+      "title": "Google發布Chrome 151穩定版，修補370個漏洞",
+      "link": "https://www.ithome.com.tw/news/177746",
+      "isoDate": "2026-07-30T11:07:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "比照當年 F-35 模式，新加坡擬加入 GCAP 成為觀察員",
-      "link": "https://technews.tw/2026/07/30/singapore-is-preparing-to-join-the-gcap-as-observer/",
-      "isoDate": "2026-07-30T02:07:01.000Z",
-      "source": "科技新報",
+      "title": "博通修補VMware三項重大漏洞，攻擊者恐繞過身分驗證，或在vCenter與ESX主機執行程式碼",
+      "link": "https://www.ithome.com.tw/news/177745",
+      "isoDate": "2026-07-30T11:07:38.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
