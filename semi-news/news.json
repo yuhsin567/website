@@ -1,11 +1,18 @@
 {
-  "generated": "2026-07-30T13:54:32.443Z",
+  "generated": "2026-07-30T15:50:57.039Z",
   "count": 5,
   "items": [
     {
       "title": "失蹤的宇宙物質找到了，科學家用快速電波爆發揭開謎團",
       "link": "https://technews.tw/2026/07/30/frbs-help-solve-the-mystery-of-the-universe-missing-baryons/",
       "isoDate": "2026-07-30T13:44:14.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "韓股救市三箭！暫時禁止賣空、崔泰源買進 SK 海力士、三星重啟股東回報",
+      "link": "https://finance.technews.tw/2026/07/30/three-arrows-to-rescue-the-market/",
+      "isoDate": "2026-07-30T13:36:01.000Z",
       "source": "科技新報",
       "category": "科技"
     },
@@ -27,13 +34,6 @@
       "title": "資安業者盤點全球暴露於IPMI漏洞風險的伺服器，臺灣也有319臺入列",
       "link": "https://www.ithome.com.tw/news/177751",
       "isoDate": "2026-07-30T12:07:31.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "北韓駭客假面試攻擊，SVG圖檔藏惡意程式竊取開發者資料",
-      "link": "https://www.ithome.com.tw/news/177743",
-      "isoDate": "2026-07-30T12:07:29.000Z",
       "source": "iThome",
       "category": "科技"
     }
