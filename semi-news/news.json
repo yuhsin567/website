@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-30T11:05:47.633Z",
+  "generated": "2026-07-30T13:54:32.443Z",
   "count": 5,
   "items": [
+    {
+      "title": "失蹤的宇宙物質找到了，科學家用快速電波爆發揭開謎團",
+      "link": "https://technews.tw/2026/07/30/frbs-help-solve-the-mystery-of-the-universe-missing-baryons/",
+      "isoDate": "2026-07-30T13:44:14.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "美國FCC禁售外國人形機器人、太陽能變流器",
       "link": "https://www.ithome.com.tw/news/177750",
@@ -27,13 +34,6 @@
       "title": "北韓駭客假面試攻擊，SVG圖檔藏惡意程式竊取開發者資料",
       "link": "https://www.ithome.com.tw/news/177743",
       "isoDate": "2026-07-30T12:07:29.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "俄羅斯駭客Laundry Bear攻擊Exchange用戶，藉由半點擊漏洞散布惡意程式OWAReaper",
-      "link": "https://www.ithome.com.tw/news/177749",
-      "isoDate": "2026-07-30T12:07:07.000Z",
       "source": "iThome",
       "category": "科技"
     }
