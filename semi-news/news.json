@@ -1,7 +1,28 @@
 {
-  "generated": "2026-07-31T14:21:32.333Z",
+  "generated": "2026-07-31T16:44:00.926Z",
   "count": 5,
   "items": [
+    {
+      "title": "以 Siri AI 為核心的 Apple 全新智慧家庭產品組合就緒，最快 10 月推出",
+      "link": "https://technews.tw/2026/08/01/apples-smart-home-hardware-refresh-draws-closer-with-siri-ai-smarts/",
+      "isoDate": "2026-07-31T16:00:35.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "NASA 雨燕天文台捕捉「孤兒黑洞」撕裂恆星，瞬間爆發百億顆太陽光輝",
+      "link": "https://technews.tw/2026/08/01/observatory-captures-orphan-black-hole-tearing-apart-a-star/",
+      "isoDate": "2026-07-31T16:00:34.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "6 億觀看量能換成多少張電影票？人氣 YouTuber 攜手 AI 打造科幻長片進軍大銀幕",
+      "link": "https://technews.tw/2026/08/01/ai-assisted-feature-film-gods-dont-give-gifts-us/",
+      "isoDate": "2026-07-31T16:00:06.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "資安署公布「資安事件應變處理行動指引」",
       "link": "https://finance.technews.tw/2026/07/31/moda-security-enterprise/",
@@ -13,27 +34,6 @@
       "title": "蘋果Q3營收成長16%創同期新高，供應限制拖累下季展望",
       "link": "https://www.ithome.com.tw/news/177778",
       "isoDate": "2026-07-31T12:07:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Node.js揭露與修補11個漏洞，當中涵蓋3個高風險漏洞",
-      "link": "https://www.ithome.com.tw/news/177779",
-      "isoDate": "2026-07-31T12:07:17.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "GCC擬因著作權風險限制LLM生成內容，測試案例與少量修改除外",
-      "link": "https://www.ithome.com.tw/news/177772",
-      "isoDate": "2026-07-31T12:07:13.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "泰國證交所旗下TSD集保公司發生20萬投資人個資外洩，起因於投資人入口網站存取控制缺失",
-      "link": "https://www.ithome.com.tw/news/177775",
-      "isoDate": "2026-07-31T12:07:12.000Z",
       "source": "iThome",
       "category": "科技"
     }
