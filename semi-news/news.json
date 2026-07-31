@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-31T11:58:12.909Z",
+  "generated": "2026-07-31T14:21:32.333Z",
   "count": 5,
   "items": [
+    {
+      "title": "資安署公布「資安事件應變處理行動指引」",
+      "link": "https://finance.technews.tw/2026/07/31/moda-security-enterprise/",
+      "isoDate": "2026-07-31T12:55:24.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "蘋果Q3營收成長16%創同期新高，供應限制拖累下季展望",
       "link": "https://www.ithome.com.tw/news/177778",
@@ -27,13 +34,6 @@
       "title": "泰國證交所旗下TSD集保公司發生20萬投資人個資外洩，起因於投資人入口網站存取控制缺失",
       "link": "https://www.ithome.com.tw/news/177775",
       "isoDate": "2026-07-31T12:07:12.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "不只OpenAI，Anthropic也揭露Claude在資安測試中入侵3個真實組織",
-      "link": "https://www.ithome.com.tw/news/177777",
-      "isoDate": "2026-07-31T12:07:10.000Z",
       "source": "iThome",
       "category": "科技"
     }
