@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-30T23:04:13.558Z",
+  "generated": "2026-07-31T02:37:47.093Z",
   "count": 5,
   "items": [
     {
-      "title": "因應印太戰場，美軍要開發垂直起降戰略轟炸機與 B-21 互補",
-      "link": "https://technews.tw/2026/07/31/usaf-wants-vtol-strategic-bomber/",
-      "isoDate": "2026-07-30T23:00:59.000Z",
+      "title": "工作流程自動化平臺n8n表達式沙箱再遭繞過，工作流程編輯者可執行主機命令",
+      "link": "https://www.ithome.com.tw/news/177769",
+      "isoDate": "2026-07-31T08:07:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "AI 股神基金遭多空雙巴、認賠殺出  雲端／記憶體飆",
+      "link": "https://technews.tw/2026/07/31/the-faber-report-ai-investor-leopold-aschenbrenner-forced-to-unwind-all-public-stock-positions-after-steep-losses/",
+      "isoDate": "2026-07-31T02:30:50.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "台積電第二季法說會觀察：CapEx 二度上修至 640 億美元，同步推動先進製程與全球布局",
-      "link": "https://finance.technews.tw/2026/07/31/tsmc-q2-earnings-call-observations-capex-revised-upwards-second-time-64-billion-boosting-advanced-process-global-expansion/",
-      "isoDate": "2026-07-30T23:00:33.000Z",
+      "title": "InP 巨擘 AXT 財報財測夯、CEO 稱迎來轉折  盤後暴衝",
+      "link": "https://finance.technews.tw/2026/07/31/axt-inc-announces-second-quarter-2026-financial-results/",
+      "isoDate": "2026-07-31T02:20:15.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】AI 算力仍供不應求：Microsoft Azure 年營收破千億美元、Meta 投資上看 1,450 億美元",
-      "link": "https://techorange.com/2026/07/31/ai-compute-demand-microsoft-azure-meta-capex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-07-30T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "失蹤的宇宙物質找到了，科學家用快速電波爆發揭開謎團",
-      "link": "https://technews.tw/2026/07/30/frbs-help-solve-the-mystery-of-the-universe-missing-baryons/",
-      "isoDate": "2026-07-30T13:44:14.000Z",
+      "title": "挑戰沖繩到台灣 15 分鐘，美新創開發火箭運輸技術面臨多重挑戰",
+      "link": "https://technews.tw/2026/07/31/hop-aeros-rook-is-facing-funding-and-technical-challenges/",
+      "isoDate": "2026-07-31T02:12:57.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "韓股救市三箭！暫時禁止賣空、崔泰源買進 SK 海力士、三星重啟股東回報",
-      "link": "https://finance.technews.tw/2026/07/30/three-arrows-to-rescue-the-market/",
-      "isoDate": "2026-07-30T13:36:01.000Z",
+      "title": "AI 資料中心需求火熱  Arm Q1 報喜、上修 Q2 展望",
+      "link": "https://finance.technews.tw/2026/07/31/arm-holdings-plc-reports-results-for-the-first-quarter-of-the-fiscal-year-ending-2027/",
+      "isoDate": "2026-07-31T02:10:45.000Z",
       "source": "科技新報",
       "category": "科技"
     }
