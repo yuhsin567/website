@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T14:58:42.850Z",
+  "generated": "2026-08-01T16:07:33.010Z",
   "count": 5,
   "items": [
     {
@@ -17,24 +17,24 @@
       "category": "科技"
     },
     {
-      "title": "省電又涼爽，專家傳授 8 招少開冷氣的夏日好眠祕訣",
-      "link": "https://technews.tw/2026/08/01/8-tips-getting-good-sleep-summer/",
-      "isoDate": "2026-08-01T07:33:23.000Z",
-      "source": "科技新報",
+      "title": "【油車與石油需求三年內觸頂】電動車重塑 1.4 兆美元基建商機，快充升級與定置型儲能是下個切入點",
+      "link": "https://techorange.com/2026/08/01/electric-vehicle-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-07-31T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "蘋果Q3營收成長16%創同期新高，供應限制拖累下季展望",
+      "link": "https://www.ithome.com.tw/news/177778",
+      "isoDate": "2026-07-31T12:07:37.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "告別搖桿飄移惡夢，Sony 新專利暗示 PS6 控制器將改用磁性搖桿",
-      "link": "https://ccc.technews.tw/2026/08/01/ps6-controller-magnetic-joystick-design/",
-      "isoDate": "2026-08-01T07:30:08.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Meta 低調測試 AI 兒童故事 App StoryKit，三步驟客製化專屬繪本與配樂",
-      "link": "https://technews.tw/2026/08/01/meta-ai-childrens-story-app-storykit/",
-      "isoDate": "2026-08-01T06:30:53.000Z",
-      "source": "科技新報",
+      "title": "Node.js揭露與修補11個漏洞，當中涵蓋3個高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/177779",
+      "isoDate": "2026-07-31T12:07:17.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
