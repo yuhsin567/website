@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-01T22:53:11.625Z",
+  "generated": "2026-08-01T23:55:43.413Z",
   "count": 5,
   "items": [
+    {
+      "title": "不熟 AI 也能脫穎而出，專家教你用「具體實例」打造必勝面試策略",
+      "link": "https://technews.tw/2026/08/02/how-to-talk-about-ai-job-interviews/",
+      "isoDate": "2026-08-01T23:30:50.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "氣候變遷加劇野火風險，美國押寶消防無人機「快打部隊」搶救初期火勢",
       "link": "https://technews.tw/2026/08/02/california-drones-wildfire/",
@@ -27,13 +34,6 @@
       "title": "Google讓Gemini Spark操作Chrome，可代辦跨網站多步驟任務",
       "link": "https://www.ithome.com.tw/news/177798",
       "isoDate": "2026-08-01T10:08:56.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Azure Cosmos DB漏洞曾可接管任意資料庫帳戶，私人網路隔離也可能失效",
-      "link": "https://www.ithome.com.tw/news/177795",
-      "isoDate": "2026-08-01T10:08:27.000Z",
       "source": "iThome",
       "category": "科技"
     }
