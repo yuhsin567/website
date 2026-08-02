@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-02T22:54:34.725Z",
+  "generated": "2026-08-02T23:56:51.262Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】AWS 算力供不應求、亞馬遜結盟 OpenAI，聯發科 AI 晶片第 4 季量產",
-      "link": "https://techorange.com/2026/08/03/aws-ai-compute-demand-amazon-openai-mediatek-ai-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-02T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "跑完馬拉松在喘息？NASA 揭密仙女座星系恆星誕生暴跌，現僅剩 20%",
-      "link": "https://technews.tw/2026/08/02/star-formation-is-slowing-in-the-andromeda-galaxy/",
-      "isoDate": "2026-08-02T14:44:53.000Z",
+      "title": "AI 愈聰明，企業愈危險？日本資安政策全面升級",
+      "link": "https://finance.technews.tw/2026/08/03/japan-revises-ai-policy-guidelines-to-bolster-cybersecurity/",
+      "isoDate": "2026-08-02T23:50:14.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "F-47 開始打造原型機，美國空軍：必然會在本屆政府任期內升空",
-      "link": "https://technews.tw/2026/08/02/usaf-is-building-f47-prototypes-and-maiden-flight-set-in-2028/",
-      "isoDate": "2026-08-02T09:43:05.000Z",
+      "title": "用 300 元微控制器跑近 3,000 萬參數 AI，開發者靠「記憶體分層」創造硬體奇蹟",
+      "link": "https://technews.tw/2026/08/03/esp32-ai-model-30m-parameters-under-300/",
+      "isoDate": "2026-08-02T23:40:46.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星",
-      "link": "https://technews.tw/2026/08/02/omen-ai-liquid-cooling/",
-      "isoDate": "2026-08-02T07:30:57.000Z",
+      "title": "九家台廠霸榜 AI 營收爆發前十名！台積電「孤獨神山」之外，半導體紅利如何造就群山？",
+      "link": "https://technews.tw/2026/08/03/supply-chain-for-the-next-wave-of-ai-competition/",
+      "isoDate": "2026-08-02T23:30:44.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "你的夢境並非隨機，心理學家：大腦在睡眠中「改寫現實」",
-      "link": "https://technews.tw/2026/08/02/dreams-brain-rewriting-reality/",
-      "isoDate": "2026-08-02T07:04:52.000Z",
+      "title": "溝通成本吃掉效率，研究：企業導入 AI 代理人數量有黃金上限",
+      "link": "https://technews.tw/2026/08/03/too-many-ai-agents-can-get-in-each-others-way/",
+      "isoDate": "2026-08-02T23:20:45.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic 的 AI 抓漏洞速度快過微軟修補，Project Glasswing 揭「修補危機」",
+      "link": "https://infosecu.technews.tw/2026/08/03/microsoft-struggling-with-hundreds-of-ai-discovered-security-bugs/",
+      "isoDate": "2026-08-02T23:10:26.000Z",
       "source": "科技新報",
       "category": "科技"
     }
