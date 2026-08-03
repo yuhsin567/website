@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-02T23:56:51.262Z",
+  "generated": "2026-08-03T02:57:54.369Z",
   "count": 5,
   "items": [
     {
-      "title": "AI 愈聰明，企業愈危險？日本資安政策全面升級",
-      "link": "https://finance.technews.tw/2026/08/03/japan-revises-ai-policy-guidelines-to-bolster-cybersecurity/",
-      "isoDate": "2026-08-02T23:50:14.000Z",
-      "source": "科技新報",
+      "title": "惡意軟體載入器HollowFrame藉網路釣魚攻擊法律事務所",
+      "link": "https://www.ithome.com.tw/news/177807",
+      "isoDate": "2026-08-03T10:08:56.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "用 300 元微控制器跑近 3,000 萬參數 AI，開發者靠「記憶體分層」創造硬體奇蹟",
-      "link": "https://technews.tw/2026/08/03/esp32-ai-model-30m-parameters-under-300/",
-      "isoDate": "2026-08-02T23:40:46.000Z",
-      "source": "科技新報",
+      "title": "亞德諾半導體證實系統遭入侵，部分檔案遭竊",
+      "link": "https://www.ithome.com.tw/news/177809",
+      "isoDate": "2026-08-03T10:08:10.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "九家台廠霸榜 AI 營收爆發前十名！台積電「孤獨神山」之外，半導體紅利如何造就群山？",
-      "link": "https://technews.tw/2026/08/03/supply-chain-for-the-next-wave-of-ai-competition/",
-      "isoDate": "2026-08-02T23:30:44.000Z",
-      "source": "科技新報",
+      "title": "Arch Linux AUR遭供應鏈攻擊，暫停套件接手功能",
+      "link": "https://www.ithome.com.tw/news/177810",
+      "isoDate": "2026-08-03T10:08:09.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "溝通成本吃掉效率，研究：企業導入 AI 代理人數量有黃金上限",
-      "link": "https://technews.tw/2026/08/03/too-many-ai-agents-can-get-in-each-others-way/",
-      "isoDate": "2026-08-02T23:20:45.000Z",
-      "source": "科技新報",
+      "title": "Adobe修補Campaign Classic滿分重大漏洞",
+      "link": "https://www.ithome.com.tw/news/177805",
+      "isoDate": "2026-08-03T09:08:37.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Anthropic 的 AI 抓漏洞速度快過微軟修補，Project Glasswing 揭「修補危機」",
-      "link": "https://infosecu.technews.tw/2026/08/03/microsoft-struggling-with-hundreds-of-ai-discovered-security-bugs/",
-      "isoDate": "2026-08-02T23:10:26.000Z",
-      "source": "科技新報",
+      "title": "Google緊急撤回AI衛星影像功能",
+      "link": "https://www.ithome.com.tw/news/177806",
+      "isoDate": "2026-08-03T09:08:14.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
