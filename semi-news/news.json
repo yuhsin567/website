@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-03T20:25:46.155Z",
+  "generated": "2026-08-03T22:07:02.235Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】DeepSeek 成本不到 Claude 百分之一，OpenAI Astra 挑戰十項數學難題",
+      "link": "https://techorange.com/2026/08/04/deepseek-low-cost-openai-astra-math-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-03T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": ".牧德 7 月營收續創新高，AI 高階製程接單動能延續",
+      "link": "https://technews.tw/2026/08/04/motech-july-revenue-record-high-ai-advanced-process-order-momentum-continues/",
+      "isoDate": "2026-08-03T21:00:37.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "月球地殼可放大重力波訊號，有助開啟月球重力波天文學",
       "link": "https://technews.tw/2026/08/03/lunar-crust-could-amplify-gravitational-wave-signals/",
@@ -20,20 +34,6 @@
       "title": "AsyncAPI開發團隊承認是未處理的GitHub Actions配置不當問題引發供應鏈攻擊",
       "link": "https://www.ithome.com.tw/news/177817",
       "isoDate": "2026-08-03T12:08:42.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "在AsyncAPI供應鏈攻擊事故中，使用Miasma框架散布惡意軟體",
-      "link": "https://www.ithome.com.tw/news/177815",
-      "isoDate": "2026-08-03T12:08:23.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國牙科福利管理商DentaQuest遭駭，逾2,300萬人個資與健康資料恐外洩 ",
-      "link": "https://www.ithome.com.tw/news/177819",
-      "isoDate": "2026-08-03T12:08:02.000Z",
       "source": "iThome",
       "category": "科技"
     }
