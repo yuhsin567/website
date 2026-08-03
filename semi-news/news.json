@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-03T02:57:54.369Z",
+  "generated": "2026-08-03T06:28:38.493Z",
   "count": 5,
   "items": [
     {
-      "title": "惡意軟體載入器HollowFrame藉網路釣魚攻擊法律事務所",
-      "link": "https://www.ithome.com.tw/news/177807",
-      "isoDate": "2026-08-03T10:08:56.000Z",
+      "title": "OpenAI新模型Astra取得10項數學突破，橫跨密碼學與量子複雜度",
+      "link": "https://www.ithome.com.tw/news/177818",
+      "isoDate": "2026-08-03T12:08:55.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "亞德諾半導體證實系統遭入侵，部分檔案遭竊",
-      "link": "https://www.ithome.com.tw/news/177809",
-      "isoDate": "2026-08-03T10:08:10.000Z",
+      "title": "在AsyncAPI供應鏈攻擊事故中，攻擊者使用Miasma框架散布惡意軟體",
+      "link": "https://www.ithome.com.tw/news/177815",
+      "isoDate": "2026-08-03T12:08:23.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Arch Linux AUR遭供應鏈攻擊，暫停套件接手功能",
-      "link": "https://www.ithome.com.tw/news/177810",
-      "isoDate": "2026-08-03T10:08:09.000Z",
+      "title": "美國牙科福利管理商DentaQuest遭駭，逾2,300萬人個資與健康資料恐外洩 ",
+      "link": "https://www.ithome.com.tw/news/177819",
+      "isoDate": "2026-08-03T12:08:02.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Adobe修補Campaign Classic滿分重大漏洞",
-      "link": "https://www.ithome.com.tw/news/177805",
-      "isoDate": "2026-08-03T09:08:37.000Z",
+      "title": "CISA聯合多國更新SBOM最低要素，新增作者簽章與元件雜湊資訊",
+      "link": "https://www.ithome.com.tw/news/177811",
+      "isoDate": "2026-08-03T11:08:48.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google緊急撤回AI衛星影像功能",
-      "link": "https://www.ithome.com.tw/news/177806",
-      "isoDate": "2026-08-03T09:08:14.000Z",
+      "title": "Microsoft確認旅館Wi-Fi攻擊源自俄羅斯駭客，鎖定企業旅客竊取M365憑證",
+      "link": "https://www.ithome.com.tw/news/177813",
+      "isoDate": "2026-08-03T11:08:37.000Z",
       "source": "iThome",
       "category": "科技"
     }
