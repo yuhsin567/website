@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T10:41:04.542Z",
+  "generated": "2026-08-03T13:39:28.673Z",
   "count": 5,
   "items": [
     {
@@ -31,10 +31,10 @@
       "category": "科技"
     },
     {
-      "title": "CISA聯合多國更新SBOM最低要素，新增作者簽章與元件雜湊資訊",
-      "link": "https://www.ithome.com.tw/news/177811",
-      "isoDate": "2026-08-03T11:08:48.000Z",
-      "source": "iThome",
+      "title": "Google Earth 衛星影像結合 AI 生成，憂成假圖工具緊急下架",
+      "link": "https://infosecu.technews.tw/2026/08/03/google-rolls-back-ai-image-generation-in-google-earth-over-policy-concerns/",
+      "isoDate": "2026-08-03T11:09:41.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
