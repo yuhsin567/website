@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-04T04:11:38.563Z",
+  "generated": "2026-08-04T07:37:16.506Z",
   "count": 5,
   "items": [
+    {
+      "title": "中國駭客藉由iOS漏洞利用工具包DarkSword，散布惡意軟體GhostBlade",
+      "link": "https://www.ithome.com.tw/news/177848",
+      "isoDate": "2026-08-04T12:08:59.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Rockwell修補Arena模擬軟體4個高風險漏洞，若未更新可能導致攻擊者執行任意程式碼",
+      "link": "https://www.ithome.com.tw/news/177849",
+      "isoDate": "2026-08-04T12:08:47.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "DNA檢驗軟體存在30年漏洞，可讓人悄悄改寫鑑定結果",
+      "link": "https://www.ithome.com.tw/news/177855",
+      "isoDate": "2026-08-04T12:08:39.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "企業OT資安狀態「校正回歸」，Fortinet最新調查指出原因是能見度與成熟度提升",
+      "link": "https://www.ithome.com.tw/news/177834",
+      "isoDate": "2026-08-04T12:08:26.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "CMS漏洞成2026上半年KEV大宗，AI輔助發現漏洞遭利用比例僅1.3%",
       "link": "https://www.ithome.com.tw/news/177850",
       "isoDate": "2026-08-04T12:08:25.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "研究人員揭露Google同步通行密鑰攻擊，可竊取私密金鑰",
-      "link": "https://www.ithome.com.tw/news/177847",
-      "isoDate": "2026-08-04T12:08:07.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Keyfactor獲逾10億美元投資，擴大AI與PQC安全業務",
-      "link": "https://www.ithome.com.tw/news/177842",
-      "isoDate": "2026-08-04T11:08:41.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "為協助中小企業因應六種資安威脅，資安署發布資安事件應變處理行動指引",
-      "link": "https://www.ithome.com.tw/news/177845",
-      "isoDate": "2026-08-04T11:08:31.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Okta計畫併購Permiso，強化AI代理身分威脅的偵測",
-      "link": "https://www.ithome.com.tw/news/177844",
-      "isoDate": "2026-08-04T11:08:08.000Z",
       "source": "iThome",
       "category": "科技"
     }
