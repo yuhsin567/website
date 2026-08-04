@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-04T13:00:23.373Z",
+  "generated": "2026-08-04T16:10:04.467Z",
   "count": 5,
   "items": [
+    {
+      "title": "川普研擬禁止採購中國資料中心關鍵零組件，推動禁令年底前生效",
+      "link": "https://finance.technews.tw/2026/08/04/trump-considers-banning-the-purchase-of-key-components-for-chinese-data-centers/",
+      "isoDate": "2026-08-04T13:15:33.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "中國駭客藉由iOS漏洞利用工具包DarkSword，散布惡意軟體GhostBlade",
       "link": "https://www.ithome.com.tw/news/177848",
@@ -27,13 +34,6 @@
       "title": "企業OT資安狀態「校正回歸」，Fortinet最新調查指出原因是能見度與成熟度提升",
       "link": "https://www.ithome.com.tw/news/177834",
       "isoDate": "2026-08-04T12:08:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "CMS漏洞成2026上半年KEV大宗，AI輔助發現漏洞遭利用比例僅1.3%",
-      "link": "https://www.ithome.com.tw/news/177850",
-      "isoDate": "2026-08-04T12:08:25.000Z",
       "source": "iThome",
       "category": "科技"
     }
