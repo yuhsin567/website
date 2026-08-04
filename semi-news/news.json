@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-03T22:07:02.235Z",
+  "generated": "2026-08-04T00:07:11.217Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】DeepSeek 成本不到 Claude 百分之一，OpenAI Astra 挑戰十項數學難題",
-      "link": "https://techorange.com/2026/08/04/deepseek-low-cost-openai-astra-math-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-03T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": ".牧德 7 月營收續創新高，AI 高階製程接單動能延續",
-      "link": "https://technews.tw/2026/08/04/motech-july-revenue-record-high-ai-advanced-process-order-momentum-continues/",
-      "isoDate": "2026-08-03T21:00:37.000Z",
+      "title": "高度數位化的代價？從日冷系統癱瘓，重新評估企業核心業務的脆弱度",
+      "link": "https://finance.technews.tw/2026/08/04/russian-linked-hacker-group-claims-attack-on-major-japanese-frozen-food-company/",
+      "isoDate": "2026-08-04T00:00:35.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "月球地殼可放大重力波訊號，有助開啟月球重力波天文學",
-      "link": "https://technews.tw/2026/08/03/lunar-crust-could-amplify-gravitational-wave-signals/",
-      "isoDate": "2026-08-03T14:43:08.000Z",
+      "title": "IPO 成功獲得資金，長鑫存儲計畫於北京興建第二座 12 吋 DRAM 晶圓廠",
+      "link": "https://finance.technews.tw/2026/08/04/cxmt-plans-to-build-its-second-12-inch-dram-wafer-fab-in-beijing/",
+      "isoDate": "2026-08-04T00:00:14.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "OpenAI新模型Astra取得10項數學突破，橫跨密碼學與量子複雜度",
-      "link": "https://www.ithome.com.tw/news/177818",
-      "isoDate": "2026-08-03T12:08:55.000Z",
-      "source": "iThome",
+      "title": "AI 學得愈多，侵權風險愈高？法院劃下生成式 AI 的第一道法律界線",
+      "link": "https://finance.technews.tw/2026/08/04/us-judge-approves-anthropics-1-5-billion-settlement-of-copyright-lawsuit/",
+      "isoDate": "2026-08-03T23:50:46.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AsyncAPI開發團隊承認是未處理的GitHub Actions配置不當問題引發供應鏈攻擊",
-      "link": "https://www.ithome.com.tw/news/177817",
-      "isoDate": "2026-08-03T12:08:42.000Z",
-      "source": "iThome",
+      "title": "AI 竟成越獄工具，心理健康監管面臨「漏洞爆炸」危機",
+      "link": "https://technews.tw/2026/08/04/ai-jailbreak-mental-health-regulation/",
+      "isoDate": "2026-08-03T23:40:00.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "月租 iPhone、Mac 真的更划算嗎？看懂蘋果「Apple Upgrade」背後的溫水煮青蛙效應",
+      "link": "https://technews.tw/2026/08/04/will-apple-upgrade-make-iphones-more-affordable/",
+      "isoDate": "2026-08-03T23:30:53.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
