@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-04T20:22:14.056Z",
+  "generated": "2026-08-04T22:09:23.920Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】Anthropic 對 Google 五年算力承諾達 2,000 億美元，Apple 聲請禁制 OpenAI 使用商業機密",
+      "link": "https://techorange.com/2026/08/05/google-anthropic-200-billion-ai-compute-financing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-04T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "川普研擬禁止採購中國資料中心關鍵零組件，推動禁令年底前生效",
       "link": "https://finance.technews.tw/2026/08/04/trump-considers-banning-the-purchase-of-key-components-for-chinese-data-centers/",
@@ -27,13 +34,6 @@
       "title": "DNA檢驗軟體存在30年漏洞，可讓人悄悄改寫鑑定結果",
       "link": "https://www.ithome.com.tw/news/177855",
       "isoDate": "2026-08-04T12:08:39.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "企業OT資安狀態「校正回歸」，Fortinet最新調查指出原因是能見度與成熟度提升",
-      "link": "https://www.ithome.com.tw/news/177834",
-      "isoDate": "2026-08-04T12:08:26.000Z",
       "source": "iThome",
       "category": "科技"
     }
