@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-05T11:58:13.152Z",
+  "generated": "2026-08-05T14:22:48.000Z",
   "count": 5,
   "items": [
+    {
+      "title": "愛普*7月營收月增36.1%",
+      "link": "https://finance.technews.tw/2026/08/05/ap-memory-6531-202607-financial-report/",
+      "isoDate": "2026-08-05T14:10:02.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Power Integrations 發表首款 2200 V 氮化鎵技術，搶攻資料中心、電動車與再生能源市場",
+      "link": "https://finance.technews.tw/2026/08/05/power-integrations-unveils-its-first-2200-v-gallium-nitride-technology/",
+      "isoDate": "2026-08-05T13:15:17.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "瑞耘7月營收月增44.1%",
+      "link": "https://finance.technews.tw/2026/08/05/ct-6532-202607-financial-report/",
+      "isoDate": "2026-08-05T12:10:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "波蘭連鎖便利商店Żabka遭駭，原因是攻擊者透過第三方帳號入侵",
       "link": "https://www.ithome.com.tw/news/177883",
@@ -13,27 +34,6 @@
       "title": "研究人員揭露AI蠕蟲攻擊新手法，透過Word中的隱藏提示可誘導Microsoft Copilot自我傳播",
       "link": "https://www.ithome.com.tw/news/177882",
       "isoDate": "2026-08-05T12:08:15.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Cyera擬以10億美元併購Oasis Security，擴大AI代理與非人類身分治理",
-      "link": "https://www.ithome.com.tw/news/177876",
-      "isoDate": "2026-08-05T11:08:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "pgAdmin 4新版本修補7個漏洞，含3個重大漏洞",
-      "link": "https://www.ithome.com.tw/news/177877",
-      "isoDate": "2026-08-05T11:08:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "NuGet將API金鑰效期縮至30天，11月起既有金鑰全面失效",
-      "link": "https://www.ithome.com.tw/news/177878",
-      "isoDate": "2026-08-05T11:08:46.000Z",
       "source": "iThome",
       "category": "科技"
     }
