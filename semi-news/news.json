@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-05T20:25:11.722Z",
+  "generated": "2026-08-05T22:11:08.325Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】SpaceX 投入 158 億美元擴 AI、押注 NVIDIA，AMD 資料中心營收翻倍",
+      "link": "https://techorange.com/2026/08/06/spacex-ai-investment-nvidia-amd-data-center-revenue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-05T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "Google AI 高層重大異動，哈薩比斯卸任執行長專注 AGI 研究",
       "link": "https://technews.tw/2026/08/06/demis-hassabis-to-step-down-as-google-deepmind-ceo/",
@@ -28,13 +35,6 @@
       "link": "https://finance.technews.tw/2026/08/05/ct-6532-202607-financial-report/",
       "isoDate": "2026-08-05T12:10:05.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "波蘭連鎖便利商店Żabka遭駭，原因是攻擊者透過第三方帳號入侵",
-      "link": "https://www.ithome.com.tw/news/177883",
-      "isoDate": "2026-08-05T12:08:46.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
