@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-06T12:01:08.780Z",
+  "generated": "2026-08-06T15:11:21.925Z",
   "count": 5,
   "items": [
+    {
+      "title": "韋伯望遠鏡在 700 光年的系外行星首度找到生命跡象「半重水」",
+      "link": "https://technews.tw/2026/08/06/jwst-may-have-just-found-heavy-water-on-an-alien-world/",
+      "isoDate": "2026-08-06T14:45:02.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "日電貿7月營收20.95 億元",
+      "link": "https://finance.technews.tw/2026/08/06/ndb-3090-202607-financial-report/",
+      "isoDate": "2026-08-06T12:10:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Google DeepMind執行長Hassabis轉任Alphabet首席科學家",
       "link": "https://www.ithome.com.tw/news/177919",
@@ -20,20 +34,6 @@
       "title": "美國警告TeamCity重大漏洞遭積極利用",
       "link": "https://www.ithome.com.tw/news/177916",
       "isoDate": "2026-08-06T12:08:18.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Veeam修補多租戶管理平臺Service Provider Console多個重大漏洞 ",
-      "link": "https://www.ithome.com.tw/news/177918",
-      "isoDate": "2026-08-06T12:08:11.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "A10併購TrojAI，布局AI紅隊測試與執行階段防護",
-      "link": "https://www.ithome.com.tw/news/177917",
-      "isoDate": "2026-08-06T12:08:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
