@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-07T22:32:22.775Z",
+  "generated": "2026-08-07T23:31:25.257Z",
   "count": 5,
   "items": [
+    {
+      "title": "避免二選一僵局，美軍考慮增加低當量核武攻擊選項",
+      "link": "https://technews.tw/2026/08/08/the-pentagon-is-considering-increase-lower-yield-nuclear-options/",
+      "isoDate": "2026-08-07T23:00:25.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【AI 原生新創極速生長】產品全面圍繞 AI 開發，過半新創人均產值衝破 40 萬美元",
+      "link": "https://techorange.com/2026/08/08/startup-insights/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-07T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "幹細胞技術突破，給予帕金森氏症療法新希望",
       "link": "https://technews.tw/2026/08/08/human-embryonic-stem-cell-derived-dopaminergic-cells-for-parkinsons-disease-a-phase-12-open-label-trial/",
@@ -21,20 +35,6 @@
       "link": "https://technews.tw/2026/08/08/nsf-doe-rubin-observatory-opens-deep-window-on-famous-cosmic-field/",
       "isoDate": "2026-08-07T16:00:07.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "久元7月營收3.74 億元",
-      "link": "https://finance.technews.tw/2026/08/07/ytec-6261-202607-financial-report/",
-      "isoDate": "2026-08-07T12:10:03.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "【資安週報】0803~0807，美國黑帽大會於本週召開，開放安全AI聯盟提出共享AI發現交換指引SAFE",
-      "link": "https://www.ithome.com.tw/news/177952",
-      "isoDate": "2026-08-07T12:08:37.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
