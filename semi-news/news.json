@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-07T15:53:48.893Z",
+  "generated": "2026-08-07T16:52:03.905Z",
   "count": 5,
   "items": [
+    {
+      "title": "幹細胞技術突破，給予帕金森氏症療法新希望",
+      "link": "https://technews.tw/2026/08/08/human-embryonic-stem-cell-derived-dopaminergic-cells-for-parkinsons-disease-a-phase-12-open-label-trial/",
+      "isoDate": "2026-08-07T16:00:41.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "打破「藍色彈珠」迷思，NASA 最新 3D 模型揭露地球「坑疤」真面目",
+      "link": "https://technews.tw/2026/08/08/nasa-3d-earth-gravity-model/",
+      "isoDate": "2026-08-07T16:00:25.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "魯賓天文台 LSST 相機首發，32 億畫素震撼捕捉 COSMOS 天區 50 萬星系",
+      "link": "https://technews.tw/2026/08/08/nsf-doe-rubin-observatory-opens-deep-window-on-famous-cosmic-field/",
+      "isoDate": "2026-08-07T16:00:07.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "久元7月營收3.74 億元",
       "link": "https://finance.technews.tw/2026/08/07/ytec-6261-202607-financial-report/",
@@ -13,27 +34,6 @@
       "title": "【資安週報】0803~0807，美國黑帽大會於本週召開，開放安全AI聯盟提出共享AI發現交換指引SAFE",
       "link": "https://www.ithome.com.tw/news/177952",
       "isoDate": "2026-08-07T12:08:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "雲端安全聯盟推動AI重大風險控制措施，規劃實際稽核驗證",
-      "link": "https://www.ithome.com.tw/news/177951",
-      "isoDate": "2026-08-07T12:08:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AMD宣布併購加拿大AI晶片新創Taalas",
-      "link": "https://www.ithome.com.tw/news/177955",
-      "isoDate": "2026-08-07T12:08:22.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "思科發布Catalyst SD-WAN安全更新，修補3個CVSS 9.9分重大漏洞",
-      "link": "https://www.ithome.com.tw/news/177954",
-      "isoDate": "2026-08-07T12:08:18.000Z",
       "source": "iThome",
       "category": "科技"
     }
