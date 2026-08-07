@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-07T11:00:28.832Z",
+  "generated": "2026-08-07T12:58:04.838Z",
   "count": 5,
   "items": [
+    {
+      "title": "久元7月營收3.74 億元",
+      "link": "https://finance.technews.tw/2026/08/07/ytec-6261-202607-financial-report/",
+      "isoDate": "2026-08-07T12:10:03.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "【資安週報】0803~0807，美國黑帽大會於本週召開，開放安全AI聯盟提出共享AI發現交換指引SAFE",
       "link": "https://www.ithome.com.tw/news/177952",
@@ -27,13 +34,6 @@
       "title": "思科發布Catalyst SD-WAN安全更新，修補3個CVSS 9.9分重大漏洞",
       "link": "https://www.ithome.com.tw/news/177954",
       "isoDate": "2026-08-07T12:08:18.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX斥資168億美元在德州興建AI晶片廠Terafab",
-      "link": "https://www.ithome.com.tw/news/177953",
-      "isoDate": "2026-08-07T12:08:14.000Z",
       "source": "iThome",
       "category": "科技"
     }
