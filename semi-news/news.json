@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-07T23:31:25.257Z",
+  "generated": "2026-08-08T01:22:44.204Z",
   "count": 5,
   "items": [
     {
-      "title": "避免二選一僵局，美軍考慮增加低當量核武攻擊選項",
-      "link": "https://technews.tw/2026/08/08/the-pentagon-is-considering-increase-lower-yield-nuclear-options/",
-      "isoDate": "2026-08-07T23:00:25.000Z",
+      "title": "Gitea修補CVSS 9.8重大漏洞，攻擊者無須登入即可遠端執行程式碼",
+      "link": "https://www.ithome.com.tw/news/177977",
+      "isoDate": "2026-08-08T08:08:09.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "研究人員揭露駭客入侵Oracle資料庫，並以Oracle為跳板在Windows執行惡意指令的手法",
+      "link": "https://www.ithome.com.tw/news/177979",
+      "isoDate": "2026-08-08T08:08:01.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "台積電、CSP 大舉建廠背後的推手！研華北美接單強勁，無懼零件飆漲樂觀看旺下半年",
+      "link": "https://finance.technews.tw/2026/08/08/advantech/",
+      "isoDate": "2026-08-08T01:00:00.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【AI 原生新創極速生長】產品全面圍繞 AI 開發，過半新創人均產值衝破 40 萬美元",
-      "link": "https://techorange.com/2026/08/08/startup-insights/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-07T22:29:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "幹細胞技術突破，給予帕金森氏症療法新希望",
-      "link": "https://technews.tw/2026/08/08/human-embryonic-stem-cell-derived-dopaminergic-cells-for-parkinsons-disease-a-phase-12-open-label-trial/",
-      "isoDate": "2026-08-07T16:00:41.000Z",
+      "title": "P-1 AI 獲 5,000 萬美元融資，推出代理式 AI 工程師「Archie」化解實體工程人才荒",
+      "link": "https://technews.tw/2026/08/08/could-agentic-ai-bring-american-manufacturing-back/",
+      "isoDate": "2026-08-08T00:30:27.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "打破「藍色彈珠」迷思，NASA 最新 3D 模型揭露地球「坑疤」真面目",
-      "link": "https://technews.tw/2026/08/08/nasa-3d-earth-gravity-model/",
-      "isoDate": "2026-08-07T16:00:25.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "魯賓天文台 LSST 相機首發，32 億畫素震撼捕捉 COSMOS 天區 50 萬星系",
-      "link": "https://technews.tw/2026/08/08/nsf-doe-rubin-observatory-opens-deep-window-on-famous-cosmic-field/",
-      "isoDate": "2026-08-07T16:00:07.000Z",
+      "title": "佳世達總座親督軍注資擎壤、翔隆，百人無人機小隊強攻美日市場",
+      "link": "https://technews.tw/2026/08/08/qisda-general-manager-personally-oversees-investment-q-land-s-long-100-person-drone-team-aggressively-targeting-us-japan-markets/",
+      "isoDate": "2026-08-08T00:00:30.000Z",
       "source": "科技新報",
       "category": "科技"
     }
