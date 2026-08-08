@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-08T15:26:37.270Z",
+  "generated": "2026-08-08T16:30:15.452Z",
   "count": 5,
   "items": [
+    {
+      "title": "不是全新星系，「小紅點」真面目是星系中央超大質量黑洞活動的短暫印記",
+      "link": "https://technews.tw/2026/08/09/evolutionary-mystery-cosmic-little-red-dots/",
+      "isoDate": "2026-08-08T16:00:21.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路",
+      "link": "https://technews.tw/2026/08/09/exercise-does-not-just-strengthen-the-heart/",
+      "isoDate": "2026-08-08T16:00:06.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "NASA 攜手跨國團隊升空追擊日全食，揭開太陽日冕與大氣之謎",
+      "link": "https://technews.tw/2026/08/09/nasa-chase-total-solar-eclipse/",
+      "isoDate": "2026-08-08T16:00:04.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "新增多重管理員驗證，NetApp物件儲存系統近期推出改版",
       "link": "https://www.ithome.com.tw/review/177980",
@@ -14,27 +35,6 @@
       "link": "https://www.ithome.com.tw/news/177977",
       "isoDate": "2026-08-08T08:08:09.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "研究人員揭露駭客入侵Oracle資料庫，並以Oracle為跳板在Windows執行惡意指令的手法",
-      "link": "https://www.ithome.com.tw/news/177979",
-      "isoDate": "2026-08-08T08:08:01.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "關掉九成門市業績反升 40%，日本連鎖店 GEO 靠老遊戲「新鮮感」收服 Z 世代逆勢成長",
-      "link": "https://ccc.technews.tw/2026/08/08/nostalgia-trendiest-fresh-sensation-gen-z/",
-      "isoDate": "2026-08-08T08:00:25.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "沒跟著燒錢市值衝上 5 兆美元？蘋果如今恐不得不加入算力競賽",
-      "link": "https://finance.technews.tw/2026/08/08/apple-ai-capex-increase/",
-      "isoDate": "2026-08-08T07:53:43.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
