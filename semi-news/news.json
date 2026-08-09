@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-08T23:26:18.290Z",
+  "generated": "2026-08-09T01:28:23.066Z",
   "count": 5,
   "items": [
+    {
+      "title": "為何不推熔斷、保留預收款？一文看懂證交所「處置股改制」背後考量",
+      "link": "https://finance.technews.tw/2026/08/09/twse-disposition-stock-reform-considerations/",
+      "isoDate": "2026-08-09T01:00:11.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "醫療 AI 評測敲響警鐘，OpenAI、Anthropic 等主流模型皆陷「資訊遺漏」盲點",
+      "link": "https://technews.tw/2026/08/09/medical-ai-hidden-fatal-flaw/",
+      "isoDate": "2026-08-09T00:30:28.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "「落後群創」真是最後稻草？彭双浪欽點接班人、友達二把手柯富仁無預警「裸辭」投變數",
+      "link": "https://finance.technews.tw/2026/08/09/auo-president-vs-ceo/",
+      "isoDate": "2026-08-09T00:00:28.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "不是全新星系，「小紅點」真面目是星系中央超大質量黑洞活動的短暫印記",
       "link": "https://technews.tw/2026/08/09/evolutionary-mystery-cosmic-little-red-dots/",
@@ -14,27 +35,6 @@
       "link": "https://technews.tw/2026/08/09/exercise-does-not-just-strengthen-the-heart/",
       "isoDate": "2026-08-08T16:00:06.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "NASA 攜手跨國團隊升空追擊日全食，揭開太陽日冕與大氣之謎",
-      "link": "https://technews.tw/2026/08/09/nasa-chase-total-solar-eclipse/",
-      "isoDate": "2026-08-08T16:00:04.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "新增多重管理員驗證，NetApp物件儲存系統近期推出改版",
-      "link": "https://www.ithome.com.tw/review/177980",
-      "isoDate": "2026-08-08T10:08:51.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Gitea修補CVSS 9.8重大漏洞，攻擊者無須登入即可遠端執行程式碼",
-      "link": "https://www.ithome.com.tw/news/177977",
-      "isoDate": "2026-08-08T08:08:09.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
