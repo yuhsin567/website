@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-10T01:38:11.676Z",
+  "generated": "2026-08-10T03:51:57.374Z",
   "count": 5,
   "items": [
     {
-      "title": "路透民調：6 成美國人支持加強監管社群媒體公司",
-      "link": "https://technews.tw/2026/08/10/three-in-five-americans-favor-stronger-oversight-of-social-media-companies/",
-      "isoDate": "2026-08-10T01:30:40.000Z",
-      "source": "科技新報",
+      "title": "土耳其擴大總統府網路管制權，可要求平臺2小時內執行封鎖",
+      "link": "https://www.ithome.com.tw/news/177986",
+      "isoDate": "2026-08-10T11:08:57.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "OpenAI 示警新模型 Astra 恐具關鍵資安能力，收緊研發管控",
-      "link": "https://infosecu.technews.tw/2026/08/10/openai-pauses-some-work-on-new-ai-model-over-cybersecurity-concerns/",
-      "isoDate": "2026-08-10T01:20:35.000Z",
-      "source": "科技新報",
+      "title": "AI代理安全業者Obsidian Security募資8,500萬美元，估值達11億美元",
+      "link": "https://www.ithome.com.tw/news/177989",
+      "isoDate": "2026-08-10T11:08:54.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Apple、HP、Acer 都開始找上 CXMT：AI 記憶體荒如何改寫 DRAM 供應鏈格局",
-      "link": "https://techorange.com/2026/08/10/apple-cxmt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-10T01:19:49.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "晶圓廠趕工掀徵才狂潮，微影設備巨頭在台招募逾千人",
-      "link": "https://technews.tw/2026/08/10/wafer-fabs-rush-production-hiring-asml-recruit-1000-plus-taiwan/",
-      "isoDate": "2026-08-10T01:10:08.000Z",
-      "source": "科技新報",
+      "title": "研究人員在DEF CON揭露波蘭公部門網站暴露的資安風險",
+      "link": "https://www.ithome.com.tw/news/177991",
+      "isoDate": "2026-08-10T11:08:34.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "記憶體漲翻天  中國長鑫存儲有望打進 iPhone 鏈",
-      "link": "https://technews.tw/2026/08/10/apple-tests-chinese-memory-chips-as-supply-squeeze-bites/",
-      "isoDate": "2026-08-10T01:00:38.000Z",
-      "source": "科技新報",
+      "title": "Horizon3募資2.5億美元，公司估值逾20億美元",
+      "link": "https://www.ithome.com.tw/news/177987",
+      "isoDate": "2026-08-10T11:08:05.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "擁有兩萬安裝量的WordPress外掛ARVE遭植入後門，可能導致攻擊者取得網站管理權限",
+      "link": "https://www.ithome.com.tw/news/177990",
+      "isoDate": "2026-08-10T11:08:01.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
