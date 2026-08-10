@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-10T03:51:57.374Z",
+  "generated": "2026-08-10T05:24:36.379Z",
   "count": 5,
   "items": [
+    {
+      "title": "CISA警告Progress LoadMaster重大漏洞遭到利用",
+      "link": "https://www.ithome.com.tw/news/177993",
+      "isoDate": "2026-08-10T12:08:59.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "美國多地供水系統遭網攻，研究發現全球逾4千臺Rockwell OT控制器暴露於公開網路",
+      "link": "https://www.ithome.com.tw/news/177992",
+      "isoDate": "2026-08-10T12:08:34.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic讓AI監督AI，Claude Code自動模式8月14日成為預設",
+      "link": "https://www.ithome.com.tw/news/177994",
+      "isoDate": "2026-08-10T12:08:21.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Linux核心SCTPhantom漏洞隱身18年，可取得最高權限並突破容器隔離",
+      "link": "https://www.ithome.com.tw/news/177988",
+      "isoDate": "2026-08-10T12:08:05.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "土耳其擴大總統府網路管制權，可要求平臺2小時內執行封鎖",
       "link": "https://www.ithome.com.tw/news/177986",
       "isoDate": "2026-08-10T11:08:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI代理安全業者Obsidian Security募資8,500萬美元，估值達11億美元",
-      "link": "https://www.ithome.com.tw/news/177989",
-      "isoDate": "2026-08-10T11:08:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "研究人員在DEF CON揭露波蘭公部門網站暴露的資安風險",
-      "link": "https://www.ithome.com.tw/news/177991",
-      "isoDate": "2026-08-10T11:08:34.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Horizon3募資2.5億美元，公司估值逾20億美元",
-      "link": "https://www.ithome.com.tw/news/177987",
-      "isoDate": "2026-08-10T11:08:05.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "擁有兩萬安裝量的WordPress外掛ARVE遭植入後門，可能導致攻擊者取得網站管理權限",
-      "link": "https://www.ithome.com.tw/news/177990",
-      "isoDate": "2026-08-10T11:08:01.000Z",
       "source": "iThome",
       "category": "科技"
     }
