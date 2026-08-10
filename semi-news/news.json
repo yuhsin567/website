@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-09T23:28:51.943Z",
+  "generated": "2026-08-10T01:38:11.676Z",
   "count": 5,
   "items": [
     {
-      "title": "減少試錯！柏克萊實驗室開發 AI 模型，精準預測固態材料反應路徑與配方",
-      "link": "https://technews.tw/2026/08/10/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-7/",
-      "isoDate": "2026-08-09T23:20:54.000Z",
+      "title": "路透民調：6 成美國人支持加強監管社群媒體公司",
+      "link": "https://technews.tw/2026/08/10/three-in-five-americans-favor-stronger-oversight-of-social-media-companies/",
+      "isoDate": "2026-08-10T01:30:40.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Adobe 改訂閱制引發危機，上奇許承強如何化險為夷搶下新創雲端大餅",
-      "link": "https://finance.technews.tw/2026/08/10/how-grandtech-has-stayed-profitable-every-quarter-for-20-years/",
-      "isoDate": "2026-08-09T23:10:34.000Z",
+      "title": "OpenAI 示警新模型 Astra 恐具關鍵資安能力，收緊研發管控",
+      "link": "https://infosecu.technews.tw/2026/08/10/openai-pauses-some-work-on-new-ai-model-over-cybersecurity-concerns/",
+      "isoDate": "2026-08-10T01:20:35.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "住友化學以「製程相容」思維切入固態電解質供應鏈",
-      "link": "https://technews.tw/2026/08/10/sumitomo-chemical-process-compatible-mindset-solid-state-electrolyte-supply-chain/",
-      "isoDate": "2026-08-09T23:00:27.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "【科技早餐】SpaceX、Tesla 砸 168 億美元自建 AI 晶片園區，NVIDIA 傳投資電力、亞馬遜建離網資料中心",
-      "link": "https://techorange.com/2026/08/10/spacex-tesla-terafab-nvidia-amazon-ai-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-09T21:30:00.000Z",
+      "title": "Apple、HP、Acer 都開始找上 CXMT：AI 記憶體荒如何改寫 DRAM 供應鏈格局",
+      "link": "https://techorange.com/2026/08/10/apple-cxmt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-10T01:19:49.000Z",
       "source": "科技報橘",
       "category": "產業"
     },
     {
-      "title": "地球本身可成「巨型暗物質偵測器」，搜尋神秘軸子與暗光子訊號",
-      "link": "https://technews.tw/2026/08/09/dark-photon-matter-axion-earth/",
-      "isoDate": "2026-08-09T08:54:38.000Z",
+      "title": "晶圓廠趕工掀徵才狂潮，微影設備巨頭在台招募逾千人",
+      "link": "https://technews.tw/2026/08/10/wafer-fabs-rush-production-hiring-asml-recruit-1000-plus-taiwan/",
+      "isoDate": "2026-08-10T01:10:08.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "記憶體漲翻天  中國長鑫存儲有望打進 iPhone 鏈",
+      "link": "https://technews.tw/2026/08/10/apple-tests-chinese-memory-chips-as-supply-squeeze-bites/",
+      "isoDate": "2026-08-10T01:00:38.000Z",
       "source": "科技新報",
       "category": "科技"
     }
