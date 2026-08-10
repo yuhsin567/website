@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-10T11:06:04.463Z",
+  "generated": "2026-08-10T13:02:10.192Z",
   "count": 5,
   "items": [
+    {
+      "title": "M317月營收1.66 億元",
+      "link": "https://finance.technews.tw/2026/08/10/m31-6643-202607-financial-report/",
+      "isoDate": "2026-08-10T12:10:04.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "CISA警告Progress LoadMaster重大漏洞遭到利用",
       "link": "https://www.ithome.com.tw/news/177993",
@@ -27,13 +34,6 @@
       "title": "Linux核心SCTPhantom漏洞隱身18年，可取得最高權限並突破容器隔離",
       "link": "https://www.ithome.com.tw/news/177988",
       "isoDate": "2026-08-10T12:08:05.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "土耳其擴大總統府網路管制權，可要求平臺2小時內執行封鎖",
-      "link": "https://www.ithome.com.tw/news/177986",
-      "isoDate": "2026-08-10T11:08:57.000Z",
       "source": "iThome",
       "category": "科技"
     }
