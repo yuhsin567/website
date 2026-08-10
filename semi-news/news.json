@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-10T21:39:02.059Z",
+  "generated": "2026-08-10T22:34:50.652Z",
   "count": 5,
   "items": [
+    {
+      "title": "英特爾要募集 150 億美元擴充晶圓代工力拼台積電，股價卻下挫 4%",
+      "link": "https://finance.technews.tw/2026/08/11/intel-plans-to-raise-15-billion-to-expand-its-wafer-foundry-business/",
+      "isoDate": "2026-08-10T22:30:54.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "投資新契機？或分擔風險？輝達攜手華爾街資金建立 5,000 億美元 AI 融資平台",
+      "link": "https://finance.technews.tw/2026/08/11/nvidia-partners-with-wall-street-funds-to-establish-a-500-billion-ai-funding-platform/",
+      "isoDate": "2026-08-10T22:30:53.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】台積電、Sony 傳砸 1 兆日圓，蘋果測試中國長鑫 DRAM",
+      "link": "https://techorange.com/2026/08/11/https-techorange-com-2026-08-10-tsmc-sony-image-sensor-apple-cxmt-dram/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-10T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "不只探索暗物質，NASA 羅曼太空望遠鏡兼職「小行星獵手」守護地球",
       "link": "https://technews.tw/2026/08/10/nasa-nancy-grace-roman-space-telescope/",
@@ -14,27 +35,6 @@
       "link": "https://finance.technews.tw/2026/08/10/m31-6643-202607-financial-report/",
       "isoDate": "2026-08-10T12:10:04.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "CISA警告Progress LoadMaster重大漏洞遭到利用",
-      "link": "https://www.ithome.com.tw/news/177993",
-      "isoDate": "2026-08-10T12:08:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國多地供水系統遭網攻，研究發現全球逾4千臺Rockwell OT控制器暴露於公開網路",
-      "link": "https://www.ithome.com.tw/news/177992",
-      "isoDate": "2026-08-10T12:08:34.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic讓AI監督AI，Claude Code自動模式8月14日成為預設",
-      "link": "https://www.ithome.com.tw/news/177994",
-      "isoDate": "2026-08-10T12:08:21.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
