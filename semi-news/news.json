@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-10T23:32:32.228Z",
+  "generated": "2026-08-11T01:27:46.706Z",
   "count": 5,
   "items": [
     {
-      "title": "台普威拿下全台最大光儲案，攜 Fluence 攻 185.7 MWh 儲能",
-      "link": "https://technews.tw/2026/08/11/tai-pu-wei-secures-taiwan-largest-solar-storage-project-with-fluence-185-7-mwh/",
-      "isoDate": "2026-08-10T23:30:52.000Z",
+      "title": "AI 資安股噴發 CrowdStrike、Palo Alto 強漲 5% 創高",
+      "link": "https://infosecu.technews.tw/2026/08/11/crowdstrike-palo-alto-hit-records-after-black-hat-cyber-conference-illuminates-rising-ai-threat/",
+      "isoDate": "2026-08-11T01:20:09.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "「人類最後防線」破功？測試揭露：1/3 惡意 AI 指令竟遭開發者放行",
-      "link": "https://infosecu.technews.tw/2026/08/11/developers-miss-one-third-dangerous-ai-coding-instructions/",
-      "isoDate": "2026-08-10T23:20:38.000Z",
+      "title": "【機器人電池革命】追求連續運作 8 小時，固態電池、換電、超快充三條路並行",
+      "link": "https://techorange.com/2026/08/11/solid-state-battery-robot-tco-sk-on/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-11T01:19:20.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "【阿布達比的 AI 原生政府】不只是政務 App，TAMM 把 AI 嵌入每一項日常行政服務",
+      "link": "https://techorange.com/2026/08/11/abu-dhabi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-11T01:19:02.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "路透：熱浪衝擊歐洲經濟和旅遊業，加劇食品通膨",
+      "link": "https://finance.technews.tw/2026/08/11/heatwave-impacts-european-economy-tourism-fuels-food-inflation/",
+      "isoDate": "2026-08-11T00:40:03.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "川普嘲笑電動車主有里程病，剩 75% 電量就焦慮發作",
-      "link": "https://technews.tw/2026/08/11/trump-mocks-ev-owners-over-range-anxiety-at-75percent-battery/",
-      "isoDate": "2026-08-10T23:10:13.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 算力需求驅動 800V HVDC 與 GaN 電源生態崛起",
-      "link": "https://technews.tw/2026/08/11/ai-computing-power-demand-drives-800v-hvdc-gan-power-ecosystem-rise/",
-      "isoDate": "2026-08-10T23:00:33.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "英特爾要募集 150 億美元擴充晶圓代工力拼台積電，股價卻下挫 4%",
-      "link": "https://finance.technews.tw/2026/08/11/intel-plans-to-raise-15-billion-to-expand-its-wafer-foundry-business/",
-      "isoDate": "2026-08-10T22:30:54.000Z",
+      "title": "DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
+      "link": "https://finance.technews.tw/2026/08/11/these-ai-barons-are-ready-to-give-away-their-fortunes/",
+      "isoDate": "2026-08-11T00:30:02.000Z",
       "source": "科技新報",
       "category": "科技"
     }
