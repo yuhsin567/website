@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T05:05:28.401Z",
+  "generated": "2026-08-11T07:02:59.908Z",
   "count": 5,
   "items": [
     {
@@ -17,7 +17,7 @@
       "category": "科技"
     },
     {
-      "title": "N‑central身分驗證漏洞遭到積極利用，攻擊者藉此存取受害組織高價值端點",
+      "title": "N‑central身分驗證漏洞遭到積極利用，攻擊者藉此存取受害組織網域控制器等重要設施",
       "link": "https://www.ithome.com.tw/news/178018",
       "isoDate": "2026-08-11T11:08:53.000Z",
       "source": "iThome",
