@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-11T03:41:27.144Z",
+  "generated": "2026-08-11T05:05:28.401Z",
   "count": 5,
   "items": [
+    {
+      "title": "研究人員揭露Gemini AI代理對代理攻擊手法，可竊取敏感資料並竄改GitHub拉取請求",
+      "link": "https://www.ithome.com.tw/news/178024",
+      "isoDate": "2026-08-11T12:08:48.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "開源商業智慧平臺Metabase修補遭到利用的零時差漏洞",
+      "link": "https://www.ithome.com.tw/news/178023",
+      "isoDate": "2026-08-11T12:08:48.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "N‑central身分驗證漏洞遭到積極利用，攻擊者藉此存取受害組織高價值端點",
       "link": "https://www.ithome.com.tw/news/178018",
@@ -10,30 +24,16 @@
       "category": "科技"
     },
     {
-      "title": "ThreatLocker募資1.9億美元，強化零信任與AI安全",
-      "link": "https://www.ithome.com.tw/news/178019",
-      "isoDate": "2026-08-11T11:08:06.000Z",
+      "title": "中國駭客Storm-1175散布勒索軟體StormEncryptor，疑利用N-central弱點滲透受害組織",
+      "link": "https://www.ithome.com.tw/news/178020",
+      "isoDate": "2026-08-11T11:08:50.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "澳洲通訊局警告頂尖AI模型加速漏洞發現與利用，組織應重新檢視資安風險",
-      "link": "https://www.ithome.com.tw/news/178017",
-      "isoDate": "2026-08-11T10:08:58.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "N-able再度為N‑central提供CVE-2026-18577防護強化措施",
-      "link": "https://www.ithome.com.tw/news/178011",
-      "isoDate": "2026-08-11T10:08:39.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "物流服務業者Ceva Logistics被駭，導致貨運延宕並外洩多家企業資料",
-      "link": "https://www.ithome.com.tw/news/178010",
-      "isoDate": "2026-08-11T10:08:34.000Z",
+      "title": "OpenAI Daybreak拆成Blue與Red兩級，後者找出逾400項作業系統核心漏洞",
+      "link": "https://www.ithome.com.tw/news/178022",
+      "isoDate": "2026-08-11T11:08:12.000Z",
       "source": "iThome",
       "category": "科技"
     }
