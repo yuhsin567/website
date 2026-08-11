@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-11T21:42:53.288Z",
+  "generated": "2026-08-11T22:38:45.931Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】台積電 CoWoS 2029 年挑戰 14 倍以上，Microsoft 傳洽談逾 30 萬顆 AI 晶片產能",
+      "link": "https://techorange.com/2026/08/12/tsmc-cowos-microsoft-maia-300-ai-chip-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-11T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "土星已知衛星增至 285 顆，揭示衛星系統的複雜演化",
       "link": "https://technews.tw/2026/08/11/saturn-known-moons-rise-to-285/",
@@ -27,13 +34,6 @@
       "title": "N‑central身分驗證漏洞遭到積極利用，攻擊者藉此存取受害組織網域控制器等重要設施",
       "link": "https://www.ithome.com.tw/news/178018",
       "isoDate": "2026-08-11T11:08:53.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國駭客Storm-1175散布勒索軟體StormEncryptor，疑利用N-central弱點滲透受害組織",
-      "link": "https://www.ithome.com.tw/news/178020",
-      "isoDate": "2026-08-11T11:08:50.000Z",
       "source": "iThome",
       "category": "科技"
     }
