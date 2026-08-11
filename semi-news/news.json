@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-11T01:27:46.706Z",
+  "generated": "2026-08-11T03:41:27.144Z",
   "count": 5,
   "items": [
     {
-      "title": "AI 資安股噴發 CrowdStrike、Palo Alto 強漲 5% 創高",
-      "link": "https://infosecu.technews.tw/2026/08/11/crowdstrike-palo-alto-hit-records-after-black-hat-cyber-conference-illuminates-rising-ai-threat/",
-      "isoDate": "2026-08-11T01:20:09.000Z",
-      "source": "科技新報",
+      "title": "N‑central身分驗證漏洞遭到積極利用，攻擊者藉此存取受害組織高價值端點",
+      "link": "https://www.ithome.com.tw/news/178018",
+      "isoDate": "2026-08-11T11:08:53.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "【機器人電池革命】追求連續運作 8 小時，固態電池、換電、超快充三條路並行",
-      "link": "https://techorange.com/2026/08/11/solid-state-battery-robot-tco-sk-on/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-11T01:19:20.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "【阿布達比的 AI 原生政府】不只是政務 App，TAMM 把 AI 嵌入每一項日常行政服務",
-      "link": "https://techorange.com/2026/08/11/abu-dhabi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-11T01:19:02.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "路透：熱浪衝擊歐洲經濟和旅遊業，加劇食品通膨",
-      "link": "https://finance.technews.tw/2026/08/11/heatwave-impacts-european-economy-tourism-fuels-food-inflation/",
-      "isoDate": "2026-08-11T00:40:03.000Z",
-      "source": "科技新報",
+      "title": "ThreatLocker募資1.9億美元，強化零信任與AI安全",
+      "link": "https://www.ithome.com.tw/news/178019",
+      "isoDate": "2026-08-11T11:08:06.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
-      "link": "https://finance.technews.tw/2026/08/11/these-ai-barons-are-ready-to-give-away-their-fortunes/",
-      "isoDate": "2026-08-11T00:30:02.000Z",
-      "source": "科技新報",
+      "title": "澳洲通訊局警告頂尖AI模型加速漏洞發現與利用，組織應重新檢視資安風險",
+      "link": "https://www.ithome.com.tw/news/178017",
+      "isoDate": "2026-08-11T10:08:58.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "N-able再度為N‑central提供CVE-2026-18577防護強化措施",
+      "link": "https://www.ithome.com.tw/news/178011",
+      "isoDate": "2026-08-11T10:08:39.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "物流服務業者Ceva Logistics被駭，導致貨運延宕並外洩多家企業資料",
+      "link": "https://www.ithome.com.tw/news/178010",
+      "isoDate": "2026-08-11T10:08:34.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
