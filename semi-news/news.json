@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-12T20:55:50.959Z",
+  "generated": "2026-08-12T21:43:22.374Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】CoreWeave 算力幾乎售罄，IBM 簽 2.4 億美元 NVIDIA 推論協議",
+      "link": "https://techorange.com/2026/08/13/coreweave-ai-capacity-ibm-nvidia-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-12T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "Adobe發布8月上半更新，呼籲用戶優先處理ColdFusion與Campaign Classic",
       "link": "https://www.ithome.com.tw/news/178071",
@@ -28,13 +35,6 @@
       "link": "https://technews.tw/2026/08/12/honor-robot-phone-launch/",
       "isoDate": "2026-08-12T11:30:54.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "美國醫療科技業者Unlimited Technology Systems資料外洩，逾380萬人受影響",
-      "link": "https://www.ithome.com.tw/news/178063",
-      "isoDate": "2026-08-12T11:08:59.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
