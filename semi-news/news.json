@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-12T22:38:06.935Z",
+  "generated": "2026-08-12T23:38:10.538Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】CoreWeave 算力幾乎售罄，IBM 簽 2.4 億美元 NVIDIA 推論協議",
-      "link": "https://techorange.com/2026/08/13/coreweave-ai-capacity-ibm-nvidia-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-12T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "Adobe發布8月上半更新，呼籲用戶優先處理ColdFusion與Campaign Classic",
-      "link": "https://www.ithome.com.tw/news/178071",
-      "isoDate": "2026-08-12T12:08:29.000Z",
-      "source": "iThome",
+      "title": "台達電擴產不停，重慶二期廠拍板、投資約 26 億元",
+      "link": "https://technews.tw/2026/08/13/delta-electronics-continues-production-expansion-chongqing-phase-2-plant-approved-investment-2-3-billion-yuan/",
+      "isoDate": "2026-08-12T23:30:49.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "SAP修補Commerce Cloud滿分漏洞",
-      "link": "https://www.ithome.com.tw/news/178072",
-      "isoDate": "2026-08-12T12:08:27.000Z",
-      "source": "iThome",
+      "title": "科技巨頭賣 AI 願景高喊週休三日制，基層卻慘陷「每週 90 小時」爆肝地獄",
+      "link": "https://technews.tw/2026/08/13/tech-giants-tout-ai-reduces-work-hours-employees-push-back/",
+      "isoDate": "2026-08-12T23:20:35.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Google發布ChromeOS長期支援版更新，修補兩個記憶體安全重大漏洞 ",
-      "link": "https://www.ithome.com.tw/news/178070",
-      "isoDate": "2026-08-12T12:08:13.000Z",
-      "source": "iThome",
+      "title": "說好的節省記憶體呢？Windows 11 天氣 App 竟占用 1.6GB RAM",
+      "link": "https://technews.tw/2026/08/13/windows-11-weather-app-uses-more-than-1gb-of-ram/",
+      "isoDate": "2026-08-12T23:10:19.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "榮耀首款機器人手機正式推出，瞄準 AI 影像新賽道",
-      "link": "https://technews.tw/2026/08/12/honor-robot-phone-launch/",
-      "isoDate": "2026-08-12T11:30:54.000Z",
+      "title": "【專訪】崇越林志豪：20 多年來首次所有客戶同步擴產，矽晶圓市場將面臨結構性缺料",
+      "link": "https://finance.technews.tw/2026/08/13/the-silicon-wafer-market-will-face-a-structural-shortage-of-materials/",
+      "isoDate": "2026-08-12T23:00:36.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "天虹科技兩項技術第一拚從追隨躍升市場領先，訂單能見度到明年第一季",
+      "link": "https://finance.technews.tw/2026/08/13/skytechs-two-technologies-have-propelled-it-from-a-follower-to-a-market-leader/",
+      "isoDate": "2026-08-12T23:00:18.000Z",
       "source": "科技新報",
       "category": "科技"
     }
