@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-12T03:56:29.987Z",
+  "generated": "2026-08-12T04:05:35.871Z",
   "count": 5,
   "items": [
+    {
+      "title": "Google發布ChromeOS長期支援版更新，修補兩個記憶體安全重大漏洞 ",
+      "link": "https://www.ithome.com.tw/news/178070",
+      "isoDate": "2026-08-12T12:08:13.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "美國醫療科技業者Unlimited Technology Systems資料外洩，逾380萬人受影響",
       "link": "https://www.ithome.com.tw/news/178063",
@@ -24,16 +31,9 @@
       "category": "科技"
     },
     {
-      "title": "傳英海軍無人艇攝影機會傳送訊息回中國",
-      "link": "https://www.ithome.com.tw/news/178067",
-      "isoDate": "2026-08-12T11:08:05.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "思科防火牆阻斷服務漏洞遭到積極利用",
-      "link": "https://www.ithome.com.tw/news/178061",
-      "isoDate": "2026-08-12T11:08:05.000Z",
+      "title": "美國CISA警告思科防火牆、Windows、Metabase漏洞被積極利用",
+      "link": "https://www.ithome.com.tw/news/178064",
+      "isoDate": "2026-08-12T11:08:31.000Z",
       "source": "iThome",
       "category": "科技"
     }
