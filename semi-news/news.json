@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-11T23:37:10.595Z",
+  "generated": "2026-08-12T01:45:52.358Z",
   "count": 5,
   "items": [
     {
-      "title": "阿里千問正式接入蘋果生態，中國 Mac 用戶率先使用",
-      "link": "https://technews.tw/2026/08/12/qwen-integrates-with-apple-ecosystem-in-china/",
-      "isoDate": "2026-08-11T23:30:11.000Z",
+      "title": "Cloudflare擴充CI SDK，程式碼推送可直接觸發TypeScript CI/CD流程",
+      "link": "https://www.ithome.com.tw/news/178050",
+      "isoDate": "2026-08-12T08:08:37.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "彭博：OpenAI 回購 70 億美元持股，IPO 前讓員工套現",
+      "link": "https://finance.technews.tw/2026/08/12/openai-buys-back-7-billion-of-employee-shares-in-tender-offer/",
+      "isoDate": "2026-08-12T01:40:56.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AI 補齊晶體結構缺口，XtalPaint 成功找回 X 光難測的氫原子",
-      "link": "https://technews.tw/2026/08/12/this-ai-can-find-the-missing-atoms-that-x-rays-cannot-see/",
-      "isoDate": "2026-08-11T23:20:17.000Z",
+      "title": "AI 帶動現金流狂飆，三星、SK 海力士祭「股東回饋」撐股價",
+      "link": "https://finance.technews.tw/2026/08/12/peak-memory-fears-put-focus-on-samsung-sk-hynix-cash-returns/",
+      "isoDate": "2026-08-12T01:30:42.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "台積電核准 294 億美元資本預算，佈局先進製程與封裝打破市場對 AI 發展憂慮",
-      "link": "https://finance.technews.tw/2026/08/12/tsmc-approves-us29-4-billion-capital-budget/",
-      "isoDate": "2026-08-11T23:15:59.000Z",
+      "title": "搶攻無毒光刻、無人載具！東友入股微影半導體布局設備本土化",
+      "link": "https://finance.technews.tw/2026/08/12/drone-group/",
+      "isoDate": "2026-08-12T01:26:49.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "俄版「星鏈」發展超乎預期，烏克蘭研議反制措施",
-      "link": "https://technews.tw/2026/08/12/russia-rolling-out-starlink-style-network-faster-than-expected/",
-      "isoDate": "2026-08-11T23:10:31.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "瞄準美軍造船產能，韓華擬出價 12 億美元收購 Austal USA",
-      "link": "https://technews.tw/2026/08/12/hanhwa-is-going-to-buy-austal-usa/",
-      "isoDate": "2026-08-11T23:00:56.000Z",
+      "title": "傳輝達開發 Nemotron 4，挑戰全球頂尖開源模型",
+      "link": "https://technews.tw/2026/08/12/nvidia-building-1-trillion-parameter-nemotron-4-to-rival-open-ai-models/",
+      "isoDate": "2026-08-12T01:20:07.000Z",
       "source": "科技新報",
       "category": "科技"
     }
