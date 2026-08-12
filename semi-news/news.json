@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-12T01:45:52.358Z",
+  "generated": "2026-08-12T03:56:29.987Z",
   "count": 5,
   "items": [
     {
-      "title": "Cloudflare擴充CI SDK，程式碼推送可直接觸發TypeScript CI/CD流程",
-      "link": "https://www.ithome.com.tw/news/178050",
-      "isoDate": "2026-08-12T08:08:37.000Z",
+      "title": "美國醫療科技業者Unlimited Technology Systems資料外洩，逾380萬人受影響",
+      "link": "https://www.ithome.com.tw/news/178063",
+      "isoDate": "2026-08-12T11:08:59.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "彭博：OpenAI 回購 70 億美元持股，IPO 前讓員工套現",
-      "link": "https://finance.technews.tw/2026/08/12/openai-buys-back-7-billion-of-employee-shares-in-tender-offer/",
-      "isoDate": "2026-08-12T01:40:56.000Z",
-      "source": "科技新報",
+      "title": "美國聯邦資安日誌政策改版，強化威脅偵測並納入IoT、OT",
+      "link": "https://www.ithome.com.tw/news/178060",
+      "isoDate": "2026-08-12T11:08:36.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 帶動現金流狂飆，三星、SK 海力士祭「股東回饋」撐股價",
-      "link": "https://finance.technews.tw/2026/08/12/peak-memory-fears-put-focus-on-samsung-sk-hynix-cash-returns/",
-      "isoDate": "2026-08-12T01:30:42.000Z",
-      "source": "科技新報",
+      "title": "Onyx Security募資1.13億美元，擴大企業AI代理安全布局",
+      "link": "https://www.ithome.com.tw/news/178062",
+      "isoDate": "2026-08-12T11:08:32.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "搶攻無毒光刻、無人載具！東友入股微影半導體布局設備本土化",
-      "link": "https://finance.technews.tw/2026/08/12/drone-group/",
-      "isoDate": "2026-08-12T01:26:49.000Z",
-      "source": "科技新報",
+      "title": "傳英海軍無人艇攝影機會傳送訊息回中國",
+      "link": "https://www.ithome.com.tw/news/178067",
+      "isoDate": "2026-08-12T11:08:05.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "傳輝達開發 Nemotron 4，挑戰全球頂尖開源模型",
-      "link": "https://technews.tw/2026/08/12/nvidia-building-1-trillion-parameter-nemotron-4-to-rival-open-ai-models/",
-      "isoDate": "2026-08-12T01:20:07.000Z",
-      "source": "科技新報",
+      "title": "思科防火牆阻斷服務漏洞遭到積極利用",
+      "link": "https://www.ithome.com.tw/news/178061",
+      "isoDate": "2026-08-12T11:08:05.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
