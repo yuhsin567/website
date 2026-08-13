@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-13T04:09:48.855Z",
+  "generated": "2026-08-13T06:14:44.310Z",
   "count": 5,
   "items": [
+    {
+      "title": "中國駭客疑似使用AI自主攻擊臺灣政府機關、能源公司",
+      "link": "https://www.ithome.com.tw/news/178104",
+      "isoDate": "2026-08-13T12:08:41.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "微軟8月例行更新修補Exchange多個漏洞，涉及權限提升、服務阻斷與遠端執行程式碼",
+      "link": "https://www.ithome.com.tw/news/178103",
+      "isoDate": "2026-08-13T12:08:33.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Nightmare Eclipse公開Microsoft Defender新零時差漏洞ShieldBreak",
+      "link": "https://www.ithome.com.tw/news/178101",
+      "isoDate": "2026-08-13T12:08:26.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Signal推出自動金鑰驗證，藉金鑰透明度降低中間人攻擊風險",
+      "link": "https://www.ithome.com.tw/news/178102",
+      "isoDate": "2026-08-13T12:08:18.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "AI產業競爭從模型轉向代理執行框架，跨框架權限控管仍缺共通標準",
       "link": "https://www.ithome.com.tw/news/178100",
       "isoDate": "2026-08-13T11:08:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google推出手語轉文字AI模型，讓手機看懂手語",
-      "link": "https://www.ithome.com.tw/news/178097",
-      "isoDate": "2026-08-13T11:08:48.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "開放權重AI成各國強化科技自主新選項",
-      "link": "https://www.ithome.com.tw/news/178099",
-      "isoDate": "2026-08-13T11:08:40.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國擬回溯禁止外國製軍用級無人機、關鍵零組件",
-      "link": "https://www.ithome.com.tw/news/178093",
-      "isoDate": "2026-08-13T11:08:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Apple緊急修補macOS螢幕分享功能漏洞，若未更新可能導致攻擊者繞過驗證取得root權限",
-      "link": "https://www.ithome.com.tw/news/178095",
-      "isoDate": "2026-08-13T11:08:25.000Z",
       "source": "iThome",
       "category": "科技"
     }
