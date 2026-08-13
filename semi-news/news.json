@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-13T01:47:56.270Z",
+  "generated": "2026-08-13T04:09:48.855Z",
   "count": 5,
   "items": [
     {
-      "title": "思科財報不俗、但未滿足市場高期待  盤後挫",
-      "link": "https://finance.technews.tw/2026/08/13/cisco-reports-fourth-quarter-and-fiscal-year-2026-earnings/",
-      "isoDate": "2026-08-13T01:45:22.000Z",
-      "source": "科技新報",
+      "title": "AI產業競爭從模型轉向代理執行框架，跨框架權限控管仍缺共通標準",
+      "link": "https://www.ithome.com.tw/news/178100",
+      "isoDate": "2026-08-13T11:08:55.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Coherent 財測優  CEO：資料中心日益轉向光通訊",
-      "link": "https://finance.technews.tw/2026/08/13/coherent-corp-reports-fourth-quarter-and-full-year-fiscal-2026-results/",
-      "isoDate": "2026-08-13T01:40:36.000Z",
-      "source": "科技新報",
+      "title": "Google推出手語轉文字AI模型，讓手機看懂手語",
+      "link": "https://www.ithome.com.tw/news/178097",
+      "isoDate": "2026-08-13T11:08:48.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美推「矽盛世」倡議新計畫，5,000 萬美元外援加速盟友間 AI 關鍵產品流通",
-      "link": "https://technews.tw/2026/08/13/us-launches-effort-to-speed-trade-in-ai-goods-between-allies/",
-      "isoDate": "2026-08-13T01:35:12.000Z",
-      "source": "科技新報",
+      "title": "開放權重AI成各國強化科技自主新選項",
+      "link": "https://www.ithome.com.tw/news/178099",
+      "isoDate": "2026-08-13T11:08:40.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "ROI 逾 40%、廢料少 13%：品客的洋芋片產線，把 AI 數位孿生做到了哪一步？",
-      "link": "https://techorange.com/2026/08/13/ai-digital-transformation-of-a-pringles-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-13T01:30:58.000Z",
-      "source": "科技報橘",
-      "category": "產業"
+      "title": "美國擬回溯禁止外國製軍用級無人機、關鍵零組件",
+      "link": "https://www.ithome.com.tw/news/178093",
+      "isoDate": "2026-08-13T11:08:26.000Z",
+      "source": "iThome",
+      "category": "科技"
     },
     {
-      "title": "金融時報：疑與中國有關駭客利用自主 AI 工具，入侵台灣政府網站",
-      "link": "https://infosecu.technews.tw/2026/08/13/china-linked-hackers-hit-taiwan-in-unprecedented-autonomous-ai-cyber-attack/",
-      "isoDate": "2026-08-13T01:30:08.000Z",
-      "source": "科技新報",
+      "title": "Apple緊急修補macOS螢幕分享功能漏洞，若未更新可能導致攻擊者繞過驗證取得root權限",
+      "link": "https://www.ithome.com.tw/news/178095",
+      "isoDate": "2026-08-13T11:08:25.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
