@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-13T22:38:30.311Z",
+  "generated": "2026-08-13T23:38:32.554Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】蘋果擬投入上億美元為 AI 版 Siri 買新聞授權，長江存儲 NAND 出貨首登全球第三",
-      "link": "https://techorange.com/2026/08/14/apple-ai-siri-news-licensing-ymtc-nand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-13T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "中國駭客疑似使用AI自主攻擊臺灣政府機關、能源公司",
-      "link": "https://www.ithome.com.tw/news/178104",
-      "isoDate": "2026-08-13T12:08:41.000Z",
-      "source": "iThome",
+      "title": "美國無人機關稅上路，台灣適用 15%、敏感產品最高 100%",
+      "link": "https://technews.tw/2026/08/14/us-drone-tariffs-15-taiwan-100-sensitive-products/",
+      "isoDate": "2026-08-13T23:34:05.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "微軟8月例行更新修補Exchange多個漏洞，涉及權限提升、服務阻斷與遠端執行程式碼",
-      "link": "https://www.ithome.com.tw/news/178103",
-      "isoDate": "2026-08-13T12:08:33.000Z",
-      "source": "iThome",
+      "title": "NAND 漲價有感，華強北 microSD 卡不標價成新常態",
+      "link": "https://technews.tw/2026/08/14/huaqiangbei-microsd/",
+      "isoDate": "2026-08-13T23:31:27.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Nightmare Eclipse公開Microsoft Defender新零時差漏洞ShieldBreak",
-      "link": "https://www.ithome.com.tw/news/178101",
-      "isoDate": "2026-08-13T12:08:26.000Z",
-      "source": "iThome",
+      "title": "永遠比客戶要求多做 20%，大銀微靠「奈米級定位平台」躍升晶圓代工龍頭神隊友",
+      "link": "https://finance.technews.tw/2026/08/14/hiwin-microsystem-silicon-cowos/",
+      "isoDate": "2026-08-13T23:30:29.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Signal推出自動金鑰驗證，藉金鑰透明度降低中間人攻擊風險",
-      "link": "https://www.ithome.com.tw/news/178102",
-      "isoDate": "2026-08-13T12:08:18.000Z",
-      "source": "iThome",
+      "title": "從概念走向產品，榮耀：Robot Phone 不只拍得穩還要拍得像電影",
+      "link": "https://technews.tw/2026/08/14/honor-robot-phone-film/",
+      "isoDate": "2026-08-13T23:30:28.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團",
+      "link": "https://technews.tw/2026/08/14/ai-genetic-schizophrenia/",
+      "isoDate": "2026-08-13T23:20:52.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
