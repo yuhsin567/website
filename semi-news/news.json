@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-13T20:39:13.813Z",
+  "generated": "2026-08-13T21:41:52.527Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】蘋果擬投入上億美元為 AI 版 Siri 買新聞授權，長江存儲 NAND 出貨首登全球第三",
+      "link": "https://techorange.com/2026/08/14/apple-ai-siri-news-licensing-ymtc-nand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-13T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "中國駭客疑似使用AI自主攻擊臺灣政府機關、能源公司",
       "link": "https://www.ithome.com.tw/news/178104",
@@ -27,13 +34,6 @@
       "title": "Signal推出自動金鑰驗證，藉金鑰透明度降低中間人攻擊風險",
       "link": "https://www.ithome.com.tw/news/178102",
       "isoDate": "2026-08-13T12:08:18.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI產業競爭從模型轉向代理執行框架，跨框架權限控管仍缺共通標準",
-      "link": "https://www.ithome.com.tw/news/178100",
-      "isoDate": "2026-08-13T11:08:55.000Z",
       "source": "iThome",
       "category": "科技"
     }
