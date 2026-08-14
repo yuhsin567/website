@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-14T04:06:07.912Z",
+  "generated": "2026-08-14T06:11:35.933Z",
   "count": 5,
   "items": [
+    {
+      "title": "F5調整漏洞修補政策，更新放緩為每6週發布一次並暫停定期安全通知",
+      "link": "https://www.ithome.com.tw/news/178134",
+      "isoDate": "2026-08-14T12:08:44.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "殭屍網路Kimwolf v7利用HTTP/2隱匿DDoS流量",
       "link": "https://www.ithome.com.tw/news/178132",
@@ -10,30 +17,23 @@
       "category": "科技"
     },
     {
-      "title": "OpenAI挖角Google旗下Wiz營運長，出任全球營收長",
-      "link": "https://www.ithome.com.tw/news/178131",
-      "isoDate": "2026-08-14T11:08:50.000Z",
+      "title": "政府系統淪AI Agent攻擊實戰場，TeamT5執行長蔡松廷：自動化攻擊早已進入下一個時代",
+      "link": "https://www.ithome.com.tw/news/178135",
+      "isoDate": "2026-08-14T12:08:40.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "VMware vCenter重大漏洞遭利用，攻擊範圍橫跨47國",
-      "link": "https://www.ithome.com.tw/news/178130",
-      "isoDate": "2026-08-14T11:08:46.000Z",
+      "title": "雲端安全聯盟揭2026年11大雲端威脅，AI強化攻擊與AI系統遭入侵首度進榜",
+      "link": "https://www.ithome.com.tw/news/178137",
+      "isoDate": "2026-08-14T12:08:22.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Ramp調查顯示Anthropic企業採用率領先OpenAI",
-      "link": "https://www.ithome.com.tw/news/178127",
-      "isoDate": "2026-08-14T11:08:29.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟整併消費、企業版Copilot功能，為超級App鋪路",
-      "link": "https://www.ithome.com.tw/news/178128",
-      "isoDate": "2026-08-14T11:08:14.000Z",
+      "title": "攻擊行動City-Forum鎖定Salesforce與ServiceNow，利用自製工具大規模蒐集公開資料",
+      "link": "https://www.ithome.com.tw/news/178136",
+      "isoDate": "2026-08-14T12:08:06.000Z",
       "source": "iThome",
       "category": "科技"
     }
