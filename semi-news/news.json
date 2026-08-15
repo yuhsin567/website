@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-14T23:19:02.935Z",
+  "generated": "2026-08-15T01:06:00.137Z",
   "count": 5,
   "items": [
     {
-      "title": "【金融 AI 代理安全與防禦】AI Agents 直上支付與交易第一線，機構「分階段放權」才是安全底線",
-      "link": "https://techorange.com/2026/08/15/securing-ai-agents-in-financial-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-14T22:29:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "90 年量子預言獲證，跨國團隊首度從極端磁星捕捉「真空雙折射」關鍵證據",
-      "link": "https://technews.tw/2026/08/15/vacuum-birefringence-theory-from-magnetars/",
-      "isoDate": "2026-08-14T16:00:56.000Z",
+      "title": "瑞銀指出，兩大因素美光標準型記憶體毛利率將上看 9 成超越 HBM",
+      "link": "https://finance.technews.tw/2026/08/15/microns-standard-memory-gross-margin-is-expected-to-surge-to-90-surpassing-hbm/",
+      "isoDate": "2026-08-15T01:00:19.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制",
-      "link": "https://technews.tw/2026/08/15/epileptic-discharges-disrupt-brain-synchronization/",
-      "isoDate": "2026-08-14T16:00:34.000Z",
+      "title": "台積電疑問「明明能做為何不出貨？」讓林恩平下定決心！大立光 300 天急行軍搶攻 CPO 幕後",
+      "link": "https://finance.technews.tw/2026/08/15/largan-cpo/",
+      "isoDate": "2026-08-15T01:00:08.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "寵物壁虎，竟可能成為破解癌症的重要幫手",
-      "link": "https://technews.tw/2026/08/15/lemon-frost-gecko-could-hold-clues-to-fighting-cancer/",
-      "isoDate": "2026-08-14T16:00:20.000Z",
+      "title": "太陽風暴預測誤差從 5 小時減到 30 分鐘內，NASA PUNCH 任務寫下新紀錄",
+      "link": "https://technews.tw/2026/08/15/nasa-punch-predicts-solar-storm/",
+      "isoDate": "2026-08-15T00:30:34.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "F5調整漏洞修補政策，更新放緩為每6週發布一次並暫停定期安全通知",
-      "link": "https://www.ithome.com.tw/news/178134",
-      "isoDate": "2026-08-14T12:08:44.000Z",
-      "source": "iThome",
+      "title": "從白手起家到坐三望二！凱撒衛浴從一體成型面盆到電漿水龍頭，如何築技術高牆",
+      "link": "https://finance.technews.tw/2026/08/15/caesar/",
+      "isoDate": "2026-08-15T00:00:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "開源工具挑戰 AI 溯源，可移除 Anthropic、OpenAI 等模型浮水印",
+      "link": "https://technews.tw/2026/08/15/watermarks-remover/",
+      "isoDate": "2026-08-14T23:59:09.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
