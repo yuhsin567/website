@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-15T14:19:37.994Z",
+  "generated": "2026-08-15T15:17:35.476Z",
   "count": 5,
   "items": [
+    {
+      "title": "WordPress漏洞XSS2Shell可讓駭客執行PHP程式碼，逾萬網站遭自動化鎖定",
+      "link": "https://www.ithome.com.tw/news/178147",
+      "isoDate": "2026-08-16T09:08:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "全球最大電池電動飛機僅花 5 美元完成試飛，預計 2031 年投入商用服務",
       "link": "https://technews.tw/2026/08/15/the-worlds-largest-battery-powered-electric-aircraft-completed-its-test-flight-for-only-5/",
@@ -27,13 +34,6 @@
       "title": "IKEA、沃爾瑪都在做！擺脫燒錢魔咒，八大企業實戰案例證明 AI 真能賺錢",
       "link": "https://finance.technews.tw/2026/08/15/8-companies-ai-high-roi/",
       "isoDate": "2026-08-15T06:30:18.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "輝達持有約 1.228 億股 SpaceX 股權，成為該公司第六大股東促進雙方合作",
-      "link": "https://finance.technews.tw/2026/08/15/nvidia-holds-approximately-122-8-million-shares-of-spacex-equity/",
-      "isoDate": "2026-08-15T06:00:44.000Z",
       "source": "科技新報",
       "category": "科技"
     }
