@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-16T09:24:35.479Z",
+  "generated": "2026-08-16T10:20:14.481Z",
   "count": 5,
   "items": [
+    {
+      "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元",
+      "link": "https://finance.technews.tw/2026/08/16/chinese-institutions/",
+      "isoDate": "2026-08-16T09:28:54.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "WordPress漏洞XSS2Shell可讓駭客執行PHP程式碼，逾萬網站遭自動化鎖定",
       "link": "https://www.ithome.com.tw/news/178147",
@@ -27,13 +34,6 @@
       "title": "又一家 AI 新創完成 900 萬美元募資，Discovered Materials 以 AI 代理開發晶片散熱材料",
       "link": "https://technews.tw/2026/08/16/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
       "isoDate": "2026-08-16T06:30:32.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "13F 報告出爐！波克夏重押 Al、橋水幾乎清倉美光、軟銀砍 7 成台積電",
-      "link": "https://finance.technews.tw/2026/08/16/13f-reports-are-out/",
-      "isoDate": "2026-08-16T06:14:43.000Z",
       "source": "科技新報",
       "category": "科技"
     }
