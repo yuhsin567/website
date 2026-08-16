@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T07:28:44.785Z",
+  "generated": "2026-08-16T08:26:00.054Z",
   "count": 5,
   "items": [
     {
@@ -7,6 +7,20 @@
       "link": "https://www.ithome.com.tw/news/178147",
       "isoDate": "2026-08-16T09:08:00.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "通寶半導體上半年毛利率高達 67%！董事會引私募拚年底送件申請上市",
+      "link": "https://finance.technews.tw/2026/08/16/private-equity-case/",
+      "isoDate": "2026-08-16T07:32:42.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "310 億隻雞淪為「病原海綿」，牛津大學研究：工業化養殖讓細菌移動幅度暴增百倍",
+      "link": "https://technews.tw/2026/08/16/industrial-chicken-farming-is-supercharging-the-spread-of-a-dangerous-foodborne-bacterium/",
+      "isoDate": "2026-08-16T07:30:12.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
@@ -20,20 +34,6 @@
       "title": "13F 報告出爐！波克夏重押 Al、橋水幾乎清倉美光、軟銀砍 7 成台積電",
       "link": "https://finance.technews.tw/2026/08/16/13f-reports-are-out/",
       "isoDate": "2026-08-16T06:14:43.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "神雲科技於 OCP APAC 高峰會展出多元化架構，打造代理型 AI 運作系統",
-      "link": "https://technews.tw/2026/08/16/mitac-computing-technology-ocp-apac-summit-diverse-architectures-agentic-ai-operating-systems/",
-      "isoDate": "2026-08-16T06:00:29.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "減肥藥意外副作用？抑制食慾竟也降低飲酒慾望",
-      "link": "https://technews.tw/2026/08/16/how-weight-loss-medication-is-changing-relationships-with-alcohol/",
-      "isoDate": "2026-08-16T05:30:23.000Z",
       "source": "科技新報",
       "category": "科技"
     }
