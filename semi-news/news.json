@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-16T21:17:23.067Z",
+  "generated": "2026-08-16T22:18:17.780Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】OpenAI 年化營收估破 400 億美元、Anthropic 單季營收達去年 14 倍，美國擬要求 AI 夥伴選邊",
+      "link": "https://techorange.com/2026/08/17/openai-anthropic-revenue-us-china-ai-alliance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-16T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元",
       "link": "https://finance.technews.tw/2026/08/16/chinese-institutions/",
@@ -27,13 +34,6 @@
       "title": "310 億隻雞淪為「病原海綿」，牛津大學研究：工業化養殖讓細菌移動幅度暴增百倍",
       "link": "https://technews.tw/2026/08/16/industrial-chicken-farming-is-supercharging-the-spread-of-a-dangerous-foodborne-bacterium/",
       "isoDate": "2026-08-16T07:30:12.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "又一家 AI 新創完成 900 萬美元募資，Discovered Materials 以 AI 代理開發晶片散熱材料",
-      "link": "https://technews.tw/2026/08/16/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "isoDate": "2026-08-16T06:30:32.000Z",
       "source": "科技新報",
       "category": "科技"
     }
