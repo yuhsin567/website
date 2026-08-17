@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-17T21:23:03.223Z",
+  "generated": "2026-08-17T22:21:11.594Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】SpaceX 600 億美元收購 Cursor，阿里稱 Qwen 半年下載破 30 億次、在 Hugging Face 領先 Google 與 Meta",
+      "link": "https://techorange.com/2026/08/18/spacex-cursor-acquisition-alibaba-qwen-ai-model-downloads/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-17T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "ChatGPT開始記住Mac工作軌跡，Computer History建立跨App記憶",
       "link": "https://www.ithome.com.tw/news/178173",
@@ -27,13 +34,6 @@
       "title": "Dynatrace以9.15億美元併購Arize，整合AI與軟體可觀測性",
       "link": "https://www.ithome.com.tw/news/178177",
       "isoDate": "2026-08-17T12:08:17.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "多家公司發生資安事故，勒索軟體Clop聲稱竊得石油巨頭殼牌89 GB資料",
-      "link": "https://www.ithome.com.tw/news/178174",
-      "isoDate": "2026-08-17T12:08:12.000Z",
       "source": "iThome",
       "category": "科技"
     }
