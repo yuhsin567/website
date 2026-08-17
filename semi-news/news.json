@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-17T04:39:09.976Z",
+  "generated": "2026-08-17T05:32:52.238Z",
   "count": 5,
   "items": [
+    {
+      "title": "ChatGPT開始記住Mac工作軌跡，Computer History建立跨App記憶",
+      "link": "https://www.ithome.com.tw/news/178173",
+      "isoDate": "2026-08-17T12:08:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "全球供應鏈與配銷公司Wesco發生資安事故，駭客組織ExfilSquad聲稱是他們所為",
+      "link": "https://www.ithome.com.tw/news/178176",
+      "isoDate": "2026-08-17T12:08:39.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Anthropic Claude於8月16日發生大當機，AI、API與Claude Code等多項服務均受影響",
       "link": "https://www.ithome.com.tw/news/178172",
@@ -10,30 +24,16 @@
       "category": "科技"
     },
     {
-      "title": "石油巨頭殼牌疑似發生資安事故，勒索軟體Clop聲稱竊得89 GB資料",
+      "title": "Dynatrace以9.15億美元併購Arize，整合AI與軟體可觀測性",
+      "link": "https://www.ithome.com.tw/news/178177",
+      "isoDate": "2026-08-17T12:08:17.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "多家公司發生資安事故，勒索軟體Clop聲稱竊得石油巨頭殼牌89 GB資料",
       "link": "https://www.ithome.com.tw/news/178174",
       "isoDate": "2026-08-17T12:08:12.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "針對研究員逕自公開的GeoServer零時差漏洞，OSGeo指出問題發生在GeoTools元件",
-      "link": "https://www.ithome.com.tw/news/178169",
-      "isoDate": "2026-08-17T11:08:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Qwen開放模型衍生版增至15萬個，為Meta的2.6倍",
-      "link": "https://www.ithome.com.tw/news/178170",
-      "isoDate": "2026-08-17T11:08:47.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "SonicWall為已退役GMS平臺修補6個漏洞，含兩個遠端執行程式碼重大漏洞",
-      "link": "https://www.ithome.com.tw/news/178167",
-      "isoDate": "2026-08-17T11:08:42.000Z",
       "source": "iThome",
       "category": "科技"
     }
