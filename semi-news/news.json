@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-17T03:52:17.952Z",
+  "generated": "2026-08-17T04:39:09.976Z",
   "count": 5,
   "items": [
+    {
+      "title": "Anthropic Claude於8月16日發生大當機，AI、API與Claude Code等多項服務均受影響",
+      "link": "https://www.ithome.com.tw/news/178172",
+      "isoDate": "2026-08-17T12:08:35.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "石油巨頭殼牌疑似發生資安事故，勒索軟體Clop聲稱竊得89 GB資料",
+      "link": "https://www.ithome.com.tw/news/178174",
+      "isoDate": "2026-08-17T12:08:12.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "針對研究員逕自公開的GeoServer零時差漏洞，OSGeo指出問題發生在GeoTools元件",
       "link": "https://www.ithome.com.tw/news/178169",
@@ -20,20 +34,6 @@
       "title": "SonicWall為已退役GMS平臺修補6個漏洞，含兩個遠端執行程式碼重大漏洞",
       "link": "https://www.ithome.com.tw/news/178167",
       "isoDate": "2026-08-17T11:08:42.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google允許用戶去除AI生成影音內容的浮水印、開源函式庫Credentio",
-      "link": "https://www.ithome.com.tw/news/178165",
-      "isoDate": "2026-08-17T10:08:23.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "地理位置資訊伺服器GeoServer零時差漏洞出現遭嘗試利用的跡象",
-      "link": "https://www.ithome.com.tw/news/178166",
-      "isoDate": "2026-08-17T10:08:15.000Z",
       "source": "iThome",
       "category": "科技"
     }
