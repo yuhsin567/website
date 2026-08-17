@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-16T23:16:58.092Z",
+  "generated": "2026-08-17T01:07:29.126Z",
   "count": 5,
   "items": [
     {
-      "title": "上班族不續攤、食材成本飆，日本居酒屋上半年倒閉創近 40 年新高",
-      "link": "https://technews.tw/2026/08/17/japan-faces-record-izakaya-bankruptcies/",
-      "isoDate": "2026-08-16T23:10:04.000Z",
+      "title": "TPU 產量傳下修又爆 VMware 安全漏洞  博通挫近 6%",
+      "link": "https://finance.technews.tw/2026/08/17/tpu-production-cut-vmware-security-vulnerability-broadcom-drops-6-percent/",
+      "isoDate": "2026-08-17T01:00:20.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AI 全面最佳化水下無線通訊，解決深海數據傳輸難題",
-      "link": "https://technews.tw/2026/08/17/ai-transforms-underwater-wireless-communications/",
-      "isoDate": "2026-08-16T23:00:08.000Z",
+      "title": "中國客大減 56% 日本觀光仍旺，台韓歐美旅客填補缺口",
+      "link": "https://technews.tw/2026/08/17/japan-tourism-strong-56-percent-drop-chinese-tourists-taiwan-korea-eu-us-fill-gap/",
+      "isoDate": "2026-08-17T00:50:49.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】OpenAI 年化營收估破 400 億美元、Anthropic 單季營收達去年 14 倍，美國擬要求 AI 夥伴選邊",
-      "link": "https://techorange.com/2026/08/17/openai-anthropic-revenue-us-china-ai-alliance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-16T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元",
-      "link": "https://finance.technews.tw/2026/08/16/chinese-institutions/",
-      "isoDate": "2026-08-16T09:28:54.000Z",
+      "title": "只花不到美國 10% 成本打造頂尖 AI？揭開月之暗面 K3 模型「低價神話」背後真相",
+      "link": "https://technews.tw/2026/08/17/the-truth-behind-kimi-k3-low-cost-is-more-complicated/",
+      "isoDate": "2026-08-17T00:40:44.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "WordPress漏洞XSS2Shell可讓駭客執行PHP程式碼，逾萬網站遭自動化鎖定",
-      "link": "https://www.ithome.com.tw/news/178147",
-      "isoDate": "2026-08-16T09:08:00.000Z",
-      "source": "iThome",
+      "title": "替換二成詞彙就能擋住網路爬蟲？新字型 ShieldFont 使英文還是英文但 AI 讀不懂",
+      "link": "https://infosecu.technews.tw/2026/08/17/the-webs-newest-weapon-against-ai-scrapers-is-a-font/",
+      "isoDate": "2026-08-17T00:30:17.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Google 傳聯手 AMD 打造第十代 TPU，整合 CPU 核心攻強化學習",
+      "link": "https://technews.tw/2026/08/17/google-reportedly-taps-amd-to-design-next-generation-tpu/",
+      "isoDate": "2026-08-17T00:24:53.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
