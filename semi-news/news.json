@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-17T02:57:09.927Z",
+  "generated": "2026-08-17T03:52:17.952Z",
   "count": 5,
   "items": [
+    {
+      "title": "針對研究員逕自公開的GeoServer零時差漏洞，OSGeo指出問題發生在GeoTools元件",
+      "link": "https://www.ithome.com.tw/news/178169",
+      "isoDate": "2026-08-17T11:08:55.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Qwen開放模型衍生版增至15萬個，為Meta的2.6倍",
+      "link": "https://www.ithome.com.tw/news/178170",
+      "isoDate": "2026-08-17T11:08:47.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "SonicWall為已退役GMS平臺修補6個漏洞，含兩個遠端執行程式碼重大漏洞",
+      "link": "https://www.ithome.com.tw/news/178167",
+      "isoDate": "2026-08-17T11:08:42.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Google允許用戶去除AI生成影音內容的浮水印、開源函式庫Credentio",
       "link": "https://www.ithome.com.tw/news/178165",
@@ -13,27 +34,6 @@
       "title": "地理位置資訊伺服器GeoServer零時差漏洞出現遭嘗試利用的跡象",
       "link": "https://www.ithome.com.tw/news/178166",
       "isoDate": "2026-08-17T10:08:15.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Fortinet修補上網閘道及網路設備管理平臺漏洞",
-      "link": "https://www.ithome.com.tw/news/178163",
-      "isoDate": "2026-08-17T10:08:02.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "ShinyHunters宣稱將公開服飾品牌Carhartt 50GB員工、客戶資料",
-      "link": "https://www.ithome.com.tw/news/178161",
-      "isoDate": "2026-08-17T09:08:45.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Stripe傳以530億美元洽談收購PayPal",
-      "link": "https://www.ithome.com.tw/news/178162",
-      "isoDate": "2026-08-17T09:08:24.000Z",
       "source": "iThome",
       "category": "科技"
     }
