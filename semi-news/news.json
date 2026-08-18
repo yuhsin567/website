@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-18T03:41:43.898Z",
+  "generated": "2026-08-18T04:32:53.822Z",
   "count": 5,
   "items": [
+    {
+      "title": "Fortinet併購Virtue AI，補強AI代理安全與紅隊演練能力",
+      "link": "https://www.ithome.com.tw/news/178212",
+      "isoDate": "2026-08-18T12:08:55.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "勒索軟體Akira以安全模式癱瘓EDR運作，竊取憑證與檔案進行勒索",
+      "link": "https://www.ithome.com.tw/news/178210",
+      "isoDate": "2026-08-18T11:08:50.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "WordPress外掛User Profile Builder存在重大漏洞，逾4萬網站暴露於管理帳號遭接管風險",
+      "link": "https://www.ithome.com.tw/news/178211",
+      "isoDate": "2026-08-18T11:08:27.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "GitLab修補13個資安漏洞，包含兩個Analytics儀表板高風險漏洞",
       "link": "https://www.ithome.com.tw/news/178207",
@@ -13,27 +34,6 @@
       "title": "微軟著手修補防毒軟體零時差漏洞ShieldBreak",
       "link": "https://www.ithome.com.tw/news/178206",
       "isoDate": "2026-08-18T11:08:24.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI運算框架Ray重大漏洞遭利用",
-      "link": "https://www.ithome.com.tw/news/178204",
-      "isoDate": "2026-08-18T09:08:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "麥當勞、Vodafone等9家大型企業逾360萬筆Azure目錄資料遭兜售，疑與遭竊憑證有關",
-      "link": "https://www.ithome.com.tw/news/178203",
-      "isoDate": "2026-08-18T09:08:00.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "紐西蘭指中國紫金山天文臺藉企業合作部署太空設施，可蒐集具軍事價值情報",
-      "link": "https://www.ithome.com.tw/news/178202",
-      "isoDate": "2026-08-18T09:08:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
