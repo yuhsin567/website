@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-18T22:25:17.710Z",
+  "generated": "2026-08-18T23:19:07.120Z",
   "count": 5,
   "items": [
+    {
+      "title": "Amazon傳拆卸珍本書，以取得AI模型訓練資料集",
+      "link": "https://www.ithome.com.tw/news/178221",
+      "isoDate": "2026-08-19T06:08:27.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "微波也能炸薯條？新技術有望讓美味與健康兼得",
+      "link": "https://technews.tw/2026/08/19/new-microwave-technique-could-deliver-crispy-fries-with-less-oil/",
+      "isoDate": "2026-08-18T23:10:02.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "科技戰延伸：FCC 將無人機 LiDAR 定為軍用技術，防堵外國製產品滲透",
+      "link": "https://technews.tw/2026/08/19/tech-war-expands-fcc-classifies-drone-lidar-military-technology-block-foreign-product-penetration/",
+      "isoDate": "2026-08-18T23:00:18.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "【科技早餐】NVIDIA 為 OpenAI 8 GW 資料中心提供最高 1,050 億美元擔保，Google 傳 Pixel 全面移出中國",
       "link": "https://techorange.com/2026/08/19/nvidia-openai-data-center-guarantee-google-pixel-china-exit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -13,27 +34,6 @@
       "title": "Fortinet併購Virtue AI，補強AI代理安全與紅隊演練能力",
       "link": "https://www.ithome.com.tw/news/178212",
       "isoDate": "2026-08-18T12:08:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "硬體加密貨幣錢包製造商Trezor資料外洩，起因是物流供應商ShipMonk遭駭",
-      "link": "https://www.ithome.com.tw/news/178215",
-      "isoDate": "2026-08-18T12:08:39.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "GitHub大規模故障，多項核心服務中斷逾7小時",
-      "link": "https://www.ithome.com.tw/news/178216",
-      "isoDate": "2026-08-18T12:08:35.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Mirai變種殭屍網路Evooo1Bot綁架路由器與工控設備",
-      "link": "https://www.ithome.com.tw/news/178213",
-      "isoDate": "2026-08-18T12:08:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
