@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-18T21:21:07.201Z",
+  "generated": "2026-08-18T22:25:17.710Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】NVIDIA 為 OpenAI 8 GW 資料中心提供最高 1,050 億美元擔保，Google 傳 Pixel 全面移出中國",
+      "link": "https://techorange.com/2026/08/19/nvidia-openai-data-center-guarantee-google-pixel-china-exit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-18T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "Fortinet併購Virtue AI，補強AI代理安全與紅隊演練能力",
       "link": "https://www.ithome.com.tw/news/178212",
@@ -27,13 +34,6 @@
       "title": "Mirai變種殭屍網路Evooo1Bot綁架路由器與工控設備",
       "link": "https://www.ithome.com.tw/news/178213",
       "isoDate": "2026-08-18T12:08:00.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "勒索軟體Akira以安全模式繞過EDR運作，竊取憑證與檔案進行勒索",
-      "link": "https://www.ithome.com.tw/news/178210",
-      "isoDate": "2026-08-18T11:08:50.000Z",
       "source": "iThome",
       "category": "科技"
     }
