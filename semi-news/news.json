@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T04:32:53.822Z",
+  "generated": "2026-08-18T05:26:26.349Z",
   "count": 5,
   "items": [
     {
@@ -10,30 +10,30 @@
       "category": "科技"
     },
     {
+      "title": "硬體加密貨幣錢包製造商Trezor資料外洩，起因是物流供應商ShipMonk遭駭",
+      "link": "https://www.ithome.com.tw/news/178215",
+      "isoDate": "2026-08-18T12:08:39.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "GitHub大規模故障，多項核心服務中斷逾7小時",
+      "link": "https://www.ithome.com.tw/news/178216",
+      "isoDate": "2026-08-18T12:08:35.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Mirai變種殭屍網路Evooo1Bot綁架路由器與工控設備，將其充當代理伺服器",
+      "link": "https://www.ithome.com.tw/news/178213",
+      "isoDate": "2026-08-18T12:08:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
       "title": "勒索軟體Akira以安全模式癱瘓EDR運作，竊取憑證與檔案進行勒索",
       "link": "https://www.ithome.com.tw/news/178210",
       "isoDate": "2026-08-18T11:08:50.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "WordPress外掛User Profile Builder存在重大漏洞，逾4萬網站暴露於管理帳號遭接管風險",
-      "link": "https://www.ithome.com.tw/news/178211",
-      "isoDate": "2026-08-18T11:08:27.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "GitLab修補13個資安漏洞，包含兩個Analytics儀表板高風險漏洞",
-      "link": "https://www.ithome.com.tw/news/178207",
-      "isoDate": "2026-08-18T11:08:24.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟著手修補防毒軟體零時差漏洞ShieldBreak",
-      "link": "https://www.ithome.com.tw/news/178206",
-      "isoDate": "2026-08-18T11:08:24.000Z",
       "source": "iThome",
       "category": "科技"
     }
