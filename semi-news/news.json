@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-18T02:53:00.787Z",
+  "generated": "2026-08-18T03:41:43.898Z",
   "count": 5,
   "items": [
+    {
+      "title": "GitLab修補13個資安漏洞，包含兩個Analytics儀表板高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/178207",
+      "isoDate": "2026-08-18T11:08:24.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "微軟著手修補防毒軟體零時差漏洞ShieldBreak",
+      "link": "https://www.ithome.com.tw/news/178206",
+      "isoDate": "2026-08-18T11:08:24.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "AI運算框架Ray重大漏洞遭利用",
       "link": "https://www.ithome.com.tw/news/178204",
@@ -19,20 +33,6 @@
     {
       "title": "紐西蘭指中國紫金山天文臺藉企業合作部署太空設施，可蒐集具軍事價值情報",
       "link": "https://www.ithome.com.tw/news/178202",
-      "isoDate": "2026-08-18T09:08:00.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "2026年Q2逾1 Tbps DDoS攻擊季增519%，政府部門遭HTTP DDoS攻擊排名升至第9",
-      "link": "https://www.ithome.com.tw/news/178192",
-      "isoDate": "2026-08-18T09:08:00.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "紅帽Kubernetes叢集管理產品ACM爆漏洞，受限使用者恐取得整個叢集管理權限",
-      "link": "https://www.ithome.com.tw/news/178183",
       "isoDate": "2026-08-18T09:08:00.000Z",
       "source": "iThome",
       "category": "科技"
