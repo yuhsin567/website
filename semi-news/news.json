@@ -1,41 +1,41 @@
 {
-  "generated": "2026-08-19T22:21:32.560Z",
+  "generated": "2026-08-19T23:20:10.885Z",
   "count": 5,
   "items": [
+    {
+      "title": "吃少一點蛋白質，反而更長壽？科學家重新檢視蛋白質與老化的關係",
+      "link": "https://technews.tw/2026/08/20/the-hallmarks-of-protein-and-amino-acid-restriction-in-aging-and-longevity/",
+      "isoDate": "2026-08-19T23:10:22.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "美軍出資研究竟成敵人養分，中國宇樹科技如何靠「開源」打造機器狗帝國",
+      "link": "https://technews.tw/2026/08/20/how-unitree-used-us-militarys-open-source-researches-for-building-its-own-robot-business/",
+      "isoDate": "2026-08-19T23:00:13.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "全固態電池產業化進程評估與台灣企業布局分析",
+      "link": "https://finance.technews.tw/2026/08/20/solid-state-battery-industrialization-taiwan-companies-strategy-analysis/",
+      "isoDate": "2026-08-19T23:00:09.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Google 與 Marvell 達成認股合作協議，消息衝擊 Broadcom 股價下跌 5%",
+      "link": "https://finance.technews.tw/2026/08/20/google-and-marvell-reach-share-subscription-agreement/",
+      "isoDate": "2026-08-19T22:45:17.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "【科技早餐】Anthropic 單季營收首度超越 OpenAI，字節跳動、騰訊各獲約 1 萬顆 NVIDIA H200",
       "link": "https://techorange.com/2026/08/20/anthropic-openai-q2-revenue-nvidia-h200-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
       "isoDate": "2026-08-19T21:30:00.000Z",
       "source": "科技報橘",
       "category": "產業"
-    },
-    {
-      "title": "Apple發布macOS Tahoe 26.6.2，修補28個漏洞 ",
-      "link": "https://www.ithome.com.tw/news/178265",
-      "isoDate": "2026-08-19T12:08:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "瑞士加密通訊應用Threema遭大規模DDoS攻擊中斷服務",
-      "link": "https://www.ithome.com.tw/news/178266",
-      "isoDate": "2026-08-19T12:08:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI心智病毒可在代理間自我傳播，Anthropic研究揭露多代理AI新風險",
-      "link": "https://www.ithome.com.tw/news/178263",
-      "isoDate": "2026-08-19T12:08:27.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI以20%的額外算力來監控模型以防堵高風險行為",
-      "link": "https://www.ithome.com.tw/news/178262",
-      "isoDate": "2026-08-19T12:08:23.000Z",
-      "source": "iThome",
-      "category": "科技"
     }
   ]
 }
