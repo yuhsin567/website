@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-19T21:22:36.382Z",
+  "generated": "2026-08-19T22:21:32.560Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】Anthropic 單季營收首度超越 OpenAI，字節跳動、騰訊各獲約 1 萬顆 NVIDIA H200",
+      "link": "https://techorange.com/2026/08/20/anthropic-openai-q2-revenue-nvidia-h200-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-19T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "Apple發布macOS Tahoe 26.6.2，修補28個漏洞 ",
       "link": "https://www.ithome.com.tw/news/178265",
@@ -27,13 +34,6 @@
       "title": "OpenAI以20%的額外算力來監控模型以防堵高風險行為",
       "link": "https://www.ithome.com.tw/news/178262",
       "isoDate": "2026-08-19T12:08:23.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "蘋果簡化歐盟App Store收費制度，取消按安裝次數計費",
-      "link": "https://www.ithome.com.tw/news/178264",
-      "isoDate": "2026-08-19T12:08:14.000Z",
       "source": "iThome",
       "category": "科技"
     }
