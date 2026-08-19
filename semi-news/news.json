@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-19T01:06:24.150Z",
+  "generated": "2026-08-19T02:54:59.142Z",
   "count": 5,
   "items": [
     {
-      "title": "Amazon傳拆卸珍本書，以取得AI模型訓練資料集",
-      "link": "https://www.ithome.com.tw/news/178221",
-      "isoDate": "2026-08-19T06:08:27.000Z",
+      "title": "針對6月Citrix修補的NetScaler阻斷服務漏洞，研究人員警告可被用於遠端執行任意程式碼",
+      "link": "https://www.ithome.com.tw/news/178251",
+      "isoDate": "2026-08-19T10:08:50.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 時代封裝才是關鍵戰場，ASMPT 用 TCB、Hybrid Bonding、CPO 三線布局強化先進封裝的定位",
-      "link": "https://technews.tw/2026/08/19/asmpt-tcb-hybrid-bonding-cpo-advanced-packaging/",
-      "isoDate": "2026-08-19T01:00:57.000Z",
-      "source": "科技新報",
+      "title": "AMD發布8月安全公告，Vitis高風險漏洞涉及私鑰曝光與任意程式碼執行",
+      "link": "https://www.ithome.com.tw/news/178252",
+      "isoDate": "2026-08-19T10:08:40.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美晶片股大跌，國債走低恐長期衝擊經濟",
-      "link": "https://finance.technews.tw/2026/08/19/us-chip-stocks-plunge-treasury-yields-fall-long-term-economic-impact/",
-      "isoDate": "2026-08-19T01:00:07.000Z",
-      "source": "科技新報",
+      "title": "英國警告Citrix NetScaler高風險漏洞遭積極利用",
+      "link": "https://www.ithome.com.tw/news/178253",
+      "isoDate": "2026-08-19T10:08:04.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "投資市場憂慮氣氛再起，英特爾、AMD 兩大處理器巨擘股價遭空方狙擊",
-      "link": "https://finance.technews.tw/2026/08/19/intel-and-amd-the-two-processor-giants-saw-their-stock-prices-attacked-by-short-sellers/",
-      "isoDate": "2026-08-19T00:45:38.000Z",
-      "source": "科技新報",
+      "title": "英特爾發布8月安全更新，Xeon、TDX等產品出現多項高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/178250",
+      "isoDate": "2026-08-19T09:08:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "輝達、OpenAI 聯手 AI 巨型資料中心，電力規模達 10 GW",
-      "link": "https://technews.tw/2026/08/19/nvidia-openai-expand-ai-infrastructure-giant-campuses-require-10-gw-power/",
-      "isoDate": "2026-08-19T00:45:04.000Z",
-      "source": "科技新報",
+      "title": "WordPress修補高風險RCE漏洞，作者權限帳號可藉偽裝圖片的惡意檔案執行程式碼",
+      "link": "https://www.ithome.com.tw/news/178249",
+      "isoDate": "2026-08-19T09:08:00.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
