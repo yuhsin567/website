@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-20T01:05:49.459Z",
+  "generated": "2026-08-20T02:54:13.806Z",
   "count": 5,
   "items": [
     {
-      "title": "2026 全臺最大能源展會 10 月登場，即日開放登記參觀",
-      "link": "https://technews.tw/2026/08/20/2026-net-zero-taiwan-energy-taiwan/",
-      "isoDate": "2026-08-20T01:00:30.000Z",
+      "title": "美國警告AI工程平臺MLflow伺服器請求偽造漏洞已遭積極利用",
+      "link": "https://www.ithome.com.tw/news/178282",
+      "isoDate": "2026-08-20T10:08:22.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "德國柏林邦政府網路遭駭，疑利用行政部門IT弱點發動攻擊",
+      "link": "https://www.ithome.com.tw/news/178273",
+      "isoDate": "2026-08-20T09:08:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "解決 AI 算力耗電痛點，比爾蓋茲 TerraPower 祭「核能＋儲能」雙效解方",
+      "link": "https://technews.tw/2026/08/20/bill-gates-terrapower-natrium/",
+      "isoDate": "2026-08-20T02:50:20.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "川普拜登任內美國債務翻倍，總額首度突破 40 兆美元",
-      "link": "https://finance.technews.tw/2026/08/20/us-national-debt-doubled-trump-biden-exceeds-40-trillion-first-time/",
-      "isoDate": "2026-08-20T00:50:51.000Z",
+      "title": "晶片愈做愈大，漢高新一代 cDAF 搶攻先進封裝散熱",
+      "link": "https://technews.tw/2026/08/20/henkel-cdaf-advanced-packaging-thermal-management-larger-chips/",
+      "isoDate": "2026-08-20T02:45:11.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "別人恐慌這幾檔抗跌！盤點高股息 ETF 下半年逆勢贏大盤六個百分點",
-      "link": "https://finance.technews.tw/2026/08/20/others-panic/",
-      "isoDate": "2026-08-20T00:48:45.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Wolfspeed 財報後崩  AI 業務成長未抵消虧損疑慮",
-      "link": "https://finance.technews.tw/2026/08/20/wolfspeed-reports-financial-results-for-the-fourth-quarter-of-fiscal-2026/",
-      "isoDate": "2026-08-20T00:40:47.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "「SaaSpocalypse」風暴來襲，AI 衝擊從軟體股燒向私募資本",
-      "link": "https://finance.technews.tw/2026/08/20/saaspocalypse-risk-from-ai/",
-      "isoDate": "2026-08-20T00:30:04.000Z",
+      "title": "OpenAI 財務長：2027 年上市，業務若加速成長可能提前",
+      "link": "https://finance.technews.tw/2026/08/20/openai-will-be-a-public-company-in-2027-or-sooner/",
+      "isoDate": "2026-08-20T02:40:26.000Z",
       "source": "科技新報",
       "category": "科技"
     }
