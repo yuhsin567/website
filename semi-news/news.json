@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-20T21:24:51.312Z",
+  "generated": "2026-08-20T22:24:21.054Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】Google、Marvell AI 晶片合作營收上看 1,200 億美元，OpenAI 財務長稱 2027 年上市",
+      "link": "https://techorange.com/2026/08/21/google-marvell-ai-chip-deal-openai-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-20T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "勒索軟體集團Clop疑專為Windchill開發客製化網頁Shell來竊取資料",
       "link": "https://www.ithome.com.tw/news/178296",
@@ -27,13 +34,6 @@
       "title": "Go 1.27加入泛型方法與JSON v2，小型物件配置成本最高降30%",
       "link": "https://www.ithome.com.tw/news/178292",
       "isoDate": "2026-08-20T12:08:06.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟加速淘汰WMIC，Windows 11 Insider新版正式移除舊式管理工具",
-      "link": "https://www.ithome.com.tw/news/178277",
-      "isoDate": "2026-08-20T11:08:42.000Z",
       "source": "iThome",
       "category": "科技"
     }
