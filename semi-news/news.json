@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-20T04:34:22.845Z",
+  "generated": "2026-08-20T05:27:25.138Z",
   "count": 5,
   "items": [
+    {
+      "title": "勒索軟體集團Clop疑專為Windchill開發客製化網頁Shell來竊取資料",
+      "link": "https://www.ithome.com.tw/news/178296",
+      "isoDate": "2026-08-20T12:08:56.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Google送全球大學生一年Gemini付費方案",
       "link": "https://www.ithome.com.tw/news/178294",
@@ -17,23 +24,16 @@
       "category": "科技"
     },
     {
+      "title": "Go 1.27加入泛型方法與JSON v2，小型物件配置成本最高降30%",
+      "link": "https://www.ithome.com.tw/news/178292",
+      "isoDate": "2026-08-20T12:08:06.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
       "title": "微軟加速淘汰WMIC，Windows 11 Insider新版正式移除舊式管理工具",
       "link": "https://www.ithome.com.tw/news/178277",
       "isoDate": "2026-08-20T11:08:42.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google正開發以手機相機影像檢測胰島素阻抗的AI技術",
-      "link": "https://www.ithome.com.tw/news/178293",
-      "isoDate": "2026-08-20T11:08:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "新一波針對工控環境的攻擊鎖定西門子S7系統PLC裝置，駭客透過AI加速打造作案工具",
-      "link": "https://www.ithome.com.tw/news/178286",
-      "isoDate": "2026-08-20T11:08:18.000Z",
       "source": "iThome",
       "category": "科技"
     }
