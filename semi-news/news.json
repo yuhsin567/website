@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-20T03:44:01.094Z",
+  "generated": "2026-08-20T04:34:22.845Z",
   "count": 5,
   "items": [
+    {
+      "title": "Google送全球大學生一年Gemini付費方案",
+      "link": "https://www.ithome.com.tw/news/178294",
+      "isoDate": "2026-08-20T12:08:47.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Amazon擴大無人機配送，今年底進駐近500座美國城市",
+      "link": "https://www.ithome.com.tw/news/178295",
+      "isoDate": "2026-08-20T12:08:32.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "微軟加速淘汰WMIC，Windows 11 Insider新版正式移除舊式管理工具",
       "link": "https://www.ithome.com.tw/news/178277",
@@ -10,30 +24,16 @@
       "category": "科技"
     },
     {
-      "title": "CISA修補網路流量分析工具Malcolm的6個漏洞，未更新可能導致低權限使用者執行任意程式碼",
-      "link": "https://www.ithome.com.tw/news/178289",
-      "isoDate": "2026-08-20T11:08:02.000Z",
+      "title": "Google正開發以手機相機影像檢測胰島素阻抗的AI技術",
+      "link": "https://www.ithome.com.tw/news/178293",
+      "isoDate": "2026-08-20T11:08:37.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "2026年第2季高風險漏洞揭露量倍增，免驗證遠端利用漏洞同步增加",
-      "link": "https://www.ithome.com.tw/news/178284",
-      "isoDate": "2026-08-20T10:08:41.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "勒索軟體Medusa已攻擊逾500個關鍵基礎設施相關機構",
-      "link": "https://www.ithome.com.tw/news/178285",
-      "isoDate": "2026-08-20T10:08:33.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國警告AI工程平臺MLflow伺服器請求偽造漏洞已遭積極利用",
-      "link": "https://www.ithome.com.tw/news/178282",
-      "isoDate": "2026-08-20T10:08:22.000Z",
+      "title": "新一波針對工控環境的攻擊鎖定西門子S7系統PLC裝置，駭客透過AI加速打造作案工具",
+      "link": "https://www.ithome.com.tw/news/178286",
+      "isoDate": "2026-08-20T11:08:18.000Z",
       "source": "iThome",
       "category": "科技"
     }
