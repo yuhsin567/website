@@ -1,41 +1,41 @@
 {
-  "generated": "2026-08-20T22:24:21.054Z",
+  "generated": "2026-08-20T23:23:05.931Z",
   "count": 5,
   "items": [
+    {
+      "title": "三大太空望遠鏡聯手拍下蜘蛛星雲，解開能量流失之謎",
+      "link": "https://technews.tw/2026/08/21/the-mystery-of-the-missing-energy-in-the-tarantula-nebula/",
+      "isoDate": "2026-08-20T23:20:27.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "巴金森氏症的新發現：多巴胺不足改變的不只是動作，還有決策方式",
+      "link": "https://technews.tw/2026/08/21/low-dopamine-levels-can-also-alter-decision-making/",
+      "isoDate": "2026-08-20T23:10:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "中國智慧製造轉型：從技術推動邁向 AI 驅動的軟體定義製造",
+      "link": "https://technews.tw/2026/08/21/china-smart-manufacturing-transformation-ai-driven-software-defined-manufacturing/",
+      "isoDate": "2026-08-20T23:00:45.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "白宮公布最新國防科技戰略，訂立美軍四大技術優先層級",
+      "link": "https://technews.tw/2026/08/21/the-white-house-pulished-new-nssts/",
+      "isoDate": "2026-08-20T23:00:01.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "【科技早餐】Google、Marvell AI 晶片合作營收上看 1,200 億美元，OpenAI 財務長稱 2027 年上市",
       "link": "https://techorange.com/2026/08/21/google-marvell-ai-chip-deal-openai-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
       "isoDate": "2026-08-20T21:30:00.000Z",
       "source": "科技報橘",
       "category": "產業"
-    },
-    {
-      "title": "勒索軟體集團Clop疑專為Windchill開發客製化網頁Shell來竊取資料",
-      "link": "https://www.ithome.com.tw/news/178296",
-      "isoDate": "2026-08-20T12:08:56.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google送全球大學生一年Gemini付費方案",
-      "link": "https://www.ithome.com.tw/news/178294",
-      "isoDate": "2026-08-20T12:08:47.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon擴大無人機配送，今年底進駐近500座美國城市",
-      "link": "https://www.ithome.com.tw/news/178295",
-      "isoDate": "2026-08-20T12:08:32.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Go 1.27加入泛型方法與JSON v2，小型物件配置成本最高降30%",
-      "link": "https://www.ithome.com.tw/news/178292",
-      "isoDate": "2026-08-20T12:08:06.000Z",
-      "source": "iThome",
-      "category": "科技"
     }
   ]
 }
