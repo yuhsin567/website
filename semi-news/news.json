@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-21T15:30:14.167Z",
+  "generated": "2026-08-21T16:30:44.673Z",
   "count": 5,
   "items": [
+    {
+      "title": "AI 幾分鐘搞定地震模擬，柏克萊實驗室新框架 CGM-GM 曝光",
+      "link": "https://technews.tw/2026/08/22/berkeley-lab-develops-ai-model-to-speed-earthquake-ground-motion-simulations/",
+      "isoDate": "2026-08-21T16:00:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠",
+      "link": "https://technews.tw/2026/08/22/scientists-restore-two-hours-of-sleep-without-clearing-brain-plaques/",
+      "isoDate": "2026-08-21T16:00:26.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "超低溫液體在微重力下沸騰，冷卻效率反而更高？",
+      "link": "https://technews.tw/2026/08/22/ultra-cold-liquids-boil-in-microgravity-boosting-cooling-efficiency/",
+      "isoDate": "2026-08-21T16:00:06.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "GitHub揭露8月大當機原因，基礎設施容量未跟上使用成長",
       "link": "https://www.ithome.com.tw/news/178335",
@@ -13,27 +34,6 @@
       "title": "思科修補網路自動化與協同管理平臺Crosswork滿分重大漏洞",
       "link": "https://www.ithome.com.tw/news/178334",
       "isoDate": "2026-08-21T12:08:36.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google兩天內二度更新Chrome 151，再修補7個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/178332",
-      "isoDate": "2026-08-21T12:08:14.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Cursor公開Origin底層Git架構，以S3預寫日誌因應AI代理大量儲存庫",
-      "link": "https://www.ithome.com.tw/news/178333",
-      "isoDate": "2026-08-21T12:08:10.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Apache HttpComponents Client存在可讓攻擊者偽造伺服器回應的重大漏洞",
-      "link": "https://www.ithome.com.tw/news/178330",
-      "isoDate": "2026-08-21T11:08:55.000Z",
       "source": "iThome",
       "category": "科技"
     }
