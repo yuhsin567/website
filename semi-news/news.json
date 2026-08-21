@@ -1,40 +1,40 @@
 {
-  "generated": "2026-08-21T01:09:13.822Z",
+  "generated": "2026-08-21T03:00:13.887Z",
   "count": 5,
   "items": [
+    {
+      "title": "全球首座SEMI E187資安檢測實驗室在臺啟用，為半導體設備做好資安把關工作",
+      "link": "https://www.ithome.com.tw/news/178323",
+      "isoDate": "2026-08-21T10:08:49.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "甫修補的GitLab重大GraphQL漏洞遭到利用",
+      "link": "https://www.ithome.com.tw/news/178319",
+      "isoDate": "2026-08-21T10:08:47.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Mac版ChatGPT新增Apple Messages外掛、歐盟地區加入電腦使用紀錄",
+      "link": "https://www.ithome.com.tw/news/178320",
+      "isoDate": "2026-08-21T10:08:09.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "企業PQC轉型不一定要先全面盤點密碼學資產，分類工作負載後再規畫升級",
+      "link": "https://www.ithome.com.tw/news/178314",
+      "isoDate": "2026-08-21T09:08:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Unsloth更新Dynamic v3.0 GGUF量化方法，相同檔案尺寸下提高量化模型精度",
       "link": "https://www.ithome.com.tw/news/178318",
       "isoDate": "2026-08-21T08:08:15.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "馬斯克曝星艦捕捉要再等等  SpaceX 摔 4% 失守 IPO 價",
-      "link": "https://finance.technews.tw/2026/08/21/spacex-stock-drops-4-losing-ipo-price/",
-      "isoDate": "2026-08-21T01:00:42.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "歐盟課徵低價包裹關稅，立陶宛自中國進口量大減",
-      "link": "https://technews.tw/2026/08/21/eu-tariffs-low-value-parcels-lithuania-china-imports-plummet/",
-      "isoDate": "2026-08-21T00:50:38.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "繼 SK 海力士買庫藏股，三星傳將推 2 兆多元股東回饋計畫",
-      "link": "https://finance.technews.tw/2026/08/21/samsung-reportedly-2-trillion-won-shareholder-return-plan-after-sk-hynix-buyback/",
-      "isoDate": "2026-08-21T00:40:03.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "晶片走向系統、先進封裝成關鍵戰場！Rapidus：晶圓代工、基板、OSAT 廠競爭加劇",
-      "link": "https://technews.tw/2026/08/21/rapidus-ocp-apac-summit-2026/",
-      "isoDate": "2026-08-21T00:30:34.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
