@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-21T23:21:21.918Z",
+  "generated": "2026-08-22T01:05:44.529Z",
   "count": 5,
   "items": [
+    {
+      "title": "AI 推升 PIC 代工狂潮，聯電挾 12 吋量產優勢決戰高塔、格羅方德",
+      "link": "https://finance.technews.tw/2026/08/22/umc-joins-battle-competing-tower-globalfoundries/",
+      "isoDate": "2026-08-22T01:00:51.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "博通將融資超過 700 億美元，強化布局非輝達 AI 晶片市場布局",
+      "link": "https://finance.technews.tw/2026/08/22/broadcom-to-raise-over-70-billion/",
+      "isoDate": "2026-08-22T01:00:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "1.5 萬美元押中 Snap 爆賺 3 千多萬，矽谷私校掀起「校園創投」熱潮",
+      "link": "https://finance.technews.tw/2026/08/22/these-silicon-valley-schools-run-their-own-venture-capital-funds/",
+      "isoDate": "2026-08-22T00:30:17.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "台灣大為何溢價收購精誠？林之晨算盤不只買股權，也是為拿到這張「入場券」",
+      "link": "https://finance.technews.tw/2026/08/22/3045-over-buy-6214/",
+      "isoDate": "2026-08-22T00:00:17.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "企業 AI 導入為何卡關？主管親自示範與打造「容錯文化」是落地關鍵",
       "link": "https://technews.tw/2026/08/22/workforce-development-in-the-age-of-ai/",
       "isoDate": "2026-08-21T23:00:44.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "【OpenAI 企業 AI 導入實證】高管偏好決策概述與合規查詢，推動「流程再造」與「人機磨合」才是轉型核心",
-      "link": "https://techorange.com/2026/08/22/how-organizations-use-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-21T22:29:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "AI 幾分鐘搞定地震模擬，柏克萊實驗室新框架 CGM-GM 曝光",
-      "link": "https://technews.tw/2026/08/22/berkeley-lab-develops-ai-model-to-speed-earthquake-ground-motion-simulations/",
-      "isoDate": "2026-08-21T16:00:39.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠",
-      "link": "https://technews.tw/2026/08/22/scientists-restore-two-hours-of-sleep-without-clearing-brain-plaques/",
-      "isoDate": "2026-08-21T16:00:26.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "超低溫液體在微重力下沸騰，冷卻效率反而更高？",
-      "link": "https://technews.tw/2026/08/22/ultra-cold-liquids-boil-in-microgravity-boosting-cooling-efficiency/",
-      "isoDate": "2026-08-21T16:00:06.000Z",
       "source": "科技新報",
       "category": "科技"
     }
