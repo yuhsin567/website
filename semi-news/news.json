@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-22T15:18:10.343Z",
+  "generated": "2026-08-22T16:20:06.203Z",
   "count": 5,
   "items": [
+    {
+      "title": "銀河系演化史翻新，誕生初期即歷經大規模「星系併吞」",
+      "link": "https://technews.tw/2026/08/23/hst-unravels-mystery-of-the-milky-way-early-mergers/",
+      "isoDate": "2026-08-22T16:00:50.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "超級電腦資料塞車有解！新壓縮術每秒可吞 60GB，速度暴增 640 倍",
+      "link": "https://technews.tw/2026/08/23/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-11/",
+      "isoDate": "2026-08-22T16:00:46.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "大麻關鍵成分 THC，可能幫助 PTSD 患者擺脫揮之不去的惡夢",
+      "link": "https://technews.tw/2026/08/23/thc-medication-made-ptsd-nightmares-disappear-for-more-than-a-third-of-patients/",
+      "isoDate": "2026-08-22T16:00:21.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "告別 7 歲法則迷思！科學家全新毛孩年齡公式，1 歲狗已是 31 歲人類成年人",
       "link": "https://technews.tw/2026/08/22/scientists-new-formula-for-dog-age/",
@@ -13,27 +34,6 @@
       "title": "打破運動頻率迷思，研究證實：每週一次 75 分鐘「間歇性快走」也能有效燃脂",
       "link": "https://technews.tw/2026/08/22/weekly-75-min-burns-fat/",
       "isoDate": "2026-08-22T08:00:09.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "日月光子公司 ISE Labs 購入加州矽谷建物，為碼美國在地半導體製造布局",
-      "link": "https://finance.technews.tw/2026/08/22/ase-technology-holding-co-ltd-ise-labs-acquires-building-in-silicon-valley-california/",
-      "isoDate": "2026-08-22T07:00:10.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "智慧手錶好意評估反成壓力？「睡眠分數」讓使用者陷評分焦慮",
-      "link": "https://technews.tw/2026/08/22/deconstructing-the-sleep-anxiety-trap-of-wearable-devices/",
-      "isoDate": "2026-08-22T07:00:10.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Quanta Computer 與 Quantinuum 攜手打造大規模量子運算的產業基礎",
-      "link": "https://technews.tw/2026/08/22/quanta-quantinuum-sign-joint-development-agreement/",
-      "isoDate": "2026-08-22T06:00:57.000Z",
       "source": "科技新報",
       "category": "科技"
     }
