@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-22T22:18:47.905Z",
+  "generated": "2026-08-22T23:18:31.761Z",
   "count": 5,
   "items": [
+    {
+      "title": "學生負責下令，AI 負責讀大學：AI 代理「幫上課」成高等教育危機",
+      "link": "https://technews.tw/2026/08/23/i-found-a-prompt-that-keeps-ai-agents-from-taking-tasks-too-far/",
+      "isoDate": "2026-08-22T23:00:19.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "銀河系演化史翻新，誕生初期即歷經大規模「星系併吞」",
       "link": "https://technews.tw/2026/08/23/hst-unravels-mystery-of-the-milky-way-early-mergers/",
@@ -27,13 +34,6 @@
       "title": "告別 7 歲法則迷思！科學家全新毛孩年齡公式，1 歲狗等於 31 歲成年人",
       "link": "https://technews.tw/2026/08/22/scientists-new-formula-for-dog-age/",
       "isoDate": "2026-08-22T08:10:16.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "打破運動頻率迷思，研究證實：每週一次 75 分鐘「間歇性快走」也能有效燃脂",
-      "link": "https://technews.tw/2026/08/22/weekly-75-min-burns-fat/",
-      "isoDate": "2026-08-22T08:00:09.000Z",
       "source": "科技新報",
       "category": "科技"
     }
