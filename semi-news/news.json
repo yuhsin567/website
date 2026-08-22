@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-22T05:23:58.603Z",
+  "generated": "2026-08-22T06:35:50.084Z",
   "count": 5,
   "items": [
+    {
+      "title": "Quanta Computer 與 Quantinuum 攜手打造大規模量子運算的產業基礎",
+      "link": "https://technews.tw/2026/08/22/quanta-quantinuum-sign-joint-development-agreement/",
+      "isoDate": "2026-08-22T06:00:57.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "核冬天恐引發全球大饑荒，美學者警告：美俄若爆發核戰將致 64 億人喪生",
+      "link": "https://technews.tw/2026/08/22/nuclear-war-killing-billions/",
+      "isoDate": "2026-08-22T06:00:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "挖角 Google TPU 創始大將，藉人才、技術、資金 Anthropic 佈局自主研發 AI 晶片",
+      "link": "https://finance.technews.tw/2026/08/22/anthropic-is-developing-its-own-ai-chips/",
+      "isoDate": "2026-08-22T06:00:10.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "隱藏式把手終結令，中國啟動史上最大汽車召回案",
+      "link": "https://technews.tw/2026/08/22/china-recall-millions-of-car/",
+      "isoDate": "2026-08-22T05:31:34.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "10 年投資百億美元設立研究實驗室，美光罕見為記憶體產業布局下一步",
       "link": "https://finance.technews.tw/2026/08/22/micron-makes-a-rare-move-to-plan-the-next-step-in-the-memory-industry/",
       "isoDate": "2026-08-22T05:00:56.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "5,600 萬年前暖化事件反使森林退化，學者警告今日地球恐重演歷史",
-      "link": "https://technews.tw/2026/08/22/forests-withered-during-an-ancient-warming-episode-history-could-repeat-itself/",
-      "isoDate": "2026-08-22T05:00:22.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "夠全球用 780 年！日本開採南鳥島深海「釔」礦，美日聯手打破中國稀土壟斷",
-      "link": "https://technews.tw/2026/08/22/japan-us-minamitorishima-deep-sea-rare-earths-yttrium-780-year-semiconductor-supply/",
-      "isoDate": "2026-08-22T04:00:28.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "半導體市場需求強烈，富士軟片擴建關鍵化學品產線",
-      "link": "https://finance.technews.tw/2026/08/22/fujifilm-expands-key-chemical-production-line/",
-      "isoDate": "2026-08-22T04:00:26.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "隨著 Starlink 在軌衛星數量接近 11,000 顆，SpaceX 股價跟著上漲",
-      "link": "https://finance.technews.tw/2026/08/22/starlink-has-nearly-11000-satellites-in-orbit-and-spacexs-stock-price-rose-accordingly/",
-      "isoDate": "2026-08-22T03:00:58.000Z",
       "source": "科技新報",
       "category": "科技"
     }
