@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-23T05:26:36.523Z",
+  "generated": "2026-08-23T06:36:41.956Z",
   "count": 5,
   "items": [
+    {
+      "title": "華為針對亞太地區以安全智慧連結理念，全面升級星河 AI 網路，躍升產業數位智能化",
+      "link": "https://infosecu.technews.tw/2026/08/23/huawei-upgrades-xinghe-ai-network-asia-pacific-secure-intelligent-connectivity-digital-intelligence/",
+      "isoDate": "2026-08-23T06:00:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "DARPA 新計畫 SHINE 鎖定受損迴路，助大腦精準自我修復",
+      "link": "https://technews.tw/2026/08/23/darpa-shine/",
+      "isoDate": "2026-08-23T06:00:43.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "AI 當心理諮商師夠格嗎，專家解析：現有模型有「知識」卻缺乏「智慧」",
       "link": "https://technews.tw/2026/08/23/ai-generated-mental-health-advice-gets-uplifted-via-a-strong-dose-of-artificial-wisdom/",
@@ -20,20 +34,6 @@
       "title": "流量見頂後的第二成長曲線，LINE 台灣將「日常需求」轉化為商機的突圍之道",
       "link": "https://finance.technews.tw/2026/08/23/ine-has-90percent-reach-how-can-it-keep-growing/",
       "isoDate": "2026-08-23T03:00:41.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 化身第一道篩檢工具，及早揪出全球 10 億人的脂肪肝危機",
-      "link": "https://technews.tw/2026/08/23/theres-a-fatty-liver-epidemic-ai-could-help-get-ahead-of-it/",
-      "isoDate": "2026-08-23T02:30:13.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "記憶體成本攀升，NVIDIA 明年起調漲 AI 伺服器價格、漲幅逾 15%",
-      "link": "https://technews.tw/2026/08/23/nvidia-notifies-customers-of-ai-related-price-hikes-above-15-percent/",
-      "isoDate": "2026-08-23T02:29:41.000Z",
       "source": "科技新報",
       "category": "科技"
     }
