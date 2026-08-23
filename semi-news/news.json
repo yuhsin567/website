@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-23T21:18:55.617Z",
+  "generated": "2026-08-23T22:19:07.161Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】【科技早餐】NVIDIA 傳砸 60 億美元搶 AI 技術，Apple 裁減逾 200 職位波及 Siri、Vision Pro",
+      "link": "https://techorange.com/2026/08/24/nvidia-poolside-ai-deal-apple-siri-vision-pro-layoffs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-23T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "藍牙耳機連線遭占用，阿里電商平台被抓包用 WebAudio 建數位指紋",
       "link": "https://infosecu.technews.tw/2026/08/23/aliexpress-reportedly-uses-webaudio-fingerprinting-to-keep-bluetooth-headphones-connected/",
@@ -27,13 +34,6 @@
       "title": "吃了會看見「小人國」？神祕蘑菇為何會引發集體幻覺，科學家：找不到致幻成分",
       "link": "https://technews.tw/2026/08/23/scientists-identify-mushroom-behind-tiny-people-hallucinations/",
       "isoDate": "2026-08-23T07:00:25.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Ox Alpha 模型竄紅 AI 圈，免費試用背後身分引發猜測",
-      "link": "https://technews.tw/2026/08/23/ox-alpha-is-a-frontier-ai-model-built-for-efficient-coding-and-agentic-work/",
-      "isoDate": "2026-08-23T06:39:39.000Z",
       "source": "科技新報",
       "category": "科技"
     }
