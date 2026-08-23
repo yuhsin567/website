@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-23T01:10:57.505Z",
+  "generated": "2026-08-23T02:59:51.599Z",
   "count": 5,
   "items": [
+    {
+      "title": "AI 化身第一道篩檢工具，及早揪出全球 10 億人的脂肪肝危機",
+      "link": "https://technews.tw/2026/08/23/theres-a-fatty-liver-epidemic-ai-could-help-get-ahead-of-it/",
+      "isoDate": "2026-08-23T02:30:13.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "記憶體成本攀升，NVIDIA 明年起調漲 AI 伺服器價格、漲幅逾 15%",
+      "link": "https://technews.tw/2026/08/23/nvidia-notifies-customers-of-ai-related-price-hikes-above-15-percent/",
+      "isoDate": "2026-08-23T02:29:41.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "毛利率飆 65%、股價卻重挫二成，On 跑鞋寧放慢成長也不降價的祕密",
+      "link": "https://finance.technews.tw/2026/08/23/on-running-shoes-secret-65-gross-margin-20-stock-plunge-prefers-slow-growth-no-price-cuts/",
+      "isoDate": "2026-08-23T02:00:14.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "長得像海馬卻不是海馬？3D 骨骼掃描與基因定序揭開深海「海木偶」身世",
+      "link": "https://technews.tw/2026/08/23/sea-muppet/",
+      "isoDate": "2026-08-23T01:30:57.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "群創法說焦點「騰籠換鳥」！未回應台積電 CoPoS 合作問題，TGV 玻璃基板最快 2028 年量產",
       "link": "https://technews.tw/2026/08/23/innolux-earnings-call-26q2/",
       "isoDate": "2026-08-23T01:00:46.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "治了癌症卻痛了關節，破解免疫療法副作用謎團：「免疫記憶」竟是發炎加劇元兇",
-      "link": "https://technews.tw/2026/08/23/immune-memory/",
-      "isoDate": "2026-08-23T00:30:51.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "星雲大師、王永慶被收服，40 年老字號鈺通營造靠「極限完工」創 24 年營收新高",
-      "link": "https://finance.technews.tw/2026/08/23/yuh-tong-construction/",
-      "isoDate": "2026-08-23T00:00:18.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "學生負責下令，AI 負責讀大學：AI 代理「幫上課」成高等教育危機",
-      "link": "https://technews.tw/2026/08/23/i-found-a-prompt-that-keeps-ai-agents-from-taking-tasks-too-far/",
-      "isoDate": "2026-08-22T23:00:19.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "銀河系演化史翻新，誕生初期即歷經大規模「星系併吞」",
-      "link": "https://technews.tw/2026/08/23/hst-unravels-mystery-of-the-milky-way-early-mergers/",
-      "isoDate": "2026-08-22T16:00:50.000Z",
       "source": "科技新報",
       "category": "科技"
     }
