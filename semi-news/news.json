@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-23T13:29:59.423Z",
+  "generated": "2026-08-23T14:20:02.722Z",
   "count": 5,
   "items": [
+    {
+      "title": "藍牙耳機連線遭占用，阿里電商平台被抓包用 WebAudio 建數位指紋",
+      "link": "https://infosecu.technews.tw/2026/08/23/aliexpress-reportedly-uses-webaudio-fingerprinting-to-keep-bluetooth-headphones-connected/",
+      "isoDate": "2026-08-23T13:29:32.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "韓國晶片貿易順差飆新高，半導體出口受惠 AI 熱潮",
       "link": "https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/",
@@ -27,13 +34,6 @@
       "title": "Ox Alpha 模型竄紅 AI 圈，免費試用背後身分引發猜測",
       "link": "https://technews.tw/2026/08/23/ox-alpha-is-a-frontier-ai-model-built-for-efficient-coding-and-agentic-work/",
       "isoDate": "2026-08-23T06:39:39.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "華為針對亞太地區以安全智慧連結理念，全面升級星河 AI 網路，躍升產業數位智能化",
-      "link": "https://infosecu.technews.tw/2026/08/23/huawei-upgrades-xinghe-ai-network-asia-pacific-secure-intelligent-connectivity-digital-intelligence/",
-      "isoDate": "2026-08-23T06:00:52.000Z",
       "source": "科技新報",
       "category": "科技"
     }
