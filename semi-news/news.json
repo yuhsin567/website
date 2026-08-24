@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-23T23:18:11.534Z",
+  "generated": "2026-08-24T01:08:51.998Z",
   "count": 5,
   "items": [
     {
-      "title": "新生兒需要癌症篩檢嗎？及早知道，真的能改變一生",
-      "link": "https://technews.tw/2026/08/24/newborn-screening-for-cancer-risk-could-save-lives-should-it-be-done/",
-      "isoDate": "2026-08-23T23:10:10.000Z",
+      "title": "談判破局、美對加拿大加徵 50% 關稅  加揚言報復",
+      "link": "https://finance.technews.tw/2026/08/24/us-canada-tariffs-50-negotiations-collapse-canada-retaliation/",
+      "isoDate": "2026-08-24T01:00:55.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AMD 收購 Taalas，AI 推論放眼異質運算與模型專用晶片時代",
-      "link": "https://finance.technews.tw/2026/08/24/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market/",
-      "isoDate": "2026-08-23T23:00:41.000Z",
+      "title": "AI 算力競賽進入下半場 PUE / WUE 指標成 AI 資料中心下一波競爭焦點",
+      "link": "https://technews.tw/2026/08/24/ai-pue-wue-ai-data-centers/",
+      "isoDate": "2026-08-24T01:00:34.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】【科技早餐】NVIDIA 傳砸 60 億美元搶 AI 技術，Apple 裁減逾 200 職位波及 Siri、Vision Pro",
-      "link": "https://techorange.com/2026/08/24/nvidia-poolside-ai-deal-apple-siri-vision-pro-layoffs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-23T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "藍牙耳機連線遭占用，阿里電商平台被抓包用 WebAudio 建數位指紋",
-      "link": "https://infosecu.technews.tw/2026/08/23/aliexpress-reportedly-uses-webaudio-fingerprinting-to-keep-bluetooth-headphones-connected/",
-      "isoDate": "2026-08-23T13:29:32.000Z",
+      "title": "日政府傳擬對晶圓代工廠 Rapidus 追加出資 1,500 億",
+      "link": "https://finance.technews.tw/2026/08/24/jp-gov-invest-rapidus-more/",
+      "isoDate": "2026-08-24T00:50:19.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "韓國晶片貿易順差飆新高，半導體出口受惠 AI 熱潮",
-      "link": "https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/",
-      "isoDate": "2026-08-23T08:19:53.000Z",
+      "title": "訓練快一倍、資料省六成，新型預訓練法 GeoPT 讓 AI 具備「物理直覺」",
+      "link": "https://technews.tw/2026/08/24/mit-tsinghua-geopt/",
+      "isoDate": "2026-08-24T00:40:49.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "日本導入 AI 仍緩慢，保守文化與人才缺口成轉型絆腳石",
+      "link": "https://finance.technews.tw/2026/08/24/why-japanese-firms-are-being-so-slow-to-use-ai/",
+      "isoDate": "2026-08-24T00:30:28.000Z",
       "source": "科技新報",
       "category": "科技"
     }
