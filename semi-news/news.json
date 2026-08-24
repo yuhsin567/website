@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-24T04:41:23.617Z",
+  "generated": "2026-08-24T05:35:54.157Z",
   "count": 5,
   "items": [
+    {
+      "title": "Atlassian發布8月分更新，修補旗下產品逾80個漏洞",
+      "link": "https://www.ithome.com.tw/news/178373",
+      "isoDate": "2026-08-24T12:08:55.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Anthropic釋出Mythos 5資安能力，企業版可直接掃碼修漏洞",
       "link": "https://www.ithome.com.tw/news/178369",
@@ -17,23 +24,16 @@
       "category": "科技"
     },
     {
+      "title": "駭客組織Ransom Busters號稱能協助勒索軟體受害者復原，並從勒索集團刪除竊得資料",
+      "link": "https://www.ithome.com.tw/news/178371",
+      "isoDate": "2026-08-24T12:08:17.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
       "title": "Hugging Face傳尋求出售，估值上看130億美元",
       "link": "https://www.ithome.com.tw/news/178366",
       "isoDate": "2026-08-24T11:08:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Splunk發布8月份更新，修補逾150個漏洞",
-      "link": "https://www.ithome.com.tw/news/178364",
-      "isoDate": "2026-08-24T11:08:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "石油精煉公司Delek US傳遭駭客組織Helix攻擊，竊取SharePoint資料",
-      "link": "https://www.ithome.com.tw/news/178362",
-      "isoDate": "2026-08-24T11:08:24.000Z",
       "source": "iThome",
       "category": "科技"
     }
