@@ -1,41 +1,41 @@
 {
-  "generated": "2026-08-25T22:23:52.690Z",
+  "generated": "2026-08-25T23:23:11.356Z",
   "count": 5,
   "items": [
     {
-      "title": "漢測前 7 月營收超越 2025 全年，記憶體、先進封裝、矽光子三大新市場為成長動力",
-      "link": "https://finance.technews.tw/2026/08/25/hantests-revenue-in-the-first-seven-months-exceeded-its-total-revenue-for-2025/",
-      "isoDate": "2026-08-25T12:45:03.000Z",
+      "title": "從馬路戰到工地，Waymo 老將領軍 Bedrock「AI 自駕怪手」上工",
+      "link": "https://technews.tw/2026/08/26/bedrock-ai-autonomous-excavator/",
+      "isoDate": "2026-08-25T23:20:42.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "MongoDB修補32個漏洞，包括BI Connector ODBC Driver的遠端執行程式碼重大漏洞 ",
-      "link": "https://www.ithome.com.tw/news/178407",
-      "isoDate": "2026-08-25T12:08:47.000Z",
-      "source": "iThome",
+      "title": "輝達全新機器人設計運算平台 Jetson Orin Nano 2 發表，效能提升兩倍 2027上半年上市",
+      "link": "https://finance.technews.tw/2026/08/26/nvidia-unveils-its-new-jetson-orin-nano-2-robotics-design-computing-platform/",
+      "isoDate": "2026-08-25T23:00:56.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "WordPress外掛Elementor Pro存在遠端執行程式碼重大漏洞，影響逾1000萬網站",
-      "link": "https://www.ithome.com.tw/news/178405",
-      "isoDate": "2026-08-25T12:08:37.000Z",
-      "source": "iThome",
+      "title": "建築導入太陽能之政策驅動、技術發展與挑戰",
+      "link": "https://technews.tw/2026/08/26/solar-energy-integration-buildings-policy-drivers-technology-development-challenges/",
+      "isoDate": "2026-08-25T23:00:33.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "IBM公布首個能執行主機及Arm應用的雙架構晶片",
-      "link": "https://www.ithome.com.tw/news/178398",
-      "isoDate": "2026-08-25T11:08:48.000Z",
-      "source": "iThome",
+      "title": "中情局長罕見搭乘 C-17 突訪莫斯科，疑為說服普丁放棄攻擊北約成員國計畫",
+      "link": "https://technews.tw/2026/08/26/cia-chief-suprisingly-visit-moscow-by-c-17/",
+      "isoDate": "2026-08-25T23:00:05.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "人形機器人首度打破100米及400米短跑人類紀錄",
-      "link": "https://www.ithome.com.tw/news/178403",
-      "isoDate": "2026-08-25T11:08:04.000Z",
-      "source": "iThome",
-      "category": "科技"
+      "title": "【科技早餐】SpaceX 攜手 NVIDIA 建太空 AI 資料中心，小米新晶片傳交台積電 3 奈米代工",
+      "link": "https://techorange.com/2026/08/26/spacex-nvidia-space-ai-data-center-xiaomi-tsmc-3nm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-25T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
     }
   ]
 }
