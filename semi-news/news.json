@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-25T02:56:01.125Z",
+  "generated": "2026-08-25T03:48:25.716Z",
   "count": 5,
   "items": [
+    {
+      "title": "IBM公布首個能執行主機及Arm應用的雙架構晶片",
+      "link": "https://www.ithome.com.tw/news/178398",
+      "isoDate": "2026-08-25T11:08:48.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft 365免費授權用戶傳被刪除OneDrive資料，影響規模傳達17.1萬個非營利組織",
+      "link": "https://www.ithome.com.tw/news/178397",
+      "isoDate": "2026-08-25T11:08:04.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Android銀行木馬ToxicPanda 2.0擴大攻擊，瞄準349款金融應用",
       "link": "https://www.ithome.com.tw/news/178394",
@@ -21,20 +35,6 @@
       "link": "https://www.ithome.com.tw/news/178396",
       "isoDate": "2026-08-25T07:08:35.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "開源紅隊框架RAVEN整合Elasticsearch與Kibana攻擊鏈，可竊取資料並建立持久化存取",
-      "link": "https://www.ithome.com.tw/news/178392",
-      "isoDate": "2026-08-25T07:08:23.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI 減少白領就業機會，德國青年重新擁抱技職教育",
-      "link": "https://technews.tw/2026/08/25/ai-reduces-white-collar-jobs-german-youth-re-embrace-vocational-education/",
-      "isoDate": "2026-08-25T02:50:32.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
