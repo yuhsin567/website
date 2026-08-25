@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-25T04:35:56.768Z",
+  "generated": "2026-08-25T05:29:00.867Z",
   "count": 5,
   "items": [
+    {
+      "title": "MongoDB修補32個漏洞，包括BI Connector ODBC Driver的遠端執行程式碼重大漏洞 ",
+      "link": "https://www.ithome.com.tw/news/178407",
+      "isoDate": "2026-08-25T12:08:47.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "WordPress外掛Elementor Pro存在遠端執行程式碼重大漏洞，影響逾1000萬網站",
       "link": "https://www.ithome.com.tw/news/178405",
@@ -27,13 +34,6 @@
       "title": "Microsoft 365免費授權用戶傳被刪除OneDrive資料，影響規模傳達17.1萬個非營利組織",
       "link": "https://www.ithome.com.tw/news/178397",
       "isoDate": "2026-08-25T11:08:04.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Android銀行木馬ToxicPanda 2.0擴大攻擊，瞄準349款金融應用",
-      "link": "https://www.ithome.com.tw/news/178394",
-      "isoDate": "2026-08-25T07:08:55.000Z",
       "source": "iThome",
       "category": "科技"
     }
