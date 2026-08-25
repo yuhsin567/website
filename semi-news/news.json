@@ -1,11 +1,25 @@
 {
-  "generated": "2026-08-25T03:48:25.716Z",
+  "generated": "2026-08-25T04:35:56.768Z",
   "count": 5,
   "items": [
+    {
+      "title": "WordPress外掛Elementor Pro存在遠端執行程式碼重大漏洞，影響逾1000萬網站",
+      "link": "https://www.ithome.com.tw/news/178405",
+      "isoDate": "2026-08-25T12:08:37.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "IBM公布首個能執行主機及Arm應用的雙架構晶片",
       "link": "https://www.ithome.com.tw/news/178398",
       "isoDate": "2026-08-25T11:08:48.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "人形機器人首度打破100米及400米短跑人類紀錄",
+      "link": "https://www.ithome.com.tw/news/178403",
+      "isoDate": "2026-08-25T11:08:04.000Z",
       "source": "iThome",
       "category": "科技"
     },
@@ -20,20 +34,6 @@
       "title": "Android銀行木馬ToxicPanda 2.0擴大攻擊，瞄準349款金融應用",
       "link": "https://www.ithome.com.tw/news/178394",
       "isoDate": "2026-08-25T07:08:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國迷你電腦品牌GEEKOM舊版驅動套件遭判定含Asruex木馬，涉及6款AMD機種",
-      "link": "https://www.ithome.com.tw/news/178386",
-      "isoDate": "2026-08-25T07:08:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國司法部與TikTok、ByteDance兒童隱私訴訟以4億美元和解",
-      "link": "https://www.ithome.com.tw/news/178396",
-      "isoDate": "2026-08-25T07:08:35.000Z",
       "source": "iThome",
       "category": "科技"
     }
