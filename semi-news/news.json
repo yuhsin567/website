@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-26T04:42:01.892Z",
+  "generated": "2026-08-26T05:32:02.029Z",
   "count": 5,
   "items": [
+    {
+      "title": "AI資安業者Alice募資1.4億美元，AI業務兩年成長逾500%",
+      "link": "https://www.ithome.com.tw/news/178446",
+      "isoDate": "2026-08-26T12:08:44.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "恩智浦推出MCX A5 MCU，為工業與IoT邊緣裝置導入PQC防護",
       "link": "https://www.ithome.com.tw/news/178441",
@@ -27,13 +34,6 @@
       "title": "Visual Studio 2026擴充Git多分支開發，Copilot可依任務調整推理強度",
       "link": "https://www.ithome.com.tw/news/178442",
       "isoDate": "2026-08-26T11:08:12.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "蘋果同步改款Mac mini與Mac Studio，打造專為AI而生的桌機陣容",
-      "link": "https://www.ithome.com.tw/news/178445",
-      "isoDate": "2026-08-26T11:08:08.000Z",
       "source": "iThome",
       "category": "科技"
     }
