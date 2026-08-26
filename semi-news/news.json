@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-26T03:02:11.469Z",
+  "generated": "2026-08-26T04:42:01.892Z",
   "count": 5,
   "items": [
     {
-      "title": "Calix家用路由器UPnP漏洞可從外網修改轉送規則，目前仍無修補程式",
-      "link": "https://www.ithome.com.tw/news/178432",
-      "isoDate": "2026-08-26T10:08:37.000Z",
+      "title": "恩智浦推出MCX A5 MCU，為工業與IoT邊緣裝置導入PQC防護",
+      "link": "https://www.ithome.com.tw/news/178441",
+      "isoDate": "2026-08-26T11:08:49.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "OpenAI資料中心主管離職，正值公司調整資料中心策略",
-      "link": "https://www.ithome.com.tw/news/178439",
-      "isoDate": "2026-08-26T10:08:18.000Z",
+      "title": "逾270臺郵件伺服器Zimbra遭SNMP通知元件漏洞入侵",
+      "link": "https://www.ithome.com.tw/news/178444",
+      "isoDate": "2026-08-26T11:08:28.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美國警告開源版本控制系統Gitea重大漏洞遭到利用",
-      "link": "https://www.ithome.com.tw/news/178438",
-      "isoDate": "2026-08-26T10:08:05.000Z",
+      "title": "CI/CD平臺TeamCity重大漏洞被用於攻擊澳洲組織",
+      "link": "https://www.ithome.com.tw/news/178443",
+      "isoDate": "2026-08-26T11:08:26.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Perplexity公布可執行於Nvidia桌機的AI代理人Portable Computer",
-      "link": "https://www.ithome.com.tw/news/178440",
-      "isoDate": "2026-08-26T10:08:04.000Z",
+      "title": "Visual Studio 2026擴充Git多分支開發，Copilot可依任務調整推理強度",
+      "link": "https://www.ithome.com.tw/news/178442",
+      "isoDate": "2026-08-26T11:08:12.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "挪威政府數位服務遭DDoS攻擊，部分服務受影響超過一天",
-      "link": "https://www.ithome.com.tw/news/178437",
-      "isoDate": "2026-08-26T09:08:00.000Z",
+      "title": "蘋果同步改款Mac mini與Mac Studio，打造專為AI而生的桌機陣容",
+      "link": "https://www.ithome.com.tw/news/178445",
+      "isoDate": "2026-08-26T11:08:08.000Z",
       "source": "iThome",
       "category": "科技"
     }
