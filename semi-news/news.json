@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-26T16:15:59.024Z",
+  "generated": "2026-08-26T18:58:40.841Z",
   "count": 5,
   "items": [
+    {
+      "title": "蘋果發表會 9/10 登場，iPhone 18 Pro、摺疊 iPhone 將現身？",
+      "link": "https://technews.tw/2026/08/27/2026-apple-event/",
+      "isoDate": "2026-08-26T16:41:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "AI資安業者Alice募資1.4億美元，AI業務兩年成長逾500%",
       "link": "https://www.ithome.com.tw/news/178446",
@@ -27,13 +34,6 @@
       "title": "CI/CD平臺TeamCity重大漏洞被用於攻擊澳洲組織",
       "link": "https://www.ithome.com.tw/news/178443",
       "isoDate": "2026-08-26T11:08:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Visual Studio 2026擴充Git多分支開發，Copilot可依任務調整推理強度",
-      "link": "https://www.ithome.com.tw/news/178442",
-      "isoDate": "2026-08-26T11:08:12.000Z",
       "source": "iThome",
       "category": "科技"
     }
