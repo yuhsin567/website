@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-27T02:54:17.094Z",
+  "generated": "2026-08-27T13:46:14.330Z",
   "count": 5,
   "items": [
     {
-      "title": "Nvidia修補NemoClaw與OpenShell漏洞",
-      "link": "https://www.ithome.com.tw/news/178463",
-      "isoDate": "2026-08-27T10:08:18.000Z",
+      "title": "Ubiquiti修補UniFi產品家族22個漏洞，包含3個CVSS滿分重大漏洞 ",
+      "link": "https://www.ithome.com.tw/news/178475",
+      "isoDate": "2026-08-27T12:08:46.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "SharePoint攻擊鏈遭到利用",
-      "link": "https://www.ithome.com.tw/news/178464",
-      "isoDate": "2026-08-27T10:08:00.000Z",
+      "title": "中國駭客APT24傳出入侵臺灣廣告供應鏈，在新聞與小說網站植入惡意程式碼",
+      "link": "https://www.ithome.com.tw/news/178472",
+      "isoDate": "2026-08-27T12:08:38.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "CISA將紅帽、SQL Server、Linux核心、Citrix NetScaler漏洞列KEV",
-      "link": "https://www.ithome.com.tw/news/178460",
-      "isoDate": "2026-08-27T09:08:36.000Z",
+      "title": "WatchGuard修補代理程式兩個重大漏洞，若未更新可能導致攻擊者遠端執行任意程式碼",
+      "link": "https://www.ithome.com.tw/news/178468",
+      "isoDate": "2026-08-27T11:08:38.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "英國小型發電設施遭網攻停擺4天，疑與伊朗相關駭客有關",
-      "link": "https://www.ithome.com.tw/news/178462",
-      "isoDate": "2026-08-27T09:08:24.000Z",
+      "title": "WhatsApp強化兩階段驗證機制",
+      "link": "https://www.ithome.com.tw/news/178471",
+      "isoDate": "2026-08-27T11:08:18.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Adobe發布8月第二次例行更新，呼籲用戶優先修補Campaign Classic",
-      "link": "https://www.ithome.com.tw/news/178461",
-      "isoDate": "2026-08-27T09:08:19.000Z",
+      "title": "比爾蓋茲警告：AI時代將是人類史上最動盪的時期之一",
+      "link": "https://www.ithome.com.tw/news/178467",
+      "isoDate": "2026-08-27T11:08:07.000Z",
       "source": "iThome",
       "category": "科技"
     }
