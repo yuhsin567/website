@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-28T09:32:54.011Z",
+  "generated": "2026-08-28T21:04:37.366Z",
   "count": 5,
   "items": [
+    {
+      "title": "課本可能寫錯了？最新衛星數據挑戰傳統「雙隆起」潮汐模型",
+      "link": "https://technews.tw/2026/08/29/satellite-challenges-double-bulge/",
+      "isoDate": "2026-08-28T16:00:35.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效",
+      "link": "https://technews.tw/2026/08/29/your-liver-runs-on-a-clock-and-it-could-change-how-we-treat-metabolic-disease/",
+      "isoDate": "2026-08-28T16:00:28.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "台積電菜鳥員工爆料季獎金開獎有感增加，財報已顯示單季總額年增 50.7%",
+      "link": "https://finance.technews.tw/2026/08/28/tsmc-q2-employee-bonuses-nt36-billion-up-50-percent-yoy/",
+      "isoDate": "2026-08-28T14:00:33.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "美國司法部與FBI破壞中國駭客代理網路，查封QScan與QTRouter平臺",
       "link": "https://www.ithome.com.tw/news/178507",
@@ -13,27 +34,6 @@
       "title": "國際刑警組織領軍掃蕩全球網路金融犯罪行動，逮捕58人並確認263名涉案者",
       "link": "https://www.ithome.com.tw/news/178509",
       "isoDate": "2026-08-28T12:08:47.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic推出模型硬體標準，讓AI代理直接操作實驗室與製造設備",
-      "link": "https://www.ithome.com.tw/news/178508",
-      "isoDate": "2026-08-28T12:08:38.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI提出網路集體防禦行動，獲Google、Anthropic及微軟等上百家企業呼應",
-      "link": "https://www.ithome.com.tw/news/178506",
-      "isoDate": "2026-08-28T11:08:28.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "NetApp併購JetStream，強化VMware環境災難復原與雲端遷移能力",
-      "link": "https://www.ithome.com.tw/news/178505",
-      "isoDate": "2026-08-28T11:08:17.000Z",
       "source": "iThome",
       "category": "科技"
     }
