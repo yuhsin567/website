@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-29T15:28:32.879Z",
+  "generated": "2026-08-29T19:11:14.604Z",
   "count": 5,
   "items": [
+    {
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法",
+      "link": "https://technews.tw/2026/08/30/ai-designed-intrabodies-could-unlock-new-treatments-for-alzheimers-parkinsons-and-mnd/",
+      "isoDate": "2026-08-29T16:00:30.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "NASA 韋伯望遠鏡捕捉「獅子星雲」，紅外線視角揭開垂死恆星的壯麗終章",
+      "link": "https://technews.tw/2026/08/30/lion-nebula/",
+      "isoDate": "2026-08-29T16:00:21.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "美國 FDA 核准首款 ET 全線新藥！藥華藥 Ropeg 橫跨兩大血癌領域",
       "link": "https://finance.technews.tw/2026/08/29/aml/",
@@ -20,20 +34,6 @@
       "title": "首創「AI for All」全民免費代幣！韓國豪擲 10 兆韓元實現算力自由",
       "link": "https://finance.technews.tw/2026/08/29/ai-for-all/",
       "isoDate": "2026-08-29T07:36:08.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "科技巨頭的兩手策略：嚴打「AI 垃圾」，卻加速擁抱生成式未來",
-      "link": "https://technews.tw/2026/08/29/tech-giants-ai-slop/",
-      "isoDate": "2026-08-29T07:30:19.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略",
-      "link": "https://technews.tw/2026/08/29/scientists-unravel-norovirus-rna-structure-new-vaccine-strategies/",
-      "isoDate": "2026-08-29T07:00:26.000Z",
       "source": "科技新報",
       "category": "科技"
     }
