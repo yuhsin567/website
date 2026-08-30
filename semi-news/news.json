@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-30T20:33:40.403Z",
+  "generated": "2026-08-30T23:10:06.739Z",
   "count": 5,
   "items": [
+    {
+      "title": "AI 推論瓶頸的突圍：從算力瓶頸轉向儲存階層的革新",
+      "link": "https://technews.tw/2026/08/31/ai-inference-bottlenecks-breakthrough-from-compute-to-storage-hierarchy-innovation/",
+      "isoDate": "2026-08-30T23:00:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Uber 曾 4 個月燒完全年 AI 預算，後來怎麼管住 Agent 成本？",
+      "link": "https://techorange.com/2026/08/31/uber-ai-token-software-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-30T22:09:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "【科技早餐】OpenAI 11 月停止供應 Cursor 模型，SK 海力士逾 40 億美元美國 HBM 廠動工",
+      "link": "https://techorange.com/2026/08/31/openai-cursor-sk-hynix-hbm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-30T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "開發框架Next.js修補兩項重大RCE漏洞，Windows部署及AVIF影像最佳化受影響",
       "link": "https://www.ithome.com.tw/news/178520",
@@ -14,27 +35,6 @@
       "link": "https://www.ithome.com.tw/news/178528",
       "isoDate": "2026-08-30T12:08:11.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "【科普】四颱共舞挑戰預報，從衛星、雷達到飛機，人類追颱風的科技攻防",
-      "link": "https://technews.tw/2026/08/30/weather-radar-satellite-typhoon/",
-      "isoDate": "2026-08-30T09:13:06.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "後勤潛力無窮，大型商用補給船僅花九天完成改裝成為美軍自主駕駛無人艦",
-      "link": "https://technews.tw/2026/08/30/sea-machines-robotocs-took-only-9-days-transferring-large-commercial-supply-ship-into-autonomous-ship-for-us-army/",
-      "isoDate": "2026-08-30T09:05:54.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "減重神藥 GLP-1 顛覆美國醫療產業，富國銀行指「肥胖藥物」研發首度超車癌症",
-      "link": "https://technews.tw/2026/08/30/glp1-disrupts-us-healthcare/",
-      "isoDate": "2026-08-30T08:30:37.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
