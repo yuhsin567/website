@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-30T01:02:49.064Z",
+  "generated": "2026-08-30T07:52:03.178Z",
   "count": 5,
   "items": [
     {
-      "title": "百兆財富傳承潮來襲，台股狂飆後有錢人正悄悄進行的「資產重分配」",
-      "link": "https://finance.technews.tw/2026/08/30/taiwan-stock-market-generated-over-nt100-trillion/",
-      "isoDate": "2026-08-30T01:00:17.000Z",
+      "title": "開發框架Next.js修補兩項重大RCE漏洞，Windows部署及AVIF影像最佳化受影響",
+      "link": "https://www.ithome.com.tw/news/178520",
+      "isoDate": "2026-08-30T12:08:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "數發部五大AI政策上路一年，林宜敬盤點最新成果",
+      "link": "https://www.ithome.com.tw/news/178528",
+      "isoDate": "2026-08-30T12:08:11.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "科技巨頭決戰空中，亞馬遜、Uber、DoorDash 與沃爾瑪引爆無人機外送大戰",
+      "link": "https://technews.tw/2026/08/30/amazon-uber-doordash-walmart-ignite-drone-delivery-war/",
+      "isoDate": "2026-08-30T07:30:41.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "不是理性計算是習慣，研究揭露人們為何總做同樣的選擇",
-      "link": "https://technews.tw/2026/08/30/why-your-brain-keeps-making-the-same-decisions/",
-      "isoDate": "2026-08-30T00:30:45.000Z",
+      "title": "採購成本大漲卻能「省錢」，美軍 F-35 全壽期成本降至 1.93 兆美元",
+      "link": "https://technews.tw/2026/08/30/the-pentagons-report-revealed-the-lifecycle-cost-of-f35s-has-droped/",
+      "isoDate": "2026-08-30T07:13:09.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "店數少 60 家卻能贏過龍頭，揭健身工廠 EPS 比 World Gym 高兩倍多的關鍵策略",
-      "link": "https://finance.technews.tw/2026/08/30/fitness-factory-profits-beat-world-gym/",
-      "isoDate": "2026-08-30T00:00:05.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "CIA 祕密採購 2 萬台訂單救了 NeXT，成賈伯斯重返蘋果的隱藏推手",
-      "link": "https://technews.tw/2026/08/30/the-secret-cia-connection-behind-nexts-survival-and-jobs-return-to-apple/",
-      "isoDate": "2026-08-29T23:30:53.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法",
-      "link": "https://technews.tw/2026/08/30/ai-designed-intrabodies-could-unlock-new-treatments-for-alzheimers-parkinsons-and-mnd/",
-      "isoDate": "2026-08-29T16:00:30.000Z",
+      "title": "AI 吃電怪獸逼出全球電網重整！全球瘋搶變壓器，台廠靠快交期突圍",
+      "link": "https://technews.tw/2026/08/30/ai-power-hungry-nature-forces-global-grid-overhaul-world-scrambles-transformers-taiwanese-firms-emerge-fast-delivery/",
+      "isoDate": "2026-08-30T07:00:41.000Z",
       "source": "科技新報",
       "category": "科技"
     }
