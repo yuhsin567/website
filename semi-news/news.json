@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-31T10:31:18.138Z",
+  "generated": "2026-08-31T17:52:12.018Z",
   "count": 5,
   "items": [
+    {
+      "title": "揭開太陽系時空膠囊面紗，地面望遠鏡首度成功捕捉「裸體彗核」",
+      "link": "https://technews.tw/2026/08/31/first-ever-capture-comet-naked/",
+      "isoDate": "2026-08-31T14:35:53.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Google 免費縮圖神器 Squoosh：免安裝、免上傳，畫質與大小輕鬆兼顧",
+      "link": "https://technews.tw/2026/08/31/google-squoosh/",
+      "isoDate": "2026-08-31T13:39:46.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "台積電揭 COUPE 藍圖：光源、調變器、SOA 全整合，進一步挑戰「光學中介層」",
+      "link": "https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/",
+      "isoDate": "2026-08-31T12:40:22.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "AI 發展還在第一階段，吳田玉：台灣要加速把基礎建設做出來",
+      "link": "https://techorange.com/2026/08/31/semicon-2026-ase-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-08-31T12:14:18.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "Apache CloudStack修補20個漏洞，包括可能導致跨租戶取得KVM主機Root權限的重大漏洞",
       "link": "https://www.ithome.com.tw/news/178541",
       "isoDate": "2026-08-31T12:08:03.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "臺灣新創Zeabur資料外洩，駭客聲稱竊得612 GB內部資料",
-      "link": "https://www.ithome.com.tw/news/178540",
-      "isoDate": "2026-08-31T11:08:34.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "加州通過法案，開源作業系統豁免年齡驗證",
-      "link": "https://www.ithome.com.tw/news/178538",
-      "isoDate": "2026-08-31T11:08:23.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "新型惡意軟體GoCaracal現蹤，以太坊智慧合約成C2位址備援",
-      "link": "https://www.ithome.com.tw/news/178539",
-      "isoDate": "2026-08-31T11:08:07.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "臺灣AI新創Zeabur環境變數外洩，使用者API金鑰恐外流",
-      "link": "https://www.ithome.com.tw/news/178534",
-      "isoDate": "2026-08-31T10:08:57.000Z",
       "source": "iThome",
       "category": "科技"
     }
