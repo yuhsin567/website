@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-31T03:39:42.736Z",
+  "generated": "2026-08-31T10:31:18.138Z",
   "count": 5,
   "items": [
+    {
+      "title": "Apache CloudStack修補20個漏洞，包括可能導致跨租戶取得KVM主機Root權限的重大漏洞",
+      "link": "https://www.ithome.com.tw/news/178541",
+      "isoDate": "2026-08-31T12:08:03.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "臺灣新創Zeabur資料外洩，駭客聲稱竊得612 GB內部資料",
       "link": "https://www.ithome.com.tw/news/178540",
@@ -17,23 +24,16 @@
       "category": "科技"
     },
     {
+      "title": "新型惡意軟體GoCaracal現蹤，以太坊智慧合約成C2位址備援",
+      "link": "https://www.ithome.com.tw/news/178539",
+      "isoDate": "2026-08-31T11:08:07.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
       "title": "臺灣AI新創Zeabur環境變數外洩，使用者API金鑰恐外流",
       "link": "https://www.ithome.com.tw/news/178534",
       "isoDate": "2026-08-31T10:08:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "ShinyHunters公開美國服飾業者Carhartt 1300萬筆資料",
-      "link": "https://www.ithome.com.tw/news/178535",
-      "isoDate": "2026-08-31T10:08:20.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI計畫11月終止向Cursor直接提供AI模型",
-      "link": "https://www.ithome.com.tw/news/178533",
-      "isoDate": "2026-08-31T10:08:18.000Z",
       "source": "iThome",
       "category": "科技"
     }
