@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-01T20:33:01.377Z",
+  "generated": "2026-09-01T23:00:17.762Z",
   "count": 5,
   "items": [
+    {
+      "title": "世界機器人大會中國廠商齊聚，從技術展示走向產業化驗證",
+      "link": "https://technews.tw/2026/09/02/world-robot-conference-china-manufacturers-tech-showcase-industrialization-validation/",
+      "isoDate": "2026-09-01T23:00:11.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】NVIDIA 35 億美元「準入股」聯發科，Anthropic 傳一週簽 800 億美元算力合約",
+      "link": "https://techorange.com/2026/09/02/nvidia-mediatek-investment-anthropic-ai-compute-deals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-01T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "高通推兩款 Dragonwing 新處理器，瞄準消費、工業智慧邊緣運算",
       "link": "https://technews.tw/2026/09/01/qualcomm-dragonwing-q-2390-and-iq-2390/",
@@ -20,20 +34,6 @@
       "title": "FTC攜22州控告Amazon廣告拍賣「暗藏加價」逾7年",
       "link": "https://www.ithome.com.tw/news/178572",
       "isoDate": "2026-09-01T12:09:16.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "研究人員Nightmare Eclipse公開Nvidia記憶體中斷漏洞GreenSection",
-      "link": "https://www.ithome.com.tw/news/178574",
-      "isoDate": "2026-09-01T12:09:07.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "駭客假冒《俠盜獵車手VI》外流遊戲檔案，散布惡意程式",
-      "link": "https://www.ithome.com.tw/news/178573",
-      "isoDate": "2026-09-01T12:09:04.000Z",
       "source": "iThome",
       "category": "科技"
     }
