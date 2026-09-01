@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-01T01:38:04.004Z",
+  "generated": "2026-09-01T07:15:32.743Z",
   "count": 5,
   "items": [
     {
-      "title": "Gartner估2027年AI安全市場規模達48億美元，年增近7成",
-      "link": "https://www.ithome.com.tw/news/178560",
-      "isoDate": "2026-09-01T08:09:00.000Z",
+      "title": "Microsoft 365驗證異常擴大，Exchange Online郵件與Teams等多項服務受影響",
+      "link": "https://www.ithome.com.tw/news/178571",
+      "isoDate": "2026-09-01T12:09:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Android 17強化網路隱私與2G防護，降低網路追蹤與偽基地臺攻擊風險",
-      "link": "https://www.ithome.com.tw/news/178557",
-      "isoDate": "2026-09-01T08:09:00.000Z",
+      "title": "FTC攜22州控告Amazon廣告拍賣「暗藏加價」逾7年",
+      "link": "https://www.ithome.com.tw/news/178572",
+      "isoDate": "2026-09-01T12:09:16.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Kubernetes 1.37強化工作負載身分安全，Pod憑證升為穩定版",
-      "link": "https://www.ithome.com.tw/news/178549",
-      "isoDate": "2026-09-01T08:09:00.000Z",
+      "title": "研究人員Nightmare Eclipse公開Nvidia記憶體中斷漏洞GreenSection",
+      "link": "https://www.ithome.com.tw/news/178574",
+      "isoDate": "2026-09-01T12:09:07.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "CISA揭近兩年CVE數量翻倍，逾4成已知遭利用漏洞涉及長期軟體弱點",
-      "link": "https://www.ithome.com.tw/news/178542",
-      "isoDate": "2026-09-01T08:09:00.000Z",
+      "title": "駭客假冒《俠盜獵車手VI》外流遊戲檔案，散布惡意程式",
+      "link": "https://www.ithome.com.tw/news/178573",
+      "isoDate": "2026-09-01T12:09:04.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "庫克卸任執行長交棒特納斯，告別信致敬賈伯斯",
-      "link": "https://technews.tw/2026/09/01/apple-ceo-tim-cook-gives-nod-to-founder-steve-jobs-in-final-memo/",
-      "isoDate": "2026-09-01T01:30:48.000Z",
-      "source": "科技新報",
+      "title": "美國槍砲監管機構ATF遭網路入侵，勒索軟體組織Qilin聲稱犯行",
+      "link": "https://www.ithome.com.tw/news/178569",
+      "isoDate": "2026-09-01T11:09:30.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
