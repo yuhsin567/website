@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-01T13:05:08.768Z",
+  "generated": "2026-09-01T17:35:40.734Z",
   "count": 5,
   "items": [
+    {
+      "title": "高通推兩款 Dragonwing 新處理器，瞄準消費、工業智慧邊緣運算",
+      "link": "https://technews.tw/2026/09/01/qualcomm-dragonwing-q-2390-and-iq-2390/",
+      "isoDate": "2026-09-01T14:14:01.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Microsoft 365驗證異常擴大，Exchange Online郵件與Teams等多項服務受影響",
       "link": "https://www.ithome.com.tw/news/178571",
@@ -28,13 +35,6 @@
       "link": "https://www.ithome.com.tw/news/178573",
       "isoDate": "2026-09-01T12:09:04.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "供應鏈成本飆升！高通 9 月起調漲晶片價格，漲幅達雙位數",
-      "link": "https://technews.tw/2026/09/01/qualcomm-raising-chip-prices/",
-      "isoDate": "2026-09-01T11:45:25.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
