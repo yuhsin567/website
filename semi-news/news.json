@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-31T22:26:57.892Z",
+  "generated": "2026-09-01T01:38:04.004Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】AI 算力愈強、傳輸愈吃緊！台積電：矽光子 2027 年市占破 50%",
-      "link": "https://techorange.com/2026/09/01/tsmc-silicon-photonics-ai-interconnect/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-08-31T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "輝達聯發科深化合作，黃仁勳、蔡力行揭密 35 億美元投資與全方位改寫 AI 產業規則邏輯",
-      "link": "https://finance.technews.tw/2026/09/01/nvidia-and-mediatek-deepen-cooperation/",
-      "isoDate": "2026-08-31T19:00:50.000Z",
-      "source": "科技新報",
+      "title": "Gartner估2027年AI安全市場規模達48億美元，年增近7成",
+      "link": "https://www.ithome.com.tw/news/178560",
+      "isoDate": "2026-09-01T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "揭開太陽系時空膠囊面紗，地面望遠鏡首度成功捕捉「裸體彗核」",
-      "link": "https://technews.tw/2026/08/31/first-ever-capture-comet-naked/",
-      "isoDate": "2026-08-31T14:35:53.000Z",
-      "source": "科技新報",
+      "title": "Android 17強化網路隱私與2G防護，降低網路追蹤與偽基地臺攻擊風險",
+      "link": "https://www.ithome.com.tw/news/178557",
+      "isoDate": "2026-09-01T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google 免費縮圖神器 Squoosh：免安裝、免上傳，畫質與大小輕鬆兼顧",
-      "link": "https://technews.tw/2026/08/31/google-squoosh/",
-      "isoDate": "2026-08-31T13:39:46.000Z",
-      "source": "科技新報",
+      "title": "Kubernetes 1.37強化工作負載身分安全，Pod憑證升為穩定版",
+      "link": "https://www.ithome.com.tw/news/178549",
+      "isoDate": "2026-09-01T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "台積電揭 COUPE 藍圖：光源、調變器、SOA 全整合，進一步挑戰「光學中介層」",
-      "link": "https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/",
-      "isoDate": "2026-08-31T12:40:22.000Z",
+      "title": "CISA揭近兩年CVE數量翻倍，逾4成已知遭利用漏洞涉及長期軟體弱點",
+      "link": "https://www.ithome.com.tw/news/178542",
+      "isoDate": "2026-09-01T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "庫克卸任執行長交棒特納斯，告別信致敬賈伯斯",
+      "link": "https://technews.tw/2026/09/01/apple-ceo-tim-cook-gives-nod-to-founder-steve-jobs-in-final-memo/",
+      "isoDate": "2026-09-01T01:30:48.000Z",
       "source": "科技新報",
       "category": "科技"
     }
