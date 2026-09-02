@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-02T02:53:28.282Z",
+  "generated": "2026-09-02T07:37:46.378Z",
   "count": 5,
   "items": [
     {
-      "title": "NSA發布ASIC安全最佳實務，歸納18類威脅強化晶片供應鏈防禦",
-      "link": "https://www.ithome.com.tw/news/178589",
-      "isoDate": "2026-09-02T10:09:58.000Z",
+      "title": "Apple再促淘汰Intel Mac應用，macOS 27將成Rosetta通用支援最後一版",
+      "link": "https://www.ithome.com.tw/news/178604",
+      "isoDate": "2026-09-02T12:09:56.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "富驊企業偵測到網路攻擊．緊急啟動應變機制將受影響系統隔離",
-      "link": "https://www.ithome.com.tw/news/178599",
-      "isoDate": "2026-09-02T10:09:37.000Z",
+      "title": "近2.2萬臺Exchange Server暴露於CVE-2026-62911接管風險，臺灣也有250臺",
+      "link": "https://www.ithome.com.tw/news/178609",
+      "isoDate": "2026-09-02T12:09:13.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "OpenClaw 2.0擴充跨裝置與雲端代理工作，團隊可直接接手既有任務",
-      "link": "https://www.ithome.com.tw/news/178597",
-      "isoDate": "2026-09-02T09:09:47.000Z",
+      "title": "John Ternus正式接任蘋果執行長",
+      "link": "https://www.ithome.com.tw/news/178608",
+      "isoDate": "2026-09-02T12:09:05.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "24個惡意NPM套件濫用鏡像架釣魚頁，攻擊者可遠端更換轉址目標",
-      "link": "https://www.ithome.com.tw/news/178596",
-      "isoDate": "2026-09-02T09:09:46.000Z",
+      "title": "偉訓部分資訊系統遭網路安全事件，已隔離受影響系統並啟動調查",
+      "link": "https://www.ithome.com.tw/news/178602",
+      "isoDate": "2026-09-02T11:09:36.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "TerminalFix社交工程攻擊將受害主機變成存取企業內網的跳板",
-      "link": "https://www.ithome.com.tw/news/178577",
-      "isoDate": "2026-09-02T08:09:00.000Z",
+      "title": "為因應零時差漏洞攻擊活動，PaperCut三度發布緊急修補程式",
+      "link": "https://www.ithome.com.tw/news/178607",
+      "isoDate": "2026-09-02T11:09:26.000Z",
       "source": "iThome",
       "category": "科技"
     }
