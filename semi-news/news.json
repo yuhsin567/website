@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-02T12:32:24.669Z",
+  "generated": "2026-09-02T16:58:50.354Z",
   "count": 5,
   "items": [
+    {
+      "title": "博大 8 月營收再創高、年增 56%，下半年營運續旺",
+      "link": "https://finance.technews.tw/2026/09/02/boda-august-revenue-new-high-56-yoy-second-half-operations-robust/",
+      "isoDate": "2026-09-02T13:33:56.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Apple再促淘汰Intel Mac應用，macOS 27將成Rosetta通用支援最後一版",
       "link": "https://www.ithome.com.tw/news/178604",
@@ -29,13 +36,6 @@
       "isoDate": "2026-09-02T11:15:19.000Z",
       "source": "科技報橘",
       "category": "產業"
-    },
-    {
-      "title": "偉訓部分資訊系統遭網路安全事件，已隔離受影響系統並啟動調查",
-      "link": "https://www.ithome.com.tw/news/178602",
-      "isoDate": "2026-09-02T11:09:36.000Z",
-      "source": "iThome",
-      "category": "科技"
     }
   ]
 }
