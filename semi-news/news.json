@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T07:37:46.378Z",
+  "generated": "2026-09-02T12:32:24.669Z",
   "count": 5,
   "items": [
     {
@@ -10,7 +10,7 @@
       "category": "科技"
     },
     {
-      "title": "近2.2萬臺Exchange Server暴露於CVE-2026-62911接管風險，臺灣也有250臺",
+      "title": "近2.2萬臺Exchange Server暴露於漏洞導致的接管風險，臺灣也有250臺",
       "link": "https://www.ithome.com.tw/news/178609",
       "isoDate": "2026-09-02T12:09:13.000Z",
       "source": "iThome",
@@ -24,16 +24,16 @@
       "category": "科技"
     },
     {
+      "title": "SEMICON 大師論壇：AI 需求快到擴產追不上，台灣供應鏈下一步怎麼走？",
+      "link": "https://techorange.com/2026/09/02/semicon-ceo_summit-fireside-chat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-02T11:15:19.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
       "title": "偉訓部分資訊系統遭網路安全事件，已隔離受影響系統並啟動調查",
       "link": "https://www.ithome.com.tw/news/178602",
       "isoDate": "2026-09-02T11:09:36.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "為因應零時差漏洞攻擊活動，PaperCut三度發布緊急修補程式",
-      "link": "https://www.ithome.com.tw/news/178607",
-      "isoDate": "2026-09-02T11:09:26.000Z",
       "source": "iThome",
       "category": "科技"
     }
