@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-02T19:40:54.329Z",
+  "generated": "2026-09-02T22:21:29.063Z",
   "count": 5,
   "items": [
+    {
+      "title": "信邦 8 月營收 32.81 億元創高，苗栗新廠 2027 年第二季投產",
+      "link": "https://finance.technews.tw/2026/09/03/sinbon-august-revenue-record-miaoli-plant-q2-2027-production/",
+      "isoDate": "2026-09-02T22:00:38.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】OpenAI Astra 可自主找出零日漏洞，戴爾 AI 伺服器年營收上看 740 億美元",
+      "link": "https://techorange.com/2026/09/03/openai-astra-zero-day-vulnerabilities-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-02T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "博大 8 月營收再創高、年增 56%，下半年營運續旺",
       "link": "https://finance.technews.tw/2026/09/02/boda-august-revenue-new-high-56-yoy-second-half-operations-robust/",
@@ -22,20 +36,6 @@
       "isoDate": "2026-09-02T12:09:13.000Z",
       "source": "iThome",
       "category": "科技"
-    },
-    {
-      "title": "John Ternus正式接任蘋果執行長",
-      "link": "https://www.ithome.com.tw/news/178608",
-      "isoDate": "2026-09-02T12:09:05.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "SEMICON 大師論壇：AI 需求快到擴產追不上，台灣供應鏈下一步怎麼走？",
-      "link": "https://techorange.com/2026/09/02/semicon-ceo_summit-fireside-chat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-02T11:15:19.000Z",
-      "source": "科技報橘",
-      "category": "產業"
     }
   ]
 }
