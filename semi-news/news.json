@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-02T22:21:29.063Z",
+  "generated": "2026-09-03T00:56:12.857Z",
   "count": 5,
   "items": [
     {
-      "title": "信邦 8 月營收 32.81 億元創高，苗栗新廠 2027 年第二季投產",
-      "link": "https://finance.technews.tw/2026/09/03/sinbon-august-revenue-record-miaoli-plant-q2-2027-production/",
-      "isoDate": "2026-09-02T22:00:38.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "【科技早餐】OpenAI Astra 可自主找出零日漏洞，戴爾 AI 伺服器年營收上看 740 億美元",
-      "link": "https://techorange.com/2026/09/03/openai-astra-zero-day-vulnerabilities-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-02T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "博大 8 月營收再創高、年增 56%，下半年營運續旺",
-      "link": "https://finance.technews.tw/2026/09/02/boda-august-revenue-new-high-56-yoy-second-half-operations-robust/",
-      "isoDate": "2026-09-02T13:33:56.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Apple再促淘汰Intel Mac應用，macOS 27將成Rosetta通用支援最後一版",
-      "link": "https://www.ithome.com.tw/news/178604",
-      "isoDate": "2026-09-02T12:09:56.000Z",
+      "title": "美國財政部成立金融業PQC工作小組，聚焦供應商整備",
+      "link": "https://www.ithome.com.tw/news/178613",
+      "isoDate": "2026-09-03T08:09:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "近2.2萬臺Exchange Server暴露於漏洞導致的接管風險，臺灣也有250臺",
-      "link": "https://www.ithome.com.tw/news/178609",
-      "isoDate": "2026-09-02T12:09:13.000Z",
+      "title": "英國NCSC示警全球OT網攻活動升溫",
+      "link": "https://www.ithome.com.tw/news/178598",
+      "isoDate": "2026-09-03T08:09:00.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "WIMP 粒子現蹤？LZ 暗物質搜索實驗取得驚人結果",
+      "link": "https://technews.tw/2026/09/03/lux-zeplin-dark-matter-particle-experiment-wimp/",
+      "isoDate": "2026-09-03T00:48:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "「洗產地」傷害的不只有投資人利益，也傷害美國對台灣的「信賴」",
+      "link": "https://finance.technews.tw/2026/09/03/origin-fraud-harms-investor-interests-us-trust-taiwan/",
+      "isoDate": "2026-09-03T00:40:27.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "研究：美職場對 AI 觀感普遍轉負，X 世代出乎意料竟最「無所謂」",
+      "link": "https://technews.tw/2026/09/03/more-evidence-emerges-that-gen-xers-feel-the-most-whatever-about-ai/",
+      "isoDate": "2026-09-03T00:30:35.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
