@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-03T00:56:12.857Z",
+  "generated": "2026-09-03T05:30:07.227Z",
   "count": 5,
   "items": [
     {
-      "title": "美國財政部成立金融業PQC工作小組，聚焦供應商整備",
-      "link": "https://www.ithome.com.tw/news/178613",
-      "isoDate": "2026-09-03T08:09:00.000Z",
+      "title": "WatchGuard修補5項重大漏洞，3項可讓未經身分驗證的攻擊者遠端執行程式碼",
+      "link": "https://www.ithome.com.tw/news/178658",
+      "isoDate": "2026-09-03T12:09:57.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "英國NCSC示警全球OT網攻活動升溫",
-      "link": "https://www.ithome.com.tw/news/178598",
-      "isoDate": "2026-09-03T08:09:00.000Z",
+      "title": "Nakivo更新Backup &amp; Replication 11，擴展vSphere、Linux與Windows平臺的保護涵蓋範圍",
+      "link": "https://www.ithome.com.tw/news/178656",
+      "isoDate": "2026-09-03T12:09:56.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "WIMP 粒子現蹤？LZ 暗物質搜索實驗取得驚人結果",
-      "link": "https://technews.tw/2026/09/03/lux-zeplin-dark-matter-particle-experiment-wimp/",
-      "isoDate": "2026-09-03T00:48:52.000Z",
-      "source": "科技新報",
+      "title": "Dropbox傳出遭駭，5千個帳號外洩",
+      "link": "https://www.ithome.com.tw/news/178659",
+      "isoDate": "2026-09-03T12:09:45.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "「洗產地」傷害的不只有投資人利益，也傷害美國對台灣的「信賴」",
-      "link": "https://finance.technews.tw/2026/09/03/origin-fraud-harms-investor-interests-us-trust-taiwan/",
-      "isoDate": "2026-09-03T00:40:27.000Z",
-      "source": "科技新報",
+      "title": "CISA警告SonicWall、JFrog Artifactory、Sangoma,Switchvox等已知漏洞遭到利用",
+      "link": "https://www.ithome.com.tw/news/178657",
+      "isoDate": "2026-09-03T12:09:45.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "研究：美職場對 AI 觀感普遍轉負，X 世代出乎意料竟最「無所謂」",
-      "link": "https://technews.tw/2026/09/03/more-evidence-emerges-that-gen-xers-feel-the-most-whatever-about-ai/",
-      "isoDate": "2026-09-03T00:30:35.000Z",
-      "source": "科技新報",
+      "title": "美國法院裁決Google不必拆分廣告業務",
+      "link": "https://www.ithome.com.tw/news/178661",
+      "isoDate": "2026-09-03T12:09:22.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
