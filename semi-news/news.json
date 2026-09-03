@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-03T10:40:24.928Z",
+  "generated": "2026-09-03T14:51:29.131Z",
   "count": 5,
   "items": [
+    {
+      "title": "搶攻 AI 先進封裝！K&S 看好混合鍵合、TCB 技術走向「共生」非取代",
+      "link": "https://technews.tw/2026/09/03/kulicke-and-soffa-semicon-taiwan-2026/",
+      "isoDate": "2026-09-03T12:56:47.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "完成 170 億元在台投資！默克：持續深化在地布局、與台灣夥伴合作",
+      "link": "https://technews.tw/2026/09/03/merck-semicon-taiwan-2026/",
+      "isoDate": "2026-09-03T12:19:13.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "WatchGuard修補5項重大漏洞，3項可讓未經身分驗證的攻擊者遠端執行程式碼",
       "link": "https://www.ithome.com.tw/news/178658",
@@ -20,20 +34,6 @@
       "title": "Dropbox傳出遭駭，5千個帳號外洩",
       "link": "https://www.ithome.com.tw/news/178659",
       "isoDate": "2026-09-03T12:09:45.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "CISA警告SonicWall、JFrog Artifactory、LiteLLM等系統的已知漏洞遭到利用",
-      "link": "https://www.ithome.com.tw/news/178657",
-      "isoDate": "2026-09-03T12:09:45.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國法院裁決Google不必拆分廣告業務",
-      "link": "https://www.ithome.com.tw/news/178661",
-      "isoDate": "2026-09-03T12:09:22.000Z",
       "source": "iThome",
       "category": "科技"
     }
