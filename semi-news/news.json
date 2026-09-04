@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-03T23:48:28.834Z",
+  "generated": "2026-09-04T02:56:55.649Z",
   "count": 5,
   "items": [
     {
-      "title": "NASA 的 Starling 任務開啟深空任務新領域，不必靠 GPS 也能導航",
-      "link": "https://technews.tw/2026/09/04/nasa-just-used-satellites-and-debris-to-navigate-without-gps/",
-      "isoDate": "2026-09-03T23:40:16.000Z",
-      "source": "科技新報",
+      "title": "Google發布Chrome 152更新，修補已遭利用的V8漏洞",
+      "link": "https://www.ithome.com.tw/news/178687",
+      "isoDate": "2026-09-04T10:09:28.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "核三再運轉將完成審查，台電預估今、明年設備可恢復至可運轉狀態",
-      "link": "https://technews.tw/2026/09/04/nuclear-plant-three-restart-review-nears-completion/",
-      "isoDate": "2026-09-03T23:30:07.000Z",
-      "source": "科技新報",
+      "title": "Nvidia宣布以129億美元買下Hugging Face",
+      "link": "https://www.ithome.com.tw/news/178690",
+      "isoDate": "2026-09-04T10:09:11.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美無人機關稅生效：最高將為 100%，打造非紅供應鏈",
-      "link": "https://technews.tw/2026/09/04/us-drone-tariffs-effective-100-percent-non-chinese-supply-chain/",
-      "isoDate": "2026-09-03T23:28:02.000Z",
-      "source": "科技新報",
+      "title": "AI失控事件今年逾1,600起，研究揭AI代理偽造核准、提升自身權限",
+      "link": "https://www.ithome.com.tw/news/178686",
+      "isoDate": "2026-09-04T09:09:58.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "企業導入 AI 的三大隱形地雷，破解基礎架構瓶頸、影子 AI 與僵化治理",
-      "link": "https://finance.technews.tw/2026/09/04/hidden-dangers-enterprise-ai-adoption/",
-      "isoDate": "2026-09-03T23:20:13.000Z",
-      "source": "科技新報",
+      "title": "Perplexity混合推論正式登陸Mac，雲端與本機模型分工處理資料",
+      "link": "https://www.ithome.com.tw/news/178685",
+      "isoDate": "2026-09-04T08:09:36.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼鏡",
-      "link": "https://technews.tw/2026/09/04/sam-altman-publicly-says-he-dislikes-smart-glasses/",
-      "isoDate": "2026-09-03T23:10:29.000Z",
-      "source": "科技新報",
+      "title": "背景Git檢查成攻擊入口，GitSpawn漏洞波及Claude Code等7款AI程式代理",
+      "link": "https://www.ithome.com.tw/news/178683",
+      "isoDate": "2026-09-04T08:09:10.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
