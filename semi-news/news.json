@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-04T12:29:38.624Z",
+  "generated": "2026-09-04T16:43:11.368Z",
   "count": 5,
   "items": [
+    {
+      "title": "自掏腰包建天文台追星，日本「最強業餘天文家」再擒鹿豹座 II 型超新星",
+      "link": "https://technews.tw/2026/09/05/itagaki-koichi-discovers-type-ii-supernova-sn-2026yly/",
+      "isoDate": "2026-09-04T16:00:51.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "遮蔽恆星光芒尋找第二個地球，NASA 與 MIT 聯手打造巨型「花朵遮星板」",
+      "link": "https://technews.tw/2026/09/05/nasa-mit-starshade/",
+      "isoDate": "2026-09-04T16:00:12.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "華邦電 8 月營收年增一口氣提升 289.43%，前八個月營收也增加逾 177%",
+      "link": "https://finance.technews.tw/2026/09/04/winbond-electronics-august-revenue-surged-289-43-year-on-year/",
+      "isoDate": "2026-09-04T13:50:56.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "勞資雙方進行首次調解！美光：雖暫無共識但已為後續對話保留空間",
+      "link": "https://finance.technews.tw/2026/09/04/the-labor-and-management-parties-held-their-first-mediation/",
+      "isoDate": "2026-09-04T13:15:19.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "研究人員Nightmare Eclipse揭露CrowdStrike Falcon權限提升漏洞",
       "link": "https://www.ithome.com.tw/news/178696",
       "isoDate": "2026-09-04T12:09:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "思科發布9月IOS XR安全強化更新，修補7個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/178699",
-      "isoDate": "2026-09-04T12:09:40.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI發表最危險也最聽話的GPT-6 Astra模型",
-      "link": "https://www.ithome.com.tw/news/178701",
-      "isoDate": "2026-09-04T12:09:35.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Mozilla推出Firefox 155改版，緩解近30個弱點",
-      "link": "https://www.ithome.com.tw/news/178693",
-      "isoDate": "2026-09-04T11:09:41.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "WebAuthn Level 3成W3C正式標準，補齊Passkey跨關聯網域與憑證管理機制",
-      "link": "https://www.ithome.com.tw/news/178694",
-      "isoDate": "2026-09-04T11:09:07.000Z",
       "source": "iThome",
       "category": "科技"
     }
