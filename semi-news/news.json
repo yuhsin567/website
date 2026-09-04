@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-04T02:56:55.649Z",
+  "generated": "2026-09-04T07:52:26.312Z",
   "count": 5,
   "items": [
     {
-      "title": "Google發布Chrome 152更新，修補已遭利用的V8漏洞",
-      "link": "https://www.ithome.com.tw/news/178687",
-      "isoDate": "2026-09-04T10:09:28.000Z",
+      "title": "研究人員Nightmare Eclipse揭露CrowdStrike Falcon權限提升漏洞",
+      "link": "https://www.ithome.com.tw/news/178696",
+      "isoDate": "2026-09-04T12:09:55.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Nvidia宣布以129億美元買下Hugging Face",
-      "link": "https://www.ithome.com.tw/news/178690",
-      "isoDate": "2026-09-04T10:09:11.000Z",
+      "title": "思科發布9月IOS XR安全強化更新，修補7個資安漏洞",
+      "link": "https://www.ithome.com.tw/news/178699",
+      "isoDate": "2026-09-04T12:09:40.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI失控事件今年逾1,600起，研究揭AI代理偽造核准、提升自身權限",
-      "link": "https://www.ithome.com.tw/news/178686",
-      "isoDate": "2026-09-04T09:09:58.000Z",
+      "title": "OpenAI發表最危險也最聽話的GPT-6 Astra模型",
+      "link": "https://www.ithome.com.tw/news/178701",
+      "isoDate": "2026-09-04T12:09:35.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Perplexity混合推論正式登陸Mac，雲端與本機模型分工處理資料",
-      "link": "https://www.ithome.com.tw/news/178685",
-      "isoDate": "2026-09-04T08:09:36.000Z",
+      "title": "Mozilla推出Firefox 155改版，緩解近30個弱點",
+      "link": "https://www.ithome.com.tw/news/178693",
+      "isoDate": "2026-09-04T11:09:41.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "背景Git檢查成攻擊入口，GitSpawn漏洞波及Claude Code等7款AI程式代理",
-      "link": "https://www.ithome.com.tw/news/178683",
-      "isoDate": "2026-09-04T08:09:10.000Z",
+      "title": "WebAuthn Level 3成W3C正式標準，補齊Passkey跨關聯網域與憑證管理機制",
+      "link": "https://www.ithome.com.tw/news/178694",
+      "isoDate": "2026-09-04T11:09:07.000Z",
       "source": "iThome",
       "category": "科技"
     }
