@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-06T21:01:53.699Z",
+  "generated": "2026-09-06T23:28:22.269Z",
   "count": 5,
   "items": [
+    {
+      "title": "從黑手到算力心臟，智伸科靠「三年打怪」心法跨界奪伺服器散熱大單",
+      "link": "https://finance.technews.tw/2026/09/07/global-pmx-ai-cooling/",
+      "isoDate": "2026-09-06T23:10:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "SEMICON Taiwan 2026：MEMS 以多元感測構築機器人神經系統",
+      "link": "https://technews.tw/2026/09/07/semicon-taiwan-2026-mems-diverse-sensing-robot-nervous-systems/",
+      "isoDate": "2026-09-06T23:00:16.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "生產排程不再是一張「死表格」：日立如何靠 AI 把交期砍半？",
+      "link": "https://techorange.com/2026/09/07/hitachi-ai-lumada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-06T22:51:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "【科技早餐】NVIDIA 129 億美元宣布收購 Hugging Face，研究指疑似 OpenAI 代理劫持德國網站",
+      "link": "https://techorange.com/2026/09/07/nvidia-hugging-face-acquisition-openai-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-06T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "【AI轉型實例】玉山金打造AI智能徵信流程，7分鐘生成報告初稿，年省8.4萬人時",
       "link": "https://www.ithome.com.tw/news/178722",
       "isoDate": "2026-09-06T10:09:01.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic IPO 啟動時程調整，延至 10 月中旬推廣",
-      "link": "https://technews.tw/2026/09/06/anthropic-ipo-launch-shifts-toward-mid-october/",
-      "isoDate": "2026-09-06T09:39:44.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "為細胞穿上「隱形斗篷」，糖尿病治療迎來無副作用曙光",
-      "link": "https://technews.tw/2026/09/06/new-cell-protective-layer/",
-      "isoDate": "2026-09-06T09:00:55.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "YouTube 推薦影片越來越走鐘？四步驟教你重整演算法打造專屬首頁",
-      "link": "https://technews.tw/2026/09/06/remove-bad-youtube-recommendations/",
-      "isoDate": "2026-09-06T08:30:44.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "JetBrains加強Kotlin工具鏈，可發布多平臺函式庫並建置Wasm應用",
-      "link": "https://www.ithome.com.tw/news/178720",
-      "isoDate": "2026-09-06T08:09:13.000Z",
       "source": "iThome",
       "category": "科技"
     }
