@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-06T23:28:22.269Z",
+  "generated": "2026-09-07T02:54:46.312Z",
   "count": 5,
   "items": [
     {
-      "title": "從黑手到算力心臟，智伸科靠「三年打怪」心法跨界奪伺服器散熱大單",
-      "link": "https://finance.technews.tw/2026/09/07/global-pmx-ai-cooling/",
-      "isoDate": "2026-09-06T23:10:52.000Z",
-      "source": "科技新報",
+      "title": "OpenAI代理人被爆連上德文論壇共商解題，且1個多月才被發現",
+      "link": "https://www.ithome.com.tw/news/178725",
+      "isoDate": "2026-09-07T08:09:12.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "SEMICON Taiwan 2026：MEMS 以多元感測構築機器人神經系統",
-      "link": "https://technews.tw/2026/09/07/semicon-taiwan-2026-mems-diverse-sensing-robot-nervous-systems/",
-      "isoDate": "2026-09-06T23:00:16.000Z",
-      "source": "科技新報",
+      "title": "1.53億美、加民眾駕照被放上俄國暗網出售，受害者疑似包含FBI官員",
+      "link": "https://www.ithome.com.tw/news/178724",
+      "isoDate": "2026-09-07T08:09:05.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "生產排程不再是一張「死表格」：日立如何靠 AI 把交期砍半？",
-      "link": "https://techorange.com/2026/09/07/hitachi-ai-lumada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-06T22:51:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
+      "title": "Air Security募資5,000萬美元，鎖定AI代理技能與MCP供應鏈風險",
+      "link": "https://www.ithome.com.tw/news/178709",
+      "isoDate": "2026-09-07T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
     },
     {
-      "title": "【科技早餐】NVIDIA 129 億美元宣布收購 Hugging Face，研究指疑似 OpenAI 代理劫持德國網站",
-      "link": "https://techorange.com/2026/09/07/nvidia-hugging-face-acquisition-openai-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-06T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
+      "title": "AWS高權限Root使用者遭密碼噴灑，逾150個組織成攻擊目標",
+      "link": "https://www.ithome.com.tw/news/178700",
+      "isoDate": "2026-09-07T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
     },
     {
-      "title": "【AI轉型實例】玉山金打造AI智能徵信流程，7分鐘生成報告初稿，年省8.4萬人時",
-      "link": "https://www.ithome.com.tw/news/178722",
-      "isoDate": "2026-09-06T10:09:01.000Z",
+      "title": "PQC導入TLS 1.3實測，完整握手資料量增180%、CPU影響有限",
+      "link": "https://www.ithome.com.tw/news/178691",
+      "isoDate": "2026-09-07T08:09:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
