@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-07T23:59:09.569Z",
+  "generated": "2026-09-08T04:21:05.566Z",
   "count": 5,
   "items": [
     {
-      "title": "資安設備買再多，也可能輸給一通電話：Apollo 外洩案揭開企業最難防的人為漏洞",
-      "link": "https://finance.technews.tw/2026/09/08/apollo-global-reveals-data-breach-after-hackers-target-financial-firms/",
-      "isoDate": "2026-09-07T23:50:33.000Z",
-      "source": "科技新報",
+      "title": "OpenVPN 修補8個漏洞，包含可能導致服務阻斷、執行惡意程式碼的高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/178767",
+      "isoDate": "2026-09-08T12:09:16.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 破解竹節蟲移動密碼，六足機器人斷腳也能穿梭崎嶇災區",
-      "link": "https://technews.tw/2026/09/08/six-legged-ai-robot/",
-      "isoDate": "2026-09-07T23:40:06.000Z",
-      "source": "科技新報",
+      "title": "Keycloak存在重大密碼重設漏洞，恐導致攻擊者接管帳號",
+      "link": "https://www.ithome.com.tw/news/178764",
+      "isoDate": "2026-09-08T11:09:36.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "福斯文件：德國工廠每輛車成本是中國的 4 倍以上",
-      "link": "https://technews.tw/2026/09/08/volkswagen-german-factory-car-costs-more-than-four-times-those-in-china/",
-      "isoDate": "2026-09-07T23:30:38.000Z",
-      "source": "科技新報",
+      "title": "解決企業AI導入兩難，中華資安推出自研產品AI Archway，內建市場少見的可逆式脫敏機制",
+      "link": "https://www.ithome.com.tw/news/178752",
+      "isoDate": "2026-09-08T11:09:09.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "MIT 研究揭密細胞抗鐵防線，多胺扮演「分子儲庫」封鎖致命鐵離子",
-      "link": "https://technews.tw/2026/09/08/mystery-cells-tame-dangerous-metals-polyamines-molecular-reservoirs-iron-toxicity/",
-      "isoDate": "2026-09-07T23:20:46.000Z",
-      "source": "科技新報",
+      "title": "富爾特子公司格帝控股遭勒索軟體攻擊，ERP等系統一度無法運作",
+      "link": "https://www.ithome.com.tw/news/178762",
+      "isoDate": "2026-09-08T10:09:46.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "地球自轉加速引發「現代千禧蟲」問題，BIPM 擬廢除閏秒誤差放寬至 1 小時",
-      "link": "https://technews.tw/2026/09/08/earth-rotation-speed-leap-second-y2k-utc-2027/",
-      "isoDate": "2026-09-07T23:10:15.000Z",
-      "source": "科技新報",
+      "title": "N-able一天內發布兩次N-central更新，緊急修補危險程度滿分的重大漏洞",
+      "link": "https://www.ithome.com.tw/news/178763",
+      "isoDate": "2026-09-08T10:09:22.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
