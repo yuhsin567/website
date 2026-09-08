@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-08T04:21:05.566Z",
+  "generated": "2026-09-08T09:21:44.190Z",
   "count": 5,
   "items": [
     {
-      "title": "OpenVPN 修補8個漏洞，包含可能導致服務阻斷、執行惡意程式碼的高風險漏洞",
+      "title": "甫修補的N-central資安漏洞疑似遭到利用",
+      "link": "https://www.ithome.com.tw/news/178768",
+      "isoDate": "2026-09-08T12:09:27.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "OpenVPN修補8個漏洞，包含可能導致服務阻斷、執行惡意程式碼的高風險漏洞",
       "link": "https://www.ithome.com.tw/news/178767",
       "isoDate": "2026-09-08T12:09:16.000Z",
       "source": "iThome",
@@ -27,13 +34,6 @@
       "title": "富爾特子公司格帝控股遭勒索軟體攻擊，ERP等系統一度無法運作",
       "link": "https://www.ithome.com.tw/news/178762",
       "isoDate": "2026-09-08T10:09:46.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "N-able一天內發布兩次N-central更新，緊急修補危險程度滿分的重大漏洞",
-      "link": "https://www.ithome.com.tw/news/178763",
-      "isoDate": "2026-09-08T10:09:22.000Z",
       "source": "iThome",
       "category": "科技"
     }
