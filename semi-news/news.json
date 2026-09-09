@@ -1,7 +1,28 @@
 {
-  "generated": "2026-09-09T20:25:00.879Z",
+  "generated": "2026-09-09T22:55:16.496Z",
   "count": 5,
   "items": [
+    {
+      "title": "【333 Robots Community Meetup】從 Gesture HW1 到人形格鬥機器人，開發者怎麼把機器人做出來？",
+      "link": "https://techorange.com/2026/09/10/333-robots-community-meetup-august/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-09T22:01:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "【科技早餐】Amazon 最高 600 億美元採購高通 AI 晶片，AI 戰線延伸至電力、代理與資安",
+      "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-09T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "Apple Watch S12、Ultra 4 強化健康感測，AirPods 5 全系列加入 ANC",
+      "link": "https://ccc.technews.tw/2026/09/10/apple-watch-s12-ultra-4-airpods-5-anc/",
+      "isoDate": "2026-09-09T20:39:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "iPhone 18 Pro、Pro Max 登場，台灣售價漲幅最低 5 千元",
       "link": "https://technews.tw/2026/09/10/iphone-18-pro-pro-max-price-increase/",
@@ -13,27 +34,6 @@
       "title": "首款摺疊 iPhone 終於亮相，iPhone Duo 頂規售價破 11 萬元",
       "link": "https://technews.tw/2026/09/10/iphone-duo-2/",
       "isoDate": "2026-09-09T19:31:22.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "蘋果 2026 秋季新品一次看：iPhone 18 Pro、AirPods 5、Apple Watch S12／Ultra 4、iPhone Duo",
-      "link": "https://technews.tw/2026/09/10/2026-apple-event-iphone-18-pro-iphone-duo/",
-      "isoDate": "2026-09-09T19:05:12.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "2 億光年外的重力拉扯，雙子座北望遠鏡捕捉 NGC 7253 雙星系邁向合併的絕美瞬間",
-      "link": "https://technews.tw/2026/09/09/gemini-north-captures-ngc-7253/",
-      "isoDate": "2026-09-09T13:54:44.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "久元8月營收3.45 億元",
-      "link": "https://finance.technews.tw/2026/09/09/ytec-6261-202608-financial-report/",
-      "isoDate": "2026-09-09T12:10:03.000Z",
       "source": "科技新報",
       "category": "科技"
     }
