@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-09T08:37:13.758Z",
+  "generated": "2026-09-09T13:23:46.763Z",
   "count": 5,
   "items": [
+    {
+      "title": "久元8月營收3.45 億元",
+      "link": "https://finance.technews.tw/2026/09/09/ytec-6261-202608-financial-report/",
+      "isoDate": "2026-09-09T12:10:03.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Adobe修補Magento零時差漏洞StyleSmuggler",
       "link": "https://www.ithome.com.tw/news/178807",
@@ -27,13 +34,6 @@
       "title": "銀行迎戰虛擬資產新業務，資安業者共組「穩定幣暨虛擬資產安全聯盟」，協助打造自主可控數位金融安全",
       "link": "https://www.ithome.com.tw/news/178804",
       "isoDate": "2026-09-09T12:09:15.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "HPE修補ArubaOS-CX網路作業系統34個資安漏洞，包含可導致遠端程式碼執行的重大漏洞",
-      "link": "https://www.ithome.com.tw/news/178798",
-      "isoDate": "2026-09-09T11:09:57.000Z",
       "source": "iThome",
       "category": "科技"
     }
