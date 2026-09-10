@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-09T22:55:16.496Z",
+  "generated": "2026-09-10T00:50:30.571Z",
   "count": 5,
   "items": [
     {
-      "title": "【333 Robots Community Meetup】從 Gesture HW1 到人形格鬥機器人，開發者怎麼把機器人做出來？",
-      "link": "https://techorange.com/2026/09/10/333-robots-community-meetup-august/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-09T22:01:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "【科技早餐】Amazon 最高 600 億美元採購高通 AI 晶片，AI 戰線延伸至電力、代理與資安",
-      "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-09T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "Apple Watch S12、Ultra 4 強化健康感測，AirPods 5 全系列加入 ANC",
-      "link": "https://ccc.technews.tw/2026/09/10/apple-watch-s12-ultra-4-airpods-5-anc/",
-      "isoDate": "2026-09-09T20:39:52.000Z",
-      "source": "科技新報",
+      "title": "BigBear 2.0網釣攻擊鎖定Microsoft 365，258家組織遭入侵",
+      "link": "https://www.ithome.com.tw/news/178815",
+      "isoDate": "2026-09-10T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "iPhone 18 Pro、Pro Max 登場，台灣售價漲幅最低 5 千元",
-      "link": "https://technews.tw/2026/09/10/iphone-18-pro-pro-max-price-increase/",
-      "isoDate": "2026-09-09T20:03:42.000Z",
-      "source": "科技新報",
+      "title": "FreeIPA漏洞鏈可讓未經身分驗證的攻擊者取得管理權限",
+      "link": "https://www.ithome.com.tw/news/178806",
+      "isoDate": "2026-09-10T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "首款摺疊 iPhone 終於亮相，iPhone Duo 頂規售價破 11 萬元",
-      "link": "https://technews.tw/2026/09/10/iphone-duo-2/",
-      "isoDate": "2026-09-09T19:31:22.000Z",
+      "title": "AI代理資安怎麼做？AWS與SANS提出異常偵測與事件應變建議",
+      "link": "https://www.ithome.com.tw/news/178796",
+      "isoDate": "2026-09-10T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Europol盤點新興隱私強化技術，Deepfake偵測與加密運算受關注",
+      "link": "https://www.ithome.com.tw/news/178793",
+      "isoDate": "2026-09-10T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "歐盟擬推新規鼓勵在地採購，力抗中企競標政府合約",
+      "link": "https://technews.tw/2026/09/10/eu-wants-to-edge-out-china-in-public-contracts/",
+      "isoDate": "2026-09-10T00:50:17.000Z",
       "source": "科技新報",
       "category": "科技"
     }
