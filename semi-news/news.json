@@ -1,12 +1,26 @@
 {
-  "generated": "2026-09-10T10:37:09.789Z",
+  "generated": "2026-09-10T14:48:42.224Z",
   "count": 5,
   "items": [
+    {
+      "title": "恆星風吹出的宇宙氣泡，哈伯望遠鏡揭開大麥哲倫雲 N44 星雲的誕生祕密",
+      "link": "https://technews.tw/2026/09/10/star-formation-region-in-the-large-magellanic-cloud/",
+      "isoDate": "2026-09-10T13:56:15.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "研究人員揭露竊取加密貨幣的ClickFix攻擊活動，濫用Google試算表作為C2管道",
       "link": "https://www.ithome.com.tw/news/178842",
       "isoDate": "2026-09-10T12:09:02.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "燃料電池、資料中心需求帶動：康舒 8 月營收 37.09 億元單月次高",
+      "link": "https://finance.technews.tw/2026/09/10/acbel-august-revenue-3-709b-record-high-driven-by-fuel-cell-data-center-demand/",
+      "isoDate": "2026-09-10T11:15:43.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
@@ -21,20 +35,6 @@
       "link": "https://www.ithome.com.tw/news/178839",
       "isoDate": "2026-09-10T11:09:15.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "多個中國駭客組織利用漏洞利用工具包BlueMoon，串連Chrome與Windows零時差漏洞從事攻擊",
-      "link": "https://www.ithome.com.tw/news/178838",
-      "isoDate": "2026-09-10T11:09:08.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI、車用雙引擎助攻：強茂 8 月營收 13.77 億元、年增近 3 成",
-      "link": "https://finance.technews.tw/2026/09/10/panjit-august-revenue-1-377-billion-up-30-yoy-ai-automotive-engines/",
-      "isoDate": "2026-09-10T10:22:43.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
