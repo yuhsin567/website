@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-10T00:50:30.571Z",
+  "generated": "2026-09-10T05:35:42.409Z",
   "count": 5,
   "items": [
     {
-      "title": "BigBear 2.0網釣攻擊鎖定Microsoft 365，258家組織遭入侵",
-      "link": "https://www.ithome.com.tw/news/178815",
-      "isoDate": "2026-09-10T08:09:00.000Z",
+      "title": "研究人員揭露竊取加密貨幣的ClickFix攻擊活動，濫用Google試算表作為C2管道",
+      "link": "https://www.ithome.com.tw/news/178842",
+      "isoDate": "2026-09-10T12:09:02.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "FreeIPA漏洞鏈可讓未經身分驗證的攻擊者取得管理權限",
-      "link": "https://www.ithome.com.tw/news/178806",
-      "isoDate": "2026-09-10T08:09:00.000Z",
+      "title": "Cisco修補Nexus 9000系列交換器重大遠端程式碼執行漏洞",
+      "link": "https://www.ithome.com.tw/news/178840",
+      "isoDate": "2026-09-10T11:09:41.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI代理資安怎麼做？AWS與SANS提出異常偵測與事件應變建議",
-      "link": "https://www.ithome.com.tw/news/178796",
-      "isoDate": "2026-09-10T08:09:00.000Z",
+      "title": "OpenAI籲美國制定強制AI安全規範，要求頂尖AI業者接受獨立評估",
+      "link": "https://www.ithome.com.tw/news/178839",
+      "isoDate": "2026-09-10T11:09:15.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Europol盤點新興隱私強化技術，Deepfake偵測與加密運算受關注",
-      "link": "https://www.ithome.com.tw/news/178793",
-      "isoDate": "2026-09-10T08:09:00.000Z",
+      "title": "多個中國駭客組織利用漏洞利用工具包BlueMoon，串連Chrome與Windows零時差漏洞從事攻擊",
+      "link": "https://www.ithome.com.tw/news/178838",
+      "isoDate": "2026-09-10T11:09:08.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "歐盟擬推新規鼓勵在地採購，力抗中企競標政府合約",
-      "link": "https://technews.tw/2026/09/10/eu-wants-to-edge-out-china-in-public-contracts/",
-      "isoDate": "2026-09-10T00:50:17.000Z",
-      "source": "科技新報",
+      "title": "蘋果發表iPhone 18 Pro系列與首款摺疊機iPhone Duo",
+      "link": "https://www.ithome.com.tw/news/178836",
+      "isoDate": "2026-09-10T10:09:56.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
