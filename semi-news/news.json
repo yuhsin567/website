@@ -1,7 +1,28 @@
 {
-  "generated": "2026-09-11T13:13:40.132Z",
+  "generated": "2026-09-11T17:30:22.709Z",
   "count": 5,
   "items": [
+    {
+      "title": "尋找「黑洞毛髮」，日本學者提出利用重力波振鈴衰減探測暗物質新法",
+      "link": "https://technews.tw/2026/09/12/new-method-to-detect-black-hole-hair/",
+      "isoDate": "2026-09-11T16:00:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "AI 加衛星影像即時監測，北極永凍土融化再也藏不住",
+      "link": "https://technews.tw/2026/09/12/scientists-are-using-ai-to-track-permafrost-thaw-as-arctic-lakes-vanish-in-hours/",
+      "isoDate": "2026-09-11T16:00:45.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "粒線體代謝會改寫 DNA 包裝，找到「殭屍細胞」推動慢性發炎機制",
+      "link": "https://technews.tw/2026/09/12/zombie-cells-rewire-their-metabolism-to-fuel-inflammation-as-we-age/",
+      "isoDate": "2026-09-11T16:00:31.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Astra需求爆量，OpenAI暫停200美元Pro方案新訂閱",
       "link": "https://www.ithome.com.tw/news/178866",
@@ -13,27 +34,6 @@
       "title": "Check Point修補重大等級的VPN資安弱點",
       "link": "https://www.ithome.com.tw/news/178868",
       "isoDate": "2026-09-11T12:09:16.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Fortinet修補FortiMonitor OnSight、FortiPAM重大漏洞",
-      "link": "https://www.ithome.com.tw/news/178867",
-      "isoDate": "2026-09-11T12:09:13.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "因應加密勒索攻擊，卓榮泰要求重大駭侵案件納入通報、數發部擔任跨機關資安情資統籌角色",
-      "link": "https://www.ithome.com.tw/news/178860",
-      "isoDate": "2026-09-11T11:09:56.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic發布AI濫用威脅報告，宣稱7家中國業者蒸餾Claude以訓練自家模型",
-      "link": "https://www.ithome.com.tw/news/178864",
-      "isoDate": "2026-09-11T11:09:17.000Z",
       "source": "iThome",
       "category": "科技"
     }
