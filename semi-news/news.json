@@ -1,41 +1,41 @@
 {
-  "generated": "2026-09-10T23:42:51.180Z",
+  "generated": "2026-09-11T03:01:03.881Z",
   "count": 5,
   "items": [
     {
-      "title": "Gamers Nexus 再爆料：不論連線或斷線，LG TV 會悄悄擷取音訊並生成逐字稿",
-      "link": "https://infosecu.technews.tw/2026/09/11/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/",
-      "isoDate": "2026-09-10T23:30:20.000Z",
-      "source": "科技新報",
+      "title": "臺灣網路攝影機廠商晶睿傳出遭勒索軟體Everest攻擊",
+      "link": "https://www.ithome.com.tw/news/178859",
+      "isoDate": "2026-09-11T10:09:30.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 先驅庫茲維爾加入 Subsense，用吸入奈米粒子打造免開顱腦機介面",
-      "link": "https://technews.tw/2026/09/11/ai-visionary-ray-kurzweil-joins-neurotech-startup-subsense-as-product-and-vision-advisor/",
-      "isoDate": "2026-09-10T23:20:01.000Z",
-      "source": "科技新報",
+      "title": "因應CRA該不該升級MCU？新唐以3類產品案例解析，須看終端產品分類、核心功能與晶片安全角色",
+      "link": "https://www.ithome.com.tw/news/178857",
+      "isoDate": "2026-09-11T10:09:11.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "被 AI 暴增的工作量逼到極限，微軟 Edge 全面擴大自動化驗證機制突圍",
-      "link": "https://infosecu.technews.tw/2026/09/11/microsoft-edge-overwhelmed-ai-extensions-dev-team-complains-increased-workload-switches-automated-review/",
-      "isoDate": "2026-09-10T23:10:29.000Z",
-      "source": "科技新報",
+      "title": "CSA提出零信任微分段指引，將AI代理納入微分段控管",
+      "link": "https://www.ithome.com.tw/news/178848",
+      "isoDate": "2026-09-11T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "2026 年能源管理趨勢：能源即服務興起，價值重心由設備轉向服務",
-      "link": "https://technews.tw/2026/09/11/2026-eaas-rise/",
-      "isoDate": "2026-09-10T23:00:35.000Z",
-      "source": "科技新報",
+      "title": "Cylake募資2.45億美元，軟硬體整合AI資安平臺年底推出Beta版",
+      "link": "https://www.ithome.com.tw/news/178845",
+      "isoDate": "2026-09-11T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 購物的下一個戰場，不在電商而在貨架前：Home Depot 如何把導購搬進門市走道",
-      "link": "https://techorange.com/2026/09/11/ai-home-depot-in-store-guidance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-10T22:58:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
+      "title": "ShinyHunters語音網釣鎖定醫療業，SaaS敏感資料恐遭竊",
+      "link": "https://www.ithome.com.tw/news/178841",
+      "isoDate": "2026-09-11T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
     }
   ]
 }
