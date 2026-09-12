@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-11T22:57:36.710Z",
+  "generated": "2026-09-12T00:57:50.773Z",
   "count": 5,
   "items": [
+    {
+      "title": "台積電拋 STCO 大計：先進封裝要「一起解題」，不再各自為政",
+      "link": "https://technews.tw/2026/09/12/tsmc-stco-concept-aims-to-integrate-taiwan-semiconductor-supply-chain/",
+      "isoDate": "2026-09-12T00:00:03.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【政府 AI 轉型下一步】64 國建好數位身分只是起點，AI 代理正在改寫政府服務方式",
+      "link": "https://techorange.com/2026/09/12/government-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-11T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "尋找「黑洞毛髮」，日本學者提出利用重力波振鈴衰減探測暗物質新法",
       "link": "https://technews.tw/2026/09/12/new-method-to-detect-black-hole-hair/",
@@ -21,20 +35,6 @@
       "link": "https://technews.tw/2026/09/12/zombie-cells-rewire-their-metabolism-to-fuel-inflammation-as-we-age/",
       "isoDate": "2026-09-11T16:00:31.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Astra需求爆量，OpenAI暫停200美元Pro方案新訂閱",
-      "link": "https://www.ithome.com.tw/news/178866",
-      "isoDate": "2026-09-11T12:09:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Check Point修補重大等級的VPN資安弱點",
-      "link": "https://www.ithome.com.tw/news/178868",
-      "isoDate": "2026-09-11T12:09:16.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
