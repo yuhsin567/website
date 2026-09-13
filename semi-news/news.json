@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-13T20:19:15.289Z",
+  "generated": "2026-09-13T22:51:55.548Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】NVIDIA 傳投資 Anthropic 最高 100 億美元，Microsoft 資料中心容量擬增至 38 GW",
+      "link": "https://techorange.com/2026/09/14/nvidia-anthropic-ipo-microsoft-data-center-38gw/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-13T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "無人艇擊沉無人艇，烏克蘭稱黑海首度出現無人載具海戰",
       "link": "https://technews.tw/2026/09/13/ukrainian-usv-sinked-russian-usv-in-combat-for-the-first-time-in-history/",
@@ -27,13 +34,6 @@
       "title": "手機相簿越滿腦袋卻越空，心理學家揭「數位失憶症」的駭人真相",
       "link": "https://technews.tw/2026/09/13/digital-amnesia/",
       "isoDate": "2026-09-13T07:00:11.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "食品製造業 AI 轉型大解密，選對平台不如打好「數據與信任」的基礎",
-      "link": "https://finance.technews.tw/2026/09/13/ai-reshaping-food-manufacturing/",
-      "isoDate": "2026-09-13T06:30:13.000Z",
       "source": "科技新報",
       "category": "科技"
     }
