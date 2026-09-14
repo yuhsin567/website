@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-13T22:51:55.548Z",
+  "generated": "2026-09-14T00:43:42.509Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】NVIDIA 傳投資 Anthropic 最高 100 億美元，Microsoft 資料中心容量擬增至 38 GW",
-      "link": "https://techorange.com/2026/09/14/nvidia-anthropic-ipo-microsoft-data-center-38gw/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-13T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "無人艇擊沉無人艇，烏克蘭稱黑海首度出現無人載具海戰",
-      "link": "https://technews.tw/2026/09/13/ukrainian-usv-sinked-russian-usv-in-combat-for-the-first-time-in-history/",
-      "isoDate": "2026-09-13T08:55:50.000Z",
-      "source": "科技新報",
+      "title": "GitLab修補CVSS滿分重大漏洞，公開隔天即出現漏洞探測",
+      "link": "https://www.ithome.com.tw/news/178892",
+      "isoDate": "2026-09-14T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Kalanick 旗下 Atoms 獲 17 億美元，Waymo 前創辦人加盟進軍 Robotaxi",
-      "link": "https://finance.technews.tw/2026/09/13/atoms-reportedly-eyes-robotaxi-market/",
-      "isoDate": "2026-09-13T08:00:44.000Z",
-      "source": "科技新報",
+      "title": "電子郵件行銷服務商Brevo客戶帳號遭入侵，攻擊者利用合法郵件管道寄送網釣信",
+      "link": "https://www.ithome.com.tw/news/178888",
+      "isoDate": "2026-09-14T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 越聰明 EQ 越值錢，專家：父母必學的「情緒教養」將決定孩子未來高度",
-      "link": "https://technews.tw/2026/09/13/ai-era-emotions/",
-      "isoDate": "2026-09-13T07:30:06.000Z",
-      "source": "科技新報",
+      "title": "Cribl取得Radiant Security AI SOC技術，擴大資安營運布局",
+      "link": "https://www.ithome.com.tw/news/178869",
+      "isoDate": "2026-09-14T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "手機相簿越滿腦袋卻越空，心理學家揭「數位失憶症」的駭人真相",
-      "link": "https://technews.tw/2026/09/13/digital-amnesia/",
-      "isoDate": "2026-09-13T07:00:11.000Z",
-      "source": "科技新報",
+      "title": "駭客鎖定AI程式開發工具，提示詞注入成供應鏈攻擊手法",
+      "link": "https://www.ithome.com.tw/news/178861",
+      "isoDate": "2026-09-14T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "CISA更新內部威脅指引，將AI風險納入企業防護",
+      "link": "https://www.ithome.com.tw/news/178858",
+      "isoDate": "2026-09-14T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
