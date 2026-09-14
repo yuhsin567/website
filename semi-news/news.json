@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-14T00:43:42.509Z",
+  "generated": "2026-09-14T05:47:10.113Z",
   "count": 5,
   "items": [
     {
-      "title": "GitLab修補CVSS滿分重大漏洞，公開隔天即出現漏洞探測",
-      "link": "https://www.ithome.com.tw/news/178892",
-      "isoDate": "2026-09-14T08:09:00.000Z",
+      "title": "網站主機管理平臺cPanel存在SQL注入漏洞，擁有郵件相關權限的攻擊者能以root執行任意程式碼",
+      "link": "https://www.ithome.com.tw/news/178908",
+      "isoDate": "2026-09-14T12:09:48.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "電子郵件行銷服務商Brevo客戶帳號遭入侵，攻擊者利用合法郵件管道寄送網釣信",
-      "link": "https://www.ithome.com.tw/news/178888",
-      "isoDate": "2026-09-14T08:09:00.000Z",
+      "title": "ConnectWise公布的ScreenConnect重大漏洞，傳出已於8月下旬被用於攻擊活動",
+      "link": "https://www.ithome.com.tw/news/178906",
+      "isoDate": "2026-09-14T12:09:48.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Cribl取得Radiant Security AI SOC技術，擴大資安營運布局",
-      "link": "https://www.ithome.com.tw/news/178869",
-      "isoDate": "2026-09-14T08:09:00.000Z",
+      "title": "研究人員揭露新型遠端存取木馬E4del、PINHOLE，濫用FTP標語文字傳遞惡意指令",
+      "link": "https://www.ithome.com.tw/news/178910",
+      "isoDate": "2026-09-14T12:09:15.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "駭客鎖定AI程式開發工具，提示詞注入成供應鏈攻擊手法",
-      "link": "https://www.ithome.com.tw/news/178861",
-      "isoDate": "2026-09-14T08:09:00.000Z",
+      "title": "ConnectWise修補ScreenConnect重大漏洞",
+      "link": "https://www.ithome.com.tw/news/178905",
+      "isoDate": "2026-09-14T11:09:28.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "CISA更新內部威脅指引，將AI風險納入企業防護",
-      "link": "https://www.ithome.com.tw/news/178858",
-      "isoDate": "2026-09-14T08:09:00.000Z",
+      "title": "Wiz警告3個JFrog Artifactory嚴重漏洞遭積極利用，部分漏洞被串連形成攻擊鏈",
+      "link": "https://www.ithome.com.tw/news/178902",
+      "isoDate": "2026-09-14T11:09:23.000Z",
       "source": "iThome",
       "category": "科技"
     }
