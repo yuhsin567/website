@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T05:47:10.113Z",
+  "generated": "2026-09-14T11:48:28.057Z",
   "count": 5,
   "items": [
     {
@@ -17,7 +17,14 @@
       "category": "科技"
     },
     {
-      "title": "研究人員揭露新型遠端存取木馬E4del、PINHOLE，濫用FTP標語文字傳遞惡意指令",
+      "title": "Palo Alto Networks修補防火牆作業系統XML功能漏洞",
+      "link": "https://www.ithome.com.tw/news/178909",
+      "isoDate": "2026-09-14T12:09:23.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "研究人員揭露新型遠端存取木馬E4del、PINHOLE，濫用FTP歡迎畫面文字傳遞惡意指令",
       "link": "https://www.ithome.com.tw/news/178910",
       "isoDate": "2026-09-14T12:09:15.000Z",
       "source": "iThome",
@@ -27,13 +34,6 @@
       "title": "ConnectWise修補ScreenConnect重大漏洞",
       "link": "https://www.ithome.com.tw/news/178905",
       "isoDate": "2026-09-14T11:09:28.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Wiz警告3個JFrog Artifactory嚴重漏洞遭積極利用，部分漏洞被串連形成攻擊鏈",
-      "link": "https://www.ithome.com.tw/news/178902",
-      "isoDate": "2026-09-14T11:09:23.000Z",
       "source": "iThome",
       "category": "科技"
     }
