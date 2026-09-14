@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-14T11:48:28.057Z",
+  "generated": "2026-09-14T17:41:54.996Z",
   "count": 5,
   "items": [
+    {
+      "title": "最遙遠原始超星系團，重達銀河系 5,000 倍",
+      "link": "https://technews.tw/2026/09/14/most-distant-protocluster-weighs-5000-times-the-milky-way/",
+      "isoDate": "2026-09-14T14:39:43.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "網站主機管理平臺cPanel存在SQL注入漏洞，擁有郵件相關權限的攻擊者能以root執行任意程式碼",
       "link": "https://www.ithome.com.tw/news/178908",
@@ -27,13 +34,6 @@
       "title": "研究人員揭露新型遠端存取木馬E4del、PINHOLE，濫用FTP歡迎畫面文字傳遞惡意指令",
       "link": "https://www.ithome.com.tw/news/178910",
       "isoDate": "2026-09-14T12:09:15.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "ConnectWise修補ScreenConnect重大漏洞",
-      "link": "https://www.ithome.com.tw/news/178905",
-      "isoDate": "2026-09-14T11:09:28.000Z",
       "source": "iThome",
       "category": "科技"
     }
