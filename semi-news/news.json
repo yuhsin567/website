@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-15T11:04:52.785Z",
+  "generated": "2026-09-15T16:15:13.071Z",
   "count": 5,
   "items": [
+    {
+      "title": "解鎖更多 AI 用量和進階創作工具，Meta One 訂閱方案在台上線",
+      "link": "https://technews.tw/2026/09/15/meta-one-subscription-now-available-in-taiwan/",
+      "isoDate": "2026-09-15T15:00:38.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "230 萬個大氣壓下的奇蹟！科學家成功打造「超離子冰」，助揭開冰巨行星磁場之謎",
+      "link": "https://technews.tw/2026/09/15/scientists-create-a-new-form-of-ice-at-more-than-2000-c/",
+      "isoDate": "2026-09-15T14:11:54.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Apple同步更新macOS三大分支版本，修補逾200個資安漏洞",
       "link": "https://www.ithome.com.tw/news/178934",
@@ -20,20 +34,6 @@
       "title": "Acronis修補cPanel與WHM備份外掛高風險漏洞，警示已遭攻擊者利用",
       "link": "https://www.ithome.com.tw/news/178937",
       "isoDate": "2026-09-15T12:09:04.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "蘋果六大OS同步升級，新一代Apple Intelligence與Siri AI正式登場",
-      "link": "https://www.ithome.com.tw/news/178933",
-      "isoDate": "2026-09-15T12:09:04.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美AI業界憂中國追上，中國批惡性競爭",
-      "link": "https://www.ithome.com.tw/news/178929",
-      "isoDate": "2026-09-15T11:09:36.000Z",
       "source": "iThome",
       "category": "科技"
     }
