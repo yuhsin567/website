@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-15T00:16:30.091Z",
+  "generated": "2026-09-15T05:48:33.567Z",
   "count": 5,
   "items": [
     {
-      "title": "韓股盤後交易新制生效，小型股價格劇烈波動",
-      "link": "https://finance.technews.tw/2026/09/15/korean-stocks-after-hours-trading-new-rules-small-cap-price-volatility/",
-      "isoDate": "2026-09-15T00:15:14.000Z",
-      "source": "科技新報",
+      "title": "Apple同步更新macOS三大分支版本，修補逾200個資安漏洞",
+      "link": "https://www.ithome.com.tw/news/178934",
+      "isoDate": "2026-09-15T12:09:37.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "電動車電池要不要換？別只看里程，幾個異常訊號才是關鍵",
-      "link": "https://technews.tw/2026/09/15/how-to-know-its-time-to-replace-your-ev-battery/",
-      "isoDate": "2026-09-15T00:10:19.000Z",
-      "source": "科技新報",
+      "title": "中國駭客Red Heron利用Gitea重大漏洞攻擊臺灣等多個國家",
+      "link": "https://www.ithome.com.tw/news/178932",
+      "isoDate": "2026-09-15T12:09:25.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "現金流狂飆十倍、毛利率直逼七成！美銀讚：黃金礦業迎最甜利潤時代",
-      "link": "https://finance.technews.tw/2026/09/15/gold-mining-more-profitable-bofa-valuations-20-year-low/",
-      "isoDate": "2026-09-15T00:00:06.000Z",
-      "source": "科技新報",
+      "title": "Acronis修補cPanel與WHM備份外掛高風險漏洞，警示已遭攻擊者利用",
+      "link": "https://www.ithome.com.tw/news/178937",
+      "isoDate": "2026-09-15T12:09:04.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "淺談 iPhone 18 Pro 散熱：蘋果也開始相信物理了？",
-      "link": "https://technews.tw/2026/09/15/iphone-18-pro-cooling-apple-believing-physics/",
-      "isoDate": "2026-09-14T23:50:25.000Z",
-      "source": "科技新報",
+      "title": "蘋果六大OS同步升級，新一代Apple Intelligence與Siri AI正式登場",
+      "link": "https://www.ithome.com.tw/news/178933",
+      "isoDate": "2026-09-15T12:09:04.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 代理不能只靠 API 金鑰，專家呼籲建立「數位身分」防堵資安漏洞",
-      "link": "https://finance.technews.tw/2026/09/15/ai-agents-cannot-rely-api-keys/",
-      "isoDate": "2026-09-14T23:40:04.000Z",
-      "source": "科技新報",
+      "title": "美AI業界憂中國追上，中國批惡性競爭",
+      "link": "https://www.ithome.com.tw/news/178929",
+      "isoDate": "2026-09-15T11:09:36.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
