@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-14T21:28:50.505Z",
+  "generated": "2026-09-15T00:16:30.091Z",
   "count": 5,
   "items": [
     {
-      "title": "最遙遠原始超星系團，重達銀河系 5,000 倍",
-      "link": "https://technews.tw/2026/09/14/most-distant-protocluster-weighs-5000-times-the-milky-way/",
-      "isoDate": "2026-09-14T14:39:43.000Z",
+      "title": "韓股盤後交易新制生效，小型股價格劇烈波動",
+      "link": "https://finance.technews.tw/2026/09/15/korean-stocks-after-hours-trading-new-rules-small-cap-price-volatility/",
+      "isoDate": "2026-09-15T00:15:14.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "網站主機管理平臺cPanel存在SQL注入漏洞，擁有郵件相關權限的攻擊者能以root執行任意程式碼",
-      "link": "https://www.ithome.com.tw/news/178908",
-      "isoDate": "2026-09-14T12:09:48.000Z",
-      "source": "iThome",
+      "title": "電動車電池要不要換？別只看里程，幾個異常訊號才是關鍵",
+      "link": "https://technews.tw/2026/09/15/how-to-know-its-time-to-replace-your-ev-battery/",
+      "isoDate": "2026-09-15T00:10:19.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "ConnectWise公布的ScreenConnect重大漏洞，傳出已於8月下旬被用於攻擊活動",
-      "link": "https://www.ithome.com.tw/news/178906",
-      "isoDate": "2026-09-14T12:09:48.000Z",
-      "source": "iThome",
+      "title": "現金流狂飆十倍、毛利率直逼七成！美銀讚：黃金礦業迎最甜利潤時代",
+      "link": "https://finance.technews.tw/2026/09/15/gold-mining-more-profitable-bofa-valuations-20-year-low/",
+      "isoDate": "2026-09-15T00:00:06.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Palo Alto Networks修補防火牆作業系統XML功能漏洞",
-      "link": "https://www.ithome.com.tw/news/178909",
-      "isoDate": "2026-09-14T12:09:23.000Z",
-      "source": "iThome",
+      "title": "淺談 iPhone 18 Pro 散熱：蘋果也開始相信物理了？",
+      "link": "https://technews.tw/2026/09/15/iphone-18-pro-cooling-apple-believing-physics/",
+      "isoDate": "2026-09-14T23:50:25.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "研究人員揭露新型遠端存取木馬E4del、PINHOLE，濫用FTP歡迎畫面文字傳遞惡意指令",
-      "link": "https://www.ithome.com.tw/news/178910",
-      "isoDate": "2026-09-14T12:09:15.000Z",
-      "source": "iThome",
+      "title": "AI 代理不能只靠 API 金鑰，專家呼籲建立「數位身分」防堵資安漏洞",
+      "link": "https://finance.technews.tw/2026/09/15/ai-agents-cannot-rely-api-keys/",
+      "isoDate": "2026-09-14T23:40:04.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
