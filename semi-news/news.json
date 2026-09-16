@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-16T01:05:15.177Z",
+  "generated": "2026-09-16T07:13:39.872Z",
   "count": 5,
   "items": [
     {
-      "title": "LiteSpeed Web Server漏洞恐讓共享主機單一帳號取得root權限",
-      "link": "https://www.ithome.com.tw/news/178968",
-      "isoDate": "2026-09-16T08:09:00.000Z",
+      "title": "HBO Max的社群網站Reddit帳號遭挾持，用於ClickFix攻擊推送惡意軟體",
+      "link": "https://www.ithome.com.tw/news/178977",
+      "isoDate": "2026-09-16T12:09:44.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "微軟9月Windows更新引發遠端桌面服務異常，發布帶外更新搶修",
-      "link": "https://www.ithome.com.tw/news/178965",
-      "isoDate": "2026-09-16T08:09:00.000Z",
+      "title": "VPN服務商Surfshark內部測試伺服器遭駭，未波及用戶資料",
+      "link": "https://www.ithome.com.tw/news/178978",
+      "isoDate": "2026-09-16T12:09:41.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "WordPress強化外掛更新安全審查，高風險版本自動阻止散布",
-      "link": "https://www.ithome.com.tw/news/178939",
-      "isoDate": "2026-09-16T08:09:00.000Z",
+      "title": "祖克柏談AI安全，各家業者應自行確保模型安全",
+      "link": "https://www.ithome.com.tw/news/178976",
+      "isoDate": "2026-09-16T12:09:26.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "歐盟網路韌性法案漏洞通報義務上路，OpenSSF提醒開源專案做好漏洞協調",
-      "link": "https://www.ithome.com.tw/news/178925",
-      "isoDate": "2026-09-16T08:09:00.000Z",
+      "title": "Mozilla發布Firefox 156，修補73個資安漏洞 ",
+      "link": "https://www.ithome.com.tw/news/178975",
+      "isoDate": "2026-09-16T11:09:37.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AWS評測12款頂尖AI模型，能找出多數真正漏洞但誤判或漏報率仍高",
-      "link": "https://www.ithome.com.tw/news/178918",
-      "isoDate": "2026-09-16T08:09:00.000Z",
+      "title": "美國加密貨幣監管法案CLARITY Act參議院闖關失敗",
+      "link": "https://www.ithome.com.tw/news/178974",
+      "isoDate": "2026-09-16T11:09:04.000Z",
       "source": "iThome",
       "category": "科技"
     }
