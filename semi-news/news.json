@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-15T22:50:21.639Z",
+  "generated": "2026-09-16T01:05:15.177Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】聯發科首款台積電 2 奈米手機晶片亮相，AI 版圖橫跨終端與資料中心",
-      "link": "https://techorange.com/2026/09/16/mediatek-tsmc-2nm-chip-edge-cloud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-15T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "解鎖更多 AI 用量和進階創作工具，Meta One 訂閱方案在台上線",
-      "link": "https://technews.tw/2026/09/15/meta-one-subscription-now-available-in-taiwan/",
-      "isoDate": "2026-09-15T15:00:38.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "230 萬個大氣壓下的奇蹟！科學家成功打造「超離子冰」，助揭開冰巨行星磁場之謎",
-      "link": "https://technews.tw/2026/09/15/scientists-create-a-new-form-of-ice-at-more-than-2000-c/",
-      "isoDate": "2026-09-15T14:11:54.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Apple同步更新macOS三大分支版本，修補逾200個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/178934",
-      "isoDate": "2026-09-15T12:09:37.000Z",
+      "title": "LiteSpeed Web Server漏洞恐讓共享主機單一帳號取得root權限",
+      "link": "https://www.ithome.com.tw/news/178968",
+      "isoDate": "2026-09-16T08:09:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "中國駭客Red Heron利用Gitea重大漏洞攻擊臺灣等多個國家",
-      "link": "https://www.ithome.com.tw/news/178932",
-      "isoDate": "2026-09-15T12:09:25.000Z",
+      "title": "微軟9月Windows更新引發遠端桌面服務異常，發布帶外更新搶修",
+      "link": "https://www.ithome.com.tw/news/178965",
+      "isoDate": "2026-09-16T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "WordPress強化外掛更新安全審查，高風險版本自動阻止散布",
+      "link": "https://www.ithome.com.tw/news/178939",
+      "isoDate": "2026-09-16T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "歐盟網路韌性法案漏洞通報義務上路，OpenSSF提醒開源專案做好漏洞協調",
+      "link": "https://www.ithome.com.tw/news/178925",
+      "isoDate": "2026-09-16T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "AWS評測12款頂尖AI模型，能找出多數真正漏洞但誤判或漏報率仍高",
+      "link": "https://www.ithome.com.tw/news/178918",
+      "isoDate": "2026-09-16T08:09:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
