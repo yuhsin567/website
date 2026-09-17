@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T19:32:16.590Z",
+  "generated": "2026-09-17T22:39:37.518Z",
   "count": 5,
   "items": [
     {
@@ -8,6 +8,20 @@
       "isoDate": "2026-09-18T01:09:42.000Z",
       "source": "iThome",
       "category": "科技"
+    },
+    {
+      "title": "AI 代理怎麼顧好 1,800 家門市評論？美國連鎖美髮龍頭把回覆率衝上 98%",
+      "link": "https://techorange.com/2026/09/18/agentic-ai-localize-customer-engagement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-17T22:11:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "【科技早餐】華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Apple 傳重返企業伺服器市場",
+      "link": "https://techorange.com/2026/09/18/winbond-infineon-memory-deal-apple-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-17T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
     },
     {
       "title": "銀河系中心黑洞周圍的年輕恆星為何少有伴星？潮汐作用揭開缺失之謎",
@@ -20,20 +34,6 @@
       "title": "Anthropic整合Claude Chat與Cowork，AI自行決定如何完成任務",
       "link": "https://www.ithome.com.tw/news/179021",
       "isoDate": "2026-09-17T12:09:58.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Acronis揭露cPanel和Plesk備份外掛漏洞",
-      "link": "https://www.ithome.com.tw/news/179016",
-      "isoDate": "2026-09-17T11:09:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "因中東戰事受創的AWS巴林與阿聯資料中心，部分資料確認無法復原",
-      "link": "https://www.ithome.com.tw/news/179018",
-      "isoDate": "2026-09-17T11:09:35.000Z",
       "source": "iThome",
       "category": "科技"
     }
