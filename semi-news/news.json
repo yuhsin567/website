@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-17T15:28:51.301Z",
+  "generated": "2026-09-17T19:32:16.590Z",
   "count": 5,
   "items": [
+    {
+      "title": "Issabel PBX重大漏洞遭積極利用，攻擊者可未經驗證執行任意指令",
+      "link": "https://www.ithome.com.tw/news/179036",
+      "isoDate": "2026-09-18T01:09:42.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "銀河系中心黑洞周圍的年輕恆星為何少有伴星？潮汐作用揭開缺失之謎",
       "link": "https://technews.tw/2026/09/17/why-young-stars-milky-way-center-black-hole-few-companions-tidal-forces-uncover-mystery/",
@@ -27,13 +34,6 @@
       "title": "因中東戰事受創的AWS巴林與阿聯資料中心，部分資料確認無法復原",
       "link": "https://www.ithome.com.tw/news/179018",
       "isoDate": "2026-09-17T11:09:35.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google強化Gemini Enterprise成本管控，新增隨用隨付計費與專案支出上限",
-      "link": "https://www.ithome.com.tw/news/179015",
-      "isoDate": "2026-09-17T11:09:28.000Z",
       "source": "iThome",
       "category": "科技"
     }
