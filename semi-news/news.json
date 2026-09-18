@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-17T22:39:37.518Z",
+  "generated": "2026-09-18T01:01:03.746Z",
   "count": 5,
   "items": [
     {
-      "title": "Issabel PBX重大漏洞遭積極利用，攻擊者可未經驗證執行任意指令",
-      "link": "https://www.ithome.com.tw/news/179036",
-      "isoDate": "2026-09-18T01:09:42.000Z",
+      "title": "微軟9月Windows 11更新造成部分AD網域登入異常，提出暫時因應措施",
+      "link": "https://www.ithome.com.tw/news/179035",
+      "isoDate": "2026-09-18T08:09:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 代理怎麼顧好 1,800 家門市評論？美國連鎖美髮龍頭把回覆率衝上 98%",
-      "link": "https://techorange.com/2026/09/18/agentic-ai-localize-customer-engagement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-17T22:11:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "【科技早餐】華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Apple 傳重返企業伺服器市場",
-      "link": "https://techorange.com/2026/09/18/winbond-infineon-memory-deal-apple-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-17T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "銀河系中心黑洞周圍的年輕恆星為何少有伴星？潮汐作用揭開缺失之謎",
-      "link": "https://technews.tw/2026/09/17/why-young-stars-milky-way-center-black-hole-few-companions-tidal-forces-uncover-mystery/",
-      "isoDate": "2026-09-17T13:32:16.000Z",
-      "source": "科技新報",
+      "title": "Gartner提出政府科技發展趨勢，聚焦AI代理治理與PQC整備",
+      "link": "https://www.ithome.com.tw/news/179004",
+      "isoDate": "2026-09-18T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Anthropic整合Claude Chat與Cowork，AI自行決定如何完成任務",
-      "link": "https://www.ithome.com.tw/news/179021",
-      "isoDate": "2026-09-17T12:09:58.000Z",
+      "title": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增DCSync偵測方法",
+      "link": "https://www.ithome.com.tw/news/179003",
+      "isoDate": "2026-09-18T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "NIST發布權杖與身分聲明防護指引，納入AI代理與PQC考量",
+      "link": "https://www.ithome.com.tw/news/179002",
+      "isoDate": "2026-09-18T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Exein取得2.7億美元融資，布局實體AI資安與亞太市場",
+      "link": "https://www.ithome.com.tw/news/179001",
+      "isoDate": "2026-09-18T08:09:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
