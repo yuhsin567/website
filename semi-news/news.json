@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-18T01:01:03.746Z",
+  "generated": "2026-09-18T07:02:44.518Z",
   "count": 5,
   "items": [
     {
-      "title": "微軟9月Windows 11更新造成部分AD網域登入異常，提出暫時因應措施",
-      "link": "https://www.ithome.com.tw/news/179035",
-      "isoDate": "2026-09-18T08:09:00.000Z",
+      "title": "美SEC開放股票上鏈交易，推出5年創新豁免",
+      "link": "https://www.ithome.com.tw/news/179049",
+      "isoDate": "2026-09-18T12:09:59.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Gartner提出政府科技發展趨勢，聚焦AI代理治理與PQC整備",
-      "link": "https://www.ithome.com.tw/news/179004",
-      "isoDate": "2026-09-18T08:09:00.000Z",
+      "title": "Claude已主導Anthropic 26%的AI研發工作",
+      "link": "https://www.ithome.com.tw/news/179048",
+      "isoDate": "2026-09-18T12:09:57.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增DCSync偵測方法",
-      "link": "https://www.ithome.com.tw/news/179003",
-      "isoDate": "2026-09-18T08:09:00.000Z",
+      "title": "Docker沙箱環境存在重大漏洞，攻擊者有機會讀取及竄改macOS主機檔案",
+      "link": "https://www.ithome.com.tw/news/179050",
+      "isoDate": "2026-09-18T12:09:09.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "NIST發布權杖與身分聲明防護指引，納入AI代理與PQC考量",
-      "link": "https://www.ithome.com.tw/news/179002",
-      "isoDate": "2026-09-18T08:09:00.000Z",
+      "title": "Parallels Desktop存在漏洞ParaShells，取得本機帳號的攻擊者能以root執行程式碼",
+      "link": "https://www.ithome.com.tw/news/179045",
+      "isoDate": "2026-09-18T11:09:06.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Exein取得2.7億美元融資，布局實體AI資安與亞太市場",
-      "link": "https://www.ithome.com.tw/news/179001",
-      "isoDate": "2026-09-18T08:09:00.000Z",
+      "title": "Google發布Chrome 153更新，修補16個資安漏洞",
+      "link": "https://www.ithome.com.tw/news/179041",
+      "isoDate": "2026-09-18T10:09:51.000Z",
       "source": "iThome",
       "category": "科技"
     }
