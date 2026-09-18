@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T07:02:44.518Z",
+  "generated": "2026-09-18T12:41:52.083Z",
   "count": 5,
   "items": [
     {
@@ -31,10 +31,10 @@
       "category": "科技"
     },
     {
-      "title": "Google發布Chrome 153更新，修補16個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/179041",
-      "isoDate": "2026-09-18T10:09:51.000Z",
-      "source": "iThome",
+      "title": "Agent 失控再敲警鐘，OpenAI 公布六起新案例與通報機制",
+      "link": "https://infosecu.technews.tw/2026/09/18/openai-unveils-new-framework-for-reporting-ai-model-misalignment/",
+      "isoDate": "2026-09-18T10:29:08.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
