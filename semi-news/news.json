@@ -1,7 +1,28 @@
 {
-  "generated": "2026-09-18T22:16:51.629Z",
+  "generated": "2026-09-19T00:57:28.819Z",
   "count": 5,
   "items": [
+    {
+      "title": "破解長新冠腦霧謎團，研究證實多巴胺神經損傷是失去動力的關鍵",
+      "link": "https://technews.tw/2026/09/19/long-covid-brain-fog-biological-explanation-found/",
+      "isoDate": "2026-09-19T00:30:11.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "「車燈不是亮就好」，小金雞儒億如何創新搏對手？堤維西二代接班四年攻智慧車燈",
+      "link": "https://finance.technews.tw/2026/09/19/juokuelectronics/",
+      "isoDate": "2026-09-19T00:00:06.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
+      "link": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-18T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "59% 患者癌細胞完全消失！大腸癌術前免疫療法創奇蹟，患者近三年零復發",
       "link": "https://technews.tw/2026/09/19/preoperative-immunotherapy-colorectal-cancer-zero-recurrence-nearly-three-years/",
@@ -14,27 +35,6 @@
       "link": "https://technews.tw/2026/09/18/the-explosive-growth-of-the-messier-74-galaxy-a-galaxy-doubling-its-size-in-less-than-a-gigayear/",
       "isoDate": "2026-09-18T13:25:18.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "美SEC開放股票上鏈交易，推出5年創新豁免",
-      "link": "https://www.ithome.com.tw/news/179049",
-      "isoDate": "2026-09-18T12:09:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Claude已主導Anthropic 26%的AI研發工作",
-      "link": "https://www.ithome.com.tw/news/179048",
-      "isoDate": "2026-09-18T12:09:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Docker沙箱環境存在重大漏洞，攻擊者有機會讀取及竄改macOS主機檔案",
-      "link": "https://www.ithome.com.tw/news/179050",
-      "isoDate": "2026-09-18T12:09:09.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
