@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-20T10:37:51.534Z",
+  "generated": "2026-09-20T14:29:05.469Z",
   "count": 5,
   "items": [
+    {
+      "title": "氮含量異常高，天文學家證實星際彗星 3I/ATLAS 來自零下 243 度的恆星邊陲",
+      "link": "https://technews.tw/2026/09/20/3iatlas-may-have-formed-in-the-frigid-outer-regions-of-a-planetary-system/",
+      "isoDate": "2026-09-20T13:17:57.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "支援身分聯合服務與Passkey，兆勤網管雲大幅強化登入安全",
+      "link": "https://www.ithome.com.tw/review/179044",
+      "isoDate": "2026-09-20T10:09:49.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "大腦其實是兩個器官？震撼發現：人腦由 2 個獨立神經系統拼裝而成",
       "link": "https://technews.tw/2026/09/20/brain-organ-progenitor-cell-brainstem-otx2-gbx2/",
@@ -20,20 +34,6 @@
       "title": "每天一杯手搖飲代價有多大？哈佛最新研究：胃癌風險狂飆 2.5 倍",
       "link": "https://technews.tw/2026/09/20/sugary-drinks-gastric-cancer-risk/",
       "isoDate": "2026-09-20T07:00:50.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "不需電力、沒有邏輯電路，科學家開發史上算術最快的 DNA 分子電腦",
-      "link": "https://technews.tw/2026/09/20/scaffolded-dna-molecular-computer-basic-operation/",
-      "isoDate": "2026-09-20T06:59:42.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "牙齒化石證實霸王龍為溫血動物，體溫約 36°C 與人類差不多",
-      "link": "https://technews.tw/2026/09/20/tooth-analysis-confirms-t-rex-was-warm-blooded/",
-      "isoDate": "2026-09-20T06:30:57.000Z",
       "source": "科技新報",
       "category": "科技"
     }
