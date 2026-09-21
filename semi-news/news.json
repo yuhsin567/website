@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-21T19:02:54.765Z",
+  "generated": "2026-09-21T22:59:26.999Z",
   "count": 5,
   "items": [
+    {
+      "title": "與友達合作 CPO 計畫曝光，激勵英特爾股價大漲 12.14%",
+      "link": "https://finance.technews.tw/2026/09/22/intel-and-auos-cpo-collaboration-plan-revealed/",
+      "isoDate": "2026-09-21T22:45:49.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "AMD 股價連續 5 天累計上漲 25%，力拱市值超過 1 兆美元",
+      "link": "https://finance.technews.tw/2026/09/22/amds-stock-price-has-risen-a-cumulative-25-over-five-consecutive-days/",
+      "isoDate": "2026-09-21T22:30:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "「世界模型」資金先進場，產品卻還沒定型：AI 新創究竟在藏什麼？",
+      "link": "https://techorange.com/2026/09/22/world-model-secret/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-21T22:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "【科技早餐】川習會前美中研議 AI 對話、川普將組「AI 部隊」；中國傳放慢人形機器人上市",
+      "link": "https://techorange.com/2026/09/22/us-china-ai-dialogue-ai-force/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-21T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "Googlebook 正式發表，五款新機開放預購、台灣未列首波名單",
       "link": "https://ccc.technews.tw/2026/09/21/googlebook-is-now-available-for-pre-order/",
       "isoDate": "2026-09-21T14:54:52.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "vivo X500 系列登場，四大升級瞄準電影級創作",
-      "link": "https://technews.tw/2026/09/21/vivo-x500-series/",
-      "isoDate": "2026-09-21T14:01:19.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "北韓駭客組織WaterPlum利用假冒求職感染全球至少3萬臺裝置，竊取千萬美元加密貨幣",
-      "link": "https://www.ithome.com.tw/news/179080",
-      "isoDate": "2026-09-21T12:09:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Check Point修補安全管理與日誌伺服器重大漏洞，若未更新可能導致攻擊者取得root權限",
-      "link": "https://www.ithome.com.tw/news/179079",
-      "isoDate": "2026-09-21T12:09:04.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "軟銀砸 100 億美元加碼 OpenAI！發行 110 億美元債券籌資",
-      "link": "https://technews.tw/2026/09/21/softbank-launches-11-billion-bonds-openai-investment/",
-      "isoDate": "2026-09-21T12:06:29.000Z",
       "source": "科技新報",
       "category": "科技"
     }
