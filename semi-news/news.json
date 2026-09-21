@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T06:00:17.008Z",
+  "generated": "2026-09-21T13:36:54.989Z",
   "count": 5,
   "items": [
     {
@@ -17,23 +17,23 @@
       "category": "科技"
     },
     {
+      "title": "軟銀砸 100 億美元加碼 OpenAI！發行 110 億美元債券籌資",
+      "link": "https://technews.tw/2026/09/21/softbank-launches-11-billion-bonds-openai-investment/",
+      "isoDate": "2026-09-21T12:06:29.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "中國智慧眼鏡銷量前 8 月翻倍！心電圖監測設備、運動相機同步成長",
+      "link": "https://technews.tw/2026/09/21/china-smart-glasses-sales/",
+      "isoDate": "2026-09-21T12:02:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
       "title": "前OpenAI研究員新創TypeSafe推Jev模型，讓AI從生成文字轉向直接判斷",
       "link": "https://www.ithome.com.tw/news/179075",
       "isoDate": "2026-09-21T11:09:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "群暉修補DSM作業系統8個漏洞，含兩個可能導致服務阻斷攻擊的重大漏洞",
-      "link": "https://www.ithome.com.tw/news/179077",
-      "isoDate": "2026-09-21T11:09:03.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "因應企業資安事故與個資外洩頻傳，韓國改革ISMS-P個資保護認證制度、強化現場審查",
-      "link": "https://www.ithome.com.tw/news/179076",
-      "isoDate": "2026-09-21T11:09:02.000Z",
       "source": "iThome",
       "category": "科技"
     }
