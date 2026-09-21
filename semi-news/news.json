@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-21T13:36:54.989Z",
+  "generated": "2026-09-21T19:02:54.765Z",
   "count": 5,
   "items": [
+    {
+      "title": "Googlebook 正式發表，五款新機開放預購、台灣未列首波名單",
+      "link": "https://ccc.technews.tw/2026/09/21/googlebook-is-now-available-for-pre-order/",
+      "isoDate": "2026-09-21T14:54:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "vivo X500 系列登場，四大升級瞄準電影級創作",
+      "link": "https://technews.tw/2026/09/21/vivo-x500-series/",
+      "isoDate": "2026-09-21T14:01:19.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "北韓駭客組織WaterPlum利用假冒求職感染全球至少3萬臺裝置，竊取千萬美元加密貨幣",
       "link": "https://www.ithome.com.tw/news/179080",
@@ -21,20 +35,6 @@
       "link": "https://technews.tw/2026/09/21/softbank-launches-11-billion-bonds-openai-investment/",
       "isoDate": "2026-09-21T12:06:29.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "中國智慧眼鏡銷量前 8 月翻倍！心電圖監測設備、運動相機同步成長",
-      "link": "https://technews.tw/2026/09/21/china-smart-glasses-sales/",
-      "isoDate": "2026-09-21T12:02:39.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "前OpenAI研究員新創TypeSafe推Jev模型，讓AI從生成文字轉向直接判斷",
-      "link": "https://www.ithome.com.tw/news/179075",
-      "isoDate": "2026-09-21T11:09:57.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
