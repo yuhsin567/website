@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-20T22:58:15.466Z",
+  "generated": "2026-09-21T00:57:58.981Z",
   "count": 5,
   "items": [
     {
-      "title": "從真人侍奉到數據預測：高價郵輪業的 AI 轉型",
-      "link": "https://techorange.com/2026/09/21/ai-is-taking-over-cruise-ships/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-20T22:22:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "【科技早餐】Google Gemini 測試中自主駭入 3 家企業，OpenAI 公布 6 起 AI 異常",
-      "link": "https://techorange.com/2026/09/21/google-gemini-hacks-three-companies-openai-ai-incidents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-20T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "氮含量異常高，天文學家證實星際彗星 3I/ATLAS 來自零下 243 度的恆星邊陲",
-      "link": "https://technews.tw/2026/09/20/3iatlas-may-have-formed-in-the-frigid-outer-regions-of-a-planetary-system/",
-      "isoDate": "2026-09-20T13:17:57.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "支援身分聯合服務與Passkey，兆勤網管雲大幅強化登入安全",
-      "link": "https://www.ithome.com.tw/review/179044",
-      "isoDate": "2026-09-20T10:09:49.000Z",
+      "title": "研究人員利用Claude開發漏洞利用程式，可操作OpenAI內部程式碼儲存庫",
+      "link": "https://www.ithome.com.tw/news/179063",
+      "isoDate": "2026-09-21T08:09:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "大腦其實是兩個器官？震撼發現：人腦由 2 個獨立神經系統拼裝而成",
-      "link": "https://technews.tw/2026/09/20/brain-organ-progenitor-cell-brainstem-otx2-gbx2/",
-      "isoDate": "2026-09-20T09:24:33.000Z",
-      "source": "科技新報",
+      "title": "Cloudflare揭露4波惡意JavaScript攻擊，依環境條件啟動提高偵測難度",
+      "link": "https://www.ithome.com.tw/news/179039",
+      "isoDate": "2026-09-21T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Oracle發布Java 27，強化TLS 1.3後量子密碼學支援",
+      "link": "https://www.ithome.com.tw/news/179030",
+      "isoDate": "2026-09-21T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "歐盟擬建立緊急安全協議，共同因應網路攻擊等混合威脅",
+      "link": "https://www.ithome.com.tw/news/179023",
+      "isoDate": "2026-09-21T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "美國要求金融機構加強防範詐騙，並打擊支援東南亞詐騙中心的犯罪市集Xinbi",
+      "link": "https://www.ithome.com.tw/news/178983",
+      "isoDate": "2026-09-21T08:09:00.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
