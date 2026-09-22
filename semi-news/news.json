@@ -1,7 +1,28 @@
 {
-  "generated": "2026-09-22T13:05:32.015Z",
+  "generated": "2026-09-22T17:55:58.625Z",
   "count": 5,
   "items": [
+    {
+      "title": "告別殘影，vivo 攜手蔡司、攻運動抓拍與 HDR 人像",
+      "link": "https://technews.tw/2026/09/22/vivo-x500-camera/",
+      "isoDate": "2026-09-22T14:04:52.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Android、Gemini 交織成形，一窺 Googlebook 軟體全貌",
+      "link": "https://technews.tw/2026/09/22/googlebook-os-builds-on-the-android-tech-stack-and-pairs-with-desktop-foundations-from-chromeos/",
+      "isoDate": "2026-09-22T13:59:21.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "韋伯發現最輕棕矮星，僅木星兩倍質量",
+      "link": "https://technews.tw/2026/09/22/webb-discovers-lightest-brown-dwarf-yet/",
+      "isoDate": "2026-09-22T13:48:16.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "互動教學平臺Mathspace遭駭，逾107萬人個資外洩",
       "link": "https://www.ithome.com.tw/news/179116",
@@ -13,27 +34,6 @@
       "title": "Google開放Googlebook筆電預購，主打和Android手機緊密協作",
       "link": "https://www.ithome.com.tw/news/179119",
       "isoDate": "2026-09-22T12:09:44.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Rambus推出支援Caliptra規範的CryptoManager信任根",
-      "link": "https://www.ithome.com.tw/news/179123",
-      "isoDate": "2026-09-22T12:09:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟Edge IE模式至少支援至2029年底，籲企業提前規畫轉型",
-      "link": "https://www.ithome.com.tw/news/179126",
-      "isoDate": "2026-09-22T12:09:25.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "攻擊手法BragJack透過惡意延伸套件挾持AI瀏覽器",
-      "link": "https://www.ithome.com.tw/news/179125",
-      "isoDate": "2026-09-22T12:09:20.000Z",
       "source": "iThome",
       "category": "科技"
     }
