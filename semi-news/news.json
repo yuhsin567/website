@@ -1,7 +1,28 @@
 {
-  "generated": "2026-09-23T18:50:02.427Z",
+  "generated": "2026-09-23T22:03:10.014Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】Meta 測試 AI 助理通話由真人接手，OpenAI、Anthropic 同日推低價模型",
+      "link": "https://techorange.com/2026/09/24/meta-muse-ai-assistant-human-call-test/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-23T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
+    {
+      "title": "耳機化身 AI 代理平台！高通 Snapdragon Sound Elite Gen 2 顛覆音訊穿戴想像",
+      "link": "https://technews.tw/2026/09/24/qualcomm-snapdragon-sound-elite-gen-2/",
+      "isoDate": "2026-09-23T20:46:41.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "智慧手機仍是 AI Agent 核心嗎？高通揭「Puck」新概念：口袋版個人運算中樞",
+      "link": "https://technews.tw/2026/09/24/qualcomm-ziad-asghar-talk-personal-ai-agent/",
+      "isoDate": "2026-09-23T19:44:02.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "推進實體 AI 與機器人布局！高通宣布收購機器人軟體公司 PickNik",
       "link": "https://technews.tw/2026/09/24/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-robotics-and-physical-ai/",
@@ -14,27 +35,6 @@
       "link": "https://technews.tw/2026/09/23/oxford-instruments-taiwan-hsinchu/",
       "isoDate": "2026-09-23T14:51:36.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "搶攻次世代寬頻！中磊發表 50G PON 超高速光纖解決方案",
-      "link": "https://technews.tw/2026/09/23/sercomm-new-50g-pon-product/",
-      "isoDate": "2026-09-23T14:39:51.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "IBM MQ修補兩個重大漏洞，包含可能導致遠端執行任意程式碼的CVSS滿分漏洞",
-      "link": "https://www.ithome.com.tw/news/179163",
-      "isoDate": "2026-09-23T12:09:58.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI公布GPT-6 Sol、Luna，價格較前代降低一半",
-      "link": "https://www.ithome.com.tw/news/179160",
-      "isoDate": "2026-09-23T11:09:59.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
