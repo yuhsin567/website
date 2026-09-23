@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-23T03:20:47.719Z",
+  "generated": "2026-09-23T09:04:24.627Z",
   "count": 5,
   "items": [
+    {
+      "title": "IBM MQ修補兩個重大漏洞，包含可能導致遠端執行任意程式碼的CVSS滿分漏洞",
+      "link": "https://www.ithome.com.tw/news/179163",
+      "isoDate": "2026-09-23T12:09:58.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI公布GPT-6 Sol、Luna，價格較前代降低一半",
+      "link": "https://www.ithome.com.tw/news/179160",
+      "isoDate": "2026-09-23T11:09:59.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "針對CRA開源責任，OpenSSF以三類角色協助開源社群判斷義務",
+      "link": "https://www.ithome.com.tw/news/179158",
+      "isoDate": "2026-09-23T11:09:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic推出Claude Opus 5.5，AI越界行為減少85%",
+      "link": "https://www.ithome.com.tw/news/179162",
+      "isoDate": "2026-09-23T11:09:44.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Google發布Chrome 154，修補108個漏洞",
       "link": "https://www.ithome.com.tw/news/179155",
       "isoDate": "2026-09-23T11:09:35.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "CISA針對西門子SIPLUS與SIMATIC產品漏洞發出ICS公告",
-      "link": "https://www.ithome.com.tw/news/179156",
-      "isoDate": "2026-09-23T11:09:03.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "60萬網站採用的WordPress行事曆外掛曝兩項重大RCE漏洞",
-      "link": "https://www.ithome.com.tw/news/179153",
-      "isoDate": "2026-09-23T10:09:28.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Arista公布SD-WAN集中管理平臺VCO滿分漏洞，並警告已遭利用",
-      "link": "https://www.ithome.com.tw/news/179154",
-      "isoDate": "2026-09-23T10:09:07.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "F5揭露及修補已遭利用的BIG-IP APM重大漏洞",
-      "link": "https://www.ithome.com.tw/news/179151",
-      "isoDate": "2026-09-23T09:09:42.000Z",
       "source": "iThome",
       "category": "科技"
     }
