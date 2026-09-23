@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-23T09:04:24.627Z",
+  "generated": "2026-09-23T14:40:32.460Z",
   "count": 5,
   "items": [
+    {
+      "title": "搶攻次世代寬頻！中磊發表 50G PON 超高速光纖解決方案",
+      "link": "https://technews.tw/2026/09/23/sercomm-new-50g-pon-product/",
+      "isoDate": "2026-09-23T14:39:51.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "IBM MQ修補兩個重大漏洞，包含可能導致遠端執行任意程式碼的CVSS滿分漏洞",
       "link": "https://www.ithome.com.tw/news/179163",
@@ -27,13 +34,6 @@
       "title": "Anthropic推出Claude Opus 5.5，AI越界行為減少85%",
       "link": "https://www.ithome.com.tw/news/179162",
       "isoDate": "2026-09-23T11:09:44.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google發布Chrome 154，修補108個漏洞",
-      "link": "https://www.ithome.com.tw/news/179155",
-      "isoDate": "2026-09-23T11:09:35.000Z",
       "source": "iThome",
       "category": "科技"
     }
