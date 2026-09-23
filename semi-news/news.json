@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-22T23:31:28.944Z",
+  "generated": "2026-09-23T03:20:47.719Z",
   "count": 5,
   "items": [
     {
-      "title": "蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索",
-      "link": "https://technews.tw/2026/09/23/the-secret-to-longer-life-may-be-hidden-in-bat-dna/",
-      "isoDate": "2026-09-22T23:30:47.000Z",
-      "source": "科技新報",
+      "title": "Google發布Chrome 154，修補108個漏洞",
+      "link": "https://www.ithome.com.tw/news/179155",
+      "isoDate": "2026-09-23T11:09:35.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "縮短研發陣痛、提早揪出病灶，AI 助攻癌症醫療的三大關鍵",
-      "link": "https://technews.tw/2026/09/23/ai-accelerates-cancer-treatment-breakthroughs/",
-      "isoDate": "2026-09-22T23:20:12.000Z",
-      "source": "科技新報",
+      "title": "CISA針對西門子SIPLUS與SIMATIC產品漏洞發出ICS公告",
+      "link": "https://www.ithome.com.tw/news/179156",
+      "isoDate": "2026-09-23T11:09:03.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Winamp 攜手 Deezer 宣布重生，2027 年上旬推出串流訂閱服務",
-      "link": "https://technews.tw/2026/09/23/winamp-partners-with-deezer-to-launch-streaming-service-in-early-2027/",
-      "isoDate": "2026-09-22T23:10:34.000Z",
-      "source": "科技新報",
+      "title": "60萬網站採用的WordPress行事曆外掛曝兩項重大RCE漏洞",
+      "link": "https://www.ithome.com.tw/news/179153",
+      "isoDate": "2026-09-23T10:09:28.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "升級 2 奈米製程！高通一口氣推最新 Snapdragon 8 Elite Gen 6 雙旗艦晶片",
-      "link": "https://technews.tw/2026/09/23/snapdragon-8-elite-extreme-gen-6-snapdragon-8-elite-gen-6/",
-      "isoDate": "2026-09-22T23:02:31.000Z",
-      "source": "科技新報",
+      "title": "Arista公布SD-WAN集中管理平臺VCO滿分漏洞，並警告已遭利用",
+      "link": "https://www.ithome.com.tw/news/179154",
+      "isoDate": "2026-09-23T10:09:07.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AT&T 與 Amazon Leo 達成合作協議，將 Amazon Leo 衛星服務與企業連網方案整合",
-      "link": "https://technews.tw/2026/09/23/att-business-expands-enterprise-and-public-sector-connectivity-architecture-with-amazon-leo-satellite/",
-      "isoDate": "2026-09-22T23:00:44.000Z",
-      "source": "科技新報",
+      "title": "F5揭露及修補已遭利用的BIG-IP APM重大漏洞",
+      "link": "https://www.ithome.com.tw/news/179151",
+      "isoDate": "2026-09-23T09:09:42.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
