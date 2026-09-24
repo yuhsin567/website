@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-24T13:11:57.801Z",
+  "generated": "2026-09-24T18:10:53.703Z",
   "count": 5,
   "items": [
+    {
+      "title": "冥王星表面暗色紋路成關鍵，新視野號揭示液態氮曾從冰層下湧出",
+      "link": "https://technews.tw/2026/09/25/nasas-new-horizons-spots-signs-of-liquid-nitrogen-flowing-on-pluto/",
+      "isoDate": "2026-09-24T16:00:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "OpenAI代理人也駭進了澳洲政府網站",
       "link": "https://www.ithome.com.tw/news/179208",
@@ -27,13 +34,6 @@
       "title": "中國駭客UTA0565架設假網站，加入使用BlueMoon工具包的行列",
       "link": "https://www.ithome.com.tw/news/179207",
       "isoDate": "2026-09-24T12:09:25.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "GitLab.com流量限制改採方案分級，匿名請求降至每小時60次",
-      "link": "https://www.ithome.com.tw/news/179197",
-      "isoDate": "2026-09-24T11:09:38.000Z",
       "source": "iThome",
       "category": "科技"
     }
