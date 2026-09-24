@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-24T01:04:02.794Z",
+  "generated": "2026-09-24T07:11:11.822Z",
   "count": 5,
   "items": [
     {
-      "title": "Red Hat OpenShift 4.22導入ML-KEM，下一步推進抗量子數位簽章ML-DSA",
-      "link": "https://www.ithome.com.tw/news/179173",
-      "isoDate": "2026-09-24T08:09:00.000Z",
+      "title": "OpenAI代理人也駭進了澳洲政府網站",
+      "link": "https://www.ithome.com.tw/news/179208",
+      "isoDate": "2026-09-24T12:09:55.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "TeamPCP供應鏈攻擊內幕曝光，Google研究人員曾臥底核心群組",
-      "link": "https://www.ithome.com.tw/news/179166",
-      "isoDate": "2026-09-24T08:09:00.000Z",
+      "title": "駭客用3套AI工具大規模攻擊電商，竊取超過60萬筆信用卡資料",
+      "link": "https://www.ithome.com.tw/news/179205",
+      "isoDate": "2026-09-24T12:09:48.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "NIST投入逾170萬美元培育資安人才，美國8州新增9項RAMPS計畫",
-      "link": "https://www.ithome.com.tw/news/179152",
-      "isoDate": "2026-09-24T08:09:00.000Z",
+      "title": "外界關注ShinyHunters竊得FBI資料，路透社最新揭露其中包含負責中俄情報業務的機密人員個資",
+      "link": "https://www.ithome.com.tw/news/179206",
+      "isoDate": "2026-09-24T12:09:42.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "提示詞注入仍難可靠防範，澳洲通訊局提AI代理權限控管原則",
-      "link": "https://www.ithome.com.tw/news/179149",
-      "isoDate": "2026-09-24T08:09:00.000Z",
+      "title": "中國駭客UTA0565架設假網站，搭配Chrome與Windows零時差漏洞利用鏈攻擊亞洲政府機關",
+      "link": "https://www.ithome.com.tw/news/179207",
+      "isoDate": "2026-09-24T12:09:25.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "降低對 SpaceX 依賴？Planet 德國衛星廠啟用，年產能上看 60 顆",
-      "link": "https://technews.tw/2026/09/24/planet-german-satellite-factory-spacex-reliance-60-satellites-annual-capacity/",
-      "isoDate": "2026-09-24T01:01:01.000Z",
-      "source": "科技新報",
+      "title": "GitLab.com流量限制改採方案分級，匿名請求降至每小時60次",
+      "link": "https://www.ithome.com.tw/news/179197",
+      "isoDate": "2026-09-24T11:09:38.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
