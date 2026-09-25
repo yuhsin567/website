@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-25T20:14:56.920Z",
+  "generated": "2026-09-25T23:48:43.792Z",
   "count": 5,
   "items": [
+    {
+      "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
+      "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-09-25T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "123 億年前的宇宙考古，哈伯望遠鏡揭銀河系第二次巨型碰撞",
       "link": "https://technews.tw/2026/09/26/what-happened-to-the-milky-way-12-3-billion-years-ago/",
@@ -27,13 +34,6 @@
       "title": "Docker Cloud Sandboxes上線，AI代理環境可在本機與雲端雙向搬移",
       "link": "https://www.ithome.com.tw/news/179227",
       "isoDate": "2026-09-25T11:09:24.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic動用近千Claude代理搜尋DNA，21小時找出新型ART酵素系統",
-      "link": "https://www.ithome.com.tw/news/179222",
-      "isoDate": "2026-09-25T11:09:12.000Z",
       "source": "iThome",
       "category": "科技"
     }
