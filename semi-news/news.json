@@ -1,7 +1,28 @@
 {
-  "generated": "2026-09-26T09:06:20.783Z",
+  "generated": "2026-09-26T14:05:41.205Z",
   "count": 5,
   "items": [
+    {
+      "title": "Google 廣告淪為詐騙新溫床，假「全螢幕警告」偽裝電腦遭勒索攻擊",
+      "link": "https://infosecu.technews.tw/2026/09/26/google-ads-deliver-browser-locking-fake-security-scams/",
+      "isoDate": "2026-09-26T10:30:46.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI 揭露更多 AI 代理失控行為：曾接觸政府網站並外傳使用者圖片",
+      "link": "https://infosecu.technews.tw/2026/09/26/openai-said-its-rogue-ai-agents-accessed-public-data-from-the-sec/",
+      "isoDate": "2026-09-26T10:00:07.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "涉危害兒少健康，TikTok 與阿拉巴馬州達成和解",
+      "link": "https://infosecu.technews.tw/2026/09/26/tiktok-alabama-settlement-harm-children-health/",
+      "isoDate": "2026-09-26T09:00:43.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Dell 點名 HDD 缺貨，硬碟供應持續吃緊",
       "link": "https://technews.tw/2026/09/26/dell-highlights-hdd-shortage-hard-drive-supply-remains-tight/",
@@ -10,30 +31,9 @@
       "category": "科技"
     },
     {
-      "title": "氣喘、慢性肺部發炎有新解方？吸入式 RNAi 有望從源頭控制發炎",
-      "link": "https://technews.tw/2026/09/26/new-solution-asthma-chronic-lung-inflammation-inhaled-rnai-source-control/",
-      "isoDate": "2026-09-26T08:00:57.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "白宮公布川習會事實清單，聚焦美中經貿進展、未提台灣",
-      "link": "https://technews.tw/2026/09/26/white-house-trump-xi-fact-sheet-us-china-economic-trade-progress-taiwan-not-mentioned/",
-      "isoDate": "2026-09-26T07:30:03.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "越跑越嗨的真相不是腦內啡，人體自產「類大麻」能鎮痛減壓",
-      "link": "https://technews.tw/2026/09/26/runner-high-chemical-truth/",
-      "isoDate": "2026-09-26T07:00:01.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "英國陸軍想要更優秀的無人機飛手，祭出「無 GPS 與輔助」最難飛行訓練課程",
-      "link": "https://technews.tw/2026/09/26/the-british-army-wants-better-drone-pilots-so-it-makes-them-learn-the-hardest-way-to-fly/",
-      "isoDate": "2026-09-26T06:30:58.000Z",
+      "title": "傳 SK 海力士美國子公司考慮 IPO，估值上看 1,500 億美元",
+      "link": "https://finance.technews.tw/2026/09/26/solidigm-ipo/",
+      "isoDate": "2026-09-26T08:30:13.000Z",
       "source": "科技新報",
       "category": "科技"
     }
