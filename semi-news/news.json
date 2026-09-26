@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-25T23:48:43.792Z",
+  "generated": "2026-09-26T03:32:43.231Z",
   "count": 5,
   "items": [
     {
-      "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
-      "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-09-25T22:29:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "123 億年前的宇宙考古，哈伯望遠鏡揭銀河系第二次巨型碰撞",
-      "link": "https://technews.tw/2026/09/26/what-happened-to-the-milky-way-12-3-billion-years-ago/",
-      "isoDate": "2026-09-25T16:00:18.000Z",
+      "title": "美國砸 52.5 億美元升級電網，拚增 23 GW 輸電容量",
+      "link": "https://technews.tw/2026/09/26/us-5-25-billion-grid-upgrade-23gw-transmission-capacity/",
+      "isoDate": "2026-09-26T03:32:33.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "微軟強化 Copilot，三大功能接軌企業需求",
-      "link": "https://technews.tw/2026/09/25/microsoft-introduces-a-new-copilot-with-home-code-and-autopilot/",
-      "isoDate": "2026-09-25T12:00:28.000Z",
+      "title": "從 iPhone 到 Mac 叢集：蘋果揭露地端 AI 戰力，最高可跑 1.6 兆參數模型",
+      "link": "https://technews.tw/2026/09/26/apple-rates-m5-ultra-mac-studio-for-480b-local-llms-1-6t-clusters/",
+      "isoDate": "2026-09-26T03:20:55.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AWS CloudWatch Omni納入AI代理品質測試，可比較模型與提示詞表現",
-      "link": "https://www.ithome.com.tw/news/179226",
-      "isoDate": "2026-09-25T11:09:59.000Z",
-      "source": "iThome",
+      "title": "五角大廈投資 3 千萬美元研發 AI 測謊系統，專家：老問題未解決增加誤判風險",
+      "link": "https://technews.tw/2026/09/26/the-pentagon-wants-an-ai-lie-detector-despite-an-old-problem-it-cant-ignore/",
+      "isoDate": "2026-09-26T03:10:33.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Docker Cloud Sandboxes上線，AI代理環境可在本機與雲端雙向搬移",
-      "link": "https://www.ithome.com.tw/news/179227",
-      "isoDate": "2026-09-25T11:09:24.000Z",
-      "source": "iThome",
+      "title": "歐洲即將開戰？Threads 熱議俄羅斯威脅，一文看懂歐盟與北約前線的真實評估",
+      "link": "https://technews.tw/2026/09/26/tensions-rise-between-russia-nato-and-europe/",
+      "isoDate": "2026-09-26T03:00:20.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "台泥砸 276.6 億併購烏克蘭第二大水泥廠，張安平親訪搶先卡位戰後重建商機",
+      "link": "https://finance.technews.tw/2026/09/26/taiwan-cement-acquires-ukraine-2nd-largest-cement-plant-nt27-66bn-chang-eyes-post-war-rebuild/",
+      "isoDate": "2026-09-26T03:00:19.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
