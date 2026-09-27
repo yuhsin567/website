@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-27T12:44:30.727Z",
+  "generated": "2026-09-27T17:29:12.924Z",
   "count": 5,
   "items": [
+    {
+      "title": "XRISM 首度直擊恆星風墜入中子星，天文學家看清脈衝星進食全程",
+      "link": "https://technews.tw/2026/09/28/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companions-wind/",
+      "isoDate": "2026-09-27T16:00:07.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "乳癌治療新方向：運用磁脈衝，重啟抗癌免疫力",
       "link": "https://technews.tw/2026/09/27/singapore-harnesses-magnetic-pulses-to-reprogramme-immune-cells-to-fight-breast-cancer/",
@@ -27,13 +34,6 @@
       "title": "中國首座「AI 眼科門診」實測，直擊醫療 AI 落地的三大痛點",
       "link": "https://technews.tw/2026/09/27/china-test-ai-eye-clinic/",
       "isoDate": "2026-09-27T07:00:52.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "a16z 創辦矽谷 AI 學院：免學費、無考試，以「實作成果」取代成績單",
-      "link": "https://technews.tw/2026/09/27/andreessen-horowitz-academy/",
-      "isoDate": "2026-09-27T06:30:03.000Z",
       "source": "科技新報",
       "category": "科技"
     }
