@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-28T03:40:23.053Z",
+  "generated": "2026-09-28T10:33:51.225Z",
   "count": 5,
   "items": [
+    {
+      "title": "四大作業系統檔案通知存在側通道風險，Windows、Android可暴露更多使用資訊",
+      "link": "https://www.ithome.com.tw/news/179240",
+      "isoDate": "2026-09-28T12:09:42.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI代理人再涉及美國政府、公開資料網站存取事件",
+      "link": "https://www.ithome.com.tw/news/179241",
+      "isoDate": "2026-09-28T12:09:39.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Google AI付費方案新增Colab進階權益",
       "link": "https://www.ithome.com.tw/news/179239",
@@ -20,20 +34,6 @@
       "title": "Android Studio開放BYOA，Codex等代理可透過ACP串接IDE",
       "link": "https://www.ithome.com.tw/news/179232",
       "isoDate": "2026-09-28T10:09:09.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "亞太地區勒索軟體事件月增近27%，臺灣事件數排名第三",
-      "link": "https://www.ithome.com.tw/news/179235",
-      "isoDate": "2026-09-28T08:09:00.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "MIND募資7,200萬美元，以AI代理強化企業資料外洩防護",
-      "link": "https://www.ithome.com.tw/news/179209",
-      "isoDate": "2026-09-28T08:09:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
