@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-28T10:33:51.225Z",
+  "generated": "2026-09-28T18:26:19.708Z",
   "count": 5,
   "items": [
+    {
+      "title": "Fortinet新款高階防火牆Q3登場，支援SASE企業多據點部署",
+      "link": "https://www.ithome.com.tw/review/179246",
+      "isoDate": "2026-09-29T12:09:33.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "四大作業系統檔案通知存在側通道風險，Windows、Android可暴露更多使用資訊",
       "link": "https://www.ithome.com.tw/news/179240",
@@ -27,13 +34,6 @@
       "title": "微軟新Copilot整合Cowork、Office，Scout改名Autopilot",
       "link": "https://www.ithome.com.tw/news/179238",
       "isoDate": "2026-09-28T10:09:10.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Android Studio開放BYOA，Codex等代理可透過ACP串接IDE",
-      "link": "https://www.ithome.com.tw/news/179232",
-      "isoDate": "2026-09-28T10:09:09.000Z",
       "source": "iThome",
       "category": "科技"
     }
