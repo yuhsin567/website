@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-29T11:05:30.504Z",
+  "generated": "2026-09-29T17:38:15.579Z",
   "count": 5,
   "items": [
+    {
+      "title": "毅力號火星重大發現，耶澤羅撞擊坑岩石揭密「三階段」水活動歷史",
+      "link": "https://technews.tw/2026/09/29/early-martian-rocks-reveal-at-least-three-independent-water-events/",
+      "isoDate": "2026-09-29T13:41:49.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "ShinyHunters聲稱竊得FBI資料中，包含敏感的探員個資與醫療紀錄",
       "link": "https://www.ithome.com.tw/news/179253",
@@ -27,13 +34,6 @@
       "title": "新加坡電信商Simba遭駭，逾2.3萬名用戶個資外洩",
       "link": "https://www.ithome.com.tw/news/179257",
       "isoDate": "2026-09-29T12:09:40.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "佛州要求法院限制OpenAI開發新模型，禁止向未成年人提供ChatGPT",
-      "link": "https://www.ithome.com.tw/news/179255",
-      "isoDate": "2026-09-29T12:09:31.000Z",
       "source": "iThome",
       "category": "科技"
     }
