@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-28T23:41:50.464Z",
+  "generated": "2026-09-29T04:15:35.550Z",
   "count": 5,
   "items": [
     {
-      "title": "Fortinet新款高階防火牆Q3登場，支援SASE企業多據點部署",
+      "title": "Fortinet新款高階防火牆Q3登場，支援企業SASE多據點部署",
       "link": "https://www.ithome.com.tw/review/179246",
       "isoDate": "2026-09-29T12:09:33.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "一季打造 1.8 萬個 AI 代理只為找出幾百個能用的？財星 500 強企業也在燒錢試錯學 AI",
-      "link": "https://finance.technews.tw/2026/09/29/why-fortune-500s-build-18000-ai-agents-and-keep-almost-none/",
-      "isoDate": "2026-09-28T23:40:46.000Z",
-      "source": "科技新報",
+      "title": "研究人員首次實作可繞過質因數分解的RSA簽章偽造攻擊",
+      "link": "https://www.ithome.com.tw/news/179252",
+      "isoDate": "2026-09-29T12:09:06.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AirPods 5 實測，即時翻譯體驗比降噪更驚艷",
-      "link": "https://technews.tw/2026/09/29/airpods-5-ux/",
-      "isoDate": "2026-09-28T23:30:55.000Z",
-      "source": "科技新報",
+      "title": "駭客利用SharePoint漏洞CVE-2026-65660發動兩階段攻擊，企圖部署Webshell",
+      "link": "https://www.ithome.com.tw/news/179251",
+      "isoDate": "2026-09-29T11:09:33.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "非紅供應鏈重塑低空市場，無人機商機起飛，台灣接軌全球",
-      "link": "https://technews.tw/2026/09/29/non-china-supply-chains-reshape-low-altitude-market-drone-opportunities-taiwan-global-connection/",
-      "isoDate": "2026-09-28T23:30:24.000Z",
-      "source": "科技新報",
+      "title": "Apple緊急修補疑遭利用的iOS/iPadOS與macOS圖形處理框架高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/179250",
+      "isoDate": "2026-09-29T11:09:20.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Apple Store 設計者不認為 AI 購物助理會成功，因上手體驗無法取代",
-      "link": "https://ccc.technews.tw/2026/09/29/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "isoDate": "2026-09-28T23:20:46.000Z",
-      "source": "科技新報",
+      "title": "電商平臺Magento、中介軟體WSO2重大漏洞遭積極利用",
+      "link": "https://www.ithome.com.tw/news/179247",
+      "isoDate": "2026-09-29T10:09:46.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
