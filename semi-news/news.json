@@ -1,39 +1,39 @@
 {
-  "generated": "2026-09-29T04:15:35.550Z",
+  "generated": "2026-09-29T11:05:30.504Z",
   "count": 5,
   "items": [
     {
-      "title": "Fortinet新款高階防火牆Q3登場，支援企業SASE多據點部署",
-      "link": "https://www.ithome.com.tw/review/179246",
-      "isoDate": "2026-09-29T12:09:33.000Z",
+      "title": "ShinyHunters聲稱竊得FBI資料中，包含敏感的探員個資與醫療紀錄",
+      "link": "https://www.ithome.com.tw/news/179253",
+      "isoDate": "2026-09-29T12:09:59.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "研究人員首次實作可繞過質因數分解的RSA簽章偽造攻擊",
-      "link": "https://www.ithome.com.tw/news/179252",
-      "isoDate": "2026-09-29T12:09:06.000Z",
+      "title": "GitHub讓AI代理接手模糊測試，可依覆蓋率自動補測未觸及程式碼",
+      "link": "https://www.ithome.com.tw/news/179245",
+      "isoDate": "2026-09-29T12:09:47.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "駭客利用SharePoint漏洞CVE-2026-65660發動兩階段攻擊，企圖部署Webshell",
-      "link": "https://www.ithome.com.tw/news/179251",
-      "isoDate": "2026-09-29T11:09:33.000Z",
+      "title": "CISA警告甫修補的WordPress重大路徑遍歷漏洞遭到利用",
+      "link": "https://www.ithome.com.tw/news/179254",
+      "isoDate": "2026-09-29T12:09:46.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Apple緊急修補疑遭利用的iOS/iPadOS與macOS圖形處理框架高風險漏洞",
-      "link": "https://www.ithome.com.tw/news/179250",
-      "isoDate": "2026-09-29T11:09:20.000Z",
+      "title": "新加坡電信商Simba遭駭，逾2.3萬名用戶個資外洩",
+      "link": "https://www.ithome.com.tw/news/179257",
+      "isoDate": "2026-09-29T12:09:40.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "電商平臺Magento、中介軟體WSO2重大漏洞遭積極利用",
-      "link": "https://www.ithome.com.tw/news/179247",
-      "isoDate": "2026-09-29T10:09:46.000Z",
+      "title": "佛州要求法院限制OpenAI開發新模型，禁止向未成年人提供ChatGPT",
+      "link": "https://www.ithome.com.tw/news/179255",
+      "isoDate": "2026-09-29T12:09:31.000Z",
       "source": "iThome",
       "category": "科技"
     }
