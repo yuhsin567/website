@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-29T21:51:59.129Z",
+  "generated": "2026-09-30T01:03:52.387Z",
   "count": 5,
   "items": [
     {
-      "title": "毅力號火星重大發現，耶澤羅撞擊坑岩石揭密「三階段」水活動歷史",
-      "link": "https://technews.tw/2026/09/29/early-martian-rocks-reveal-at-least-three-independent-water-events/",
-      "isoDate": "2026-09-29T13:41:49.000Z",
+      "title": "Salesforce Agentforce爆SalesBleed安全問題，CRM資料恐遭外傳",
+      "link": "https://www.ithome.com.tw/news/179283",
+      "isoDate": "2026-09-30T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "微軟Defender整合SIEM與XDR，讓AI代理參與資安維運",
+      "link": "https://www.ithome.com.tw/news/179233",
+      "isoDate": "2026-09-30T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "SANS發布資安事件回應框架DAIR，強調依新證據動態調整事件處置",
+      "link": "https://www.ithome.com.tw/news/179231",
+      "isoDate": "2026-09-30T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "研究人員檢視企業網路分段隔離情況，含OT設備區段87%仍混用其他類型設備",
+      "link": "https://www.ithome.com.tw/news/179193",
+      "isoDate": "2026-09-30T08:09:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "中國大減、豐田全球新車銷量續縮；電動車翻倍",
+      "link": "https://technews.tw/2026/09/30/china-sales-decline-toyota-global-new-car-sales-shrink-ev-double/",
+      "isoDate": "2026-09-30T01:00:51.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "ShinyHunters聲稱竊得FBI資料中，包含敏感的探員個資與醫療紀錄",
-      "link": "https://www.ithome.com.tw/news/179253",
-      "isoDate": "2026-09-29T12:09:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "GitHub讓AI代理接手模糊測試，可依覆蓋率自動補測未觸及程式碼",
-      "link": "https://www.ithome.com.tw/news/179245",
-      "isoDate": "2026-09-29T12:09:47.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "CISA警告甫修補的WordPress重大路徑遍歷漏洞遭到利用",
-      "link": "https://www.ithome.com.tw/news/179254",
-      "isoDate": "2026-09-29T12:09:46.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "新加坡電信商Simba遭駭，逾2.3萬名用戶個資外洩",
-      "link": "https://www.ithome.com.tw/news/179257",
-      "isoDate": "2026-09-29T12:09:40.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
