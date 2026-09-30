@@ -1,7 +1,21 @@
 {
-  "generated": "2026-09-30T07:58:18.472Z",
+  "generated": "2026-09-30T14:48:33.131Z",
   "count": 5,
   "items": [
+    {
+      "title": "韋伯望遠鏡顛覆認知！宇宙誕生僅 5 億年，早期星系已開始向外散布重元素",
+      "link": "https://technews.tw/2026/09/30/early-galaxies-had-already-spread-heavy-elements-across-the-universe/",
+      "isoDate": "2026-09-30T13:58:36.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "TNCAP 撞出真本事，MG ZS 零顆星",
+      "link": "https://technews.tw/2026/09/30/tncap-mg-zs/",
+      "isoDate": "2026-09-30T13:43:37.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Amazon Corretto 27正式推出，支援TLS 1.3的後量子混合金鑰交換",
       "link": "https://www.ithome.com.tw/news/179299",
@@ -20,20 +34,6 @@
       "title": "OpenAI公布協同平臺Space及類似Office的生產力套件",
       "link": "https://www.ithome.com.tw/news/179296",
       "isoDate": "2026-09-30T11:09:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Mozilla發布Firefox 157改版，修補近80個弱點",
-      "link": "https://www.ithome.com.tw/news/179297",
-      "isoDate": "2026-09-30T11:09:49.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "川普與OpenAI、Google等科技巨頭簽署AI安全協議，引進外部獨立稽核",
-      "link": "https://www.ithome.com.tw/news/179294",
-      "isoDate": "2026-09-30T11:09:48.000Z",
       "source": "iThome",
       "category": "科技"
     }
