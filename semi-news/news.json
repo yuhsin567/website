@@ -1,40 +1,40 @@
 {
-  "generated": "2026-09-30T01:03:52.387Z",
+  "generated": "2026-09-30T07:58:18.472Z",
   "count": 5,
   "items": [
     {
-      "title": "Salesforce Agentforce爆SalesBleed安全問題，CRM資料恐遭外傳",
-      "link": "https://www.ithome.com.tw/news/179283",
-      "isoDate": "2026-09-30T08:09:00.000Z",
+      "title": "Amazon Corretto 27正式推出，支援TLS 1.3的後量子混合金鑰交換",
+      "link": "https://www.ithome.com.tw/news/179299",
+      "isoDate": "2026-09-30T12:09:47.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "微軟Defender整合SIEM與XDR，讓AI代理參與資安維運",
-      "link": "https://www.ithome.com.tw/news/179233",
-      "isoDate": "2026-09-30T08:09:00.000Z",
+      "title": "JadePuffer借助AI代理攻擊Azure，微軟揭露兩起雲端資料破壞事件",
+      "link": "https://www.ithome.com.tw/news/179300",
+      "isoDate": "2026-09-30T12:09:12.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "SANS發布資安事件回應框架DAIR，強調依新證據動態調整事件處置",
-      "link": "https://www.ithome.com.tw/news/179231",
-      "isoDate": "2026-09-30T08:09:00.000Z",
+      "title": "OpenAI公布協同平臺Space及類似Office的生產力套件",
+      "link": "https://www.ithome.com.tw/news/179296",
+      "isoDate": "2026-09-30T11:09:57.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "研究人員檢視企業網路分段隔離情況，含OT設備區段87%仍混用其他類型設備",
-      "link": "https://www.ithome.com.tw/news/179193",
-      "isoDate": "2026-09-30T08:09:00.000Z",
+      "title": "Mozilla發布Firefox 157改版，修補近80個弱點",
+      "link": "https://www.ithome.com.tw/news/179297",
+      "isoDate": "2026-09-30T11:09:49.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "中國大減、豐田全球新車銷量續縮；電動車翻倍",
-      "link": "https://technews.tw/2026/09/30/china-sales-decline-toyota-global-new-car-sales-shrink-ev-double/",
-      "isoDate": "2026-09-30T01:00:51.000Z",
-      "source": "科技新報",
+      "title": "川普與OpenAI、Google等科技巨頭簽署AI安全協議，引進外部獨立稽核",
+      "link": "https://www.ithome.com.tw/news/179294",
+      "isoDate": "2026-09-30T11:09:48.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
