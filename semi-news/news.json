@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-01T18:01:21.704Z",
+  "generated": "2026-10-01T22:59:19.681Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】美光客戶長約承諾增至 320 億美元，預期記憶體供應更吃緊",
+      "link": "https://techorange.com/2026/10/02/micron-memory-supply-32-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-01T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "美國強化跨產業的基礎設施韌性，近50家不同領域領導企業加入關鍵基礎設施聯盟（ACI）",
       "link": "https://www.ithome.com.tw/news/179334",
@@ -27,13 +34,6 @@
       "title": "Microsoft強化Entra ID登入驗證流程，阻擋外部指令碼注入",
       "link": "https://www.ithome.com.tw/news/179331",
       "isoDate": "2026-10-01T11:10:56.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "商用逾30年C++編譯器前端EDG開源，C++ Alliance接手維護",
-      "link": "https://www.ithome.com.tw/news/179328",
-      "isoDate": "2026-10-01T11:10:50.000Z",
       "source": "iThome",
       "category": "科技"
     }
