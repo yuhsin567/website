@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-01T22:59:19.681Z",
+  "generated": "2026-10-02T02:06:58.789Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】美光客戶長約承諾增至 320 億美元，預期記憶體供應更吃緊",
-      "link": "https://techorange.com/2026/10/02/micron-memory-supply-32-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-01T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "美國強化跨產業的基礎設施韌性，近50家不同領域領導企業加入關鍵基礎設施聯盟（ACI）",
-      "link": "https://www.ithome.com.tw/news/179334",
-      "isoDate": "2026-10-01T12:10:26.000Z",
+      "title": "Aurora PostgreSQL現可查詢S3資料湖，由DuckDB引擎負責Iceberg與Parquet分析",
+      "link": "https://www.ithome.com.tw/news/179362",
+      "isoDate": "2026-10-02T08:10:31.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google發表Gemini 4 Argon，輸出上限增至100萬個Token",
-      "link": "https://www.ithome.com.tw/news/179337",
-      "isoDate": "2026-10-01T12:10:18.000Z",
+      "title": "GitHub HydraFusion進入VS Code，AI可依任務自動安排多模型分工",
+      "link": "https://www.ithome.com.tw/news/179345",
+      "isoDate": "2026-10-02T08:10:28.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "因應PQC簽章帶來的憑證架構負擔，Cloudflare完成初步大規模MTC實測，已傳送數十億份憑證",
-      "link": "https://www.ithome.com.tw/news/179335",
-      "isoDate": "2026-10-01T12:10:01.000Z",
+      "title": "英國示警中國情報機構藉資助AI、資安等研究，提升間諜技術能力",
+      "link": "https://www.ithome.com.tw/news/179340",
+      "isoDate": "2026-10-02T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Microsoft強化Entra ID登入驗證流程，阻擋外部指令碼注入",
-      "link": "https://www.ithome.com.tw/news/179331",
-      "isoDate": "2026-10-01T11:10:56.000Z",
+      "title": "美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元",
+      "link": "https://www.ithome.com.tw/news/179336",
+      "isoDate": "2026-10-02T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "今年前8月遭利用漏洞數超越2025全年，N-day漏洞利用明顯增加",
+      "link": "https://www.ithome.com.tw/news/179326",
+      "isoDate": "2026-10-02T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
