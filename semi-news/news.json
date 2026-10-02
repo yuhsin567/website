@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-02T02:06:58.789Z",
+  "generated": "2026-10-02T09:21:17.320Z",
   "count": 5,
   "items": [
     {
-      "title": "Aurora PostgreSQL現可查詢S3資料湖，由DuckDB引擎負責Iceberg與Parquet分析",
-      "link": "https://www.ithome.com.tw/news/179362",
-      "isoDate": "2026-10-02T08:10:31.000Z",
+      "title": "OpenAI調查失控AI代理人活動，已通知逾100個組織",
+      "link": "https://www.ithome.com.tw/news/179368",
+      "isoDate": "2026-10-02T12:10:47.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "GitHub HydraFusion進入VS Code，AI可依任務自動安排多模型分工",
-      "link": "https://www.ithome.com.tw/news/179345",
-      "isoDate": "2026-10-02T08:10:28.000Z",
+      "title": "研究人員揭露惡意軟體BambooToken，透過MQTT通訊協定控制Windows與Linux電腦",
+      "link": "https://www.ithome.com.tw/news/179370",
+      "isoDate": "2026-10-02T12:10:28.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "英國示警中國情報機構藉資助AI、資安等研究，提升間諜技術能力",
-      "link": "https://www.ithome.com.tw/news/179340",
-      "isoDate": "2026-10-02T08:10:00.000Z",
+      "title": "開源AI代理框架Pi邁入1.0，另推出長時間代理框架Pi Durable",
+      "link": "https://www.ithome.com.tw/news/179369",
+      "isoDate": "2026-10-02T12:10:12.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元",
-      "link": "https://www.ithome.com.tw/news/179336",
-      "isoDate": "2026-10-02T08:10:00.000Z",
+      "title": "Gartner預測2030年部署面向公眾的AI服務的企業，有80%將經歷成本耗盡攻擊，致營運成本超額",
+      "link": "https://www.ithome.com.tw/news/179365",
+      "isoDate": "2026-10-02T11:10:54.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "今年前8月遭利用漏洞數超越2025全年，N-day漏洞利用明顯增加",
-      "link": "https://www.ithome.com.tw/news/179326",
-      "isoDate": "2026-10-02T08:10:00.000Z",
+      "title": "加州禁止AI自行決定解僱員工，成全美首例",
+      "link": "https://www.ithome.com.tw/news/179367",
+      "isoDate": "2026-10-02T11:10:25.000Z",
       "source": "iThome",
       "category": "科技"
     }
