@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-02T09:21:17.320Z",
+  "generated": "2026-10-02T16:05:28.847Z",
   "count": 5,
   "items": [
+    {
+      "title": "尋找超新星爆發前的「母星」，NASA 錢卓拉最新發現 84 個神祕天體帶來破案曙光",
+      "link": "https://technews.tw/2026/10/03/nasa-chandra-latest-galaxy-images/",
+      "isoDate": "2026-10-02T16:00:42.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "NASA 採樣揭露貝努小行星身世，實為內外太陽系物質「混血兒」",
+      "link": "https://technews.tw/2026/10/03/origin-of-asteroid-bennu-revealed/",
+      "isoDate": "2026-10-02T16:00:15.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "欲藉 2 奈米盼重返高通供應鏈，台積電一單不漏全數拿下讓三星盼了個寂寞",
+      "link": "https://finance.technews.tw/2026/10/02/samsung-hopes-to-rejoin-qualcomms-supply-chain-by-leveraging-its-2nm-technology/",
+      "isoDate": "2026-10-02T12:40:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "OpenAI調查失控AI代理人活動，已通知逾100個組織",
       "link": "https://www.ithome.com.tw/news/179368",
@@ -13,27 +34,6 @@
       "title": "研究人員揭露惡意軟體BambooToken，透過MQTT通訊協定控制Windows與Linux電腦",
       "link": "https://www.ithome.com.tw/news/179370",
       "isoDate": "2026-10-02T12:10:28.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "開源AI代理框架Pi邁入1.0，另推出長時間代理框架Pi Durable",
-      "link": "https://www.ithome.com.tw/news/179369",
-      "isoDate": "2026-10-02T12:10:12.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Gartner預測2030年部署面向公眾的AI服務的企業，有80%將經歷成本耗盡攻擊，致營運成本超額",
-      "link": "https://www.ithome.com.tw/news/179365",
-      "isoDate": "2026-10-02T11:10:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "加州禁止AI自行決定解僱員工，成全美首例",
-      "link": "https://www.ithome.com.tw/news/179367",
-      "isoDate": "2026-10-02T11:10:25.000Z",
       "source": "iThome",
       "category": "科技"
     }
