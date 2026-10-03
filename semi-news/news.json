@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-03T00:55:23.451Z",
+  "generated": "2026-10-03T06:02:03.696Z",
   "count": 5,
   "items": [
     {
-      "title": "顛覆 20 年「零工廠」獲利方程式，揭 Nike 布廠竣邦砸 10 億赴越建廠內幕",
-      "link": "https://finance.technews.tw/2026/10/03/jb-international-inc/",
-      "isoDate": "2026-10-03T00:00:11.000Z",
+      "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
+      "link": "https://www.ithome.com.tw/news/179386",
+      "isoDate": "2026-10-03T11:10:17.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Chrome 154本週第二度發布更新版，緊急修補11個漏洞",
+      "link": "https://www.ithome.com.tw/news/179385",
+      "isoDate": "2026-10-03T10:10:14.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "新研究顯示：TikTok 近 95% 熱傳韓式護膚及「玻璃肌」短片含誤導性說法",
+      "link": "https://technews.tw/2026/10/03/tiktok-korean-skincare-glass-skin-videos-95-percent-misleading-claims/",
+      "isoDate": "2026-10-03T06:00:58.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "ChatGPT 推出虛擬試穿功能，上傳照片即可 AI 模擬穿搭效果",
-      "link": "https://technews.tw/2026/10/03/chatgpt-adds-virtual-try-on-for-clothes/",
-      "isoDate": "2026-10-02T23:44:16.000Z",
+      "title": "川普召集黃仁勳、馬斯克等科技巨頭簽「AI 憲法」，四層稽核機制能解失控風險？",
+      "link": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
+      "isoDate": "2026-10-03T06:00:53.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "【AI 應用漏洞無所不在】雲端與身分權限同列高風險破口，企業防禦應轉向「實測真正風險」",
-      "link": "https://techorange.com/2026/10/03/penetration-testing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-02T22:29:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "尋找超新星爆發前的「母星」，NASA 錢卓拉最新發現 84 個神祕天體帶來破案曙光",
-      "link": "https://technews.tw/2026/10/03/nasa-chandra-latest-galaxy-images/",
-      "isoDate": "2026-10-02T16:00:42.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "NASA 採樣揭露貝努小行星身世，實為內外太陽系物質「混血兒」",
-      "link": "https://technews.tw/2026/10/03/origin-of-asteroid-bennu-revealed/",
-      "isoDate": "2026-10-02T16:00:15.000Z",
+      "title": "打字不用找按鍵，Google 日本今年推「輸送帶鍵盤」讓字母自己過來",
+      "link": "https://ccc.technews.tw/2026/10/03/google-shows-off-a-wild-keyboard-that-is-literally-an-excavator-of-keys/",
+      "isoDate": "2026-10-03T05:30:39.000Z",
       "source": "科技新報",
       "category": "科技"
     }
