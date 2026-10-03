@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-03T12:13:28.110Z",
+  "generated": "2026-10-03T16:58:33.241Z",
   "count": 5,
   "items": [
+    {
+      "title": "NASA 宣布最新遠紅外線望遠鏡 PRIMA 計畫，探索星球形成與材料之謎",
+      "link": "https://technews.tw/2026/10/04/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "isoDate": "2026-10-03T16:00:37.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "本為星際任務設計卻成地球救星，「太空農業」如何破解極端氣候糧食危機？",
+      "link": "https://technews.tw/2026/10/04/space-agriculture-solve-global-food-crisis/",
+      "isoDate": "2026-10-03T16:00:21.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "AI 與機器人加速標本數位化，英國打造 7 千萬件館藏網路超級博物館",
+      "link": "https://technews.tw/2026/10/03/how-ai-is-creating-a-uk-super-museum-and-revealing-our-planets-history/",
+      "isoDate": "2026-10-03T13:30:15.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "新北青年局「AI 實戰職涯營」成果亮相  25 位跨域青年打造 AI Agent 解企業真實命題",
       "link": "https://techorange.com/2026/10/03/2026aipractitionerprogram-aws-ai-agent-demoday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -14,27 +35,6 @@
       "link": "https://www.ithome.com.tw/news/179386",
       "isoDate": "2026-10-03T11:10:17.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Chrome 154本週第二度發布更新版，緊急修補11個漏洞",
-      "link": "https://www.ithome.com.tw/news/179385",
-      "isoDate": "2026-10-03T10:10:14.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "近九成開發者都在用 AI 寫程式，美國學界報告：信任與驗證才是下道關卡",
-      "link": "https://technews.tw/2026/10/03/engineering-trustworthy-software-systems-with-ai-at-scale/",
-      "isoDate": "2026-10-03T08:30:57.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "為付離婚財產分割金！SK 會長崔泰源擬出售 9,440 億韓圜持股",
-      "link": "https://technews.tw/2026/10/03/sk-chairman-chey-tae-won-sell-94-4-billion-won-in-sk-shares/",
-      "isoDate": "2026-10-03T07:50:34.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
