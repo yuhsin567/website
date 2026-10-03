@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-03T06:02:03.696Z",
+  "generated": "2026-10-03T12:13:28.110Z",
   "count": 5,
   "items": [
+    {
+      "title": "新北青年局「AI 實戰職涯營」成果亮相  25 位跨域青年打造 AI Agent 解企業真實命題",
+      "link": "https://techorange.com/2026/10/03/2026aipractitionerprogram-aws-ai-agent-demoday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-03T11:30:24.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
       "link": "https://www.ithome.com.tw/news/179386",
@@ -17,23 +24,16 @@
       "category": "科技"
     },
     {
-      "title": "新研究顯示：TikTok 近 95% 熱傳韓式護膚及「玻璃肌」短片含誤導性說法",
-      "link": "https://technews.tw/2026/10/03/tiktok-korean-skincare-glass-skin-videos-95-percent-misleading-claims/",
-      "isoDate": "2026-10-03T06:00:58.000Z",
+      "title": "近九成開發者都在用 AI 寫程式，美國學界報告：信任與驗證才是下道關卡",
+      "link": "https://technews.tw/2026/10/03/engineering-trustworthy-software-systems-with-ai-at-scale/",
+      "isoDate": "2026-10-03T08:30:57.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "川普召集黃仁勳、馬斯克等科技巨頭簽「AI 憲法」，四層稽核機制能解失控風險？",
-      "link": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
-      "isoDate": "2026-10-03T06:00:53.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "打字不用找按鍵，Google 日本今年推「輸送帶鍵盤」讓字母自己過來",
-      "link": "https://ccc.technews.tw/2026/10/03/google-shows-off-a-wild-keyboard-that-is-literally-an-excavator-of-keys/",
-      "isoDate": "2026-10-03T05:30:39.000Z",
+      "title": "為付離婚財產分割金！SK 會長崔泰源擬出售 9,440 億韓圜持股",
+      "link": "https://technews.tw/2026/10/03/sk-chairman-chey-tae-won-sell-94-4-billion-won-in-sk-shares/",
+      "isoDate": "2026-10-03T07:50:34.000Z",
       "source": "科技新報",
       "category": "科技"
     }
