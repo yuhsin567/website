@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-04T19:11:43.785Z",
+  "generated": "2026-10-04T22:43:46.548Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】AI 代理私訊存取惹爭議，蘋果將收緊 Mac 完整磁碟授權",
+      "link": "https://techorange.com/2026/10/05/apple-mac-ai-agent-data-access/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-04T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "美國 FDA 推動法規轉型，以器官晶片與電腦模型取代動物實驗",
       "link": "https://technews.tw/2026/10/04/tech-to-replace-animal-testing-is-almost-ready/",
@@ -27,13 +34,6 @@
       "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
       "link": "https://finance.technews.tw/2026/10/04/nvidia-foxconn-robot/",
       "isoDate": "2026-10-04T06:47:39.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 時代的「禮儀」與邊界：人類監督與透明揭露才是核心",
-      "link": "https://technews.tw/2026/10/04/the-rules-of-ai-etiquette/",
-      "isoDate": "2026-10-04T06:30:25.000Z",
       "source": "科技新報",
       "category": "科技"
     }
