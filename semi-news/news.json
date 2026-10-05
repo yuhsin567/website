@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-04T22:43:46.548Z",
+  "generated": "2026-10-05T01:35:45.238Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】AI 代理私訊存取惹爭議，蘋果將收緊 Mac 完整磁碟授權",
-      "link": "https://techorange.com/2026/10/05/apple-mac-ai-agent-data-access/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-04T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "美國 FDA 推動法規轉型，以器官晶片與電腦模型取代動物實驗",
-      "link": "https://technews.tw/2026/10/04/tech-to-replace-animal-testing-is-almost-ready/",
-      "isoDate": "2026-10-04T08:30:57.000Z",
-      "source": "科技新報",
+      "title": "Cloudflare開源Clef決策模型，主打快速判斷並整合Workers AI",
+      "link": "https://www.ithome.com.tw/news/179382",
+      "isoDate": "2026-10-05T08:10:22.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "法軍打造自主 AI 空戰架構，2028 年測試戰機與無人僚機協同飛行",
-      "link": "https://technews.tw/2026/10/04/french-air-force-is-building-its-own-military-ai-systems/",
-      "isoDate": "2026-10-04T08:22:39.000Z",
-      "source": "科技新報",
+      "title": "中國相關網路間諜TA419鎖定美國AI政策圈，假冒前白宮官員進行Microsoft帳號網釣",
+      "link": "https://www.ithome.com.tw/news/179378",
+      "isoDate": "2026-10-05T08:10:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 助攻量子設計：德國新創 QC Design 推 Meridian 可壓低邏輯錯誤率逾十倍",
-      "link": "https://technews.tw/2026/10/04/qc-design-reports-10x-logical-error-reduction-with-meridian-ai/",
-      "isoDate": "2026-10-04T07:30:00.000Z",
-      "source": "科技新報",
+      "title": "微軟示警AI加劇資安攻防速度落差，臺灣觀測到的國家級駭客活動事件數居亞太首位",
+      "link": "https://www.ithome.com.tw/news/179372",
+      "isoDate": "2026-10-05T08:10:00.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
-      "link": "https://finance.technews.tw/2026/10/04/nvidia-foxconn-robot/",
-      "isoDate": "2026-10-04T06:47:39.000Z",
-      "source": "科技新報",
+      "title": "AI紅隊平臺新創Armadin完成2.56億美元B輪募資",
+      "link": "https://www.ithome.com.tw/news/179364",
+      "isoDate": "2026-10-05T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Reco完成5,500萬美元募資，擴大AI代理安全業務",
+      "link": "https://www.ithome.com.tw/news/179363",
+      "isoDate": "2026-10-05T08:10:00.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
