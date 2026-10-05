@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-05T08:20:01.458Z",
+  "generated": "2026-10-05T17:52:46.431Z",
   "count": 5,
   "items": [
+    {
+      "title": "宛如月球誕生重演，韋伯望遠鏡捕捉外星系「行星級劇烈碰撞」新證據",
+      "link": "https://technews.tw/2026/10/05/star-collision_extreme-debris-disk/",
+      "isoDate": "2026-10-05T14:14:00.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "愛普*9月營收11.89 億元",
+      "link": "https://finance.technews.tw/2026/10/05/ap-memory-6531-202609-financial-report/",
+      "isoDate": "2026-10-05T14:10:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "華邦電 9 月營收年增逾 250%，預計前 10 個月營收將突破 2,000 億元",
+      "link": "https://finance.technews.tw/2026/10/05/winbond-electronics-september-revenue-increased-by-over-250-year-on-year/",
+      "isoDate": "2026-10-05T12:45:46.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Rust預告停止32位元Windows主機工具，開發者需改採交叉編譯",
       "link": "https://www.ithome.com.tw/news/179393",
@@ -13,27 +34,6 @@
       "title": "駭客組織ShinyHunters成員在約旦遭捕，據報將協助FBI追查同夥",
       "link": "https://www.ithome.com.tw/news/179404",
       "isoDate": "2026-10-05T12:10:00.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "AI導致低品質報告氾濫，arXiv將限制報告每月提交最多2篇",
-      "link": "https://www.ithome.com.tw/news/179401",
-      "isoDate": "2026-10-05T11:10:57.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "管理員下AI提示出錯，致美珍香洩露近10萬會員資料",
-      "link": "https://www.ithome.com.tw/news/179402",
-      "isoDate": "2026-10-05T11:10:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Dell修補容器儲存套件CSM 13個漏洞，含兩個CVSS滿分漏洞",
-      "link": "https://www.ithome.com.tw/news/179395",
-      "isoDate": "2026-10-05T11:10:55.000Z",
       "source": "iThome",
       "category": "科技"
     }
