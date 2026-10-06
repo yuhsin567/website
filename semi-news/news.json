@@ -1,11 +1,25 @@
 {
-  "generated": "2026-10-06T04:53:31.707Z",
+  "generated": "2026-10-06T11:47:30.423Z",
   "count": 5,
   "items": [
     {
       "title": "持續提升產品安全，永恒數位網路視訊監控系統導入雙因素身分驗證",
       "link": "https://www.ithome.com.tw/news/179432",
       "isoDate": "2026-10-06T12:10:56.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "2026 諾貝爾物理學獎一人獨得，美籍學者推動南極天文台活捉宇宙微中子",
+      "link": "https://technews.tw/2026/10/06/francis-halzen-icecube-neutrino-nobel-prize-in-physics/",
+      "isoDate": "2026-10-06T11:15:45.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "日經新聞員工M365帳號遭到入侵，被用於發布約9,000封釣魚信",
+      "link": "https://www.ithome.com.tw/news/179429",
+      "isoDate": "2026-10-06T11:10:40.000Z",
       "source": "iThome",
       "category": "科技"
     },
@@ -20,20 +34,6 @@
       "title": "Reflection AI推出首款開放權重模型Beam，要挑戰中國GLM-5.2",
       "link": "https://www.ithome.com.tw/news/179430",
       "isoDate": "2026-10-06T11:10:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenSSL修補14個漏洞，包含可能造成當機與服務阻斷的高風險漏洞",
-      "link": "https://www.ithome.com.tw/news/179431",
-      "isoDate": "2026-10-06T11:10:13.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Dell修補伺服器部署工具DSU 5個漏洞，含可能導致攻擊者取得root權限的重大漏洞",
-      "link": "https://www.ithome.com.tw/news/179427",
-      "isoDate": "2026-10-06T11:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
