@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-05T23:44:21.969Z",
+  "generated": "2026-10-06T04:53:31.707Z",
   "count": 5,
   "items": [
     {
-      "title": "Anthropic 布局生技領域，籲 AI 藥物研發需嚴守安全防線",
-      "link": "https://technews.tw/2026/10/06/anthropic-is-warning-the-world-about-ai/",
-      "isoDate": "2026-10-05T23:40:35.000Z",
-      "source": "科技新報",
+      "title": "持續提升產品安全，永恒數位網路視訊監控系統導入雙因素身分驗證",
+      "link": "https://www.ithome.com.tw/news/179432",
+      "isoDate": "2026-10-06T12:10:56.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "JEDEC 發表首個矽光子元件驗證要求與製造技術標準規範",
-      "link": "https://finance.technews.tw/2026/10/06/jedec-publishes-its-first-standard-specification-for-verification-requirements-and-manufacturing-technology-of-silicon-photonic-devices/",
-      "isoDate": "2026-10-05T23:30:30.000Z",
-      "source": "科技新報",
+      "title": "JetBrains縮減KMP的Swift開發工具支援，Swift程式碼改由Xcode等工具處理",
+      "link": "https://www.ithome.com.tw/news/179428",
+      "isoDate": "2026-10-06T11:10:37.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "狗狗不只會聽人的語氣，也能辨識詞彙？科學家找到新的證據",
-      "link": "https://technews.tw/2026/10/06/speech-shapes-dog-brains/",
-      "isoDate": "2026-10-05T23:30:19.000Z",
-      "source": "科技新報",
+      "title": "Reflection AI推出首款開放權重模型Beam，要挑戰中國GLM-5.2",
+      "link": "https://www.ithome.com.tw/news/179430",
+      "isoDate": "2026-10-06T11:10:26.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 焦慮壓垮高階主管，心理學家：2/3 個案問題與 AI 有關",
-      "link": "https://technews.tw/2026/10/06/ai-demands-are-taking-a-toll-on-business-leaders/",
-      "isoDate": "2026-10-05T23:20:45.000Z",
-      "source": "科技新報",
+      "title": "OpenSSL修補14個漏洞，包含可能造成當機與服務阻斷的高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/179431",
+      "isoDate": "2026-10-06T11:10:13.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google Gemini 大縮水，免費用戶只可用 Flash-Lite、AI Plus 用戶不能再用 Pro 模型",
-      "link": "https://technews.tw/2026/10/06/google-gemini-free-users-can-only-use-flash-lite/",
-      "isoDate": "2026-10-05T23:10:29.000Z",
-      "source": "科技新報",
+      "title": "Dell修補伺服器部署工具DSU 5個漏洞，含可能導致攻擊者取得root權限的重大漏洞",
+      "link": "https://www.ithome.com.tw/news/179427",
+      "isoDate": "2026-10-06T11:10:00.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
