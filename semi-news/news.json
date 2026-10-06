@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-06T11:47:30.423Z",
+  "generated": "2026-10-06T17:55:52.478Z",
   "count": 5,
   "items": [
+    {
+      "title": "104 人力銀行遭駭客入侵，12 萬筆履歷資料遭未授權讀取",
+      "link": "https://finance.technews.tw/2026/10/06/104-corporation-hacked/",
+      "isoDate": "2026-10-06T13:18:44.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "聯電 9 月營收創歷史新高，AI 營收將大幅成長帶動代工價格",
+      "link": "https://finance.technews.tw/2026/10/06/umcs-september-revenue-hit-a-record-high/",
+      "isoDate": "2026-10-06T12:15:53.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "持續提升產品安全，永恒數位網路視訊監控系統導入雙因素身分驗證",
       "link": "https://www.ithome.com.tw/news/179432",
@@ -20,20 +34,6 @@
       "title": "日經新聞員工M365帳號遭到入侵，被用於發布約9,000封釣魚信",
       "link": "https://www.ithome.com.tw/news/179429",
       "isoDate": "2026-10-06T11:10:40.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "JetBrains縮減KMP的Swift開發工具支援，Swift程式碼改由Xcode等工具處理",
-      "link": "https://www.ithome.com.tw/news/179428",
-      "isoDate": "2026-10-06T11:10:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Reflection AI推出首款開放權重模型Beam，要挑戰中國GLM-5.2",
-      "link": "https://www.ithome.com.tw/news/179430",
-      "isoDate": "2026-10-06T11:10:26.000Z",
       "source": "iThome",
       "category": "科技"
     }
