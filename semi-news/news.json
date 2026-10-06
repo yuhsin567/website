@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-06T17:55:52.478Z",
+  "generated": "2026-10-06T22:22:45.713Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】OpenAI 代理遭指未授權活動，維基媒體揭大量請求疑涉服務中斷",
+      "link": "https://techorange.com/2026/10/07/openai-agents-wikimedia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-06T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "104 人力銀行遭駭客入侵，12 萬筆履歷資料遭未授權讀取",
       "link": "https://finance.technews.tw/2026/10/06/104-corporation-hacked/",
@@ -28,13 +35,6 @@
       "link": "https://technews.tw/2026/10/06/francis-halzen-icecube-neutrino-nobel-prize-in-physics/",
       "isoDate": "2026-10-06T11:15:45.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "日經新聞員工M365帳號遭到入侵，被用於發布約9,000封釣魚信",
-      "link": "https://www.ithome.com.tw/news/179429",
-      "isoDate": "2026-10-06T11:10:40.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
