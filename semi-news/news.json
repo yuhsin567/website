@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-07T02:04:52.100Z",
+  "generated": "2026-10-07T09:48:25.808Z",
   "count": 5,
   "items": [
     {
-      "title": "GitHub Actions相隔4天再傳異常，代管執行環境延遲波及Pages與帳務功能",
-      "link": "https://www.ithome.com.tw/news/179459",
-      "isoDate": "2026-10-07T08:10:12.000Z",
+      "title": "Apache HTTP Server發布2.4.69版修補20個漏洞，包含3個重大漏洞",
+      "link": "https://www.ithome.com.tw/news/179473",
+      "isoDate": "2026-10-07T12:10:08.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "研究人員發現GitHub公開儲存庫暴露逾54萬組仍有效憑證",
-      "link": "https://www.ithome.com.tw/news/179433",
-      "isoDate": "2026-10-07T08:10:00.000Z",
+      "title": "OpenAI用內部模型挑戰4,000道數學問題，公開722篇研究手稿",
+      "link": "https://www.ithome.com.tw/news/179471",
+      "isoDate": "2026-10-07T12:10:01.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Linux基金會旗下ELISA納入兩項開源專案，擴大Linux程式碼分析與壓力測試能力",
-      "link": "https://www.ithome.com.tw/news/179424",
-      "isoDate": "2026-10-07T08:10:00.000Z",
+      "title": "FBI傳與Accenture的承包商解約，疑因未修補PeopleSoft漏洞造成ShinyHunters入侵",
+      "link": "https://www.ithome.com.tw/news/179467",
+      "isoDate": "2026-10-07T11:10:57.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Linux後門ClingSTUN利用公開STUN服務，惡意通訊更難辨識",
-      "link": "https://www.ithome.com.tw/news/179423",
-      "isoDate": "2026-10-07T08:10:00.000Z",
+      "title": "Atlassian揭露影響旗下8款主要應用系統的任意檔案讀取漏洞",
+      "link": "https://www.ithome.com.tw/news/179469",
+      "isoDate": "2026-10-07T11:10:27.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "製造業PQC轉型不只換演算法，OT設備升級與汰換成挑戰",
-      "link": "https://www.ithome.com.tw/news/179409",
-      "isoDate": "2026-10-07T08:10:00.000Z",
+      "title": "Anthropic擴大資安Claude存取計畫，Glasswing半年找到逾12萬漏洞",
+      "link": "https://www.ithome.com.tw/news/179470",
+      "isoDate": "2026-10-07T11:10:13.000Z",
       "source": "iThome",
       "category": "科技"
     }
