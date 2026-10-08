@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-08T02:30:25.738Z",
+  "generated": "2026-10-08T09:59:05.832Z",
   "count": 5,
   "items": [
     {
-      "title": "開源檔案共用軟體Rejetto HFS重大漏洞的細節公開後出現嘗試利用活動",
-      "link": "https://www.ithome.com.tw/news/179488",
-      "isoDate": "2026-10-08T09:10:09.000Z",
+      "title": "LLM加速及快取管理平臺LMCache多行程模式曝重大RCE漏洞",
+      "link": "https://www.ithome.com.tw/news/179511",
+      "isoDate": "2026-10-08T12:10:47.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AWS發布PCI DSS架構指引，說明多帳號環境如何界定適用範圍",
-      "link": "https://www.ithome.com.tw/news/179478",
-      "isoDate": "2026-10-08T08:10:00.000Z",
+      "title": "駭客組織ShinyHunters約旦成員被捕前曾勒索波音前子公司",
+      "link": "https://www.ithome.com.tw/news/179516",
+      "isoDate": "2026-10-08T12:10:19.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "PKI成熟度模型2.0新增密碼學治理，納入PQC轉型與密碼學敏捷性",
-      "link": "https://www.ithome.com.tw/news/179465",
-      "isoDate": "2026-10-08T08:10:00.000Z",
+      "title": "SonicWall修補SMA1000設備滿分伺服器請求偽造漏洞",
+      "link": "https://www.ithome.com.tw/news/179514",
+      "isoDate": "2026-10-08T12:10:08.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "語音AI新創Modulate募資2,500萬美元，從遊戲語音安全擴展深偽偵測與AI代理監督",
-      "link": "https://www.ithome.com.tw/news/179462",
-      "isoDate": "2026-10-08T08:10:00.000Z",
+      "title": "杏一網站疑似發生個資外洩",
+      "link": "https://www.ithome.com.tw/news/179507",
+      "isoDate": "2026-10-08T11:10:52.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "北約量子技術戰略走向實作，持續導入PQC並規畫量子安全通訊試驗",
-      "link": "https://www.ithome.com.tw/news/179448",
-      "isoDate": "2026-10-08T08:10:00.000Z",
+      "title": "ChatGPT回答不只文字，GPT-6開始動態組合互動介面",
+      "link": "https://www.ithome.com.tw/news/179503",
+      "isoDate": "2026-10-08T11:10:46.000Z",
       "source": "iThome",
       "category": "科技"
     }
