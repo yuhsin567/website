@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-08T09:59:05.832Z",
+  "generated": "2026-10-08T17:20:08.608Z",
   "count": 5,
   "items": [
+    {
+      "title": "熱浪前後的暖水期被忽略，海洋生態實際承受熱壓力遠超預期",
+      "link": "https://technews.tw/2026/10/09/ocean-heatwaves-are-hiding-months-of-extra-warming/",
+      "isoDate": "2026-10-08T16:00:40.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "宣德9月營收17.23 億元",
+      "link": "https://finance.technews.tw/2026/10/08/speed-tech-5457-202609-financial-report/",
+      "isoDate": "2026-10-08T14:10:06.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "嘉澤9月營收33.57 億元",
+      "link": "https://finance.technews.tw/2026/10/08/lotes-3533-202609-financial-report/",
+      "isoDate": "2026-10-08T14:10:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "YouTube 推六大新功能，YouTube Shorts 看短劇、新增千款遊戲",
+      "link": "https://technews.tw/2026/10/08/2026-youtube-brandcast/",
+      "isoDate": "2026-10-08T12:39:56.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "LLM加速及快取管理平臺LMCache多行程模式曝重大RCE漏洞",
       "link": "https://www.ithome.com.tw/news/179511",
       "isoDate": "2026-10-08T12:10:47.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "駭客組織ShinyHunters約旦成員被捕前曾勒索波音前子公司",
-      "link": "https://www.ithome.com.tw/news/179516",
-      "isoDate": "2026-10-08T12:10:19.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "SonicWall修補SMA1000設備滿分伺服器請求偽造漏洞",
-      "link": "https://www.ithome.com.tw/news/179514",
-      "isoDate": "2026-10-08T12:10:08.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "杏一網站疑似發生個資外洩",
-      "link": "https://www.ithome.com.tw/news/179507",
-      "isoDate": "2026-10-08T11:10:52.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "ChatGPT回答不只文字，GPT-6開始動態組合互動介面",
-      "link": "https://www.ithome.com.tw/news/179503",
-      "isoDate": "2026-10-08T11:10:46.000Z",
       "source": "iThome",
       "category": "科技"
     }
