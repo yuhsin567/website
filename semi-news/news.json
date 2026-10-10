@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-10T02:04:12.171Z",
+  "generated": "2026-10-10T09:23:41.550Z",
   "count": 5,
   "items": [
     {
-      "title": "市占越高卻虧越多！AI 代理入口是 OpenAI、Meta 下個金礦還是錢坑？",
-      "link": "https://finance.technews.tw/2026/10/10/higher-market-share-more-losses-ai-agent-portals-openai-meta-goldmine-money-pit/",
-      "isoDate": "2026-10-10T02:00:53.000Z",
+      "title": "企業如何防止AI代理「做錯事」，專家建議四大治理方向",
+      "link": "https://www.ithome.com.tw/news/179532",
+      "isoDate": "2026-10-10T12:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "AI 競賽進入下半場：不再只拚「模型最強」，規模化與落地部署才是決勝關鍵",
+      "link": "https://technews.tw/2026/10/10/the-unglamorous-reality-of-winning-the-ai-race/",
+      "isoDate": "2026-10-10T08:30:00.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "美超微涉非法轉運 25 億美元輝達 AI 晶片至中國！承包台商在美認罪",
-      "link": "https://finance.technews.tw/2026/10/10/ting-wei-sun/",
-      "isoDate": "2026-10-10T01:36:21.000Z",
+      "title": "AI 設計抗體實測出爐：最佳化既有抗體成效最佳，從零設計仍需實驗把關",
+      "link": "https://technews.tw/2026/10/10/ai-and-therapeutic-antibody-design/",
+      "isoDate": "2026-10-10T07:30:31.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "「iPod 之父」點評 AI 裝置失敗原因：未能解決真實痛點且缺乏信任",
-      "link": "https://technews.tw/2026/10/10/ai-device-failure-reasons/",
-      "isoDate": "2026-10-10T01:30:23.000Z",
+      "title": "台股高檔震盪「高息型」最吃香！盤點 12 檔 ETF 規模逆勢創新高",
+      "link": "https://finance.technews.tw/2026/10/10/high-interest-type/",
+      "isoDate": "2026-10-10T07:20:05.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "獲利分紅成主戰場，勞資都要面對的課題，台灣美光釀罷工危機，高科技業新考驗",
-      "link": "https://finance.technews.tw/2026/10/10/strike-risk-looms-at-micron-taiwan/",
-      "isoDate": "2026-10-10T01:00:31.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "發炎控制了還是痛？專家：憂鬱、睡眠、肥胖問題是隱藏因素",
-      "link": "https://technews.tw/2026/10/10/why-rheumatoid-arthritis-pain-may-persist-even-when-inflammation-is-under-control/",
-      "isoDate": "2026-10-10T00:30:19.000Z",
+      "title": "拯救數百萬歐元損失，酩悅軒尼詩靠 AI「數位嗅覺」精準捕捉葡萄酒隱形殺手",
+      "link": "https://technews.tw/2026/10/10/ai-olfactory-breakthrough/",
+      "isoDate": "2026-10-10T07:00:37.000Z",
       "source": "科技新報",
       "category": "科技"
     }
