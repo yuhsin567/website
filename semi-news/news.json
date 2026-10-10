@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T09:23:41.550Z",
+  "generated": "2026-10-10T15:41:59.179Z",
   "count": 5,
   "items": [
     {
@@ -7,6 +7,13 @@
       "link": "https://www.ithome.com.tw/news/179532",
       "isoDate": "2026-10-10T12:10:00.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "拒當預售屋韭菜！全台單坪價差飆破 18 萬、買五年新古屋直接打 7 折",
+      "link": "https://finance.technews.tw/2026/10/10/shinkoya/",
+      "isoDate": "2026-10-10T09:28:50.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
@@ -27,13 +34,6 @@
       "title": "台股高檔震盪「高息型」最吃香！盤點 12 檔 ETF 規模逆勢創新高",
       "link": "https://finance.technews.tw/2026/10/10/high-interest-type/",
       "isoDate": "2026-10-10T07:20:05.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "拯救數百萬歐元損失，酩悅軒尼詩靠 AI「數位嗅覺」精準捕捉葡萄酒隱形殺手",
-      "link": "https://technews.tw/2026/10/10/ai-olfactory-breakthrough/",
-      "isoDate": "2026-10-10T07:00:37.000Z",
       "source": "科技新報",
       "category": "科技"
     }
