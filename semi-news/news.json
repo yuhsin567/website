@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-12T00:57:56.146Z",
+  "generated": "2026-10-12T07:08:52.899Z",
   "count": 5,
   "items": [
     {
-      "title": "微軟2027年4月起淘汰部分檔案API預先驗證網址，開發者須調整權杖驗證",
-      "link": "https://www.ithome.com.tw/news/179556",
-      "isoDate": "2026-10-12T08:10:57.000Z",
+      "title": "特斯拉在歐洲將FSD改名為Tesla Assisted Driving，以推動歐盟核准",
+      "link": "https://www.ithome.com.tw/news/179577",
+      "isoDate": "2026-10-12T12:10:48.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "日本客服平臺業者Scala Communications遭駭，洩露多家客戶個資逾70萬",
-      "link": "https://www.ithome.com.tw/news/179566",
-      "isoDate": "2026-10-12T08:10:50.000Z",
+      "title": "Citrix修補NetScaler重大等級的SAML漏洞",
+      "link": "https://www.ithome.com.tw/news/179578",
+      "isoDate": "2026-10-12T12:10:42.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "日本三家旅行服務、系統業者爆資料外洩超過千萬",
-      "link": "https://www.ithome.com.tw/news/179565",
-      "isoDate": "2026-10-12T08:10:46.000Z",
+      "title": "攻擊者利用WordPress兩款外掛XSS漏洞入侵網站，植入後門並建立隱藏的管理帳號，威脅逾50萬網站",
+      "link": "https://www.ithome.com.tw/news/179575",
+      "isoDate": "2026-10-12T12:10:41.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
-      "link": "https://www.ithome.com.tw/news/179564",
-      "isoDate": "2026-10-12T08:10:19.000Z",
+      "title": "DNS根區域時隔8年更換簽章金鑰，未更新信任錨恐使網站無法連線",
+      "link": "https://www.ithome.com.tw/news/179570",
+      "isoDate": "2026-10-12T11:10:55.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "韓國政府資料中心大火後，重訂系統分級與災難復原標準",
-      "link": "https://www.ithome.com.tw/news/179562",
-      "isoDate": "2026-10-12T08:10:00.000Z",
+      "title": "日本逮捕涉嫌勒索軟體組織Qilin核心成員，已引渡至德國",
+      "link": "https://www.ithome.com.tw/news/179573",
+      "isoDate": "2026-10-12T11:10:50.000Z",
       "source": "iThome",
       "category": "科技"
     }
