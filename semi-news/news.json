@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-12T07:08:52.899Z",
+  "generated": "2026-10-12T17:21:21.422Z",
   "count": 5,
   "items": [
+    {
+      "title": "太陽死後的太陽系，比想像中的更快崩解",
+      "link": "https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/",
+      "isoDate": "2026-10-12T14:27:30.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "特斯拉在歐洲將FSD改名為Tesla Assisted Driving，以推動歐盟核准",
       "link": "https://www.ithome.com.tw/news/179577",
@@ -27,13 +34,6 @@
       "title": "DNS根區域時隔8年更換簽章金鑰，未更新信任錨恐使網站無法連線",
       "link": "https://www.ithome.com.tw/news/179570",
       "isoDate": "2026-10-12T11:10:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "日本逮捕涉嫌勒索軟體組織Qilin核心成員，已引渡至德國",
-      "link": "https://www.ithome.com.tw/news/179573",
-      "isoDate": "2026-10-12T11:10:50.000Z",
       "source": "iThome",
       "category": "科技"
     }
