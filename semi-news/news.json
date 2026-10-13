@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-13T15:34:05.332Z",
+  "generated": "2026-10-13T20:58:37.313Z",
   "count": 5,
   "items": [
+    {
+      "title": "全球半導體設備支出爆發！SEMI 估 2029 年達 2,270 億美元，美國擴產加速",
+      "link": "https://technews.tw/2026/10/14/semicon-west-clark-tseng/",
+      "isoDate": "2026-10-13T19:50:30.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "應材矽谷 EPIC 中心正式開幕！台積電魏哲家：加速 2 奈米以下技術量產",
       "link": "https://technews.tw/2026/10/13/applied-materials-epic-center/",
@@ -27,13 +34,6 @@
       "title": "主打蘋果與夥伴共同設計，Apple Home Collection 亮相",
       "link": "https://technews.tw/2026/10/13/apple-home-collection/",
       "isoDate": "2026-10-13T13:39:43.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Siri AI 住你家，蘋果 HomeView 一次認得六張臉",
-      "link": "https://technews.tw/2026/10/13/siri-ai-homeview/",
-      "isoDate": "2026-10-13T13:25:19.000Z",
       "source": "科技新報",
       "category": "科技"
     }
