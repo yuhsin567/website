@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-13T00:08:23.296Z",
+  "generated": "2026-10-13T07:20:49.269Z",
   "count": 5,
   "items": [
     {
-      "title": "Python 3.15預設用UTF-8編碼，並新增延遲匯入機制",
-      "link": "https://www.ithome.com.tw/news/179600",
-      "isoDate": "2026-10-13T07:10:39.000Z",
+      "title": "逾1.6萬個Supabase資料庫暴露於公開網路，恐洩漏敏感資料",
+      "link": "https://www.ithome.com.tw/news/179616",
+      "isoDate": "2026-10-13T12:10:47.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "全球手機市場陷 14 年低谷，記憶體短缺拖累出貨量、Q3 年減 20%",
-      "link": "https://technews.tw/2026/10/13/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline/",
-      "isoDate": "2026-10-13T00:04:13.000Z",
-      "source": "科技新報",
+      "title": "企業數位大小章搬上手機！行動工商憑證如何改變驗證、簽章與授權管理",
+      "link": "https://www.ithome.com.tw/news/179617",
+      "isoDate": "2026-10-13T12:10:21.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "機器人真的搶走人類飯碗？真相是只有 0.3%",
-      "link": "https://finance.technews.tw/2026/10/13/what-work-can-robots-do/",
-      "isoDate": "2026-10-13T00:00:56.000Z",
-      "source": "科技新報",
+      "title": "Meta推出前沿AI模型Muse Wonder，挑戰OpenAI與Anthropic",
+      "link": "https://www.ithome.com.tw/news/179608",
+      "isoDate": "2026-10-13T11:10:42.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 資料中心告別「晶片軍備競賽」，資本與能源雙效率躍升投資新指標",
-      "link": "https://technews.tw/2026/10/13/data-centers-compete-capital-energy/",
-      "isoDate": "2026-10-12T23:50:06.000Z",
-      "source": "科技新報",
+      "title": "HashiCorp封存Boundary社群版，既有部署不再獲原廠安全修補",
+      "link": "https://www.ithome.com.tw/news/179607",
+      "isoDate": "2026-10-13T11:10:40.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "先台積電一步公布業績，ASML 第三季有望獲利年增翻倍",
-      "link": "https://finance.technews.tw/2026/10/13/asmls-third-quarter-profit-is-expected-to-double-year-on-year/",
-      "isoDate": "2026-10-12T23:45:37.000Z",
-      "source": "科技新報",
+      "title": "Kiteworks修補126個漏洞，包含可能導致系統遭接管的EPG滿分漏洞",
+      "link": "https://www.ithome.com.tw/news/179606",
+      "isoDate": "2026-10-13T11:10:29.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
