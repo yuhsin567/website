@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-13T07:20:49.269Z",
+  "generated": "2026-10-13T15:34:05.332Z",
   "count": 5,
   "items": [
     {
-      "title": "逾1.6萬個Supabase資料庫暴露於公開網路，恐洩漏敏感資料",
-      "link": "https://www.ithome.com.tw/news/179616",
-      "isoDate": "2026-10-13T12:10:47.000Z",
-      "source": "iThome",
+      "title": "應材矽谷 EPIC 中心正式開幕！台積電魏哲家：加速 2 奈米以下技術量產",
+      "link": "https://technews.tw/2026/10/13/applied-materials-epic-center/",
+      "isoDate": "2026-10-13T14:58:12.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "企業數位大小章搬上手機！行動工商憑證如何改變驗證、簽章與授權管理",
-      "link": "https://www.ithome.com.tw/news/179617",
-      "isoDate": "2026-10-13T12:10:21.000Z",
-      "source": "iThome",
+      "title": "攻智慧感測！智原推 MIPI C/D Combo PHY IP，通過聯電 14 奈米 FinFET 矽驗證",
+      "link": "https://technews.tw/2026/10/13/faraday-powers-intelligent-sensing-with-new-14nm-mipi-cd-combo-phy-ip/",
+      "isoDate": "2026-10-13T14:43:51.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Meta推出前沿AI模型Muse Wonder，挑戰OpenAI與Anthropic",
-      "link": "https://www.ithome.com.tw/news/179608",
-      "isoDate": "2026-10-13T11:10:42.000Z",
-      "source": "iThome",
+      "title": "Apple TV 4K、HomePod mini 升級！Siri AI 加持、遙控器不怕找不到",
+      "link": "https://ccc.technews.tw/2026/10/13/apple-tv-4k-homepod-mini-2gen/",
+      "isoDate": "2026-10-13T14:01:59.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "HashiCorp封存Boundary社群版，既有部署不再獲原廠安全修補",
-      "link": "https://www.ithome.com.tw/news/179607",
-      "isoDate": "2026-10-13T11:10:40.000Z",
-      "source": "iThome",
+      "title": "主打蘋果與夥伴共同設計，Apple Home Collection 亮相",
+      "link": "https://technews.tw/2026/10/13/apple-home-collection/",
+      "isoDate": "2026-10-13T13:39:43.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Kiteworks修補126個漏洞，包含可能導致系統遭接管的EPG滿分漏洞",
-      "link": "https://www.ithome.com.tw/news/179606",
-      "isoDate": "2026-10-13T11:10:29.000Z",
-      "source": "iThome",
+      "title": "Siri AI 住你家，蘋果 HomeView 一次認得六張臉",
+      "link": "https://technews.tw/2026/10/13/siri-ai-homeview/",
+      "isoDate": "2026-10-13T13:25:19.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
