@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-12T17:21:21.422Z",
+  "generated": "2026-10-13T00:08:23.296Z",
   "count": 5,
   "items": [
     {
-      "title": "太陽死後的太陽系，比想像中的更快崩解",
-      "link": "https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/",
-      "isoDate": "2026-10-12T14:27:30.000Z",
+      "title": "Python 3.15預設用UTF-8編碼，並新增延遲匯入機制",
+      "link": "https://www.ithome.com.tw/news/179600",
+      "isoDate": "2026-10-13T07:10:39.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "全球手機市場陷 14 年低谷，記憶體短缺拖累出貨量、Q3 年減 20%",
+      "link": "https://technews.tw/2026/10/13/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline/",
+      "isoDate": "2026-10-13T00:04:13.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "特斯拉在歐洲將FSD改名為Tesla Assisted Driving，以推動歐盟核准",
-      "link": "https://www.ithome.com.tw/news/179577",
-      "isoDate": "2026-10-12T12:10:48.000Z",
-      "source": "iThome",
+      "title": "機器人真的搶走人類飯碗？真相是只有 0.3%",
+      "link": "https://finance.technews.tw/2026/10/13/what-work-can-robots-do/",
+      "isoDate": "2026-10-13T00:00:56.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Citrix修補NetScaler重大等級的SAML漏洞",
-      "link": "https://www.ithome.com.tw/news/179578",
-      "isoDate": "2026-10-12T12:10:42.000Z",
-      "source": "iThome",
+      "title": "AI 資料中心告別「晶片軍備競賽」，資本與能源雙效率躍升投資新指標",
+      "link": "https://technews.tw/2026/10/13/data-centers-compete-capital-energy/",
+      "isoDate": "2026-10-12T23:50:06.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "攻擊者利用WordPress兩款外掛XSS漏洞入侵網站，植入後門並建立隱藏的管理帳號，威脅逾50萬網站",
-      "link": "https://www.ithome.com.tw/news/179575",
-      "isoDate": "2026-10-12T12:10:41.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "DNS根區域時隔8年更換簽章金鑰，未更新信任錨恐使網站無法連線",
-      "link": "https://www.ithome.com.tw/news/179570",
-      "isoDate": "2026-10-12T11:10:55.000Z",
-      "source": "iThome",
+      "title": "先台積電一步公布業績，ASML 第三季有望獲利年增翻倍",
+      "link": "https://finance.technews.tw/2026/10/13/asmls-third-quarter-profit-is-expected-to-double-year-on-year/",
+      "isoDate": "2026-10-12T23:45:37.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
