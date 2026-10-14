@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-14T16:32:28.587Z",
+  "generated": "2026-10-14T20:26:57.526Z",
   "count": 5,
   "items": [
+    {
+      "title": "先進封裝推升設備需求！ACM Research 擴大全球布局，清洗、沉積產品線持續延伸",
+      "link": "https://technews.tw/2026/10/15/acm-research-semicon-west-sally-ann-henry/",
+      "isoDate": "2026-10-14T19:05:41.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Wooptix 加速全球布局！明年 2 套量測設備出貨亞洲、美國市場",
+      "link": "https://technews.tw/2026/10/15/wooptix-semicon-west-javier-elizalde/",
+      "isoDate": "2026-10-14T18:39:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Lightmatter 攜合作夥伴，推開放式機架 CPO 交換器、XPU Scale-Up 伺服器",
+      "link": "https://technews.tw/2026/10/15/lightmatter-ocp-global-summit-2026-new-product/",
+      "isoDate": "2026-10-14T17:45:58.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Ivanti發布10月例行更新，修補已遭利用的SSL VPN漏洞",
       "link": "https://www.ithome.com.tw/news/179674",
@@ -13,27 +34,6 @@
       "title": "OpenAI工程師涉嫌安裝竊聽裝置遭FBI逮捕",
       "link": "https://www.ithome.com.tw/news/179670",
       "isoDate": "2026-10-14T12:10:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google發布ChromeOS與ChromeOS Flex穩定版更新，修補106個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/179675",
-      "isoDate": "2026-10-14T12:10:47.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Rust型別檢查漏洞藏近11年，違反記憶體安全限制的程式仍可通過編譯",
-      "link": "https://www.ithome.com.tw/news/179665",
-      "isoDate": "2026-10-14T12:10:29.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "荷蘭連鎖超市Albert Heijn遭遇資安事件，網站、App及電子貨架標籤受影響",
-      "link": "https://www.ithome.com.tw/news/179671",
-      "isoDate": "2026-10-14T12:10:03.000Z",
       "source": "iThome",
       "category": "科技"
     }
