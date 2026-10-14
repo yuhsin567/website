@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-14T00:13:20.097Z",
+  "generated": "2026-10-14T05:48:03.677Z",
   "count": 5,
   "items": [
     {
-      "title": "AI 寫書爭議不斷，出版界推「人類創作」認證標章",
-      "link": "https://technews.tw/2026/10/14/your-next-great-read-might-be-certified-organic/",
-      "isoDate": "2026-10-14T00:10:41.000Z",
-      "source": "科技新報",
+      "title": "Ivanti發布10月例行更新，修補已遭利用的SSL VPN漏洞",
+      "link": "https://www.ithome.com.tw/news/179674",
+      "isoDate": "2026-10-14T12:10:57.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google 擴大開放 Gemini 4 Argon 模型，付費用戶與開發者可用",
-      "link": "https://technews.tw/2026/10/14/gemini-4-argon-is-now-globally-available/",
-      "isoDate": "2026-10-14T00:09:21.000Z",
-      "source": "科技新報",
+      "title": "OpenAI工程師涉嫌安裝竊聽裝置遭FBI逮捕",
+      "link": "https://www.ithome.com.tw/news/179670",
+      "isoDate": "2026-10-14T12:10:54.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "半導體投資估近 3,500 億美元！SEMICON West 確定鳳凰城連辦三年",
-      "link": "https://technews.tw/2026/10/14/semi-america-president-semicon-west/",
-      "isoDate": "2026-10-13T23:57:53.000Z",
-      "source": "科技新報",
+      "title": "Google發布ChromeOS與ChromeOS Flex穩定版更新，修補106個資安漏洞",
+      "link": "https://www.ithome.com.tw/news/179675",
+      "isoDate": "2026-10-14T12:10:47.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "RTX Spark 開賣在即，但要賣給誰？",
-      "link": "https://technews.tw/2026/10/14/rtx-spark-launch-target-market/",
-      "isoDate": "2026-10-13T23:50:54.000Z",
-      "source": "科技新報",
+      "title": "Rust型別檢查漏洞藏近11年，違反記憶體安全限制的程式仍可通過編譯",
+      "link": "https://www.ithome.com.tw/news/179665",
+      "isoDate": "2026-10-14T12:10:29.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 恐成新聞業「真相神諭」，專家：新聞界面臨 200 年來最大轉折點",
-      "link": "https://technews.tw/2026/10/14/princetons-arvind-narayanan-says-chatbots-could-become-truth-oracles/",
-      "isoDate": "2026-10-13T23:40:25.000Z",
-      "source": "科技新報",
+      "title": "荷蘭連鎖超市Albert Heijn遭遇資安事件，網站、App及電子貨架標籤受影響",
+      "link": "https://www.ithome.com.tw/news/179671",
+      "isoDate": "2026-10-14T12:10:03.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
