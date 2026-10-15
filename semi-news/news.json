@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-15T03:13:14.509Z",
+  "generated": "2026-10-15T08:50:50.551Z",
   "count": 5,
   "items": [
     {
-      "title": "美國政府疾呼Ivanti用戶儘速修補已遭利用的SSL VPN零時差漏洞",
-      "link": "https://www.ithome.com.tw/news/179691",
-      "isoDate": "2026-10-15T10:10:50.000Z",
+      "title": "軟體公司Ahsay再度修補已遭串連及利用的備份管理平臺AhsayCBS零時差漏洞",
+      "link": "https://www.ithome.com.tw/news/179712",
+      "isoDate": "2026-10-15T12:10:54.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "逾400名科學家要求建立國際AI監管機構",
-      "link": "https://www.ithome.com.tw/news/179702",
-      "isoDate": "2026-10-15T10:10:21.000Z",
+      "title": "思科修補已遭利用的郵件安全閘道任意檔案寫入漏洞",
+      "link": "https://www.ithome.com.tw/news/179710",
+      "isoDate": "2026-10-15T12:10:24.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Meta GitHub儲存庫遭駭，外洩產品程式碼及1,500名人員資料",
-      "link": "https://www.ithome.com.tw/news/179701",
-      "isoDate": "2026-10-15T10:10:14.000Z",
+      "title": "美國司法部跨州打擊北韓遠端工作網路，起訴14人並破獲筆電農場",
+      "link": "https://www.ithome.com.tw/news/179709",
+      "isoDate": "2026-10-15T12:10:23.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Vercel Sandbox遭揭VerCellBreak問題，AI代理恐繞過網域限制外洩資料",
-      "link": "https://www.ithome.com.tw/news/179669",
-      "isoDate": "2026-10-15T08:10:00.000Z",
+      "title": "Palo Alto Networks修補遭利用的防火牆作業系統遠端程式碼執行漏洞",
+      "link": "https://www.ithome.com.tw/news/179705",
+      "isoDate": "2026-10-15T11:10:56.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Windows Update憑證2027年到期，微軟提醒企業留意更新中斷風險",
-      "link": "https://www.ithome.com.tw/news/179666",
-      "isoDate": "2026-10-15T08:10:00.000Z",
+      "title": "Shadowserver警示仍有數百組Danfoss冷藏控制器暴露於公開網路",
+      "link": "https://www.ithome.com.tw/news/179703",
+      "isoDate": "2026-10-15T11:10:51.000Z",
       "source": "iThome",
       "category": "科技"
     }
