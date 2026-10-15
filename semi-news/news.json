@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-15T08:50:50.551Z",
+  "generated": "2026-10-15T13:56:35.149Z",
   "count": 5,
   "items": [
+    {
+      "title": "ALMA 首度在太空偵測到全氘化甲醇，年輕恆星周圍有機化學比想像更複雜",
+      "link": "https://technews.tw/2026/10/15/alma-detects-heavy-methanol-around-a-protostar/",
+      "isoDate": "2026-10-15T13:54:24.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "元太新一代 E Ink Kaleido 4 電子紙問世，色彩表現與動態顯示雙升級",
+      "link": "https://technews.tw/2026/10/15/e-ink-announces-next-generation-color-epaper-technology-e-ink-kaleido-4/",
+      "isoDate": "2026-10-15T13:39:17.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "台灣美光先進封裝與測試二廠啟用，深化 AI 時代高頻寬記憶體布局",
+      "link": "https://finance.technews.tw/2026/10/15/micron-taiwans-advanced-packaging-and-testing-plant-2-commences-operation/",
+      "isoDate": "2026-10-15T12:50:29.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "軟體公司Ahsay再度修補已遭串連及利用的備份管理平臺AhsayCBS零時差漏洞",
       "link": "https://www.ithome.com.tw/news/179712",
@@ -13,27 +34,6 @@
       "title": "思科修補已遭利用的郵件安全閘道任意檔案寫入漏洞",
       "link": "https://www.ithome.com.tw/news/179710",
       "isoDate": "2026-10-15T12:10:24.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國司法部跨州打擊北韓遠端工作網路，起訴14人並破獲筆電農場",
-      "link": "https://www.ithome.com.tw/news/179709",
-      "isoDate": "2026-10-15T12:10:23.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Palo Alto Networks修補遭利用的防火牆作業系統遠端程式碼執行漏洞",
-      "link": "https://www.ithome.com.tw/news/179705",
-      "isoDate": "2026-10-15T11:10:56.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Shadowserver警示仍有數百組Danfoss冷藏控制器暴露於公開網路",
-      "link": "https://www.ithome.com.tw/news/179703",
-      "isoDate": "2026-10-15T11:10:51.000Z",
       "source": "iThome",
       "category": "科技"
     }
