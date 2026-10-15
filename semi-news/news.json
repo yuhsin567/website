@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-15T18:04:20.951Z",
+  "generated": "2026-10-15T21:55:35.804Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】台積電證實洽談馬斯克晶圓廠！魏哲家：必須由我們營運",
+      "link": "https://techorange.com/2026/10/16/tsmc-musk-terafab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-15T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "防範 AI 代理風險！字節跳動成立 AI 安全團隊，擬啟動全球招聘計畫",
       "link": "https://technews.tw/2026/10/16/bytedance-sets-up-ai-safety-team/",
@@ -27,13 +34,6 @@
       "title": "ALMA 首度在太空偵測到全氘化甲醇，年輕恆星周圍有機化學比想像更複雜",
       "link": "https://technews.tw/2026/10/15/alma-detects-heavy-methanol-around-a-protostar/",
       "isoDate": "2026-10-15T13:54:24.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "元太新一代 E Ink Kaleido 4 電子紙問世，色彩表現與動態顯示雙升級",
-      "link": "https://technews.tw/2026/10/15/e-ink-announces-next-generation-color-epaper-technology-e-ink-kaleido-4/",
-      "isoDate": "2026-10-15T13:39:17.000Z",
       "source": "科技新報",
       "category": "科技"
     }
