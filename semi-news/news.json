@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-16T10:42:20.762Z",
+  "generated": "2026-10-16T15:11:51.058Z",
   "count": 5,
   "items": [
+    {
+      "title": "台灣將收緊對中國先進晶片出口，未許可輸出產品將首度列刑事犯罪",
+      "link": "https://finance.technews.tw/2026/10/16/taiwan-to-tighten-export-controls-on-advanced-chips-to-china/",
+      "isoDate": "2026-10-16T14:35:11.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "彭博專訪　龔明鑫：台灣準備對中國緊縮 AI 晶片出口管制並打擊走私",
+      "link": "https://technews.tw/2026/10/16/bloomberg-interview-gong-ming-hsin-taiwan-tightens-ai-chip-export-controls-china/",
+      "isoDate": "2026-10-16T14:07:29.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "91APP雲端平臺資料庫Commerce Cloud遭自動化攻擊",
       "link": "https://www.ithome.com.tw/news/179741",
@@ -21,20 +35,6 @@
       "link": "https://www.ithome.com.tw/news/179738",
       "isoDate": "2026-10-16T11:10:50.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國CISA警告影響Atlassian旗下多款系統的重大漏洞遭積極利用",
-      "link": "https://www.ithome.com.tw/news/179739",
-      "isoDate": "2026-10-16T11:10:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "91APP 資料庫遭攻擊，已報案調查、呼籲消費者小心詐騙",
-      "link": "https://infosecu.technews.tw/2026/10/16/91app-ky-20261016/",
-      "isoDate": "2026-10-16T10:39:32.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
