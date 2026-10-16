@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-16T15:11:51.058Z",
+  "generated": "2026-10-16T19:17:49.693Z",
   "count": 5,
   "items": [
+    {
+      "title": "任天堂重申保留 Switch 2 實體卡，堅守玩家收藏與分享需求",
+      "link": "https://ccc.technews.tw/2026/10/17/switch-2-sticks-with-physical-game-cards-for-now-ondo-finance-company-ondo-tokenized-stocks-institutional-grade-finance-delivered-onchain-accessible-to-all-explore-tokeniz/",
+      "isoDate": "2026-10-16T16:00:58.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "精度堪比「240 公里外打硬幣」，NASA 羅曼太空望遠鏡超高穩定度通過關鍵測試",
+      "link": "https://technews.tw/2026/10/17/nasa-roman-space-telescope-initial-optical-test-successful/",
+      "isoDate": "2026-10-16T16:00:29.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "韋伯望遠鏡在宇宙早期捕捉到疑似超新星，爆炸後僅 4~10 天就發現",
+      "link": "https://technews.tw/2026/10/17/jwst-spots-possible-supernova-in-early-universe/",
+      "isoDate": "2026-10-16T16:00:06.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "台灣將收緊對中國先進晶片出口，未許可輸出產品將首度列刑事犯罪",
       "link": "https://finance.technews.tw/2026/10/16/taiwan-to-tighten-export-controls-on-advanced-chips-to-china/",
@@ -14,27 +35,6 @@
       "link": "https://technews.tw/2026/10/16/bloomberg-interview-gong-ming-hsin-taiwan-tightens-ai-chip-export-controls-china/",
       "isoDate": "2026-10-16T14:07:29.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "91APP雲端平臺資料庫Commerce Cloud遭自動化攻擊",
-      "link": "https://www.ithome.com.tw/news/179741",
-      "isoDate": "2026-10-16T12:10:46.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google發布Chrome 155更新，修補重大等級的記憶體釋放後再存取使用漏洞",
-      "link": "https://www.ithome.com.tw/news/179737",
-      "isoDate": "2026-10-16T11:10:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "TypeSafe擴充Jev決策模型，支援圖片判斷與物件定位",
-      "link": "https://www.ithome.com.tw/news/179738",
-      "isoDate": "2026-10-16T11:10:50.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
