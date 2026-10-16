@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-15T21:55:35.804Z",
+  "generated": "2026-10-16T00:05:19.347Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】台積電證實洽談馬斯克晶圓廠！魏哲家：必須由我們營運",
-      "link": "https://techorange.com/2026/10/16/tsmc-musk-terafab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-15T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "防範 AI 代理風險！字節跳動成立 AI 安全團隊，擬啟動全球招聘計畫",
-      "link": "https://technews.tw/2026/10/16/bytedance-sets-up-ai-safety-team/",
-      "isoDate": "2026-10-15T17:36:32.000Z",
+      "title": "誰在替你下指令？AI 助理出錯，責任算誰的？",
+      "link": "https://technews.tw/2026/10/16/who-responsible-when-ai-assistants-make-mistakes/",
+      "isoDate": "2026-10-16T00:00:33.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AI 要改名了？川普力推「超級智慧」（SI）取代人工智慧，盼國際跟進",
-      "link": "https://technews.tw/2026/10/16/us-want-super-intelligence-not-ai/",
-      "isoDate": "2026-10-15T17:17:20.000Z",
+      "title": "台灣繁中語料庫難拓展制度哪卡關？著作權法未鬆綁，主權 AI 訓練語料僅 1% 來自民間",
+      "link": "https://technews.tw/2026/10/16/taiwan-md/",
+      "isoDate": "2026-10-15T23:50:33.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "輝達、蘋果各捐 2,500 萬美元，支持川普白宮國宴廳計畫",
-      "link": "https://technews.tw/2026/10/16/nvidia-apple-each-gave-25-million-white-house-ballroom/",
-      "isoDate": "2026-10-15T16:57:57.000Z",
+      "title": "馬斯克大讚黃仁勳！SpaceX 攜手輝達打造 Star Mind，明年量產",
+      "link": "https://technews.tw/2026/10/16/elon-musk-praises-jensen-huang-spacex-nvidia-star-mind-mass-production-next-year/",
+      "isoDate": "2026-10-15T23:50:13.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "ALMA 首度在太空偵測到全氘化甲醇，年輕恆星周圍有機化學比想像更複雜",
-      "link": "https://technews.tw/2026/10/15/alma-detects-heavy-methanol-around-a-protostar/",
-      "isoDate": "2026-10-15T13:54:24.000Z",
+      "title": "AI 益處終將大於風險，DeepMind 整備長拋三大提問助企業無痛轉型",
+      "link": "https://technews.tw/2026/10/16/google-deepmind-lila-ibrahim/",
+      "isoDate": "2026-10-15T23:40:49.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用",
+      "link": "https://technews.tw/2026/10/16/creatine-may-help-build-muscle-even-without-exercise-researchers-find/",
+      "isoDate": "2026-10-15T23:30:26.000Z",
       "source": "科技新報",
       "category": "科技"
     }
