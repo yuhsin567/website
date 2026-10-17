@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-17T14:57:51.758Z",
+  "generated": "2026-10-17T17:48:26.335Z",
   "count": 5,
   "items": [
+    {
+      "title": "Instagram 私訊也能作曲，Meta AI 新功能讓文字一鍵變成歌",
+      "link": "https://technews.tw/2026/10/18/instagrams-ai-music-creation-feature/",
+      "isoDate": "2026-10-17T16:00:51.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "5 分鐘轉一圈，薇拉·魯賓天文台尋獲史上最大「超高速自轉」小行星",
+      "link": "https://technews.tw/2026/10/18/vera-rubin-observatory-finds-largest-ultra-fast-spinning-asteroid/",
+      "isoDate": "2026-10-17T16:00:45.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "日本核准台積電熊本二廠升級 3 奈米計畫，預計 2028 年底投產",
       "link": "https://finance.technews.tw/2026/10/17/japan-approves-tsmcs-kumamoto-fab-2-upgrade-plan-to-3nm-process/",
@@ -20,20 +34,6 @@
       "title": "不禁 AI 但拒絕 AI 垃圾內容，YouTube、TikTok 等社群平台齊改規則",
       "link": "https://technews.tw/2026/10/17/from-substack-to-youtube-here-are-the-social-platforms-cracking-down-on-ai-slop/",
       "isoDate": "2026-10-17T08:30:15.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 記憶體下一步？三星確認速度、可擴展性、持久性為發展重點",
-      "link": "https://finance.technews.tw/2026/10/17/samsung-confirms-speed-scalability-and-durability-as-key-focuses-for-ai-memory-development/",
-      "isoDate": "2026-10-17T08:00:17.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型",
-      "link": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/",
-      "isoDate": "2026-10-17T08:00:01.000Z",
       "source": "科技新報",
       "category": "科技"
     }
