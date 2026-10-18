@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T20:05:59.215Z",
+  "generated": "2026-10-18T22:45:53.968Z",
   "count": 5,
   "items": [
     {
@@ -8,6 +8,13 @@
       "isoDate": "2026-10-19T12:10:38.000Z",
       "source": "iThome",
       "category": "科技"
+    },
+    {
+      "title": "【科技早餐】AI 伺服器也將納管！台灣擬收緊對中出口，違規將可追究刑責",
+      "link": "https://techorange.com/2026/10/19/taiwan-ai-chip-export-controls-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-18T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
     },
     {
       "title": "AI 面試不會取代面試官，關鍵在「人機分工」而非全權交給 AI",
@@ -27,13 +34,6 @@
       "title": "年輕專業人士要小心「能力幻覺」，MIT 研究：用 AI 不等於能力成長",
       "link": "https://technews.tw/2026/10/18/ai-raised-patent-drafting-scores-but-redlining-gains-varied-by-experience/",
       "isoDate": "2026-10-18T08:30:33.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "衣索比亞「抗飢餓之樹」養活數千萬人，為何耐旱高產卻難以推廣全球？",
-      "link": "https://technews.tw/2026/10/18/why-is-ethiopias-enset-hard-to-popularize-globally/",
-      "isoDate": "2026-10-18T08:00:54.000Z",
       "source": "科技新報",
       "category": "科技"
     }
