@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-19T00:48:04.903Z",
+  "generated": "2026-10-19T05:43:15.477Z",
   "count": 5,
   "items": [
+    {
+      "title": "Microchip擴充資料中心產品線，導入CNSA 2.0後量子密碼學支援",
+      "link": "https://www.ithome.com.tw/news/179774",
+      "isoDate": "2026-10-19T12:10:50.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "ConnectWise備份API憑證遭濫用，173個M365租戶遭未授權存取",
+      "link": "https://www.ithome.com.tw/news/179771",
+      "isoDate": "2026-10-19T12:10:46.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "AI發展與普及速度受制於安全性不足，SailPoint創辦人呼籲整個產業持續投入並付諸行動",
       "link": "https://www.ithome.com.tw/news/179760",
@@ -10,31 +24,17 @@
       "category": "科技"
     },
     {
-      "title": "太空防衛新創 Fortastra 完成 3,000 萬美元融資，加速量產軌道護衛載具",
-      "link": "https://finance.technews.tw/2026/10/19/fortastra-raises-30m-for-spacecraft-for-in-orbit-security/",
-      "isoDate": "2026-10-19T00:40:00.000Z",
-      "source": "科技新報",
+      "title": "日本漢堡王CRM系統遭駭，外洩逾1,100萬會員個資",
+      "link": "https://www.ithome.com.tw/news/179766",
+      "isoDate": "2026-10-19T11:10:47.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "零下 80 度也能順利運作，NASA 研發新型固態電池迎戰月球極端溫差",
-      "link": "https://technews.tw/2026/10/19/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "isoDate": "2026-10-19T00:30:37.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "僅成立 4 年的散熱新創，如何打入緯創、輝達資料中心？",
-      "link": "https://finance.technews.tw/2026/10/19/how-meta-green-cooling-broke-into-wistron-and-nvidia-ata-center-supply-chains/",
-      "isoDate": "2026-10-19T00:20:57.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "韓媒：三星應輝達要求，下代 HBM 基礎晶粒採台積電 3 奈米",
-      "link": "https://technews.tw/2026/10/19/samsung-nvidia-request-tsmc-3nm-next-gen-hbm-base-die/",
-      "isoDate": "2026-10-19T00:10:17.000Z",
-      "source": "科技新報",
+      "title": "Meta、蘋果合作將Muse帶到Mac電腦上執行",
+      "link": "https://www.ithome.com.tw/news/179764",
+      "isoDate": "2026-10-19T11:10:47.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
