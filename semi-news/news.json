@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-19T19:00:07.357Z",
+  "generated": "2026-10-19T22:52:18.394Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】微軟傳退出英國 AI 資料中心案，電網供電恐等到 2030 年代",
+      "link": "https://techorange.com/2026/10/20/microsoft-nscale-ai-data-center-power/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-19T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "Microchip為NVMe SSD控制器導入CNSA 2.0後量子密碼學支援",
       "link": "https://www.ithome.com.tw/news/179774",
@@ -27,13 +34,6 @@
       "title": "AI發展與普及速度受制於安全性不足，SailPoint創辦人呼籲整個產業持續投入並付諸行動",
       "link": "https://www.ithome.com.tw/news/179760",
       "isoDate": "2026-10-19T12:10:38.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Adobe Commerce重大漏洞BlockStrap恐讓攻擊者直接在伺服器執行任意程式碼",
-      "link": "https://www.ithome.com.tw/news/179773",
-      "isoDate": "2026-10-19T12:10:31.000Z",
       "source": "iThome",
       "category": "科技"
     }
