@@ -1,18 +1,25 @@
 {
-  "generated": "2026-10-19T05:43:15.477Z",
+  "generated": "2026-10-19T12:08:05.225Z",
   "count": 5,
   "items": [
     {
-      "title": "Microchip擴充資料中心產品線，導入CNSA 2.0後量子密碼學支援",
+      "title": "Microchip為NVMe SSD控制器導入CNSA 2.0後量子密碼學支援",
       "link": "https://www.ithome.com.tw/news/179774",
       "isoDate": "2026-10-19T12:10:50.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "ConnectWise備份API憑證遭濫用，173個M365租戶遭未授權存取",
+      "title": "162個M365租戶遭未授權存取，ConnectWise備份API憑證遭濫用",
       "link": "https://www.ithome.com.tw/news/179771",
       "isoDate": "2026-10-19T12:10:46.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Adobe於10月上半修補176個資安漏洞",
+      "link": "https://www.ithome.com.tw/news/179772",
+      "isoDate": "2026-10-19T12:10:43.000Z",
       "source": "iThome",
       "category": "科技"
     },
@@ -24,16 +31,9 @@
       "category": "科技"
     },
     {
-      "title": "日本漢堡王CRM系統遭駭，外洩逾1,100萬會員個資",
-      "link": "https://www.ithome.com.tw/news/179766",
-      "isoDate": "2026-10-19T11:10:47.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Meta、蘋果合作將Muse帶到Mac電腦上執行",
-      "link": "https://www.ithome.com.tw/news/179764",
-      "isoDate": "2026-10-19T11:10:47.000Z",
+      "title": "Adobe Commerce重大漏洞BlockStrap恐讓攻擊者直接在伺服器執行任意程式碼",
+      "link": "https://www.ithome.com.tw/news/179773",
+      "isoDate": "2026-10-19T12:10:31.000Z",
       "source": "iThome",
       "category": "科技"
     }
