@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-20T01:34:35.960Z",
+  "generated": "2026-10-20T07:10:10.741Z",
   "count": 5,
   "items": [
     {
-      "title": "微軟10月Windows Server更新引發Exchange異常，影響郵件收發",
-      "link": "https://www.ithome.com.tw/news/179792",
-      "isoDate": "2026-10-20T08:10:00.000Z",
+      "title": "影音串流平臺Plex被鎖定，攻擊者利用漏洞攻擊鏈Plex2Shell植入挖礦軟體與後門",
+      "link": "https://www.ithome.com.tw/news/179806",
+      "isoDate": "2026-10-20T12:10:29.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "IETF發布RFC 10024，訂定TLS 1.3混合式PQC金鑰交換標準",
-      "link": "https://www.ithome.com.tw/news/179787",
-      "isoDate": "2026-10-20T08:10:00.000Z",
+      "title": "Broadcom Wi-Fi晶片存在未修補的WPSplinter漏洞，攻擊者無須密碼即可取得路由器root權限",
+      "link": "https://www.ithome.com.tw/news/179807",
+      "isoDate": "2026-10-20T12:10:22.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "微軟10月Windows更新強化NTLMv1限制，企業Wi-Fi與VPN登入恐受影響",
-      "link": "https://www.ithome.com.tw/news/179768",
-      "isoDate": "2026-10-20T08:10:00.000Z",
+      "title": "服飾公司滿心接獲消費者反映個資疑似外洩，茅頭指向委外平臺資料庫遭自動化攻擊",
+      "link": "https://www.ithome.com.tw/news/179803",
+      "isoDate": "2026-10-20T12:10:22.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "微軟、Nvidia提出開放權重AI模型風險管理指引",
-      "link": "https://www.ithome.com.tw/news/179757",
-      "isoDate": "2026-10-20T08:10:00.000Z",
+      "title": "Zeabur再遭駭後公布調查結果，攻擊者讀取逾321萬筆環境變數",
+      "link": "https://www.ithome.com.tw/news/179804",
+      "isoDate": "2026-10-20T12:10:09.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI模型業者Cohere計畫併購資安新創AISLE",
-      "link": "https://www.ithome.com.tw/news/179745",
-      "isoDate": "2026-10-20T08:10:00.000Z",
+      "title": "雲端服務平臺OVHcloud CLI工具遭供應鏈攻擊，被植入竊資程式",
+      "link": "https://www.ithome.com.tw/news/179797",
+      "isoDate": "2026-10-20T11:10:26.000Z",
       "source": "iThome",
       "category": "科技"
     }
