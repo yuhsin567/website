@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-20T18:20:35.761Z",
+  "generated": "2026-10-20T22:05:45.510Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】德國攜 NVIDIA 推工業 AI，黃仁勳：下一波是實體 AI",
+      "link": "https://techorange.com/2026/10/21/nvidia-germany-industrial-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-20T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "影音串流平臺Plex被鎖定，攻擊者利用漏洞攻擊鏈Plex2Shell植入挖礦軟體與後門",
       "link": "https://www.ithome.com.tw/news/179806",
@@ -28,13 +35,6 @@
       "link": "https://www.ithome.com.tw/news/179804",
       "isoDate": "2026-10-20T12:10:09.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "高雄台積電 F22 廠區工安意外，螺栓斷裂致 4 人墜落送醫後續勒令停工",
-      "link": "https://finance.technews.tw/2026/10/20/industrial-accident-at-tsmc-f22-plant-in-kaohsiung/",
-      "isoDate": "2026-10-20T11:30:53.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
