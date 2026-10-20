@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-19T22:52:18.394Z",
+  "generated": "2026-10-20T01:34:35.960Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】微軟傳退出英國 AI 資料中心案，電網供電恐等到 2030 年代",
-      "link": "https://techorange.com/2026/10/20/microsoft-nscale-ai-data-center-power/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-19T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "Microchip為NVMe SSD控制器導入CNSA 2.0後量子密碼學支援",
-      "link": "https://www.ithome.com.tw/news/179774",
-      "isoDate": "2026-10-19T12:10:50.000Z",
+      "title": "微軟10月Windows Server更新引發Exchange異常，影響郵件收發",
+      "link": "https://www.ithome.com.tw/news/179792",
+      "isoDate": "2026-10-20T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "162個M365租戶遭未授權存取，ConnectWise備份API憑證遭濫用",
-      "link": "https://www.ithome.com.tw/news/179771",
-      "isoDate": "2026-10-19T12:10:46.000Z",
+      "title": "IETF發布RFC 10024，訂定TLS 1.3混合式PQC金鑰交換標準",
+      "link": "https://www.ithome.com.tw/news/179787",
+      "isoDate": "2026-10-20T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Adobe於10月上半修補176個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/179772",
-      "isoDate": "2026-10-19T12:10:43.000Z",
+      "title": "微軟10月Windows更新強化NTLMv1限制，企業Wi-Fi與VPN登入恐受影響",
+      "link": "https://www.ithome.com.tw/news/179768",
+      "isoDate": "2026-10-20T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI發展與普及速度受制於安全性不足，SailPoint創辦人呼籲整個產業持續投入並付諸行動",
-      "link": "https://www.ithome.com.tw/news/179760",
-      "isoDate": "2026-10-19T12:10:38.000Z",
+      "title": "微軟、Nvidia提出開放權重AI模型風險管理指引",
+      "link": "https://www.ithome.com.tw/news/179757",
+      "isoDate": "2026-10-20T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "AI模型業者Cohere計畫併購資安新創AISLE",
+      "link": "https://www.ithome.com.tw/news/179745",
+      "isoDate": "2026-10-20T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
