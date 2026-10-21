@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-21T01:16:17.509Z",
+  "generated": "2026-10-21T07:03:11.221Z",
   "count": 5,
   "items": [
     {
-      "title": "AOMEI備份軟體遭供應鏈攻擊，駭客短暫劫持更新機制散布後門",
-      "link": "https://www.ithome.com.tw/news/179805",
-      "isoDate": "2026-10-21T08:10:00.000Z",
+      "title": "AI漏洞通報湧入，curl改在GitHub公開處理中低風險漏洞",
+      "link": "https://www.ithome.com.tw/news/179854",
+      "isoDate": "2026-10-21T12:10:32.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "多個組織的MCP專案存在SSRF漏洞，研究人員示警AI代理信任問題",
-      "link": "https://www.ithome.com.tw/news/179776",
-      "isoDate": "2026-10-21T08:10:00.000Z",
+      "title": "CISA將Plex、SiteGuard、西門子產品6個漏洞列KEV",
+      "link": "https://www.ithome.com.tw/news/179855",
+      "isoDate": "2026-10-21T12:10:23.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI代理安全新創Pluto Security獲4,200萬美元投資",
-      "link": "https://www.ithome.com.tw/news/179756",
-      "isoDate": "2026-10-21T08:10:00.000Z",
+      "title": "Google Cloud倫敦區域服務中斷近8小時，波及多家英國銀行與公共服務",
+      "link": "https://www.ithome.com.tw/news/179852",
+      "isoDate": "2026-10-21T11:10:15.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AWS測試AI代理自主尋找及利用漏洞，37項CVE有33項成功",
-      "link": "https://www.ithome.com.tw/news/179744",
-      "isoDate": "2026-10-21T08:10:00.000Z",
+      "title": "日本企業接連遭駭，GMO確認攻擊者使用AI滲透測試工具ARTEX",
+      "link": "https://www.ithome.com.tw/news/179850",
+      "isoDate": "2026-10-21T11:10:09.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "沒變瘦也有用，研究：8 週運動全身器官出現變化",
-      "link": "https://technews.tw/2026/10/21/exercise-benefits-the-body-even-without-weight-loss-study-finds-changes-across-organs-after-8-weeks/",
-      "isoDate": "2026-10-21T01:12:01.000Z",
-      "source": "科技新報",
+      "title": "OpenAI收購Orchestra Bio強化生物技術能力",
+      "link": "https://www.ithome.com.tw/news/179853",
+      "isoDate": "2026-10-21T11:10:02.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
