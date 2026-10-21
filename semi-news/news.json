@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-21T07:03:11.221Z",
+  "generated": "2026-10-21T13:25:35.292Z",
   "count": 5,
   "items": [
+    {
+      "title": "輝達砸大錢布局供應鏈戰略，點名台灣、日本、南韓多家供應鏈廠商受惠",
+      "link": "https://finance.technews.tw/2026/10/21/nvidia-invests-heavily-in-its-supply-chain-strategy/",
+      "isoDate": "2026-10-21T12:50:06.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "AI漏洞通報湧入，curl改在GitHub公開處理中低風險漏洞",
       "link": "https://www.ithome.com.tw/news/179854",
@@ -27,13 +34,6 @@
       "title": "日本企業接連遭駭，GMO確認攻擊者使用AI滲透測試工具ARTEX",
       "link": "https://www.ithome.com.tw/news/179850",
       "isoDate": "2026-10-21T11:10:09.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI收購Orchestra Bio強化生物技術能力",
-      "link": "https://www.ithome.com.tw/news/179853",
-      "isoDate": "2026-10-21T11:10:02.000Z",
       "source": "iThome",
       "category": "科技"
     }
