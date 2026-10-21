@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-20T22:05:45.510Z",
+  "generated": "2026-10-21T01:16:17.509Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】德國攜 NVIDIA 推工業 AI，黃仁勳：下一波是實體 AI",
-      "link": "https://techorange.com/2026/10/21/nvidia-germany-industrial-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-20T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "影音串流平臺Plex被鎖定，攻擊者利用漏洞攻擊鏈Plex2Shell植入挖礦軟體與後門",
-      "link": "https://www.ithome.com.tw/news/179806",
-      "isoDate": "2026-10-20T12:10:29.000Z",
+      "title": "AOMEI備份軟體遭供應鏈攻擊，駭客短暫劫持更新機制散布後門",
+      "link": "https://www.ithome.com.tw/news/179805",
+      "isoDate": "2026-10-21T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Broadcom Wi-Fi晶片存在未修補的WPSplinter漏洞，攻擊者無須密碼即可取得路由器root權限",
-      "link": "https://www.ithome.com.tw/news/179807",
-      "isoDate": "2026-10-20T12:10:22.000Z",
+      "title": "多個組織的MCP專案存在SSRF漏洞，研究人員示警AI代理信任問題",
+      "link": "https://www.ithome.com.tw/news/179776",
+      "isoDate": "2026-10-21T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "服飾公司滿心接獲消費者反映個資疑似外洩，茅頭指向委外平臺資料庫遭自動化攻擊",
-      "link": "https://www.ithome.com.tw/news/179803",
-      "isoDate": "2026-10-20T12:10:22.000Z",
+      "title": "AI代理安全新創Pluto Security獲4,200萬美元投資",
+      "link": "https://www.ithome.com.tw/news/179756",
+      "isoDate": "2026-10-21T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Zeabur再遭駭後公布調查結果，攻擊者讀取逾321萬筆環境變數",
-      "link": "https://www.ithome.com.tw/news/179804",
-      "isoDate": "2026-10-20T12:10:09.000Z",
+      "title": "AWS測試AI代理自主尋找及利用漏洞，37項CVE有33項成功",
+      "link": "https://www.ithome.com.tw/news/179744",
+      "isoDate": "2026-10-21T08:10:00.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "沒變瘦也有用，研究：8 週運動全身器官出現變化",
+      "link": "https://technews.tw/2026/10/21/exercise-benefits-the-body-even-without-weight-loss-study-finds-changes-across-organs-after-8-weeks/",
+      "isoDate": "2026-10-21T01:12:01.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
