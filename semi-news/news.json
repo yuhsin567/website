@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-21T18:22:27.606Z",
+  "generated": "2026-10-21T22:05:23.642Z",
   "count": 5,
   "items": [
+    {
+      "title": "台達電入列輝達 DSX POD 合作陣容，AI 工廠部署最快縮短至 14 天",
+      "link": "https://technews.tw/2026/10/22/delta-electronics-nvidia-dsx-pod-ai-factory-deployment-14-days/",
+      "isoDate": "2026-10-21T22:00:33.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】SpaceX、特斯拉評估合併！潛在市值逾 3 兆美元",
+      "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-21T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "輝達砸大錢布局供應鏈戰略，點名台灣、日本、南韓多家供應鏈廠商受惠",
       "link": "https://finance.technews.tw/2026/10/21/nvidia-invests-heavily-in-its-supply-chain-strategy/",
@@ -20,20 +34,6 @@
       "title": "CISA將Plex、SiteGuard、西門子產品6個漏洞列入KEV",
       "link": "https://www.ithome.com.tw/news/179855",
       "isoDate": "2026-10-21T12:10:23.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google Cloud倫敦區域服務中斷近8小時，波及多家英國銀行與公共服務",
-      "link": "https://www.ithome.com.tw/news/179852",
-      "isoDate": "2026-10-21T11:10:15.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "日本企業接連遭駭，GMO確認攻擊者使用AI滲透測試工具ARTEX",
-      "link": "https://www.ithome.com.tw/news/179850",
-      "isoDate": "2026-10-21T11:10:09.000Z",
       "source": "iThome",
       "category": "科技"
     }
