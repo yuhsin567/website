@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-22T13:26:41.881Z",
+  "generated": "2026-10-22T18:16:57.537Z",
   "count": 5,
   "items": [
+    {
+      "title": "甲骨文緊急修補Java 重大漏洞，被傳與eMudhra中介憑證外洩有關",
+      "link": "https://www.ithome.com.tw/news/179905",
+      "isoDate": "2026-10-23T01:10:02.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "勒索談判業者疑與駭客組織ShinyHunters勾結，協助經營勒索網站",
       "link": "https://www.ithome.com.tw/news/179881",
@@ -27,13 +34,6 @@
       "title": "資安署針對PHP、Node.js、Go緊急更新提出警告，呼籲用戶儘速採取行動",
       "link": "https://www.ithome.com.tw/news/179878",
       "isoDate": "2026-10-22T11:10:39.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Fortinet同步修補多款產品漏洞，涵蓋5大產品系列及多個版本分支",
-      "link": "https://www.ithome.com.tw/news/179876",
-      "isoDate": "2026-10-22T11:10:28.000Z",
       "source": "iThome",
       "category": "科技"
     }
