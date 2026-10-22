@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-21T22:05:23.642Z",
+  "generated": "2026-10-22T01:12:30.247Z",
   "count": 5,
   "items": [
     {
-      "title": "台達電入列輝達 DSX POD 合作陣容，AI 工廠部署最快縮短至 14 天",
-      "link": "https://technews.tw/2026/10/22/delta-electronics-nvidia-dsx-pod-ai-factory-deployment-14-days/",
-      "isoDate": "2026-10-21T22:00:33.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "【科技早餐】SpaceX、特斯拉評估合併！潛在市值逾 3 兆美元",
-      "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-21T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "輝達砸大錢布局供應鏈戰略，點名台灣、日本、南韓多家供應鏈廠商受惠",
-      "link": "https://finance.technews.tw/2026/10/21/nvidia-invests-heavily-in-its-supply-chain-strategy/",
-      "isoDate": "2026-10-21T12:50:06.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI漏洞通報湧入，curl改在GitHub公開處理中低風險漏洞",
-      "link": "https://www.ithome.com.tw/news/179854",
-      "isoDate": "2026-10-21T12:10:32.000Z",
+      "title": "微軟開源Scope評測平臺，追蹤AI程式開發代理的任務表現",
+      "link": "https://www.ithome.com.tw/news/179868",
+      "isoDate": "2026-10-22T08:10:41.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "CISA將Plex、SiteGuard、西門子產品6個漏洞列入KEV",
-      "link": "https://www.ithome.com.tw/news/179855",
-      "isoDate": "2026-10-21T12:10:23.000Z",
+      "title": "印度數位憑證業者eMudhra中繼CA私密金鑰可被還原，瀏覽器緊急封鎖相關憑證",
+      "link": "https://www.ithome.com.tw/news/179851",
+      "isoDate": "2026-10-22T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic取得Opaque機密AI技術與人才",
+      "link": "https://www.ithome.com.tw/news/179844",
+      "isoDate": "2026-10-22T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "防範AI代理越界行為，NIST提出事件應變指引",
+      "link": "https://www.ithome.com.tw/news/179841",
+      "isoDate": "2026-10-22T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Perplexity開源AI代理沙箱SPACE，強化程式碼執行隔離",
+      "link": "https://www.ithome.com.tw/news/179740",
+      "isoDate": "2026-10-22T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
