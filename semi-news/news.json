@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-22T01:12:30.247Z",
+  "generated": "2026-10-22T07:05:24.444Z",
   "count": 5,
   "items": [
     {
-      "title": "微軟開源Scope評測平臺，追蹤AI程式開發代理的任務表現",
-      "link": "https://www.ithome.com.tw/news/179868",
-      "isoDate": "2026-10-22T08:10:41.000Z",
+      "title": "勒索談判業者疑與駭客組織ShinyHunters勾結，協助經營勒索網站",
+      "link": "https://www.ithome.com.tw/news/179881",
+      "isoDate": "2026-10-22T12:10:39.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "印度數位憑證業者eMudhra中繼CA私密金鑰可被還原，瀏覽器緊急封鎖相關憑證",
-      "link": "https://www.ithome.com.tw/news/179851",
-      "isoDate": "2026-10-22T08:10:00.000Z",
+      "title": "PHP2Shell漏洞已遭大規模攻擊嘗試，逾2,260萬個實例可能曝險",
+      "link": "https://www.ithome.com.tw/news/179884",
+      "isoDate": "2026-10-22T12:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Anthropic取得Opaque機密AI技術與人才",
-      "link": "https://www.ithome.com.tw/news/179844",
-      "isoDate": "2026-10-22T08:10:00.000Z",
+      "title": "Langflow重大遠端程式碼執行漏洞，已觀測逾3,400次攻擊嘗試",
+      "link": "https://www.ithome.com.tw/news/179875",
+      "isoDate": "2026-10-22T11:10:45.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "防範AI代理越界行為，NIST提出事件應變指引",
-      "link": "https://www.ithome.com.tw/news/179841",
-      "isoDate": "2026-10-22T08:10:00.000Z",
+      "title": "資安署針對PHP、Node.js、Go緊急更新提出警告，呼籲用戶儘速採取行動",
+      "link": "https://www.ithome.com.tw/news/179878",
+      "isoDate": "2026-10-22T11:10:39.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Perplexity開源AI代理沙箱SPACE，強化程式碼執行隔離",
-      "link": "https://www.ithome.com.tw/news/179740",
-      "isoDate": "2026-10-22T08:10:00.000Z",
+      "title": "Fortinet同步修補多款產品漏洞，涵蓋5大產品系列及多個版本分支",
+      "link": "https://www.ithome.com.tw/news/179876",
+      "isoDate": "2026-10-22T11:10:28.000Z",
       "source": "iThome",
       "category": "科技"
     }
