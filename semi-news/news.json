@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-22T22:05:09.874Z",
+  "generated": "2026-10-23T01:11:46.546Z",
   "count": 5,
   "items": [
     {
-      "title": "甲骨文緊急修補Java 重大漏洞，被傳與eMudhra中介憑證外洩有關",
-      "link": "https://www.ithome.com.tw/news/179905",
-      "isoDate": "2026-10-23T01:10:02.000Z",
+      "title": "歐盟調查Booking.com，關注住宿業者帳號遭接管及訂房詐騙",
+      "link": "https://www.ithome.com.tw/news/179880",
+      "isoDate": "2026-10-23T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "勒索談判業者疑與駭客組織ShinyHunters勾結，協助經營勒索網站",
-      "link": "https://www.ithome.com.tw/news/179881",
-      "isoDate": "2026-10-22T12:10:39.000Z",
+      "title": "美國資安職缺年減26%，AI安全工程師逆勢成長",
+      "link": "https://www.ithome.com.tw/news/179871",
+      "isoDate": "2026-10-23T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "PHP2Shell漏洞已遭大規模攻擊嘗試，逾2,260萬個實例可能曝險",
-      "link": "https://www.ithome.com.tw/news/179884",
-      "isoDate": "2026-10-22T12:10:00.000Z",
+      "title": "Chrome預設啟用HTTP連線前警告，降低資料暴露風險",
+      "link": "https://www.ithome.com.tw/news/179869",
+      "isoDate": "2026-10-23T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Langflow重大遠端程式碼執行漏洞，已觀測逾3,400次攻擊嘗試",
-      "link": "https://www.ithome.com.tw/news/179875",
-      "isoDate": "2026-10-22T11:10:45.000Z",
+      "title": "OpenSSF發布AI漏洞處理指引，強調漏洞驗證與人工審查",
+      "link": "https://www.ithome.com.tw/news/179863",
+      "isoDate": "2026-10-23T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "資安署針對PHP、Node.js、Go緊急更新提出警告，呼籲用戶儘速採取行動",
-      "link": "https://www.ithome.com.tw/news/179878",
-      "isoDate": "2026-10-22T11:10:39.000Z",
-      "source": "iThome",
+      "title": "川普拒證實是否促解除烏克蘭星鏈限制，稱重點在已恢復",
+      "link": "https://technews.tw/2026/10/23/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions/",
+      "isoDate": "2026-10-23T01:10:58.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
