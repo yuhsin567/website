@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-23T12:29:17.595Z",
+  "generated": "2026-10-23T17:42:03.206Z",
   "count": 5,
   "items": [
+    {
+      "title": "NASA 最新示警：北極海冰「冬夏雙減」結構脆化，2050 年前恐面臨夏季無冰危機",
+      "link": "https://technews.tw/2026/10/24/arctic-sea-ice-shrinking-crisis/",
+      "isoDate": "2026-10-23T16:00:58.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "科幻場景成真，研究證實「雙太陽系統」有孕育穩定類地行星潛力",
+      "link": "https://technews.tw/2026/10/24/could-a-two-sun-world-become-reality/",
+      "isoDate": "2026-10-23T16:00:47.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "免吃藥開刀，研究證實客製化「微調走路角度」有效緩解膝關節痛",
+      "link": "https://technews.tw/2026/10/24/changing-walking-angle-can-relieve-arthritis/",
+      "isoDate": "2026-10-23T16:00:04.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "日本遊戲大廠卡普空會員資料外洩逾1,177萬筆，近200個帳號的密碼遭改",
       "link": "https://www.ithome.com.tw/news/179912",
@@ -13,27 +34,6 @@
       "title": "PHP2Shell漏洞影響全球10%的組織，Check Point警示歐洲首當其衝",
       "link": "https://www.ithome.com.tw/news/179908",
       "isoDate": "2026-10-23T11:10:46.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "日本首相針對PHP2Shell漏洞提出警告，呼籲網站管理員準備修補及採取相關因應措施",
-      "link": "https://www.ithome.com.tw/news/179910",
-      "isoDate": "2026-10-23T11:10:43.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "PHP2Shell恐源自20年前的嚴重記憶體錯誤",
-      "link": "https://www.ithome.com.tw/news/179913",
-      "isoDate": "2026-10-23T11:10:10.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "戶外用品業者歐都納接獲消費者反映疑似個資外洩，重訊指出委外平臺業者資料庫遭自動化攻擊",
-      "link": "https://www.ithome.com.tw/news/179909",
-      "isoDate": "2026-10-23T11:10:01.000Z",
       "source": "iThome",
       "category": "科技"
     }
