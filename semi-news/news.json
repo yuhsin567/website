@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-23T01:11:46.546Z",
+  "generated": "2026-10-23T06:57:22.351Z",
   "count": 5,
   "items": [
     {
-      "title": "歐盟調查Booking.com，關注住宿業者帳號遭接管及訂房詐騙",
-      "link": "https://www.ithome.com.tw/news/179880",
-      "isoDate": "2026-10-23T08:10:00.000Z",
+      "title": "日本遊戲大廠卡普空會員資料外洩逾1,177萬筆，近200個帳號的密碼遭改",
+      "link": "https://www.ithome.com.tw/news/179912",
+      "isoDate": "2026-10-23T12:10:04.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美國資安職缺年減26%，AI安全工程師逆勢成長",
-      "link": "https://www.ithome.com.tw/news/179871",
-      "isoDate": "2026-10-23T08:10:00.000Z",
+      "title": "PHP2Shell漏洞影響全球10%的組織，Check Point警示歐洲首當其衝",
+      "link": "https://www.ithome.com.tw/news/179908",
+      "isoDate": "2026-10-23T11:10:46.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Chrome預設啟用HTTP連線前警告，降低資料暴露風險",
-      "link": "https://www.ithome.com.tw/news/179869",
-      "isoDate": "2026-10-23T08:10:00.000Z",
+      "title": "日本首相針對PHP2Shell漏洞提出警告，呼籲網站管理員準備修補及採取相關因應措施",
+      "link": "https://www.ithome.com.tw/news/179910",
+      "isoDate": "2026-10-23T11:10:43.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "OpenSSF發布AI漏洞處理指引，強調漏洞驗證與人工審查",
-      "link": "https://www.ithome.com.tw/news/179863",
-      "isoDate": "2026-10-23T08:10:00.000Z",
+      "title": "PHP2Shell恐源自20年前的嚴重記憶體錯誤",
+      "link": "https://www.ithome.com.tw/news/179913",
+      "isoDate": "2026-10-23T11:10:10.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "川普拒證實是否促解除烏克蘭星鏈限制，稱重點在已恢復",
-      "link": "https://technews.tw/2026/10/23/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions/",
-      "isoDate": "2026-10-23T01:10:58.000Z",
-      "source": "科技新報",
+      "title": "戶外用品業者歐都納接獲消費者反映疑似個資外洩，重訊指出委外平臺業者資料庫遭自動化攻擊",
+      "link": "https://www.ithome.com.tw/news/179909",
+      "isoDate": "2026-10-23T11:10:01.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
