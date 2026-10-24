@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-24T08:38:44.528Z",
+  "generated": "2026-10-24T13:06:09.804Z",
   "count": 5,
   "items": [
+    {
+      "title": "沒有指令的 AI 都在做什麼？MIT 虛擬島嶼實驗：它們會玩耍、推理，甚至做實驗",
+      "link": "https://technews.tw/2026/10/24/researchers-stranded-an-ai-agent-on-a-virtual-island/",
+      "isoDate": "2026-10-24T09:00:20.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Bloom Energy 財報創高卻重挫 11%，現金流引疑慮",
       "link": "https://technews.tw/2026/10/24/bloom-energy-stock-plunges-over-11-despite-strong-earnings-cash-flow-turns-negative-ai-investment-concerns-emerge/",
@@ -27,13 +34,6 @@
       "title": "AMD 玩家福音！新模組讓 Radeon 也能跑 NVIDIA DLSS，首度解鎖光線重建",
       "link": "https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/",
       "isoDate": "2026-10-24T07:00:10.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "美國砸 3.89 億美元扶植功率半導體，鎖定 AI 資料中心與核融合應用",
-      "link": "https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applications/",
-      "isoDate": "2026-10-24T06:07:56.000Z",
       "source": "科技新報",
       "category": "科技"
     }
