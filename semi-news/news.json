@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-24T13:06:09.804Z",
+  "generated": "2026-10-24T17:11:55.343Z",
   "count": 5,
   "items": [
+    {
+      "title": "天文學者透過 EAGLE 模擬揭密：銀河系外圍是全宇宙最佳「星際宜居帶」",
+      "link": "https://technews.tw/2026/10/25/milky-way-best-cradle-for-life/",
+      "isoDate": "2026-10-24T16:00:39.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "過去觀測全是一片空白，韋伯望遠鏡揪出憑空冒出的不明發射線",
+      "link": "https://technews.tw/2026/10/25/webb-telescope-spots-a-puzzling-object/",
+      "isoDate": "2026-10-24T16:00:36.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應",
+      "link": "https://technews.tw/2026/10/25/the-secret-heart-benefit-of-a-common-diabetes-drug/",
+      "isoDate": "2026-10-24T16:00:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "沒有指令的 AI 都在做什麼？MIT 虛擬島嶼實驗：它們會玩耍、推理，甚至做實驗",
       "link": "https://technews.tw/2026/10/24/researchers-stranded-an-ai-agent-on-a-virtual-island/",
@@ -13,27 +34,6 @@
       "title": "Bloom Energy 財報創高卻重挫 11%，現金流引疑慮",
       "link": "https://technews.tw/2026/10/24/bloom-energy-stock-plunges-over-11-despite-strong-earnings-cash-flow-turns-negative-ai-investment-concerns-emerge/",
       "isoDate": "2026-10-24T08:38:24.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "非科學家團隊靠 Claude 設計抗蠍毒蛋白質，64 小時完成、實驗驗證成功",
-      "link": "https://technews.tw/2026/10/24/ai-does-the-lab-work/",
-      "isoDate": "2026-10-24T08:00:32.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "肌肉內也有脂肪，累積過多可能影響健康",
-      "link": "https://technews.tw/2026/10/24/excess-intramuscular-fat-may-harm-health/",
-      "isoDate": "2026-10-24T07:30:49.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AMD 玩家福音！新模組讓 Radeon 也能跑 NVIDIA DLSS，首度解鎖光線重建",
-      "link": "https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/",
-      "isoDate": "2026-10-24T07:00:10.000Z",
       "source": "科技新報",
       "category": "科技"
     }
