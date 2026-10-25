@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-25T14:47:54.098Z",
+  "generated": "2026-10-25T18:07:15.760Z",
   "count": 5,
   "items": [
+    {
+      "title": "小行星貝努巨石散熱之謎解開，關鍵在岩石內部裂縫密布",
+      "link": "https://technews.tw/2026/10/26/nasa-solves-a-strange-mystery-hidden-inside-asteroid-bennus-boulders/",
+      "isoDate": "2026-10-25T16:00:23.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "太陽系後院藏有隱形黑洞？天文學家鎖定 50 光年內的「宇宙幽靈」",
+      "link": "https://technews.tw/2026/10/26/perhaps-black-holes-in-our-backyard/",
+      "isoDate": "2026-10-25T16:00:09.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "洋紅色太陽能板大展身手，最新農電共生試驗：種菜、發電創造雙贏",
       "link": "https://technews.tw/2026/10/25/magenta-solar-panels-aid-agrivoltaics/",
@@ -20,20 +34,6 @@
       "title": "偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？",
       "link": "https://technews.tw/2026/10/25/urine-cell-free-rna-for-bladder-cancer-detection-and-treatment-response-prediction/",
       "isoDate": "2026-10-25T07:30:15.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "下班回家連 Wi-Fi 就變慢？破解夜間網路降速主因與自救妙招",
-      "link": "https://technews.tw/2026/10/25/practical-guide-improving-nighttime-wifi-network-performance/",
-      "isoDate": "2026-10-25T07:00:45.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Supermicro 攜手 Nokia，將 NVIDIA Aerial RAN Computer 解決方案引入網絡邊緣，支援低延遲 AI 服務",
-      "link": "https://technews.tw/2026/10/25/supermicro-nokia-nvidia-aerial-ran-computer/",
-      "isoDate": "2026-10-25T06:00:51.000Z",
       "source": "科技新報",
       "category": "科技"
     }
