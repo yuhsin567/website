@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-26T03:14:11.544Z",
+  "generated": "2026-10-26T09:42:03.351Z",
   "count": 5,
   "items": [
+    {
+      "title": "駭客打造Skynet自主攻擊代理人，劫持AI模型可執行10萬步攻擊",
+      "link": "https://www.ithome.com.tw/news/179951",
+      "isoDate": "2026-10-26T12:10:52.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "日本快遞業者佐川急便網站服務被駭，外洩個人、企業及會員個資逾5,300萬筆",
       "link": "https://www.ithome.com.tw/news/179948",
@@ -27,13 +34,6 @@
       "title": "OpenAI將不再在連網環境下訓練頂尖AI模型",
       "link": "https://www.ithome.com.tw/news/179949",
       "isoDate": "2026-10-26T10:10:00.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "希臘通過15歲以下社群媒體禁令，違規平臺最高罰全球營收6%",
-      "link": "https://www.ithome.com.tw/news/179946",
-      "isoDate": "2026-10-26T09:10:44.000Z",
       "source": "iThome",
       "category": "科技"
     }
