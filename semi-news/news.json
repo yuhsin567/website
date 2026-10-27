@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-27T07:17:48.224Z",
+  "generated": "2026-10-27T13:57:24.955Z",
   "count": 5,
   "items": [
+    {
+      "title": "M6 版 14 吋 MacBook Pro 也現身，售價 64,900 元起",
+      "link": "https://technews.tw/2026/10/27/m6-macbook-pro-2/",
+      "isoDate": "2026-10-27T13:52:12.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "全球四大會計師事務所之一的PwC證實遭駭，Everest聲稱竊得590GB資料",
       "link": "https://www.ithome.com.tw/news/179976",
@@ -27,13 +34,6 @@
       "title": "韓國警方偵破利用ARTEX發動攻擊的嫌犯，涉及入侵逾90家機構、竊取820萬筆個資",
       "link": "https://www.ithome.com.tw/news/179973",
       "isoDate": "2026-10-27T12:10:01.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Arista旗下SD-WAN集中管理平臺VCO零時差漏洞已遭積極利用",
-      "link": "https://www.ithome.com.tw/news/179972",
-      "isoDate": "2026-10-27T11:10:37.000Z",
       "source": "iThome",
       "category": "科技"
     }
