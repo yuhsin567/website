@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-27T19:17:17.677Z",
+  "generated": "2026-10-27T23:28:54.451Z",
   "count": 5,
   "items": [
+    {
+      "title": "減少加工食品的麩胺酸，明顯改善退伍軍人慢性疼痛與腦霧",
+      "link": "https://technews.tw/2026/10/28/cutting-1-compound-from-processed-foods-could-reduce-brain-fog-anxiety-and-chronic-pain-scientists-say/",
+      "isoDate": "2026-10-27T23:20:10.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Chrome 真是「記憶體怪獸」？吃 RAM 背後其實有原因",
+      "link": "https://technews.tw/2026/10/28/why-google-chrome-is-always-using-so-much-ram/",
+      "isoDate": "2026-10-27T23:10:31.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Google Fitbit Edge 補齊穿戴產品線，AI 健康管理深化裝置差異化競爭",
+      "link": "https://technews.tw/2026/10/28/google-fitbit-edge-wearable-line-ai-health-management-device-differentiation-competition/",
+      "isoDate": "2026-10-27T23:00:32.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "【科技早餐】Meta AI 投資有多燒錢？擬籌 950 億美元，4 座超大型算力園區同步興建",
+      "link": "https://techorange.com/2026/10/28/meta-ai-funding-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-27T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages",
       "link": "https://technews.tw/2026/10/27/apple-creator-studio-openai/",
       "isoDate": "2026-10-27T14:19:15.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "蘋果 M6 iMac AI 效能最高提升 5 倍，售價 49,900 元起",
-      "link": "https://technews.tw/2026/10/27/m6-imac/",
-      "isoDate": "2026-10-27T14:02:46.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "設計壽命僅 2 年卻撐過 21 年，雨燕天文台光榮退役",
-      "link": "https://technews.tw/2026/10/27/swift-observatory-retired-with-honor/",
-      "isoDate": "2026-10-27T14:00:22.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "M6 版 14 吋 MacBook Pro 也現身，售價 64,900 元起",
-      "link": "https://technews.tw/2026/10/27/m6-macbook-pro-2/",
-      "isoDate": "2026-10-27T13:52:12.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "全球四大會計師事務所之一的PwC證實遭駭，Everest聲稱竊得590GB資料",
-      "link": "https://www.ithome.com.tw/news/179976",
-      "isoDate": "2026-10-27T12:10:40.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
