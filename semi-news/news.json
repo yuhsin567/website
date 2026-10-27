@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-27T01:07:18.586Z",
+  "generated": "2026-10-27T07:17:48.224Z",
   "count": 5,
   "items": [
     {
-      "title": "不只影響Node.js，Node2Shell漏洞恐波及其他開發工具及應用程式",
-      "link": "https://www.ithome.com.tw/news/179952",
-      "isoDate": "2026-10-27T08:10:00.000Z",
+      "title": "全球四大會計師事務所之一的PwC證實遭駭，Everest聲稱竊得590GB資料",
+      "link": "https://www.ithome.com.tw/news/179976",
+      "isoDate": "2026-10-27T12:10:40.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Microsoft 365帳號遭權杖重播攻擊，79家組織受影響",
-      "link": "https://www.ithome.com.tw/news/179944",
-      "isoDate": "2026-10-27T08:10:00.000Z",
+      "title": "美國CISA警告PHP2Shell遭到積極利用",
+      "link": "https://www.ithome.com.tw/news/179975",
+      "isoDate": "2026-10-27T12:10:23.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "加拿大匿名犯罪檢舉平臺遭駭，17.7萬筆資料外洩後暫停服務",
-      "link": "https://www.ithome.com.tw/news/179918",
-      "isoDate": "2026-10-27T08:10:00.000Z",
+      "title": "Brotli解壓縮漏洞也影響.NET，微軟緊急發布臨時更新修補",
+      "link": "https://www.ithome.com.tw/news/179970",
+      "isoDate": "2026-10-27T12:10:05.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "國際刑警組織掃蕩非洲網路犯罪，詐騙集團鎖定亞洲受害者",
-      "link": "https://www.ithome.com.tw/news/179907",
-      "isoDate": "2026-10-27T08:10:00.000Z",
+      "title": "韓國警方偵破利用ARTEX發動攻擊的嫌犯，涉及入侵逾90家機構、竊取820萬筆個資",
+      "link": "https://www.ithome.com.tw/news/179973",
+      "isoDate": "2026-10-27T12:10:01.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "歐盟擋中國廉價電商品湧入再出招，11/1 起對包裹加收處理費",
-      "link": "https://technews.tw/2026/10/27/eu-blocks-cheap-china-ecommerce-influx-adds-parcel-handling-fee-nov-1/",
-      "isoDate": "2026-10-27T01:00:46.000Z",
-      "source": "科技新報",
+      "title": "Arista旗下SD-WAN集中管理平臺VCO零時差漏洞已遭積極利用",
+      "link": "https://www.ithome.com.tw/news/179972",
+      "isoDate": "2026-10-27T11:10:37.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
