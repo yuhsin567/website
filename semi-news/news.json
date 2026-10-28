@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-28T03:59:56.942Z",
+  "generated": "2026-10-28T10:29:36.277Z",
   "count": 5,
   "items": [
     {
-      "title": "Mozilla發布Firefox大改版159，修補逾100個高風險漏洞",
-      "link": "https://www.ithome.com.tw/news/180018",
-      "isoDate": "2026-10-28T11:10:40.000Z",
+      "title": "Apple同步推出macOS與iOS/iPadOS 27.2版，修補286個漏洞",
+      "link": "https://www.ithome.com.tw/news/180024",
+      "isoDate": "2026-10-28T12:10:37.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google發布Chrome 156更新，修補逾50個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/180016",
-      "isoDate": "2026-10-28T11:10:40.000Z",
+      "title": "Cloudflare AI服務快取出錯，155次GLM-5.3回答混入他人資料",
+      "link": "https://www.ithome.com.tw/news/180015",
+      "isoDate": "2026-10-28T12:10:26.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "蘋果擴大M6產品線，推出新款MacBook Pro與iMac",
-      "link": "https://www.ithome.com.tw/news/180013",
-      "isoDate": "2026-10-28T11:10:26.000Z",
+      "title": "Amazon修訂軟體工程師職務指引，強調AI時代應重成果而非Token用量",
+      "link": "https://www.ithome.com.tw/news/180025",
+      "isoDate": "2026-10-28T12:10:24.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Veeam修補Backup &amp; Replication、Backup for Microsoft 365與Veeam One重大漏洞",
-      "link": "https://www.ithome.com.tw/news/180014",
-      "isoDate": "2026-10-28T11:10:19.000Z",
+      "title": "2026年資安技能金盾獎初賽登場，224隊爭奪決賽資格",
+      "link": "https://www.ithome.com.tw/news/180027",
+      "isoDate": "2026-10-28T12:10:19.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
-      "link": "https://www.ithome.com.tw/news/180007",
-      "isoDate": "2026-10-28T10:10:56.000Z",
+      "title": "NIST發布PQC遷移路線圖，自2031年起RSA等傳統公鑰演算法逐步退場，2036年起禁用",
+      "link": "https://www.ithome.com.tw/news/180022",
+      "isoDate": "2026-10-28T12:10:09.000Z",
       "source": "iThome",
       "category": "科技"
     }
