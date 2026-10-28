@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-27T23:28:54.451Z",
+  "generated": "2026-10-28T03:59:56.942Z",
   "count": 5,
   "items": [
     {
-      "title": "減少加工食品的麩胺酸，明顯改善退伍軍人慢性疼痛與腦霧",
-      "link": "https://technews.tw/2026/10/28/cutting-1-compound-from-processed-foods-could-reduce-brain-fog-anxiety-and-chronic-pain-scientists-say/",
-      "isoDate": "2026-10-27T23:20:10.000Z",
-      "source": "科技新報",
+      "title": "Mozilla發布Firefox大改版159，修補逾100個高風險漏洞",
+      "link": "https://www.ithome.com.tw/news/180018",
+      "isoDate": "2026-10-28T11:10:40.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Chrome 真是「記憶體怪獸」？吃 RAM 背後其實有原因",
-      "link": "https://technews.tw/2026/10/28/why-google-chrome-is-always-using-so-much-ram/",
-      "isoDate": "2026-10-27T23:10:31.000Z",
-      "source": "科技新報",
+      "title": "Google發布Chrome 156更新，修補逾50個資安漏洞",
+      "link": "https://www.ithome.com.tw/news/180016",
+      "isoDate": "2026-10-28T11:10:40.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google Fitbit Edge 補齊穿戴產品線，AI 健康管理深化裝置差異化競爭",
-      "link": "https://technews.tw/2026/10/28/google-fitbit-edge-wearable-line-ai-health-management-device-differentiation-competition/",
-      "isoDate": "2026-10-27T23:00:32.000Z",
-      "source": "科技新報",
+      "title": "蘋果擴大M6產品線，推出新款MacBook Pro與iMac",
+      "link": "https://www.ithome.com.tw/news/180013",
+      "isoDate": "2026-10-28T11:10:26.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】Meta AI 投資有多燒錢？擬籌 950 億美元，4 座超大型算力園區同步興建",
-      "link": "https://techorange.com/2026/10/28/meta-ai-funding-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-27T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
+      "title": "Veeam修補Backup &amp; Replication、Backup for Microsoft 365與Veeam One重大漏洞",
+      "link": "https://www.ithome.com.tw/news/180014",
+      "isoDate": "2026-10-28T11:10:19.000Z",
+      "source": "iThome",
+      "category": "科技"
     },
     {
-      "title": "蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages",
-      "link": "https://technews.tw/2026/10/27/apple-creator-studio-openai/",
-      "isoDate": "2026-10-27T14:19:15.000Z",
-      "source": "科技新報",
+      "title": "高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
+      "link": "https://www.ithome.com.tw/news/180007",
+      "isoDate": "2026-10-28T10:10:56.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
