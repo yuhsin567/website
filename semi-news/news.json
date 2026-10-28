@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-28T10:29:36.277Z",
+  "generated": "2026-10-28T16:58:59.794Z",
   "count": 5,
   "items": [
+    {
+      "title": "AMD 斥資 10 億美元參與 Meta 股權發行，雙方合作部署 GW 等級算力基礎設施",
+      "link": "https://finance.technews.tw/2026/10/28/amd-invests-1-billion-in-meta-equity-offering/",
+      "isoDate": "2026-10-28T12:20:04.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Apple同步推出macOS與iOS/iPadOS 27.2版，修補286個漏洞",
       "link": "https://www.ithome.com.tw/news/180024",
@@ -27,13 +34,6 @@
       "title": "2026年資安技能金盾獎初賽登場，224隊爭奪決賽資格",
       "link": "https://www.ithome.com.tw/news/180027",
       "isoDate": "2026-10-28T12:10:19.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "NIST發布PQC遷移路線圖，自2031年起RSA等傳統公鑰演算法逐步退場，2036年起禁用",
-      "link": "https://www.ithome.com.tw/news/180022",
-      "isoDate": "2026-10-28T12:10:09.000Z",
       "source": "iThome",
       "category": "科技"
     }
