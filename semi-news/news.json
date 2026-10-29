@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-28T21:35:56.841Z",
+  "generated": "2026-10-29T01:32:35.273Z",
   "count": 5,
   "items": [
     {
-      "title": "打破蘋果 20 年來堅持，首款觸控 MacBook Pro 亮相",
-      "link": "https://technews.tw/2026/10/29/touchable-screen-macbook-pro/",
-      "isoDate": "2026-10-28T17:29:21.000Z",
+      "title": "法國超市遭駭引發關注，研究人員發現全球99國近1.3萬筆冷藏管理服務暴露於公開網路",
+      "link": "https://www.ithome.com.tw/news/180019",
+      "isoDate": "2026-10-29T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "逾850個GitHub帳號遭入侵，駭客發動Gheist攻擊植入惡意工作流程企圖竊密",
+      "link": "https://www.ithome.com.tw/news/179977",
+      "isoDate": "2026-10-29T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "美國CISA公布2030戰略，轉向積極防禦並優先保護關鍵基礎設施",
+      "link": "https://www.ithome.com.tw/news/179974",
+      "isoDate": "2026-10-29T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Harmonic Security募資5,000萬美元，擴大AI代理安全治理",
+      "link": "https://www.ithome.com.tw/news/179945",
+      "isoDate": "2026-10-29T08:10:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "寧德時代 20 安時固態電池，明年小規模量產",
+      "link": "https://technews.tw/2026/10/29/catl-20ah-solid-state-battery-cell/",
+      "isoDate": "2026-10-29T01:32:31.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AMD 斥資 10 億美元參與 Meta 股權發行，雙方合作部署 GW 等級算力基礎設施",
-      "link": "https://finance.technews.tw/2026/10/28/amd-invests-1-billion-in-meta-equity-offering/",
-      "isoDate": "2026-10-28T12:20:04.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Apple同步推出macOS與iOS/iPadOS 27.2版，修補286個漏洞",
-      "link": "https://www.ithome.com.tw/news/180024",
-      "isoDate": "2026-10-28T12:10:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Cloudflare AI服務快取出錯，155次GLM-5.3回答混入他人資料",
-      "link": "https://www.ithome.com.tw/news/180015",
-      "isoDate": "2026-10-28T12:10:26.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon修訂軟體工程師職務指引，強調AI時代應重成果而非Token用量",
-      "link": "https://www.ithome.com.tw/news/180025",
-      "isoDate": "2026-10-28T12:10:24.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
