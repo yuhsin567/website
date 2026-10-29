@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-29T08:01:02.699Z",
+  "generated": "2026-10-29T15:51:12.422Z",
   "count": 5,
   "items": [
+    {
+      "title": "91APP 遭駭為何花了 11 天才查出破口？駭客是如何突破防線",
+      "link": "https://techorange.com/2026/10/29/91app-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-29T13:00:52.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "GitHub發表能在單一任務內跨模型協同的Copilot Fusion",
       "link": "https://www.ithome.com.tw/news/180064",
@@ -27,13 +34,6 @@
       "title": "中國駭客Volt Typhoon綁架連網設備打造攻擊框架Silent Train，用於攻擊美國關鍵基礎設施",
       "link": "https://www.ithome.com.tw/news/180063",
       "isoDate": "2026-10-29T12:10:14.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "macOS 27.2未修補eMudhra憑證風險，Git與curl仍可能遭中間人攻擊",
-      "link": "https://www.ithome.com.tw/news/180061",
-      "isoDate": "2026-10-29T12:10:09.000Z",
       "source": "iThome",
       "category": "科技"
     }
