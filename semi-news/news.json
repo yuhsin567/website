@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-29T20:52:28.977Z",
+  "generated": "2026-10-30T00:36:23.298Z",
   "count": 5,
   "items": [
     {
-      "title": "91APP 遭駭為何花了 11 天才查出破口？駭客是如何突破防線",
-      "link": "https://techorange.com/2026/10/29/91app-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-29T13:00:52.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "GitHub發表能在單一任務內跨模型協同的Copilot Fusion",
-      "link": "https://www.ithome.com.tw/news/180064",
-      "isoDate": "2026-10-29T12:10:54.000Z",
+      "title": "微軟發布Windows緊急更新，移除eMudhra問題憑證的預設信任",
+      "link": "https://www.ithome.com.tw/news/180066",
+      "isoDate": "2026-10-30T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "PHP2Shell漏洞影響多家IT與OT廠商的產品，相關公告陸續出爐",
-      "link": "https://www.ithome.com.tw/news/180047",
-      "isoDate": "2026-10-29T12:10:27.000Z",
+      "title": "AI加快漏洞發現，CSA提出VulnOps模式改善企業漏洞管理",
+      "link": "https://www.ithome.com.tw/news/180046",
+      "isoDate": "2026-10-30T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "微軟季度營收成長19%，Azure大增48%，Windows裝置下滑22%",
-      "link": "https://www.ithome.com.tw/news/180062",
-      "isoDate": "2026-10-29T12:10:27.000Z",
+      "title": "英國擬修法強化海底電纜安全，要求業者管理安全風險並通報事故",
+      "link": "https://www.ithome.com.tw/news/180038",
+      "isoDate": "2026-10-30T08:10:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "中國駭客Volt Typhoon綁架連網設備打造攻擊框架Silent Train，用於攻擊美國關鍵基礎設施",
-      "link": "https://www.ithome.com.tw/news/180063",
-      "isoDate": "2026-10-29T12:10:14.000Z",
+      "title": "惡意Markdown指引檔企圖誘使Codex安裝惡意套件，AI程式開發代理面臨攻擊風險",
+      "link": "https://www.ithome.com.tw/news/180033",
+      "isoDate": "2026-10-30T08:10:00.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "航太步入收割期！經寶擁 20 項空巴 A350 認證、年底再戰波音大單",
+      "link": "https://finance.technews.tw/2026/10/30/airbus-a350/",
+      "isoDate": "2026-10-30T00:32:57.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
