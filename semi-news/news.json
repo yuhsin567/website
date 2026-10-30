@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-30T18:58:49.758Z",
+  "generated": "2026-10-30T22:54:38.784Z",
   "count": 5,
   "items": [
+    {
+      "title": "【博通私有雲展望報告】97% IT 決策者坦言公有雲支出遭浪費，布局「私有 AI」翻轉昂貴算力架構",
+      "link": "https://techorange.com/2026/10/31/private-cloud-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-10-30T22:29:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "朱諾號新發現：木星抵禦太陽風的「隱形護盾」比地球複雜得多",
       "link": "https://technews.tw/2026/10/31/nasa-discovers-jupiters-invisible-shield-is-more-complex-than-earths/",
@@ -27,13 +34,6 @@
       "title": "TXOne Networks 推出 ServiceNow 整合，將企業弱點管理延伸至 OT 現場",
       "link": "https://infosecu.technews.tw/2026/10/30/txone-networks-launches-servicenow-integration/",
       "isoDate": "2026-10-30T12:30:21.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "聯發科 2026 年 ASIC 營收將達 25 億美元，確認已取得第二家雲端 ASIC 客戶",
-      "link": "https://finance.technews.tw/2026/10/30/mediateks-asic-revenue-will-reach-2-5-billion-in-2026/",
-      "isoDate": "2026-10-30T12:20:49.000Z",
       "source": "科技新報",
       "category": "科技"
     }
