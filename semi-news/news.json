@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-30T13:50:16.660Z",
+  "generated": "2026-10-30T18:58:49.758Z",
   "count": 5,
   "items": [
+    {
+      "title": "朱諾號新發現：木星抵禦太陽風的「隱形護盾」比地球複雜得多",
+      "link": "https://technews.tw/2026/10/31/nasa-discovers-jupiters-invisible-shield-is-more-complex-than-earths/",
+      "isoDate": "2026-10-30T16:00:54.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "AI 提前 15 個月預警「癌王」胰臟癌，敏感度高達 73% 遠勝傳統判讀",
+      "link": "https://technews.tw/2026/10/31/ai-early-detection-pancreatic-cancer/",
+      "isoDate": "2026-10-30T16:00:44.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "宛如展翅的宇宙飛鳥，魯賓天文台捕捉 3700 光年外海鷗星雲壯麗影像",
+      "link": "https://technews.tw/2026/10/31/rubin-observatory-captures-stunning-view-of-seagull-nebula/",
+      "isoDate": "2026-10-30T16:00:30.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "TXOne Networks 推出 ServiceNow 整合，將企業弱點管理延伸至 OT 現場",
       "link": "https://infosecu.technews.tw/2026/10/30/txone-networks-launches-servicenow-integration/",
@@ -13,27 +34,6 @@
       "title": "聯發科 2026 年 ASIC 營收將達 25 億美元，確認已取得第二家雲端 ASIC 客戶",
       "link": "https://finance.technews.tw/2026/10/30/mediateks-asic-revenue-will-reach-2-5-billion-in-2026/",
       "isoDate": "2026-10-30T12:20:49.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Hive與Nefilim勒索軟體集團成員遭美國判刑，將入獄70個月",
-      "link": "https://www.ithome.com.tw/news/180099",
-      "isoDate": "2026-10-30T12:10:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google修補Chrome 156，公布21個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/180097",
-      "isoDate": "2026-10-30T12:10:28.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "台灣美光宣布 FY26 獎酬今入帳，逾 700 名同仁全年整體薪酬超過 60 個月",
-      "link": "https://finance.technews.tw/2026/10/30/micron-taiwans-fy26-bonuses-were-credited-today/",
-      "isoDate": "2026-10-30T12:00:40.000Z",
       "source": "科技新報",
       "category": "科技"
     }
