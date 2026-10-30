@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-30T06:47:56.142Z",
+  "generated": "2026-10-30T13:50:16.660Z",
   "count": 5,
   "items": [
+    {
+      "title": "TXOne Networks 推出 ServiceNow 整合，將企業弱點管理延伸至 OT 現場",
+      "link": "https://infosecu.technews.tw/2026/10/30/txone-networks-launches-servicenow-integration/",
+      "isoDate": "2026-10-30T12:30:21.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "聯發科 2026 年 ASIC 營收將達 25 億美元，確認已取得第二家雲端 ASIC 客戶",
+      "link": "https://finance.technews.tw/2026/10/30/mediateks-asic-revenue-will-reach-2-5-billion-in-2026/",
+      "isoDate": "2026-10-30T12:20:49.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Hive與Nefilim勒索軟體集團成員遭美國判刑，將入獄70個月",
       "link": "https://www.ithome.com.tw/news/180099",
@@ -17,24 +31,10 @@
       "category": "科技"
     },
     {
-      "title": "年末購物旺季將至，Palo Alto Networks示警零售業面臨多重網路威脅",
-      "link": "https://www.ithome.com.tw/news/180095",
-      "isoDate": "2026-10-30T11:10:58.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "DoorDash砸170億美元收購Instacart，整合餐飲與生鮮外送市場",
-      "link": "https://www.ithome.com.tw/news/180094",
-      "isoDate": "2026-10-30T11:10:30.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "日本航空第三方訂位系統遭入侵，約9.2萬名旅客資料受影響",
-      "link": "https://www.ithome.com.tw/news/180096",
-      "isoDate": "2026-10-30T11:10:08.000Z",
-      "source": "iThome",
+      "title": "台灣美光宣布 FY26 獎酬今入帳，逾 700 名同仁全年整體薪酬超過 60 個月",
+      "link": "https://finance.technews.tw/2026/10/30/micron-taiwans-fy26-bonuses-were-credited-today/",
+      "isoDate": "2026-10-30T12:00:40.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
