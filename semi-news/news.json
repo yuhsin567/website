@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-30T22:54:38.784Z",
+  "generated": "2026-10-31T02:00:23.239Z",
   "count": 5,
   "items": [
     {
-      "title": "【博通私有雲展望報告】97% IT 決策者坦言公有雲支出遭浪費，布局「私有 AI」翻轉昂貴算力架構",
-      "link": "https://techorange.com/2026/10/31/private-cloud-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-10-30T22:29:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "朱諾號新發現：木星抵禦太陽風的「隱形護盾」比地球複雜得多",
-      "link": "https://technews.tw/2026/10/31/nasa-discovers-jupiters-invisible-shield-is-more-complex-than-earths/",
-      "isoDate": "2026-10-30T16:00:54.000Z",
+      "title": "批 PC 配大量 DRAM「相當糟糕」！Sam Altman：應優先配置 AI 資料中心",
+      "link": "https://technews.tw/2026/10/31/openai-ceo-sam-altman-talk-about-dram/",
+      "isoDate": "2026-10-31T01:23:40.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AI 提前 15 個月預警「癌王」胰臟癌，敏感度高達 73% 遠勝傳統判讀",
-      "link": "https://technews.tw/2026/10/31/ai-early-detection-pancreatic-cancer/",
-      "isoDate": "2026-10-30T16:00:44.000Z",
+      "title": "前三季營收翻倍衝刺轉上市，通寶從高通技術打底跨界布局 ASIC 與無人機晶片",
+      "link": "https://finance.technews.tw/2026/10/31/qbit-semiconductor-ltd/",
+      "isoDate": "2026-10-31T01:00:34.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "宛如展翅的宇宙飛鳥，魯賓天文台捕捉 3700 光年外海鷗星雲壯麗影像",
-      "link": "https://technews.tw/2026/10/31/rubin-observatory-captures-stunning-view-of-seagull-nebula/",
-      "isoDate": "2026-10-30T16:00:30.000Z",
+      "title": "英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
+      "link": "https://finance.technews.tw/2026/10/31/intel-stock-chip/",
+      "isoDate": "2026-10-31T00:54:03.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "TXOne Networks 推出 ServiceNow 整合，將企業弱點管理延伸至 OT 現場",
-      "link": "https://infosecu.technews.tw/2026/10/30/txone-networks-launches-servicenow-integration/",
-      "isoDate": "2026-10-30T12:30:21.000Z",
+      "title": "個案用 AI 打造心理諮商師「分身」，專家提醒恐混淆療程並延誤治療",
+      "link": "https://technews.tw/2026/10/31/using-an-ai-persona-to-impersonate-your-therapist-so-you-can-get-inside-their-head/",
+      "isoDate": "2026-10-31T00:30:16.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "遭駭損失 63 億美元！幣安緊急暫停提款、承諾承擔損失，比特幣跌破 7.7 萬美元",
+      "link": "https://technews.tw/2026/10/31/binance-6-3bn-hack/",
+      "isoDate": "2026-10-31T00:18:06.000Z",
       "source": "科技新報",
       "category": "科技"
     }
