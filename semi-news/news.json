@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-31T15:35:46.028Z",
+  "generated": "2026-10-31T19:42:57.764Z",
   "count": 5,
   "items": [
+    {
+      "title": "毅力號首度在火星實測太空衣沾附微塵，超細顆粒恐成載人任務健康隱憂",
+      "link": "https://technews.tw/2026/11/01/the-martian-dust-threatening-astronauts/",
+      "isoDate": "2026-10-31T16:00:33.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "最新數學研究翻轉宇宙學暗能量假說：愛因斯坦重力方程即可驅動宇宙膨脹",
+      "link": "https://technews.tw/2026/11/01/challenging-dark-energy-reinterpreting-cosmic-expansion/",
+      "isoDate": "2026-10-31T16:00:14.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "哈佛發現發炎訊號「停不下來」的關鍵，有望成為自體免疫疾病新療法",
+      "link": "https://technews.tw/2026/11/01/scientists-discover-a-hidden-trigger-that-keeps-inflammation-alive/",
+      "isoDate": "2026-10-31T16:00:01.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "蘑菇 AI 陪伴機器人 Mori 亮相，不說話也沒有螢幕、主打找回注意力",
       "link": "https://technews.tw/2026/10/31/mori-might-be-the-cutest-ai-companion-robot-yet-and-it-reacts-to-you-like-a-pet/",
@@ -13,27 +34,6 @@
       "title": "科林研發、imec 擴大合作！布局 High-NA EUV 乾式光阻，加速量產進程",
       "link": "https://technews.tw/2026/10/31/lam-imec-collaboration/",
       "isoDate": "2026-10-31T08:18:58.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊",
-      "link": "https://technews.tw/2026/10/31/why-your-sense-of-smell-fades-after-60/",
-      "isoDate": "2026-10-31T08:00:37.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "重金屬藏在日常飲食裡，米飯、魚、巧克力怎麼吃最安心？",
-      "link": "https://technews.tw/2026/10/31/how-to-reduce-heavy-metals-in-food-10-practical-steps/",
-      "isoDate": "2026-10-31T08:00:10.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "全球 IPv6 普及率破五成，你家路由器跟上了嗎？",
-      "link": "https://technews.tw/2026/10/31/the-internet-needs-ipv6-and-so-does-your-home-network/",
-      "isoDate": "2026-10-31T08:00:03.000Z",
       "source": "科技新報",
       "category": "科技"
     }
