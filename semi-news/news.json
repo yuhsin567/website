@@ -1,7 +1,28 @@
 {
-  "generated": "2026-11-02T08:53:04.719Z",
+  "generated": "2026-11-02T19:10:47.436Z",
   "count": 5,
   "items": [
+    {
+      "title": "紅巨星的異常震盪與磁場，恐源自掠奪伴星質量",
+      "link": "https://technews.tw/2026/11/02/evidence-of-possible-mass-theft-from-a-companion-star-found-in-stellar-magnetic-field/",
+      "isoDate": "2026-11-02T14:28:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "真的成了！Marvell 宣布以股票交易方式收購光通訊龍頭 Lumentum",
+      "link": "https://technews.tw/2026/11/02/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity/",
+      "isoDate": "2026-11-02T12:33:16.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "大同華映案和解露曙光，30.29 億元人民幣爭議擬以 7.68 億元和解",
+      "link": "https://technews.tw/2026/11/02/tatung-cpt-case-settlement-hope-rmb-3-029-billion-dispute-settled-for-768-million/",
+      "isoDate": "2026-11-02T12:12:56.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Ivanti再修補兩個ICS漏洞，CISA已列入KEV警告出現相關攻擊",
       "link": "https://www.ithome.com.tw/news/180131",
@@ -13,27 +34,6 @@
       "title": "臺灣無印良品受91APP遭駭事件波及，訂單資料外洩規模初估影響會員約18萬人，實體門市購物紀錄不受影響",
       "link": "https://www.ithome.com.tw/news/180124",
       "isoDate": "2026-11-02T12:11:04.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "日本公仔業者Good Smile Company遭駭，逾40萬張信用卡部分資料恐外洩，臺灣顧客也可能受影響",
-      "link": "https://www.ithome.com.tw/news/180130",
-      "isoDate": "2026-11-02T12:11:01.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Alpine Linux遭GitLab重大漏洞攻擊，重建開發基礎設施防範供應鏈風險",
-      "link": "https://www.ithome.com.tw/news/180128",
-      "isoDate": "2026-11-02T11:11:36.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Binance遭竊約63億美元加密貨幣，創史上最大竊案，調查指向北韓駭客",
-      "link": "https://www.ithome.com.tw/news/180126",
-      "isoDate": "2026-11-02T10:11:55.000Z",
       "source": "iThome",
       "category": "科技"
     }
