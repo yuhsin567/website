@@ -1,40 +1,40 @@
 {
-  "generated": "2026-11-02T19:10:47.436Z",
+  "generated": "2026-11-03T01:59:44.698Z",
   "count": 5,
   "items": [
     {
-      "title": "紅巨星的異常震盪與磁場，恐源自掠奪伴星質量",
-      "link": "https://technews.tw/2026/11/02/evidence-of-possible-mass-theft-from-a-companion-star-found-in-stellar-magnetic-field/",
-      "isoDate": "2026-11-02T14:28:05.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "真的成了！Marvell 宣布以股票交易方式收購光通訊龍頭 Lumentum",
-      "link": "https://technews.tw/2026/11/02/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity/",
-      "isoDate": "2026-11-02T12:33:16.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "大同華映案和解露曙光，30.29 億元人民幣爭議擬以 7.68 億元和解",
-      "link": "https://technews.tw/2026/11/02/tatung-cpt-case-settlement-hope-rmb-3-029-billion-dispute-settled-for-768-million/",
-      "isoDate": "2026-11-02T12:12:56.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Ivanti再修補兩個ICS漏洞，CISA已列入KEV警告出現相關攻擊",
-      "link": "https://www.ithome.com.tw/news/180131",
-      "isoDate": "2026-11-02T12:11:07.000Z",
+      "title": "荷蘭資安業者Hadrian獲4,000萬美元投資，擴展AI代理滲透測試業務",
+      "link": "https://www.ithome.com.tw/news/180136",
+      "isoDate": "2026-11-03T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "臺灣無印良品受91APP遭駭事件波及，訂單資料外洩規模初估影響會員約18萬人，實體門市購物紀錄不受影響",
-      "link": "https://www.ithome.com.tw/news/180124",
-      "isoDate": "2026-11-02T12:11:04.000Z",
+      "title": "PQC導入TLS面臨效能挑戰，交握延遲增加、防火牆相容性問題浮現",
+      "link": "https://www.ithome.com.tw/news/180121",
+      "isoDate": "2026-11-03T08:11:00.000Z",
       "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "2026年第3季DDoS攻擊次數年增208%，短時間攻擊考驗企業防禦能力",
+      "link": "https://www.ithome.com.tw/news/180103",
+      "isoDate": "2026-11-03T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "思科開源AI代理偵測工具Quarry，可分析多步驟操作找出可疑行為",
+      "link": "https://www.ithome.com.tw/news/180074",
+      "isoDate": "2026-11-03T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "馬斯克態度轉彎？Terafab 傳與台積電重談合作",
+      "link": "https://technews.tw/2026/11/03/musk-stance-shift-terafab-tsmc-renegotiates-cooperation/",
+      "isoDate": "2026-11-03T01:59:38.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
