@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-04T02:54:46.079Z",
+  "generated": "2026-11-04T10:28:24.672Z",
   "count": 5,
   "items": [
     {
-      "title": "蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務",
-      "link": "https://www.ithome.com.tw/news/180200",
-      "isoDate": "2026-11-04T09:11:22.000Z",
+      "title": "Binance揭露63億美元竊案攻擊鏈，駭客以假面試誘使工程師執行惡意程式",
+      "link": "https://www.ithome.com.tw/news/180203",
+      "isoDate": "2026-11-04T12:11:52.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美國學校掀起AI禁令，Google推引導式學習爭取教育界接受",
-      "link": "https://www.ithome.com.tw/news/180199",
-      "isoDate": "2026-11-04T09:11:09.000Z",
+      "title": "XCPE殭屍網路波及臺灣近9萬臺Android設備，感染數量排名全球第5",
+      "link": "https://www.ithome.com.tw/news/180211",
+      "isoDate": "2026-11-04T12:11:45.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Node-RED重大漏洞出現攻擊嘗試，駭客企圖執行Linux惡意程式並部署網頁後門",
-      "link": "https://www.ithome.com.tw/news/180178",
-      "isoDate": "2026-11-04T08:11:00.000Z",
+      "title": "NetApp揭露旗下多款儲存產品受Linux核心TCP漏洞影響",
+      "link": "https://www.ithome.com.tw/news/180208",
+      "isoDate": "2026-11-04T12:11:40.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "XCPE殭屍網路控制逾130萬臺機上盒，Google指控Android裝置製造商刻意預載後門",
-      "link": "https://www.ithome.com.tw/news/180161",
-      "isoDate": "2026-11-04T08:11:00.000Z",
+      "title": "11月Android例行安全更新修補216個漏洞",
+      "link": "https://www.ithome.com.tw/news/180207",
+      "isoDate": "2026-11-04T12:11:33.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Aikido併購Cyberly及OutKept推出Noon資安平臺，整合AI工具管理與員工安全防護",
-      "link": "https://www.ithome.com.tw/news/180159",
-      "isoDate": "2026-11-04T08:11:00.000Z",
+      "title": "日本三得利集團雲端服務遭駭，員工、合作夥伴及客戶等逾10萬人個資外洩",
+      "link": "https://www.ithome.com.tw/news/180210",
+      "isoDate": "2026-11-04T12:11:26.000Z",
       "source": "iThome",
       "category": "科技"
     }
