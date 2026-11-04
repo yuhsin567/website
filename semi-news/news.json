@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-04T10:28:24.672Z",
+  "generated": "2026-11-04T18:27:30.651Z",
   "count": 5,
   "items": [
+    {
+      "title": "Windows 11 效能大升級！微軟稱 8GB 記憶體電腦速度可提升 20%",
+      "link": "https://technews.tw/2026/11/04/microsoft-improves-windows-11-performance-on-pcs-with-just-8gb-of-ram/",
+      "isoDate": "2026-11-04T13:24:02.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Binance揭露63億美元竊案攻擊鏈，駭客以假面試誘使工程師執行惡意程式",
       "link": "https://www.ithome.com.tw/news/180203",
@@ -27,13 +34,6 @@
       "title": "11月Android例行安全更新修補216個漏洞",
       "link": "https://www.ithome.com.tw/news/180207",
       "isoDate": "2026-11-04T12:11:33.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "日本三得利集團雲端服務遭駭，員工、合作夥伴及客戶等逾10萬人個資外洩",
-      "link": "https://www.ithome.com.tw/news/180210",
-      "isoDate": "2026-11-04T12:11:26.000Z",
       "source": "iThome",
       "category": "科技"
     }
