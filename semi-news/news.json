@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-03T22:54:28.946Z",
+  "generated": "2026-11-04T02:54:46.079Z",
   "count": 5,
   "items": [
     {
-      "title": "Airbus 用 AI 讀取機上餐盤、提前 10 天預警設備異常，航空營運如何改變？",
-      "link": "https://techorange.com/2026/11/04/airbus-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-11-03T22:20:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "【科技早餐】Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46%",
-      "link": "https://techorange.com/2026/11/04/apple-memory-price-surge-gross-margin-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-11-03T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "Android遭揭露「死亡簡訊」漏洞，可遠端癱瘓手機通話服務",
-      "link": "https://www.ithome.com.tw/news/180169",
-      "isoDate": "2026-11-03T12:11:59.000Z",
+      "title": "蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務",
+      "link": "https://www.ithome.com.tw/news/180200",
+      "isoDate": "2026-11-04T09:11:22.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "歐洲能源巨擘ENGIE合作夥伴平臺遭駭，部分法國客戶資料外洩",
-      "link": "https://www.ithome.com.tw/news/180170",
-      "isoDate": "2026-11-03T12:11:53.000Z",
+      "title": "美國學校掀起AI禁令，Google推引導式學習爭取教育界接受",
+      "link": "https://www.ithome.com.tw/news/180199",
+      "isoDate": "2026-11-04T09:11:09.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "TWCA CA憑證序號亂數不足遭Mozilla揭露，數發部要求換發並啟動第三方檢測",
-      "link": "https://www.ithome.com.tw/news/180167",
-      "isoDate": "2026-11-03T11:11:57.000Z",
+      "title": "Node-RED重大漏洞出現攻擊嘗試，駭客企圖執行Linux惡意程式並部署網頁後門",
+      "link": "https://www.ithome.com.tw/news/180178",
+      "isoDate": "2026-11-04T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "XCPE殭屍網路控制逾130萬臺機上盒，Google指控Android裝置製造商刻意預載後門",
+      "link": "https://www.ithome.com.tw/news/180161",
+      "isoDate": "2026-11-04T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Aikido併購Cyberly及OutKept推出Noon資安平臺，整合AI工具管理與員工安全防護",
+      "link": "https://www.ithome.com.tw/news/180159",
+      "isoDate": "2026-11-04T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
