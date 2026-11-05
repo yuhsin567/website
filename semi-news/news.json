@@ -1,40 +1,40 @@
 {
-  "generated": "2026-11-05T00:08:56.637Z",
+  "generated": "2026-11-05T07:42:13.255Z",
   "count": 5,
   "items": [
     {
-      "title": "韓國車用半導體國產化加速：現代汽車攜手 LG 打造自主供應鏈",
-      "link": "https://technews.tw/2026/11/05/hyundai-mobis-to-strengthen-partnerships-to-build-automotive-chip-ecosystem/",
-      "isoDate": "2026-11-05T00:00:28.000Z",
-      "source": "科技新報",
+      "title": "C++26標準化遇罕見挫敗，Contracts設計爭議成關鍵",
+      "link": "https://www.ithome.com.tw/news/180248",
+      "isoDate": "2026-11-05T12:11:55.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "川普介入施壓，甲骨文取消與騰訊 70 億美元晶片租賃計畫",
-      "link": "https://technews.tw/2026/11/05/oracle-cancels-7bn-tencent-ai-deal-under-trump-pressure/",
-      "isoDate": "2026-11-04T23:50:44.000Z",
-      "source": "科技新報",
+      "title": "日本外務省網站被駭3,600筆個資恐外洩，但強調非機要外交通訊",
+      "link": "https://www.ithome.com.tw/news/180251",
+      "isoDate": "2026-11-05T12:11:55.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "企業 AI 資安新戰略：別猜模型想做什麼，先盤點「過度授權」與「停機」能力",
-      "link": "https://finance.technews.tw/2026/11/05/ai-agent-cybersecurity-testing-guide/",
-      "isoDate": "2026-11-04T23:40:21.000Z",
-      "source": "科技新報",
+      "title": "中國駭客利用Zyxel GS1900系列交換器零時差漏洞並竊得敏感資料",
+      "link": "https://www.ithome.com.tw/news/180254",
+      "isoDate": "2026-11-05T12:11:33.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "長江存儲傳上市受阻，市場疲弱迫使 IPO 暫緩",
-      "link": "https://finance.technews.tw/2026/11/05/ymtc-puts-its-ipo-plans-on-hold-as-market-conditions-weaken/",
-      "isoDate": "2026-11-04T23:34:57.000Z",
-      "source": "科技新報",
+      "title": "法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
+      "link": "https://www.ithome.com.tw/news/180253",
+      "isoDate": "2026-11-05T12:11:13.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 也懂煉油？漢威在奈及利亞煉油廠推出新 AI 平台",
-      "link": "https://technews.tw/2026/11/05/honeywell-technologies-launches-new-ai-platform-at-dangotes-nigeria-refinery/",
-      "isoDate": "2026-11-04T23:30:06.000Z",
-      "source": "科技新報",
+      "title": "Zyxel GS1900系列交換器存在越界寫入漏洞，攻擊者不需通過身分驗證就能執行作業系統命令",
+      "link": "https://www.ithome.com.tw/news/180252",
+      "isoDate": "2026-11-05T12:11:09.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
