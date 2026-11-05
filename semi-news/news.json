@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-05T16:07:31.191Z",
+  "generated": "2026-11-05T22:32:01.436Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】Google 力挺 Anthropic 190 億美元資料中心租約！SpaceX 攜高通建 5G 網路",
+      "link": "https://techorange.com/2026/11/06/google-anthropic-ai-data-center-19-billion-lease/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-11-05T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "可見光加紅外線雙視角，兩大太空望遠鏡看穿神祕「貓頭星雲」",
       "link": "https://technews.tw/2026/11/05/cats-head-nebula/",
@@ -27,13 +34,6 @@
       "title": "中國駭客利用Zyxel GS1900系列交換器零時差漏洞並竊得敏感資料",
       "link": "https://www.ithome.com.tw/news/180254",
       "isoDate": "2026-11-05T12:11:33.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
-      "link": "https://www.ithome.com.tw/news/180253",
-      "isoDate": "2026-11-05T12:11:13.000Z",
       "source": "iThome",
       "category": "科技"
     }
