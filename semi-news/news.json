@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-05T07:42:13.255Z",
+  "generated": "2026-11-05T16:07:31.191Z",
   "count": 5,
   "items": [
+    {
+      "title": "可見光加紅外線雙視角，兩大太空望遠鏡看穿神祕「貓頭星雲」",
+      "link": "https://technews.tw/2026/11/05/cats-head-nebula/",
+      "isoDate": "2026-11-05T13:44:37.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "C++26標準化遇罕見挫敗，Contracts設計爭議成關鍵",
       "link": "https://www.ithome.com.tw/news/180248",
@@ -27,13 +34,6 @@
       "title": "法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
       "link": "https://www.ithome.com.tw/news/180253",
       "isoDate": "2026-11-05T12:11:13.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Zyxel GS1900系列交換器存在越界寫入漏洞，攻擊者不需通過身分驗證就能執行作業系統命令",
-      "link": "https://www.ithome.com.tw/news/180252",
-      "isoDate": "2026-11-05T12:11:09.000Z",
       "source": "iThome",
       "category": "科技"
     }
