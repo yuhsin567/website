@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-06T11:48:47.352Z",
+  "generated": "2026-11-06T18:53:29.265Z",
   "count": 5,
   "items": [
     {
-      "title": "NTT Docomo線上服務遭駭，可能洩露30萬筆用戶個資",
-      "link": "https://www.ithome.com.tw/news/180283",
-      "isoDate": "2026-11-06T12:11:35.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI發表GPT-6 Cyber，找出Firefox 81個未知高風險漏洞",
-      "link": "https://www.ithome.com.tw/news/180285",
-      "isoDate": "2026-11-06T12:11:11.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "OpenSSH發布緊急更新，修補可利用長密碼繞過身分驗證的資安漏洞SSHole",
-      "link": "https://www.ithome.com.tw/news/180281",
-      "isoDate": "2026-11-06T11:11:15.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "環球晶10月營收47.64 億元",
-      "link": "https://finance.technews.tw/2026/11/06/gwc-6488-202610-financial-report/",
-      "isoDate": "2026-11-06T10:40:04.000Z",
+      "title": "質量僅預期的千分之一，韋伯望遠鏡意外發現最遙遠電波爆誕生地",
+      "link": "https://technews.tw/2026/11/07/the-origin-of-the-most-distant-fast-radio-burst/",
+      "isoDate": "2026-11-06T16:00:47.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "影片創作不受限手機螢幕，Instagram Edits 桌面版登陸 Mac 電腦",
-      "link": "https://technews.tw/2026/11/06/instagram-introduces-edits-on-desktop/",
-      "isoDate": "2026-11-06T10:39:02.000Z",
+      "title": "最新民調：八成美國民眾呼籲醫療 AI 需透明化，逾六成盼掌握「醫療話語權」",
+      "link": "https://technews.tw/2026/11/07/medical-ai-use-transparency-poll/",
+      "isoDate": "2026-11-06T16:00:45.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "富采 Q3 業外挹注轉盈，預期 Q4 營收受 AI 產業鏈排擠下滑",
+      "link": "https://finance.technews.tw/2026/11/06/ennostar-q3/",
+      "isoDate": "2026-11-06T13:03:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "強攻 AI 與企業級市場，潘健成：群聯擺脫依賴低價庫存邁入 AI 營運收割期",
+      "link": "https://finance.technews.tw/2026/11/06/phison-breaks-free-from-reliance-on-low-priced-inventory-and-enters-a-period-of-reaping-the-benefits-of-ai-driven-operations/",
+      "isoDate": "2026-11-06T12:50:00.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "長江存儲第四晶圓廠本土設備力拼占比逾七成，進一步降低美國箝制",
+      "link": "https://finance.technews.tw/2026/11/06/yangtze-memory-technologies-fourth-wafer-fab-strives-to-achieve-a-domestic-equipment-ratio-of-over-70/",
+      "isoDate": "2026-11-06T12:20:38.000Z",
       "source": "科技新報",
       "category": "科技"
     }
