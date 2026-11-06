@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-05T22:32:01.436Z",
+  "generated": "2026-11-06T03:09:37.862Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】Google 力挺 Anthropic 190 億美元資料中心租約！SpaceX 攜高通建 5G 網路",
-      "link": "https://techorange.com/2026/11/06/google-anthropic-ai-data-center-19-billion-lease/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-11-05T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "可見光加紅外線雙視角，兩大太空望遠鏡看穿神祕「貓頭星雲」",
-      "link": "https://technews.tw/2026/11/05/cats-head-nebula/",
-      "isoDate": "2026-11-05T13:44:37.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "C++26標準化遇罕見挫敗，Contracts設計爭議成關鍵",
-      "link": "https://www.ithome.com.tw/news/180248",
-      "isoDate": "2026-11-05T12:11:55.000Z",
+      "title": "遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清",
+      "link": "https://www.ithome.com.tw/news/180274",
+      "isoDate": "2026-11-06T10:11:35.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "日本外務省網站被駭3,600筆個資恐外洩，但強調非機要外交通訊",
-      "link": "https://www.ithome.com.tw/news/180251",
-      "isoDate": "2026-11-05T12:11:55.000Z",
+      "title": "騰勢委外線上服務系統遭異常存取，已啟動資安應變並調查影響範圍",
+      "link": "https://www.ithome.com.tw/news/180275",
+      "isoDate": "2026-11-06T10:11:07.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "中國駭客利用Zyxel GS1900系列交換器零時差漏洞並竊得敏感資料",
-      "link": "https://www.ithome.com.tw/news/180254",
-      "isoDate": "2026-11-05T12:11:33.000Z",
+      "title": "Anthropic擴大Claude文字浮水印部署，部分舊版模型仍未支援",
+      "link": "https://www.ithome.com.tw/news/180269",
+      "isoDate": "2026-11-06T09:11:53.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "回應資料中心建設爭議，OpenAI提出用電、用水與資訊公開承諾",
+      "link": "https://www.ithome.com.tw/news/180271",
+      "isoDate": "2026-11-06T09:11:05.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic推出Claude個人理財功能，可連結銀行帳戶分析收支",
+      "link": "https://www.ithome.com.tw/news/180268",
+      "isoDate": "2026-11-06T08:11:44.000Z",
       "source": "iThome",
       "category": "科技"
     }
