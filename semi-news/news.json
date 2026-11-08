@@ -1,7 +1,21 @@
 {
-  "generated": "2026-11-08T08:35:54.819Z",
+  "generated": "2026-11-08T15:47:28.000Z",
   "count": 5,
   "items": [
+    {
+      "title": "系微10月營收1.04 億元",
+      "link": "https://finance.technews.tw/2026/11/08/insyde-6231-202610-financial-report/",
+      "isoDate": "2026-11-08T10:30:05.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "AI 讓 App 變得可有可無，消費性軟體入口正轉向訊息對話框",
+      "link": "https://technews.tw/2026/11/08/ai-is-making-the-app-optional/",
+      "isoDate": "2026-11-08T09:00:45.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "羅浮宮劫案掀骨牌效應，歐洲 14 家博物館連環淪陷，退役神偷嗆「我還是進得去」",
       "link": "https://ccc.technews.tw/2026/11/08/louvre-heist-copycat-effect-european-museums-thefts-retired-thief-returns-claims-still-get-in/",
@@ -20,20 +34,6 @@
       "title": "AI 演算法解碼兩萬基因發現天然胜肽 BRP，進食量降 50% 且純減脂不甩肌",
       "link": "https://technews.tw/2026/11/08/stanford-ai-discovers-natural-weight-loss-peptide/",
       "isoDate": "2026-11-08T08:00:12.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "阿貢實驗室獲百倍 GPU 記憶體加持，結合全新 AI 算力開啟「自主實驗室」研究新紀元",
-      "link": "https://technews.tw/2026/11/08/argonne-national-laboratory-expands-ai-inference-computing/",
-      "isoDate": "2026-11-08T07:00:08.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48%",
-      "link": "https://technews.tw/2026/11/08/frequent-napping-elderly-link-dementia/",
-      "isoDate": "2026-11-08T06:30:45.000Z",
       "source": "科技新報",
       "category": "科技"
     }
