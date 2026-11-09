@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-08T20:11:23.028Z",
+  "generated": "2026-11-09T00:32:09.587Z",
   "count": 5,
   "items": [
     {
-      "title": "系微10月營收1.04 億元",
-      "link": "https://finance.technews.tw/2026/11/08/insyde-6231-202610-financial-report/",
-      "isoDate": "2026-11-08T10:30:05.000Z",
+      "title": "黃仁勳承認婚外情，Nvidia董事會調查涉諜疑雲",
+      "link": "https://www.ithome.com.tw/news/180301",
+      "isoDate": "2026-11-09T08:11:22.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "微軟Intelligent Terminal支援背景執行，關閉視窗不中斷AI代理任務",
+      "link": "https://www.ithome.com.tw/news/180295",
+      "isoDate": "2026-11-09T08:11:01.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "YC 執行長陳嘉興堪稱 AI 代理「重度發燒友」，每年 token 費高達 20 萬美元",
+      "link": "https://finance.technews.tw/2026/11/09/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "isoDate": "2026-11-09T00:30:44.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AI 讓 App 變得可有可無，消費性軟體入口正轉向訊息對話框",
-      "link": "https://technews.tw/2026/11/08/ai-is-making-the-app-optional/",
-      "isoDate": "2026-11-08T09:00:45.000Z",
+      "title": "調查：Z 世代約會意願升至 34%，但只給交友軟體 AI 功能五成信任",
+      "link": "https://technews.tw/2026/11/09/gen-z-socializing-resists-ai/",
+      "isoDate": "2026-11-09T00:20:06.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "羅浮宮劫案掀骨牌效應，歐洲 14 家博物館連環淪陷，退役神偷嗆「我還是進得去」",
-      "link": "https://ccc.technews.tw/2026/11/08/louvre-heist-copycat-effect-european-museums-thefts-retired-thief-returns-claims-still-get-in/",
-      "isoDate": "2026-11-08T08:30:55.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 自動化攻擊秒速得手！防守不能只拚快，專家點名企業必備的三大資安決策",
-      "link": "https://infosecu.technews.tw/2026/11/08/three-steps-companies-should-take-to-defend-against-ai-attacks/",
-      "isoDate": "2026-11-08T08:30:20.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "AI 演算法解碼兩萬基因發現天然胜肽 BRP，進食量降 50% 且純減脂不甩肌",
-      "link": "https://technews.tw/2026/11/08/stanford-ai-discovers-natural-weight-loss-peptide/",
-      "isoDate": "2026-11-08T08:00:12.000Z",
+      "title": "用說的就能查維修數據，韓國研發對話式 AI 強化海陸空武器後勤支援",
+      "link": "https://technews.tw/2026/11/09/kai-to-develop-ai-agent-to-improve-weapon-system-efficiency/",
+      "isoDate": "2026-11-09T00:10:47.000Z",
       "source": "科技新報",
       "category": "科技"
     }
