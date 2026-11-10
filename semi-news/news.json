@@ -1,7 +1,28 @@
 {
-  "generated": "2026-11-10T09:15:53.215Z",
+  "generated": "2026-11-10T17:29:15.602Z",
   "count": 5,
   "items": [
+    {
+      "title": "DART 撞擊後，赫拉號首拍雙小行星",
+      "link": "https://technews.tw/2026/11/10/hera-captures-didymos-binary-asteroid-system-after-dart-impact/",
+      "isoDate": "2026-11-10T14:16:48.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "聯發科 10 月營收年增 5.8% 達 550.25 億元，前 10 個月營收年增 5.35%",
+      "link": "https://finance.technews.tw/2026/11/10/mediateks-october-revenue-increased-by-5-8-year-on-year/",
+      "isoDate": "2026-11-10T12:30:09.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "台積電賺大錢，決議第三季股利調升到 9 元，另認購 Anthropic 與 OpenAI 股份",
+      "link": "https://finance.technews.tw/2026/11/10/tsmcs-third-quarter-cash-dividend-reached-nt9/",
+      "isoDate": "2026-11-10T12:15:15.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "駭客利用假冒CWP網頁伺服器程式散布新型後門，全球逾34萬臺CWP主機暴露網際網路",
       "link": "https://www.ithome.com.tw/news/180361",
@@ -13,27 +34,6 @@
       "title": "主機服務商DreamHost遭駭，用戶FTP帳號密碼及網頁郵件工作階段資訊外洩 ",
       "link": "https://www.ithome.com.tw/news/180363",
       "isoDate": "2026-11-10T12:11:20.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動",
-      "link": "https://www.ithome.com.tw/news/180365",
-      "isoDate": "2026-11-10T12:11:07.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Google發布Chrome 157更新，修補已遭利用的資安漏洞",
-      "link": "https://www.ithome.com.tw/news/180360",
-      "isoDate": "2026-11-10T11:11:31.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "易遊網會員中心遭網路攻擊，逾69萬人歷史訂單聯絡資料受影響",
-      "link": "https://www.ithome.com.tw/news/180354",
-      "isoDate": "2026-11-10T11:11:11.000Z",
       "source": "iThome",
       "category": "科技"
     }
