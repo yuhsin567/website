@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-10T17:29:15.602Z",
+  "generated": "2026-11-10T22:50:31.390Z",
   "count": 5,
   "items": [
+    {
+      "title": "【科技早餐】Anthropic IPO 260 億美元認購草案曝光又撤回！台積電、NVIDIA 列名單",
+      "link": "https://techorange.com/2026/11/11/anthropic-ipo-tsmc-nvidia-investment-draft-withdrawn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "isoDate": "2026-11-10T21:30:00.000Z",
+      "source": "科技報橘",
+      "category": "產業"
+    },
     {
       "title": "DART 撞擊後，赫拉號首拍雙小行星",
       "link": "https://technews.tw/2026/11/10/hera-captures-didymos-binary-asteroid-system-after-dart-impact/",
@@ -27,13 +34,6 @@
       "title": "駭客利用假冒CWP網頁伺服器程式散布新型後門，全球逾34萬臺CWP主機暴露網際網路",
       "link": "https://www.ithome.com.tw/news/180361",
       "isoDate": "2026-11-10T12:11:40.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "主機服務商DreamHost遭駭，用戶FTP帳號密碼及網頁郵件工作階段資訊外洩 ",
-      "link": "https://www.ithome.com.tw/news/180363",
-      "isoDate": "2026-11-10T12:11:20.000Z",
       "source": "iThome",
       "category": "科技"
     }
