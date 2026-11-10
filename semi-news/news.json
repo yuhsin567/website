@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-10T01:52:52.142Z",
+  "generated": "2026-11-10T09:15:53.215Z",
   "count": 5,
   "items": [
     {
-      "title": "DigiCert發生資料外洩，起因是伺服器遷移出錯",
-      "link": "https://www.ithome.com.tw/news/180342",
-      "isoDate": "2026-11-10T09:11:01.000Z",
+      "title": "駭客利用假冒CWP網頁伺服器程式散布新型後門，全球逾34萬臺CWP主機暴露網際網路",
+      "link": "https://www.ithome.com.tw/news/180361",
+      "isoDate": "2026-11-10T12:11:40.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Nous Research改造Qwen模型，注入西方價值並減少政治偏差",
-      "link": "https://www.ithome.com.tw/news/180350",
-      "isoDate": "2026-11-10T08:11:50.000Z",
+      "title": "主機服務商DreamHost遭駭，用戶FTP帳號密碼及網頁郵件工作階段資訊外洩 ",
+      "link": "https://www.ithome.com.tw/news/180363",
+      "isoDate": "2026-11-10T12:11:20.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "法國將10月冷凍、冷藏設備網攻歸因於伊朗網軍，波及700多處零售據點、損失數千萬歐元",
-      "link": "https://www.ithome.com.tw/news/180349",
-      "isoDate": "2026-11-10T08:11:47.000Z",
+      "title": "甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動",
+      "link": "https://www.ithome.com.tw/news/180365",
+      "isoDate": "2026-11-10T12:11:07.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "整合開發環境GoLand 2026.3讓AI代理直接操作效能分析器，追查Go程式瓶頸",
-      "link": "https://www.ithome.com.tw/news/180347",
-      "isoDate": "2026-11-10T08:11:00.000Z",
+      "title": "Google發布Chrome 157更新，修補已遭利用的資安漏洞",
+      "link": "https://www.ithome.com.tw/news/180360",
+      "isoDate": "2026-11-10T11:11:31.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI加快漏洞發現與攻擊速度，2027年企業資安面臨四大變化",
-      "link": "https://www.ithome.com.tw/news/180299",
-      "isoDate": "2026-11-10T08:11:00.000Z",
+      "title": "易遊網會員中心遭網路攻擊，逾69萬人歷史訂單聯絡資料受影響",
+      "link": "https://www.ithome.com.tw/news/180354",
+      "isoDate": "2026-11-10T11:11:11.000Z",
       "source": "iThome",
       "category": "科技"
     }
