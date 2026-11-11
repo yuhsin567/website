@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-11T10:20:06.342Z",
+  "generated": "2026-11-11T18:22:37.728Z",
   "count": 5,
   "items": [
+    {
+      "title": "DeepMind以AI代理驗證Signal加密實作安全性，數學證明擴及機器碼層級",
+      "link": "https://www.ithome.com.tw/news/180430",
+      "isoDate": "2026-11-12T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料 ",
       "link": "https://www.ithome.com.tw/news/180414",
@@ -24,17 +31,10 @@
       "category": "科技"
     },
     {
-      "title": "Apple發布iOS、iPadOS 27.2.1與18.7.12版，緊急修補10個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/180410",
-      "isoDate": "2026-11-11T11:11:59.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "微軟警告Outlook零時差漏洞已遭到利用",
-      "link": "https://www.ithome.com.tw/news/180405",
-      "isoDate": "2026-11-11T11:11:38.000Z",
-      "source": "iThome",
+      "title": "鑰匙錢包不怕弄丟，Pixel Tag 雙 11 開賣幫找失物",
+      "link": "https://ccc.technews.tw/2026/11/11/google-pixel-tag-launches-in-taiwan/",
+      "isoDate": "2026-11-11T11:34:08.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
