@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-10T22:50:31.390Z",
+  "generated": "2026-11-11T02:31:36.228Z",
   "count": 5,
   "items": [
     {
-      "title": "【科技早餐】Anthropic IPO 260 億美元認購草案曝光又撤回！台積電、NVIDIA 列名單",
-      "link": "https://techorange.com/2026/11/11/anthropic-ipo-tsmc-nvidia-investment-draft-withdrawn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-11-10T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "DART 撞擊後，赫拉號首拍雙小行星",
-      "link": "https://technews.tw/2026/11/10/hera-captures-didymos-binary-asteroid-system-after-dart-impact/",
-      "isoDate": "2026-11-10T14:16:48.000Z",
-      "source": "科技新報",
+      "title": "Anthropic啟動IPO投資人說明會，最多募資625億美元",
+      "link": "https://www.ithome.com.tw/news/180402",
+      "isoDate": "2026-11-11T09:11:44.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "聯發科 10 月營收年增 5.8% 達 550.25 億元，前 10 個月營收年增 5.35%",
-      "link": "https://finance.technews.tw/2026/11/10/mediateks-october-revenue-increased-by-5-8-year-on-year/",
-      "isoDate": "2026-11-10T12:30:09.000Z",
-      "source": "科技新報",
+      "title": "Reddit利用AI整理商品評價，首波涵蓋約1萬項商品",
+      "link": "https://www.ithome.com.tw/news/180401",
+      "isoDate": "2026-11-11T09:11:09.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "台積電賺大錢，決議第三季股利調升到 9 元，另認購 Anthropic 與 OpenAI 股份",
-      "link": "https://finance.technews.tw/2026/11/10/tsmcs-third-quarter-cash-dividend-reached-nt9/",
-      "isoDate": "2026-11-10T12:15:15.000Z",
-      "source": "科技新報",
+      "title": "迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
+      "link": "https://www.ithome.com.tw/news/180397",
+      "isoDate": "2026-11-11T08:11:52.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "駭客利用假冒CWP網頁伺服器程式散布新型後門，全球逾34萬臺CWP主機暴露網際網路",
-      "link": "https://www.ithome.com.tw/news/180361",
-      "isoDate": "2026-11-10T12:11:40.000Z",
+      "title": "俄羅斯駭客入侵羅馬尼亞政府Exchange伺服器，意圖竊取北約及歐盟相關郵件",
+      "link": "https://www.ithome.com.tw/news/180399",
+      "isoDate": "2026-11-11T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "柏克萊研究推演2027至2029年AI資安威脅，AI代理供應鏈與自動化攻防成焦點",
+      "link": "https://www.ithome.com.tw/news/180348",
+      "isoDate": "2026-11-11T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
