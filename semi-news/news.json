@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-11T18:22:37.728Z",
+  "generated": "2026-11-12T01:18:35.917Z",
   "count": 5,
   "items": [
+    {
+      "title": "Git修補6項資安漏洞，惡意儲存庫恐觸發任意程式碼執行",
+      "link": "https://www.ithome.com.tw/news/180432",
+      "isoDate": "2026-11-12T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "DeepMind以AI代理驗證Signal加密實作安全性，數學證明擴及機器碼層級",
       "link": "https://www.ithome.com.tw/news/180430",
@@ -10,31 +17,24 @@
       "category": "科技"
     },
     {
-      "title": "駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料 ",
-      "link": "https://www.ithome.com.tw/news/180414",
-      "isoDate": "2026-11-11T12:11:44.000Z",
+      "title": "微軟揭露駭客利用代理型AI搜尋GitHub外洩憑證，5分鐘內從Azure Key Vault外傳資料",
+      "link": "https://www.ithome.com.tw/news/180400",
+      "isoDate": "2026-11-12T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "主動管理AI價值與風險，Gartner建議企業可採取三項措施",
-      "link": "https://www.ithome.com.tw/news/180412",
-      "isoDate": "2026-11-11T12:11:43.000Z",
+      "title": "Google預測2027年資安趨勢，AI代理將深入SOC與企業防禦",
+      "link": "https://www.ithome.com.tw/news/180372",
+      "isoDate": "2026-11-12T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "CISA警告6個弱點遭積極利用，其中包含Outlook、Chrome零時差漏洞",
-      "link": "https://www.ithome.com.tw/news/180413",
-      "isoDate": "2026-11-11T12:11:29.000Z",
+      "title": "Cloudflare研究新一代身分驗證技術，兼顧後量子安全與AI代理流量管理",
+      "link": "https://www.ithome.com.tw/news/180305",
+      "isoDate": "2026-11-12T08:11:00.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "鑰匙錢包不怕弄丟，Pixel Tag 雙 11 開賣幫找失物",
-      "link": "https://ccc.technews.tw/2026/11/11/google-pixel-tag-launches-in-taiwan/",
-      "isoDate": "2026-11-11T11:34:08.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
