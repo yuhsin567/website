@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-12T01:18:35.917Z",
+  "generated": "2026-11-12T09:17:39.824Z",
   "count": 5,
   "items": [
     {
-      "title": "Git修補6項資安漏洞，惡意儲存庫恐觸發任意程式碼執行",
-      "link": "https://www.ithome.com.tw/news/180432",
-      "isoDate": "2026-11-12T08:11:00.000Z",
+      "title": "Google同步更新Chrome 157穩定版、Chrome 156延伸穩定版與ChromeOS LTS版",
+      "link": "https://www.ithome.com.tw/news/180443",
+      "isoDate": "2026-11-12T12:11:54.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "DeepMind以AI代理驗證Signal加密實作安全性，數學證明擴及機器碼層級",
-      "link": "https://www.ithome.com.tw/news/180430",
-      "isoDate": "2026-11-12T08:11:00.000Z",
+      "title": "OpenAI招募AI旅遊規畫平臺Odessia創辦人",
+      "link": "https://www.ithome.com.tw/news/180441",
+      "isoDate": "2026-11-12T12:11:43.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "微軟揭露駭客利用代理型AI搜尋GitHub外洩憑證，5分鐘內從Azure Key Vault外傳資料",
-      "link": "https://www.ithome.com.tw/news/180400",
-      "isoDate": "2026-11-12T08:11:00.000Z",
+      "title": "菲律賓證管會傳數位平臺被駭，逾40萬用戶資料外洩",
+      "link": "https://www.ithome.com.tw/news/180442",
+      "isoDate": "2026-11-12T12:11:01.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google預測2027年資安趨勢，AI代理將深入SOC與企業防禦",
-      "link": "https://www.ithome.com.tw/news/180372",
-      "isoDate": "2026-11-12T08:11:00.000Z",
+      "title": "航運巨擘馬士基證實資料外洩，傳遭勒索組織WhiteArmor索討500萬美元",
+      "link": "https://www.ithome.com.tw/news/180437",
+      "isoDate": "2026-11-12T11:11:34.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Cloudflare研究新一代身分驗證技術，兼顧後量子安全與AI代理流量管理",
-      "link": "https://www.ithome.com.tw/news/180305",
-      "isoDate": "2026-11-12T08:11:00.000Z",
+      "title": "N-central資安漏洞Able2Shell公布後出現嘗試利用活動",
+      "link": "https://www.ithome.com.tw/news/180439",
+      "isoDate": "2026-11-12T11:11:29.000Z",
       "source": "iThome",
       "category": "科技"
     }
