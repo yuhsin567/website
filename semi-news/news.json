@@ -1,40 +1,40 @@
 {
-  "generated": "2026-11-12T23:13:27.583Z",
+  "generated": "2026-11-13T05:05:06.768Z",
   "count": 5,
   "items": [
     {
-      "title": "基因序列預測模型AlphaGenome 2深入細胞層次，追查疾病相關DNA變異",
-      "link": "https://www.ithome.com.tw/news/180462",
-      "isoDate": "2026-11-13T08:11:00.000Z",
+      "title": "Apache修補網頁伺服器HTTP/2模組的重大漏洞，64%雲端環境恐曝險",
+      "link": "https://www.ithome.com.tw/news/180490",
+      "isoDate": "2026-11-13T12:11:45.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "為玩〈俠盜獵車手 VI〉請假人數是度蜜月兩倍，英國假期成本估達 5.4 億元",
-      "link": "https://technews.tw/2026/11/13/grand-theft-auto-vi-sparks-getaway-as-uk-workers-book-time-off/",
-      "isoDate": "2026-11-12T23:10:31.000Z",
-      "source": "科技新報",
+      "title": "Rust 1.100允許延後採用新套件，Never Type歷經10年正式穩定",
+      "link": "https://www.ithome.com.tw/news/180489",
+      "isoDate": "2026-11-13T12:11:12.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "【科技早餐】北京拚年產 20 萬台機器人！三星 HBM 新廠動工、規劃投資 46 兆韓元",
-      "link": "https://techorange.com/2026/11/13/beijing-humanoid-robots-samsung-hbm-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "isoDate": "2026-11-12T21:30:00.000Z",
-      "source": "科技報橘",
-      "category": "產業"
-    },
-    {
-      "title": "輝達臨時執行長致信員工穩定軍心，坦承艱難期但對未來充滿信心",
-      "link": "https://finance.technews.tw/2026/11/13/nvidias-interim-ceo-sends-letter-to-employees-to-reassure-staff/",
-      "isoDate": "2026-11-12T18:40:27.000Z",
-      "source": "科技新報",
+      "title": "美而快電商系統遭異常存取，部分請求涉及會員訂單API",
+      "link": "https://www.ithome.com.tw/news/180488",
+      "isoDate": "2026-11-13T11:11:37.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "黃仁勳確定去職，華爾街分析看好 AMD 業績與市場未來表現",
-      "link": "https://finance.technews.tw/2026/11/13/wall-street-analysts-are-optimistic-about-amds-future-performance-and-market-outlook/",
-      "isoDate": "2026-11-12T18:15:27.000Z",
-      "source": "科技新報",
+      "title": "長榮物流部分資訊系統遭攻擊，啟動資安防禦與復原機制",
+      "link": "https://www.ithome.com.tw/news/180484",
+      "isoDate": "2026-11-13T10:11:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "泰航與芬蘭航空各因Amadeus資安事件外洩逾6萬筆與11萬筆旅客資訊",
+      "link": "https://www.ithome.com.tw/news/180477",
+      "isoDate": "2026-11-13T10:11:39.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
