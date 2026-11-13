@@ -1,7 +1,21 @@
 {
-  "generated": "2026-11-13T05:05:06.768Z",
+  "generated": "2026-11-13T13:55:36.944Z",
   "count": 5,
   "items": [
+    {
+      "title": "跑起來，別用走的！皮衣黃仁勳再也不上台演講的 AI 時代就這樣跑步來臨",
+      "link": "https://finance.technews.tw/2026/11/13/the-ai-%e2%80%8b%e2%80%8bera-is-rapidly-approaching-with-jensen-huang-no-longer-giving-speeches-on-stage/",
+      "isoDate": "2026-11-13T12:45:40.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "聯手 Palantir 與台灣廠商，L3Harris 展示聯合全領域作戰網路",
+      "link": "https://technews.tw/2026/11/13/l3harris-published-its-jado-tech-in-taiwan-for-the-first-time/",
+      "isoDate": "2026-11-13T12:40:41.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Apache修補網頁伺服器HTTP/2模組的重大漏洞，64%雲端環境恐曝險",
       "link": "https://www.ithome.com.tw/news/180490",
@@ -17,24 +31,10 @@
       "category": "科技"
     },
     {
-      "title": "美而快電商系統遭異常存取，部分請求涉及會員訂單API",
-      "link": "https://www.ithome.com.tw/news/180488",
-      "isoDate": "2026-11-13T11:11:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "長榮物流部分資訊系統遭攻擊，啟動資安防禦與復原機制",
-      "link": "https://www.ithome.com.tw/news/180484",
-      "isoDate": "2026-11-13T10:11:54.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "泰航與芬蘭航空各因Amadeus資安事件外洩逾6萬筆與11萬筆旅客資訊",
-      "link": "https://www.ithome.com.tw/news/180477",
-      "isoDate": "2026-11-13T10:11:39.000Z",
-      "source": "iThome",
+      "title": "黃仁勳傳奇造就身價 8 億研發人才，財務長臨危接棒留才成關鍵課題",
+      "link": "https://finance.technews.tw/2026/11/13/jensen-huangs-legendary-success-has-created-a-net-worth-of-800-million-for-nvidias-rd-talent/",
+      "isoDate": "2026-11-13T12:00:08.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
