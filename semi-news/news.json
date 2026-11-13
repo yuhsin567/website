@@ -1,7 +1,21 @@
 {
-  "generated": "2026-11-13T13:55:36.944Z",
+  "generated": "2026-11-13T20:45:42.205Z",
   "count": 5,
   "items": [
+    {
+      "title": "哈伯太空望遠鏡凝視 M30，追溯銀河系早期歷史",
+      "link": "https://technews.tw/2026/11/14/hubble-peers-into-m30-to-trace-the-milky-ways-early-history/",
+      "isoDate": "2026-11-13T16:00:47.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "唾液檢測掌握生理時鐘，德國新創 TimeTeller 助癌症治療精準掌握「給藥時機」",
+      "link": "https://technews.tw/2026/11/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "isoDate": "2026-11-13T16:00:14.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "跑起來，別用走的！皮衣黃仁勳再也不上台演講的 AI 時代就這樣跑步來臨",
       "link": "https://finance.technews.tw/2026/11/13/the-ai-%e2%80%8b%e2%80%8bera-is-rapidly-approaching-with-jensen-huang-no-longer-giving-speeches-on-stage/",
@@ -21,20 +35,6 @@
       "link": "https://www.ithome.com.tw/news/180490",
       "isoDate": "2026-11-13T12:11:45.000Z",
       "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Rust 1.100允許延後採用新套件，Never Type歷經10年正式穩定",
-      "link": "https://www.ithome.com.tw/news/180489",
-      "isoDate": "2026-11-13T12:11:12.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "黃仁勳傳奇造就身價 8 億研發人才，財務長臨危接棒留才成關鍵課題",
-      "link": "https://finance.technews.tw/2026/11/13/jensen-huangs-legendary-success-has-created-a-net-worth-of-800-million-for-nvidias-rd-talent/",
-      "isoDate": "2026-11-13T12:00:08.000Z",
-      "source": "科技新報",
       "category": "科技"
     }
   ]
