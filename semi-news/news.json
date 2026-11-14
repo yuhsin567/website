@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-14T08:36:04.296Z",
+  "generated": "2026-11-14T15:33:01.150Z",
   "count": 5,
   "items": [
+    {
+      "title": "AI趨勢周報第294期：AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰",
+      "link": "https://www.ithome.com.tw/news/180507",
+      "isoDate": "2026-11-14T11:11:39.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "減重手術對第二型糖尿病療效最佳，14 年追蹤緩解率達六成",
+      "link": "https://technews.tw/2026/11/14/could-type-2-diabetes-be-reversed-14-year-study-reveals-remarkable-results/",
+      "isoDate": "2026-11-14T09:00:25.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "特斯拉前能源主管創立 Lunar Energy，以可堆疊電池與雙向充電器挑戰 Powerwall",
+      "link": "https://technews.tw/2026/11/14/the-biggest-threat-to-teslas-home-battery-business-is-its-ex-chief/",
+      "isoDate": "2026-11-14T09:00:12.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "微軟全球當機，傳真機、電話、藍牙成企業救命三寶",
+      "link": "https://technews.tw/2026/11/14/microsoft-365-fax-machine-phone-call-bluetooth/",
+      "isoDate": "2026-11-14T08:36:14.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "宛如 40 年前賈伯斯遭逼宮重演：黃仁勳深陷地緣政治風暴，輝達帝國面臨權力危機",
       "link": "https://finance.technews.tw/2026/11/14/chinese-media-state-machinery-targets-jensen-huang-personal-conduct-political-persecution/",
       "isoDate": "2026-11-14T08:30:56.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "韋伯望遠鏡發現 130 億年前原始星系，含氧量僅太陽 1/240",
-      "link": "https://technews.tw/2026/11/14/james-webb-discovers-a-nearly-pristine-galaxy-from-the-dawn-of-the-universe/",
-      "isoDate": "2026-11-14T08:00:17.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "吃素的貓咪比較不容易過胖？大型調查發現值得進一步研究的現象",
-      "link": "https://technews.tw/2026/11/14/can-vegan-cat-food-really-help-prevent-obesity/",
-      "isoDate": "2026-11-14T07:30:40.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia 接班人傳鎖定 Arm 執行長，昔日收購對象如今成救兵？",
-      "link": "https://finance.technews.tw/2026/11/14/nvidia-arm-rene-haas/",
-      "isoDate": "2026-11-14T07:21:00.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "馬斯克加入聲援黃仁勳行列，表態簽署請願書盼重返 Nvidia",
-      "link": "https://finance.technews.tw/2026/11/14/elon-musk-jensen-huang/",
-      "isoDate": "2026-11-14T07:10:31.000Z",
       "source": "科技新報",
       "category": "科技"
     }
