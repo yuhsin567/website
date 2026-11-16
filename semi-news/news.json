@@ -1,40 +1,40 @@
 {
-  "generated": "2026-11-16T00:45:20.602Z",
+  "generated": "2026-11-16T07:39:08.488Z",
   "count": 5,
   "items": [
     {
-      "title": "蘋果前 CPU 大將創業，Nuvacore 瞄準 AI 資料中心處理器",
-      "link": "https://technews.tw/2026/11/16/former-apple-chip-architect-says-ai-cuts-months-from-early-cpu-design/",
-      "isoDate": "2026-11-16T00:45:00.000Z",
-      "source": "科技新報",
+      "title": "CISA警告Check Point權限提升漏洞遭積極利用",
+      "link": "https://www.ithome.com.tw/news/180528",
+      "isoDate": "2026-11-16T12:11:29.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "貝森特質疑輝達銷售數據、內控  籲從外部延攬 CEO",
-      "link": "https://finance.technews.tw/2026/11/16/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo/",
-      "isoDate": "2026-11-16T00:35:39.000Z",
-      "source": "科技新報",
+      "title": "MongoDB修補可能導致資料庫切換節點時當機的重大漏洞",
+      "link": "https://www.ithome.com.tw/news/180527",
+      "isoDate": "2026-11-16T12:11:25.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "用 AI 代理看管 AI 代理，資安新創 WhiteMatter 完成 2,000 萬美元 A 輪融資",
-      "link": "https://infosecu.technews.tw/2026/11/16/whitematter-raises-20m-series-a-to-close-the-growing-gap-between-ai-autonomy-and-enterprise-governance/",
-      "isoDate": "2026-11-16T00:30:15.000Z",
-      "source": "科技新報",
+      "title": "韓國企業協作平臺DaouOffice傳遭零時差漏洞攻擊，客戶共用帳號又遭暴力破解，至少3家金融業者受駭",
+      "link": "https://www.ithome.com.tw/news/180522",
+      "isoDate": "2026-11-16T12:11:05.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "沒有延後  Rapidus：2027 年底至 2028 年初量產 2 奈米",
-      "link": "https://technews.tw/2026/11/16/rapidus-no-delays-2nm-mass-production-late-2027-early-2028/",
-      "isoDate": "2026-11-16T00:25:06.000Z",
-      "source": "科技新報",
+      "title": "微軟Windows本機AI模型將改用Aion Instruct，輸入上下文上限擴大逾9倍",
+      "link": "https://www.ithome.com.tw/news/180525",
+      "isoDate": "2026-11-16T12:11:03.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "韓國電視劇產業陷嚴冬，尋求 1 兆韓圜政府投資",
-      "link": "https://technews.tw/2026/11/16/south-korea-tv-drama-industry-faces-a-deep-slump/",
-      "isoDate": "2026-11-16T00:20:46.000Z",
-      "source": "科技新報",
+      "title": "Cursor受Fireworks AI事件波及，惡意版Anthropic Claude擴充程式於Cursor市集上架",
+      "link": "https://www.ithome.com.tw/news/180519",
+      "isoDate": "2026-11-16T11:11:44.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
