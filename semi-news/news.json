@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-16T07:39:08.488Z",
+  "generated": "2026-11-16T17:56:11.330Z",
   "count": 5,
   "items": [
+    {
+      "title": "土衛六遭撞或催生土星環，卡西尼號資料揭土星多項未解之謎",
+      "link": "https://technews.tw/2026/11/16/saturn-facts-from-nasa-which-details-are-fixed-and-which-are-still-being-revised/",
+      "isoDate": "2026-11-16T14:38:50.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "CISA警告Check Point權限提升漏洞遭積極利用",
       "link": "https://www.ithome.com.tw/news/180528",
@@ -27,13 +34,6 @@
       "title": "微軟Windows本機AI模型將改用Aion Instruct，輸入上下文上限擴大逾9倍",
       "link": "https://www.ithome.com.tw/news/180525",
       "isoDate": "2026-11-16T12:11:03.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Cursor受Fireworks AI事件波及，惡意版Anthropic Claude擴充程式於Cursor市集上架",
-      "link": "https://www.ithome.com.tw/news/180519",
-      "isoDate": "2026-11-16T11:11:44.000Z",
       "source": "iThome",
       "category": "科技"
     }
