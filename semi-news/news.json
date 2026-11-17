@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-17T10:11:44.672Z",
+  "generated": "2026-11-17T19:36:57.517Z",
   "count": 5,
   "items": [
+    {
+      "title": "恆星沒爆炸就直接塌縮？重力波揭開「失敗超新星」孕育黑洞的奧祕",
+      "link": "https://technews.tw/2026/11/17/gravitational-waves-suggest-black-hole-origin-failed-supernovae/",
+      "isoDate": "2026-11-17T14:21:41.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "公開網路上存在逾3,800個AI攻擊框架執行個體，臺灣也有20個",
       "link": "https://www.ithome.com.tw/news/180560",
@@ -27,13 +34,6 @@
       "title": "漏洞濫用速度加快，Anthropic將重大漏洞揭露靜默期由90天縮短為30天",
       "link": "https://www.ithome.com.tw/news/180557",
       "isoDate": "2026-11-17T11:11:55.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "美國加強AI晶片出口管制，限制中國等國家透過海外資料中心取得算力",
-      "link": "https://www.ithome.com.tw/news/180558",
-      "isoDate": "2026-11-17T11:11:41.000Z",
       "source": "iThome",
       "category": "科技"
     }
