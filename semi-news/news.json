@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-17T01:39:34.360Z",
+  "generated": "2026-11-17T10:11:44.672Z",
   "count": 5,
   "items": [
     {
-      "title": "微軟揭露Microsoft 365全球當機原因，潛伏3個月的程式錯誤釀禍",
-      "link": "https://www.ithome.com.tw/news/180549",
-      "isoDate": "2026-11-17T08:11:06.000Z",
+      "title": "公開網路上存在逾3,800個AI攻擊框架執行個體，臺灣也有20個",
+      "link": "https://www.ithome.com.tw/news/180560",
+      "isoDate": "2026-11-17T12:11:39.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "歐盟網路安全局示警漏洞公開後數分鐘內恐遭利用，AI與供應鏈依賴加劇資安風險",
-      "link": "https://www.ithome.com.tw/news/180493",
-      "isoDate": "2026-11-17T08:11:00.000Z",
+      "title": "駭客利用AI自動化漏洞研究，遭到利用的零時差漏洞一個月爆增至22個",
+      "link": "https://www.ithome.com.tw/news/180561",
+      "isoDate": "2026-11-17T12:11:10.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "OWASP公布AI資料中心十大資安風險，韌體遭竄改、高速網路防護不足列重大風險",
-      "link": "https://www.ithome.com.tw/news/180526",
-      "isoDate": "2026-11-17T08:11:00.000Z",
+      "title": "Apple調整macOS App權限管理，27.3測試版開始可限制存取範圍",
+      "link": "https://www.ithome.com.tw/news/180559",
+      "isoDate": "2026-11-17T12:11:08.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美國查扣北韓駭客FaceStealer攻擊基礎設施，另凍結逾27億美元Binance遭竊資產",
-      "link": "https://www.ithome.com.tw/news/180495",
-      "isoDate": "2026-11-17T08:11:00.000Z",
+      "title": "漏洞濫用速度加快，Anthropic將重大漏洞揭露靜默期由90天縮短為30天",
+      "link": "https://www.ithome.com.tw/news/180557",
+      "isoDate": "2026-11-17T11:11:55.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "英法發布商業網路入侵產業指引，籲業者審查客戶、必要時停止銷售工具",
-      "link": "https://www.ithome.com.tw/news/180491",
-      "isoDate": "2026-11-17T08:11:00.000Z",
+      "title": "美國加強AI晶片出口管制，限制中國等國家透過海外資料中心取得算力",
+      "link": "https://www.ithome.com.tw/news/180558",
+      "isoDate": "2026-11-17T11:11:41.000Z",
       "source": "iThome",
       "category": "科技"
     }
