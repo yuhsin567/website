@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-18T11:07:48.513Z",
+  "generated": "2026-11-18T19:58:21.762Z",
   "count": 5,
   "items": [
+    {
+      "title": "找到 8 分鐘重複一次的神祕電波來源，天文學家證實源自白矮星雙星系統",
+      "link": "https://technews.tw/2026/11/18/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it/",
+      "isoDate": "2026-11-18T13:56:15.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "OpenAI推出GPT-6.2雙模型，Astra首度達AI自我改進高風險門檻",
       "link": "https://www.ithome.com.tw/news/180605",
@@ -27,13 +34,6 @@
       "title": "資安署揭露某機關平臺忘記帳號功能存在身分驗證漏洞，而被新增34組異常帳號",
       "link": "https://www.ithome.com.tw/news/180607",
       "isoDate": "2026-11-18T12:11:08.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Node.js修補16個漏洞，包括可能導致伺服器當機與洩漏連線資料的HTTP/2漏洞",
-      "link": "https://www.ithome.com.tw/news/180608",
-      "isoDate": "2026-11-18T12:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
