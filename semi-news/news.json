@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-17T19:36:57.517Z",
+  "generated": "2026-11-18T02:07:15.867Z",
   "count": 5,
   "items": [
     {
-      "title": "恆星沒爆炸就直接塌縮？重力波揭開「失敗超新星」孕育黑洞的奧祕",
-      "link": "https://technews.tw/2026/11/17/gravitational-waves-suggest-black-hole-origin-failed-supernovae/",
-      "isoDate": "2026-11-17T14:21:41.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "公開網路上存在逾3,800個AI攻擊框架執行個體，臺灣也有20個",
-      "link": "https://www.ithome.com.tw/news/180560",
-      "isoDate": "2026-11-17T12:11:39.000Z",
+      "title": "Redshift支援Iceberg資料表多陳述式交易，避免讀取未完成更新",
+      "link": "https://www.ithome.com.tw/news/180576",
+      "isoDate": "2026-11-18T09:11:53.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "駭客利用AI自動化漏洞研究，遭到利用的零時差漏洞一個月爆增至22個",
-      "link": "https://www.ithome.com.tw/news/180561",
-      "isoDate": "2026-11-17T12:11:10.000Z",
+      "title": "Nvidia營收翻倍，黃仁勳首度表態願回任Nvidia執行長",
+      "link": "https://www.ithome.com.tw/news/180587",
+      "isoDate": "2026-11-18T09:11:35.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Apple調整macOS App權限管理，27.3測試版開始可限制存取範圍",
-      "link": "https://www.ithome.com.tw/news/180559",
-      "isoDate": "2026-11-17T12:11:08.000Z",
+      "title": "駭客利用Microsoft 365當機事件發動釣魚攻擊，謊稱郵件將遭刪除誘騙點擊連結",
+      "link": "https://www.ithome.com.tw/news/180577",
+      "isoDate": "2026-11-18T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "漏洞濫用速度加快，Anthropic將重大漏洞揭露靜默期由90天縮短為30天",
-      "link": "https://www.ithome.com.tw/news/180557",
-      "isoDate": "2026-11-17T11:11:55.000Z",
+      "title": "AI加速嵌入式設備漏洞挖掘，研究人員90小時找出66項TCP/IP協定堆疊新漏洞",
+      "link": "https://www.ithome.com.tw/news/180564",
+      "isoDate": "2026-11-18T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Google揭駭客利用多代理AI框架發動攻擊，另有工具可自動發掘及利用漏洞",
+      "link": "https://www.ithome.com.tw/news/180563",
+      "isoDate": "2026-11-18T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
