@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-18T02:07:15.867Z",
+  "generated": "2026-11-18T11:07:48.513Z",
   "count": 5,
   "items": [
     {
-      "title": "Redshift支援Iceberg資料表多陳述式交易，避免讀取未完成更新",
-      "link": "https://www.ithome.com.tw/news/180576",
-      "isoDate": "2026-11-18T09:11:53.000Z",
+      "title": "OpenAI推出GPT-6.2雙模型，Astra首度達AI自我改進高風險門檻",
+      "link": "https://www.ithome.com.tw/news/180605",
+      "isoDate": "2026-11-18T12:11:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Nvidia營收翻倍，黃仁勳首度表態願回任Nvidia執行長",
-      "link": "https://www.ithome.com.tw/news/180587",
-      "isoDate": "2026-11-18T09:11:35.000Z",
+      "title": "N-able發布N-central重大安全更新，修補17個漏洞並強化身分驗證機制",
+      "link": "https://www.ithome.com.tw/news/180606",
+      "isoDate": "2026-11-18T12:11:24.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "駭客利用Microsoft 365當機事件發動釣魚攻擊，謊稱郵件將遭刪除誘騙點擊連結",
-      "link": "https://www.ithome.com.tw/news/180577",
-      "isoDate": "2026-11-18T08:11:00.000Z",
+      "title": "Chrome 158正式推出，修補204個資安漏洞",
+      "link": "https://www.ithome.com.tw/news/180609",
+      "isoDate": "2026-11-18T12:11:17.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI加速嵌入式設備漏洞挖掘，研究人員90小時找出66項TCP/IP協定堆疊新漏洞",
-      "link": "https://www.ithome.com.tw/news/180564",
-      "isoDate": "2026-11-18T08:11:00.000Z",
+      "title": "資安署揭露某機關平臺忘記帳號功能存在身分驗證漏洞，而被新增34組異常帳號",
+      "link": "https://www.ithome.com.tw/news/180607",
+      "isoDate": "2026-11-18T12:11:08.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google揭駭客利用多代理AI框架發動攻擊，另有工具可自動發掘及利用漏洞",
-      "link": "https://www.ithome.com.tw/news/180563",
-      "isoDate": "2026-11-18T08:11:00.000Z",
+      "title": "Node.js修補16個漏洞，包括可能導致伺服器當機與洩漏連線資料的HTTP/2漏洞",
+      "link": "https://www.ithome.com.tw/news/180608",
+      "isoDate": "2026-11-18T12:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
