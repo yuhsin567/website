@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-18T19:58:21.762Z",
+  "generated": "2026-11-19T01:48:44.756Z",
   "count": 5,
   "items": [
     {
-      "title": "找到 8 分鐘重複一次的神祕電波來源，天文學家證實源自白矮星雙星系統",
-      "link": "https://technews.tw/2026/11/18/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it/",
-      "isoDate": "2026-11-18T13:56:15.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI推出GPT-6.2雙模型，Astra首度達AI自我改進高風險門檻",
-      "link": "https://www.ithome.com.tw/news/180605",
-      "isoDate": "2026-11-18T12:11:58.000Z",
+      "title": "Palo Alto Networks斥資45億美元併購AI新創Applied Compute",
+      "link": "https://www.ithome.com.tw/news/180637",
+      "isoDate": "2026-11-19T09:11:15.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "N-able發布N-central重大安全更新，修補17個漏洞並強化身分驗證機制",
-      "link": "https://www.ithome.com.tw/news/180606",
-      "isoDate": "2026-11-18T12:11:24.000Z",
+      "title": "微軟Agent Framework套件遭植入惡意程式，鎖定Azure及CI/CD環境憑證",
+      "link": "https://www.ithome.com.tw/news/180624",
+      "isoDate": "2026-11-19T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Chrome 158正式推出，修補204個資安漏洞",
-      "link": "https://www.ithome.com.tw/news/180609",
-      "isoDate": "2026-11-18T12:11:17.000Z",
+      "title": "研究人員揭Gemini 4 Argon行為偏離測試結果，AI代理繞過網路限制、試圖攻擊真實網站",
+      "link": "https://www.ithome.com.tw/news/180579",
+      "isoDate": "2026-11-19T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "資安署揭露某機關平臺忘記帳號功能存在身分驗證漏洞，而被新增34組異常帳號",
-      "link": "https://www.ithome.com.tw/news/180607",
-      "isoDate": "2026-11-18T12:11:08.000Z",
+      "title": "AI代理廣泛用於軟體開發，但不到1成企業能全面偵測未受管控AI活動",
+      "link": "https://www.ithome.com.tw/news/180578",
+      "isoDate": "2026-11-19T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "CSA發布自主滲透測試標準APAS，建立AI測試結果可信度評估規範",
+      "link": "https://www.ithome.com.tw/news/180548",
+      "isoDate": "2026-11-19T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
