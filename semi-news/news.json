@@ -1,40 +1,40 @@
 {
-  "generated": "2026-11-20T01:01:48.555Z",
+  "generated": "2026-11-20T09:40:04.702Z",
   "count": 5,
   "items": [
     {
-      "title": "Ruby修補7項記憶體安全漏洞，5項可能導致遠端程式碼執行",
-      "link": "https://www.ithome.com.tw/news/180667",
-      "isoDate": "2026-11-20T08:11:00.000Z",
+      "title": "PHP釋出安全更新修補18個漏洞，7個為重大等級",
+      "link": "https://www.ithome.com.tw/news/180678",
+      "isoDate": "2026-11-20T12:11:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
-      "link": "https://www.ithome.com.tw/news/180652",
-      "isoDate": "2026-11-20T08:11:00.000Z",
+      "title": "Google跟進OpenAI、Anthropic，Gemini開始支援Mac電腦操作",
+      "link": "https://www.ithome.com.tw/news/180677",
+      "isoDate": "2026-11-20T11:11:19.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "API金鑰隨Docker Hub映像檔對外曝光，研究發現最快7.86秒就遭濫用",
-      "link": "https://www.ithome.com.tw/news/180635",
-      "isoDate": "2026-11-20T08:11:00.000Z",
+      "title": "VMware發布資安更新，修補重大等級的vCenter漏洞，警告只能升級沒有其他替代緩解方法",
+      "link": "https://www.ithome.com.tw/news/180673",
+      "isoDate": "2026-11-20T10:11:42.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元",
-      "link": "https://www.ithome.com.tw/news/180568",
-      "isoDate": "2026-11-20T08:11:00.000Z",
+      "title": "中國駭客利用VMware vCenter零時差漏洞入侵，部署後門以竊取資料",
+      "link": "https://www.ithome.com.tw/news/180674",
+      "isoDate": "2026-11-20T10:11:06.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 硬體撐腰，大摩上修台灣 2027 年 GDP 成長至 8.7%",
-      "link": "https://technews.tw/2026/11/20/morgan-stanley-raises-taiwan-2027-gdp-growth-forecast-8-7-ai-hardware-support/",
-      "isoDate": "2026-11-20T00:50:58.000Z",
-      "source": "科技新報",
+      "title": "歐盟執委會遭AI網攻，ARTEX開源工具成駭客利器",
+      "link": "https://www.ithome.com.tw/news/180672",
+      "isoDate": "2026-11-20T09:11:37.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
