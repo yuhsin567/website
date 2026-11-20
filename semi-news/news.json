@@ -1,40 +1,40 @@
 {
-  "generated": "2026-11-19T18:51:21.181Z",
+  "generated": "2026-11-20T01:01:48.555Z",
   "count": 5,
   "items": [
     {
-      "title": "Apple多項雲端服務大規模中斷，內部軟體更新問題影響iCloud等服務逾6個小時",
-      "link": "https://www.ithome.com.tw/news/180645",
-      "isoDate": "2026-11-19T12:11:58.000Z",
+      "title": "Ruby修補7項記憶體安全漏洞，5項可能導致遠端程式碼執行",
+      "link": "https://www.ithome.com.tw/news/180667",
+      "isoDate": "2026-11-20T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "日本藥妝業者DHC因第三方行銷分析平臺被駭，外洩用戶個資1,911萬筆",
-      "link": "https://www.ithome.com.tw/news/180648",
-      "isoDate": "2026-11-19T12:11:35.000Z",
+      "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
+      "link": "https://www.ithome.com.tw/news/180652",
+      "isoDate": "2026-11-20T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "美國警告群暉NAS、Apache Axis等4款應用系統的漏洞遭積極利用",
-      "link": "https://www.ithome.com.tw/news/180644",
-      "isoDate": "2026-11-19T12:11:13.000Z",
+      "title": "API金鑰隨Docker Hub映像檔對外曝光，研究發現最快7.86秒就遭濫用",
+      "link": "https://www.ithome.com.tw/news/180635",
+      "isoDate": "2026-11-20T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "資安業者揭露ARTEX攻擊事件應變過程，AI代理程式取得API金鑰後幾分鐘內即發動攻擊，防守方也用AI加速調查",
-      "link": "https://www.ithome.com.tw/news/180647",
-      "isoDate": "2026-11-19T12:11:05.000Z",
+      "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元",
+      "link": "https://www.ithome.com.tw/news/180568",
+      "isoDate": "2026-11-20T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google升級Gemini Tasks，新增AI代打電話、購物付款功能，首度開放免費使用",
-      "link": "https://www.ithome.com.tw/news/180641",
-      "isoDate": "2026-11-19T11:11:50.000Z",
-      "source": "iThome",
+      "title": "AI 硬體撐腰，大摩上修台灣 2027 年 GDP 成長至 8.7%",
+      "link": "https://technews.tw/2026/11/20/morgan-stanley-raises-taiwan-2027-gdp-growth-forecast-8-7-ai-hardware-support/",
+      "isoDate": "2026-11-20T00:50:58.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
