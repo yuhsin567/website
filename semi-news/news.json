@@ -1,7 +1,28 @@
 {
-  "generated": "2026-11-20T09:40:04.702Z",
+  "generated": "2026-11-20T18:18:01.941Z",
   "count": 5,
   "items": [
+    {
+      "title": "爆發 27 次全是造假，NASA 揪出「假超新星」背後的隱形黑洞",
+      "link": "https://technews.tw/2026/11/21/unraveling-15-year-mystery-impostor-supernova/",
+      "isoDate": "2026-11-20T16:00:30.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關",
+      "link": "https://technews.tw/2026/11/21/cancer-uses-antioxidants-to-disarm-the-immune-system-scientists-discover/",
+      "isoDate": "2026-11-20T16:00:25.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "韋伯與雙子星北望遠鏡合力發現宇宙最古老緊密類星體對",
+      "link": "https://technews.tw/2026/11/21/the-universe-oldest-pair-of-closely-spaced-quasars/",
+      "isoDate": "2026-11-20T16:00:18.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "PHP釋出安全更新修補18個漏洞，7個為重大等級",
       "link": "https://www.ithome.com.tw/news/180678",
@@ -13,27 +34,6 @@
       "title": "Google跟進OpenAI、Anthropic，Gemini開始支援Mac電腦操作",
       "link": "https://www.ithome.com.tw/news/180677",
       "isoDate": "2026-11-20T11:11:19.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "VMware發布資安更新，修補重大等級的vCenter漏洞，警告只能升級沒有其他替代緩解方法",
-      "link": "https://www.ithome.com.tw/news/180673",
-      "isoDate": "2026-11-20T10:11:42.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國駭客利用VMware vCenter零時差漏洞入侵，部署後門以竊取資料",
-      "link": "https://www.ithome.com.tw/news/180674",
-      "isoDate": "2026-11-20T10:11:06.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "歐盟執委會遭AI網攻，ARTEX開源工具成駭客利器",
-      "link": "https://www.ithome.com.tw/news/180672",
-      "isoDate": "2026-11-20T09:11:37.000Z",
       "source": "iThome",
       "category": "科技"
     }
