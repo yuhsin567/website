@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-21T00:36:38.903Z",
+  "generated": "2026-11-21T07:58:37.167Z",
   "count": 5,
   "items": [
     {
-      "title": "尼泊爾揭19家公立醫院開源電子病歷導入經驗，採6階段流程、中央統一開發與更新",
-      "link": "https://www.ithome.com.tw/news/180691",
-      "isoDate": "2026-11-21T02:11:15.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "被質疑就改口，UNESCO 研究：AI 回答氣候問題九成正確，卻很容易被說服",
-      "link": "https://technews.tw/2026/11/21/ai-models-mislead-on-climate-science/",
-      "isoDate": "2026-11-21T00:30:19.000Z",
+      "title": "AI 評分也有「口音偏見」？研究：美英口音最吃香，中文、奈及利亞口音墊底",
+      "link": "https://technews.tw/2026/11/21/ai-voice-model-accent-bias/",
+      "isoDate": "2026-11-21T07:30:20.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "黃仁勳下台掀風暴，輝達面臨華府監管與財務雙重考驗",
-      "link": "https://finance.technews.tw/2026/11/21/what-challenges-would-taiwanese-suppliers-face-after-jensen-departure/",
-      "isoDate": "2026-11-21T00:00:49.000Z",
+      "title": "腦波變「孤單」害你忘東忘西？科學家揪出阿茲海默症與深度睡眠的隱藏殺手",
+      "link": "https://technews.tw/2026/11/21/unraveling-mystery-brain-loneliness-waves/",
+      "isoDate": "2026-11-21T07:00:24.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "專訪》AI 時代業界拚「搶快」！科林研發營運長揭密：為何要將實驗室搬到客戶身邊？",
-      "link": "https://technews.tw/2026/11/21/lam-research-sesha-varadarajan-interview/",
-      "isoDate": "2026-11-20T23:00:05.000Z",
+      "title": "AI 也有雙面性格，研究：AI 得知受監控時會隱藏真實意圖",
+      "link": "https://technews.tw/2026/11/21/ai-surveillance-behavioral-differences-study/",
+      "isoDate": "2026-11-21T06:30:16.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "戰斧飛彈拚年產逾千枚，雷神選定兩家廠商開發新型固態火箭助推器",
-      "link": "https://technews.tw/2026/11/21/raytheon-chose-ursa-major-and-avio-to-develop-new-solid-rocket-motors-for-tomahawks/",
-      "isoDate": "2026-11-20T23:00:03.000Z",
+      "title": "Microsoft 聯同跨行業機構推出 AI 透明度倡議，加強企業對 AI 模型及代理的信任",
+      "link": "https://infosecu.technews.tw/2026/11/21/microsoft-launches-ai-transparency-initiative/",
+      "isoDate": "2026-11-21T06:00:02.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "強鹿推免費 AI 助理「JD」告別繁瑣數據，一句話秒解農場大小事",
+      "link": "https://technews.tw/2026/11/21/john-deere-jd-ai-assistant/",
+      "isoDate": "2026-11-21T05:30:16.000Z",
       "source": "科技新報",
       "category": "科技"
     }
