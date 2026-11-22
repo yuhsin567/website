@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-22T18:13:01.392Z",
+  "generated": "2026-11-22T23:58:43.235Z",
   "count": 5,
   "items": [
     {
-      "title": "台股跌逾 17% 失守年線還未完？安聯投信：後市盯緊四大止穩訊號",
-      "link": "https://finance.technews.tw/2026/11/22/falling-below-the-annual-moving-average/",
-      "isoDate": "2026-11-22T09:35:50.000Z",
+      "title": "養出 AI 駭客？OpenAI 被加州政府告上法院",
+      "link": "https://infosecu.technews.tw/2026/11/23/california-sues-openai/",
+      "isoDate": "2026-11-22T23:50:37.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "輝達遭勒索組織暗網威脅十天後洩漏資料，但官方稱系統未遭入侵",
-      "link": "https://infosecu.technews.tw/2026/11/22/nvidia-ransom-demand-by-the-gentlemen-leak-timer-under-10-days/",
-      "isoDate": "2026-11-22T09:00:16.000Z",
+      "title": "AI 產出「做半套」，隱形補位工時正吞噬企業效能",
+      "link": "https://finance.technews.tw/2026/11/23/uncovering-hidden-costs-ai-adoption-businesses/",
+      "isoDate": "2026-11-22T23:40:15.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AI 顛覆航空收益管理，「訂票後最佳化」啟動營收與滿意度三贏革命",
-      "link": "https://technews.tw/2026/11/22/ai-boosts-post-booking-optimization-aviation-industry/",
-      "isoDate": "2026-11-22T08:30:47.000Z",
+      "title": "證交所推「台灣璞玉指數」，從 394 檔低關注績優股中找成長股",
+      "link": "https://finance.technews.tw/2026/11/23/15-selected-constituents-of-taiwan-hidden-gem-index/",
+      "isoDate": "2026-11-22T23:30:16.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "改變全球電腦操作卻沒賺大錢，揭密 1970 年首款「木製滑鼠」誕生史",
-      "link": "https://ccc.technews.tw/2026/11/22/why-mouse-called-mouse/",
-      "isoDate": "2026-11-22T08:00:32.000Z",
+      "title": "AI 投資破兆卻難走入實體經濟？材料科學家揭「十年稅」成最大瓶頸",
+      "link": "https://technews.tw/2026/11/23/ai-investment-real-economy-bottleneck-materials-scientist-ten-year-tax/",
+      "isoDate": "2026-11-22T23:20:46.000Z",
       "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "AI 文字偵測器學會邊用邊調整，識破偽裝文字準確率逾九成",
-      "link": "https://technews.tw/2026/11/22/helping-ai-text-detectors-keep-up-with-changing-conditions/",
-      "isoDate": "2026-11-22T07:30:52.000Z",
+      "title": "GTIC 報告：漏洞利用、AI Infra 與網路釣魚正在成為 AI 代理駭客三大獲利源",
+      "link": "https://infosecu.technews.tw/2026/11/23/google-finds-hackers-using-ai-agents-to-build-and-run-exploits-from-software-patches/",
+      "isoDate": "2026-11-22T23:10:04.000Z",
       "source": "科技新報",
       "category": "科技"
     }
