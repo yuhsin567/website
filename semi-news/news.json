@@ -1,7 +1,21 @@
 {
-  "generated": "2026-11-23T07:13:37.436Z",
+  "generated": "2026-11-23T19:49:57.022Z",
   "count": 5,
   "items": [
+    {
+      "title": "快訊》董事會宣布立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
+      "link": "https://finance.technews.tw/2026/11/23/the-board-of-directors-announces-the-immediate-reinstatement-of-jensen-huang/",
+      "isoDate": "2026-11-23T14:20:28.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "Google 打造「鏡像維度」模擬網路，為 Chrome Agent 建立安全訓練沙盒",
+      "link": "https://infosecu.technews.tw/2026/11/23/google-chrome-introduces-mirror-dimension-to-safely-test-ai-agents/",
+      "isoDate": "2026-11-23T13:04:16.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "新加坡CSA警告Apache HTTP/2重大漏洞已遭積極利用，公開PoC也已流傳",
       "link": "https://www.ithome.com.tw/news/180711",
@@ -20,20 +34,6 @@
       "title": "Apache Tomcat傳出重大漏洞，可能導致未經身分驗證攻擊者加入受信任伺服器叢集",
       "link": "https://www.ithome.com.tw/news/180707",
       "isoDate": "2026-11-23T12:11:15.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "社群交友服務業者尚凡揭露不明IP位址侵入資訊設備，旗下iPair、SweetRing公告系統維護",
-      "link": "https://www.ithome.com.tw/news/180708",
-      "isoDate": "2026-11-23T12:11:07.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "全國電子發布資安重訊，會員收到含真實個資的假訂單釣魚郵件，來源待查",
-      "link": "https://www.ithome.com.tw/news/180706",
-      "isoDate": "2026-11-23T12:11:07.000Z",
       "source": "iThome",
       "category": "科技"
     }
