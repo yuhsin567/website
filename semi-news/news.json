@@ -1,11 +1,25 @@
 {
-  "generated": "2026-11-24T04:35:51.142Z",
+  "generated": "2026-11-24T15:30:32.557Z",
   "count": 5,
   "items": [
+    {
+      "title": "Google發布Chrome穩定版及延伸穩定版更新，修補重大等級的輸入驗證不當漏洞",
+      "link": "https://www.ithome.com.tw/news/180748",
+      "isoDate": "2026-11-24T12:11:24.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "Apple揭露macOS重大漏洞，可能導致系統與App當機或執行任意程式碼",
       "link": "https://www.ithome.com.tw/news/180747",
       "isoDate": "2026-11-24T12:11:20.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "資安研究員公布Windows零時差漏洞FastUnlock，攻擊者有機會以此在鎖定螢幕的電腦執行程式",
+      "link": "https://www.ithome.com.tw/news/180746",
+      "isoDate": "2026-11-24T11:11:48.000Z",
       "source": "iThome",
       "category": "科技"
     },
@@ -17,24 +31,10 @@
       "category": "科技"
     },
     {
-      "title": "思科、OpenAI合作推出開源AI基礎架構防護技術Shirudo",
-      "link": "https://www.ithome.com.tw/news/180742",
-      "isoDate": "2026-11-24T10:11:22.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic推出Claude Ship，AI自動審查、修正及核准程式碼",
-      "link": "https://www.ithome.com.tw/news/180741",
-      "isoDate": "2026-11-24T09:11:16.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia董事會宣布黃仁勳回鍋，離職11天後重掌執行長職務",
-      "link": "https://www.ithome.com.tw/news/180739",
-      "isoDate": "2026-11-24T08:11:42.000Z",
-      "source": "iThome",
+      "title": "川普受訪讚魏哲家是傑出人才，稱台積電將在德州建廠",
+      "link": "https://technews.tw/2026/11/24/trump-praises-cc-wei-exceptional-talent-tsmc-texas-factory-build/",
+      "isoDate": "2026-11-24T10:20:26.000Z",
+      "source": "科技新報",
       "category": "科技"
     }
   ]
