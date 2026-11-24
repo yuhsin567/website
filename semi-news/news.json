@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-23T19:49:57.022Z",
+  "generated": "2026-11-24T04:35:51.142Z",
   "count": 5,
   "items": [
     {
-      "title": "快訊》董事會宣布立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
-      "link": "https://finance.technews.tw/2026/11/23/the-board-of-directors-announces-the-immediate-reinstatement-of-jensen-huang/",
-      "isoDate": "2026-11-23T14:20:28.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Google 打造「鏡像維度」模擬網路，為 Chrome Agent 建立安全訓練沙盒",
-      "link": "https://infosecu.technews.tw/2026/11/23/google-chrome-introduces-mirror-dimension-to-safely-test-ai-agents/",
-      "isoDate": "2026-11-23T13:04:16.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "新加坡CSA警告Apache HTTP/2重大漏洞已遭積極利用，公開PoC也已流傳",
-      "link": "https://www.ithome.com.tw/news/180711",
-      "isoDate": "2026-11-23T12:11:50.000Z",
+      "title": "Apple揭露macOS重大漏洞，可能導致系統與App當機或執行任意程式碼",
+      "link": "https://www.ithome.com.tw/news/180747",
+      "isoDate": "2026-11-24T12:11:20.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "OpenJDK重大漏洞Java4Shell出現嘗試利用活動",
-      "link": "https://www.ithome.com.tw/news/180709",
-      "isoDate": "2026-11-23T12:11:44.000Z",
+      "title": "韓國三星證券客戶申訴系統遭駭，逾8,200名客戶個資外洩",
+      "link": "https://www.ithome.com.tw/news/180744",
+      "isoDate": "2026-11-24T11:11:21.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Apache Tomcat傳出重大漏洞，可能導致未經身分驗證攻擊者加入受信任伺服器叢集",
-      "link": "https://www.ithome.com.tw/news/180707",
-      "isoDate": "2026-11-23T12:11:15.000Z",
+      "title": "思科、OpenAI合作推出開源AI基礎架構防護技術Shirudo",
+      "link": "https://www.ithome.com.tw/news/180742",
+      "isoDate": "2026-11-24T10:11:22.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic推出Claude Ship，AI自動審查、修正及核准程式碼",
+      "link": "https://www.ithome.com.tw/news/180741",
+      "isoDate": "2026-11-24T09:11:16.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Nvidia董事會宣布黃仁勳回鍋，離職11天後重掌執行長職務",
+      "link": "https://www.ithome.com.tw/news/180739",
+      "isoDate": "2026-11-24T08:11:42.000Z",
       "source": "iThome",
       "category": "科技"
     }
