@@ -1,40 +1,40 @@
 {
-  "generated": "2026-11-25T00:19:53.256Z",
+  "generated": "2026-11-25T09:31:29.898Z",
   "count": 5,
   "items": [
     {
-      "title": "美國FCC擬強化物聯網資安標章制度，獲認證產品每3年須更新認證",
-      "link": "https://www.ithome.com.tw/news/180738",
-      "isoDate": "2026-11-25T08:11:00.000Z",
+      "title": "Google修補Nest Hub裝置53個漏洞，包括可能導致遠端執行程式碼的藍牙重大漏洞",
+      "link": "https://www.ithome.com.tw/news/180789",
+      "isoDate": "2026-11-25T12:11:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "BADBOX 3.0殭屍網路捲土重來，假廣告流量高峰時每天產生400億次競價請求",
-      "link": "https://www.ithome.com.tw/news/180729",
-      "isoDate": "2026-11-25T08:11:00.000Z",
+      "title": "Google公布全新AI代理人安全控管介面",
+      "link": "https://www.ithome.com.tw/news/180788",
+      "isoDate": "2026-11-25T12:11:44.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google擴充AI代理安全防護，新增執行前政策檢查機制",
-      "link": "https://www.ithome.com.tw/news/180723",
-      "isoDate": "2026-11-25T08:11:00.000Z",
+      "title": "SolarWinds修補Serv-U重大權限提升漏洞",
+      "link": "https://www.ithome.com.tw/news/180790",
+      "isoDate": "2026-11-25T12:11:31.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "成立半年就變獨角獸！微軟前副總裁創辦 Marlowe 募資 2.77 億美元，打造專為 AI 推論設計的多晶片資料中心",
-      "link": "https://technews.tw/2026/11/25/marlowe-raised-277-million-to-build-computing-power-around-non-nvidia-ai-chips/",
-      "isoDate": "2026-11-25T00:10:01.000Z",
-      "source": "科技新報",
+      "title": "網擎揭露AI應用布局，從郵件產品功能創新到加速軟體開發與測試",
+      "link": "https://www.ithome.com.tw/news/180693",
+      "isoDate": "2026-11-25T12:11:06.000Z",
+      "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "AI 亂寫判決，法官竟然被換掉了！",
-      "link": "https://finance.technews.tw/2026/11/25/us-judge-removed-after-ai-generated-errors-in-court-rulings/",
-      "isoDate": "2026-11-25T00:00:38.000Z",
-      "source": "科技新報",
+      "title": "音樂串流平臺Tidal將全面封殺純AI生成音樂",
+      "link": "https://www.ithome.com.tw/news/180783",
+      "isoDate": "2026-11-25T11:11:31.000Z",
+      "source": "iThome",
       "category": "科技"
     }
   ]
