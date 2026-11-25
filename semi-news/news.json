@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-24T15:30:32.557Z",
+  "generated": "2026-11-25T00:19:53.256Z",
   "count": 5,
   "items": [
     {
-      "title": "Google發布Chrome穩定版及延伸穩定版更新，修補重大等級的輸入驗證不當漏洞",
-      "link": "https://www.ithome.com.tw/news/180748",
-      "isoDate": "2026-11-24T12:11:24.000Z",
+      "title": "美國FCC擬強化物聯網資安標章制度，獲認證產品每3年須更新認證",
+      "link": "https://www.ithome.com.tw/news/180738",
+      "isoDate": "2026-11-25T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Apple揭露macOS重大漏洞，可能導致系統與App當機或執行任意程式碼",
-      "link": "https://www.ithome.com.tw/news/180747",
-      "isoDate": "2026-11-24T12:11:20.000Z",
+      "title": "BADBOX 3.0殭屍網路捲土重來，假廣告流量高峰時每天產生400億次競價請求",
+      "link": "https://www.ithome.com.tw/news/180729",
+      "isoDate": "2026-11-25T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "資安研究員公布Windows零時差漏洞FastUnlock，攻擊者有機會以此在鎖定螢幕的電腦執行程式",
-      "link": "https://www.ithome.com.tw/news/180746",
-      "isoDate": "2026-11-24T11:11:48.000Z",
+      "title": "Google擴充AI代理安全防護，新增執行前政策檢查機制",
+      "link": "https://www.ithome.com.tw/news/180723",
+      "isoDate": "2026-11-25T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "韓國三星證券客戶申訴系統遭駭，逾8,200名客戶個資外洩",
-      "link": "https://www.ithome.com.tw/news/180744",
-      "isoDate": "2026-11-24T11:11:21.000Z",
-      "source": "iThome",
+      "title": "成立半年就變獨角獸！微軟前副總裁創辦 Marlowe 募資 2.77 億美元，打造專為 AI 推論設計的多晶片資料中心",
+      "link": "https://technews.tw/2026/11/25/marlowe-raised-277-million-to-build-computing-power-around-non-nvidia-ai-chips/",
+      "isoDate": "2026-11-25T00:10:01.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "川普受訪讚魏哲家是傑出人才，稱台積電將在德州建廠",
-      "link": "https://technews.tw/2026/11/24/trump-praises-cc-wei-exceptional-talent-tsmc-texas-factory-build/",
-      "isoDate": "2026-11-24T10:20:26.000Z",
+      "title": "AI 亂寫判決，法官竟然被換掉了！",
+      "link": "https://finance.technews.tw/2026/11/25/us-judge-removed-after-ai-generated-errors-in-court-rulings/",
+      "isoDate": "2026-11-25T00:00:38.000Z",
       "source": "科技新報",
       "category": "科技"
     }
