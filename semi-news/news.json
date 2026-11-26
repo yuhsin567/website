@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-25T19:44:34.224Z",
+  "generated": "2026-11-26T02:37:39.757Z",
   "count": 5,
   "items": [
     {
-      "title": "矩尺臂可能不是旋臂，新研究指它也許是銀河棒前緣的恆星形成區",
-      "link": "https://technews.tw/2026/11/25/a-galactic-shock-wave-could-rewrite-the-map-of-the-milky-way/",
-      "isoDate": "2026-11-25T14:39:08.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "光焱科技董座對 2027 年展望極為樂觀，矽光子檢測可望加速放量",
-      "link": "https://finance.technews.tw/2026/11/25/enlitech-chairman-highly-optimistic-about-2027-outlook/",
-      "isoDate": "2026-11-25T13:15:30.000Z",
-      "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "Google修補Nest Hub裝置53個漏洞，包括可能導致遠端執行程式碼的藍牙重大漏洞",
-      "link": "https://www.ithome.com.tw/news/180789",
-      "isoDate": "2026-11-25T12:11:58.000Z",
+      "title": "紐約州長簽署禁止銷售AI聊天機器人玩具的5年禁令",
+      "link": "https://www.ithome.com.tw/news/180803",
+      "isoDate": "2026-11-26T10:11:58.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "Google公布全新AI代理人安全控管介面",
-      "link": "https://www.ithome.com.tw/news/180788",
-      "isoDate": "2026-11-25T12:11:44.000Z",
+      "title": "SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
+      "link": "https://www.ithome.com.tw/news/180802",
+      "isoDate": "2026-11-26T09:11:07.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "SolarWinds修補Serv-U重大權限提升漏洞",
-      "link": "https://www.ithome.com.tw/news/180790",
-      "isoDate": "2026-11-25T12:11:31.000Z",
+      "title": "英國NCSC示警AI輔助網路攻擊顯著增加，駭客數分鐘內就可能利用企業既有資安弱點",
+      "link": "https://www.ithome.com.tw/news/180781",
+      "isoDate": "2026-11-26T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "盤點2027年七大供應鏈資安風險，企業防護範圍從開源軟體擴及AI模型與代理",
+      "link": "https://www.ithome.com.tw/news/180745",
+      "isoDate": "2026-11-26T08:11:00.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Google擴充AI代理安全防護，新增執行前政策檢查機制",
+      "link": "https://www.ithome.com.tw/news/180723",
+      "isoDate": "2026-11-26T08:11:00.000Z",
       "source": "iThome",
       "category": "科技"
     }
