@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-26T02:37:39.757Z",
+  "generated": "2026-11-26T11:53:24.476Z",
   "count": 5,
   "items": [
     {
-      "title": "紐約州長簽署禁止銷售AI聊天機器人玩具的5年禁令",
-      "link": "https://www.ithome.com.tw/news/180803",
-      "isoDate": "2026-11-26T10:11:58.000Z",
+      "title": "全球22家企業組織Check Point管理伺服器被入侵，駭客利用已知漏洞取得管理員權限",
+      "link": "https://www.ithome.com.tw/news/180811",
+      "isoDate": "2026-11-26T12:11:35.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
-      "link": "https://www.ithome.com.tw/news/180802",
-      "isoDate": "2026-11-26T09:11:07.000Z",
+      "title": "React Server Components修補未經身分驗證RCE漏洞",
+      "link": "https://www.ithome.com.tw/news/180810",
+      "isoDate": "2026-11-26T12:11:20.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "英國NCSC示警AI輔助網路攻擊顯著增加，駭客數分鐘內就可能利用企業既有資安弱點",
-      "link": "https://www.ithome.com.tw/news/180781",
-      "isoDate": "2026-11-26T08:11:00.000Z",
+      "title": "多國警方聯手瓦解Gootloader等惡意程式基礎設施，查獲640萬筆遭竊憑證",
+      "link": "https://www.ithome.com.tw/news/180813",
+      "isoDate": "2026-11-26T12:11:10.000Z",
       "source": "iThome",
       "category": "科技"
     },
     {
-      "title": "盤點2027年七大供應鏈資安風險，企業防護範圍從開源軟體擴及AI模型與代理",
-      "link": "https://www.ithome.com.tw/news/180745",
-      "isoDate": "2026-11-26T08:11:00.000Z",
-      "source": "iThome",
+      "title": "三年砸 3 億元攻智慧醫療，鴻海攜北榮秀 AI 機器人成果",
+      "link": "https://finance.technews.tw/2026/11/26/foxconn-smart-medicine/",
+      "isoDate": "2026-11-26T11:42:01.000Z",
+      "source": "科技新報",
       "category": "科技"
     },
     {
-      "title": "Google擴充AI代理安全防護，新增執行前政策檢查機制",
-      "link": "https://www.ithome.com.tw/news/180723",
-      "isoDate": "2026-11-26T08:11:00.000Z",
+      "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
+      "link": "https://www.ithome.com.tw/news/180806",
+      "isoDate": "2026-11-26T11:11:22.000Z",
       "source": "iThome",
       "category": "科技"
     }
