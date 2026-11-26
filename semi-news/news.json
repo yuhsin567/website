@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-26T11:53:24.476Z",
+  "generated": "2026-11-26T20:55:16.836Z",
   "count": 5,
   "items": [
+    {
+      "title": "填補 MeV 能段觀測缺口，費米太空望遠鏡 14 年資料建立新伽瑪射線星表",
+      "link": "https://technews.tw/2026/11/26/fgst-survey-helps-fill-the-mev-gap/",
+      "isoDate": "2026-11-26T14:20:19.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "全球22家企業組織Check Point管理伺服器被入侵，駭客利用已知漏洞取得管理員權限",
       "link": "https://www.ithome.com.tw/news/180811",
@@ -28,13 +35,6 @@
       "link": "https://finance.technews.tw/2026/11/26/foxconn-smart-medicine/",
       "isoDate": "2026-11-26T11:42:01.000Z",
       "source": "科技新報",
-      "category": "科技"
-    },
-    {
-      "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
-      "link": "https://www.ithome.com.tw/news/180806",
-      "isoDate": "2026-11-26T11:11:22.000Z",
-      "source": "iThome",
       "category": "科技"
     }
   ]
