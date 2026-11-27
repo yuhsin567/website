@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-27T03:28:42.661Z",
+  "generated": "2026-11-27T13:28:36.603Z",
   "count": 5,
   "items": [
+    {
+      "title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
+      "link": "https://www.ithome.com.tw/news/180847",
+      "isoDate": "2026-11-27T12:11:54.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "WPIDE修補未經驗證遠端程式碼執行漏洞，未更新可能導致管理員遭誘使執行惡意PHP",
+      "link": "https://www.ithome.com.tw/news/180848",
+      "isoDate": "2026-11-27T12:11:37.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "幣安解除63.4億美元數位資產竊案相關提款限制",
+      "link": "https://www.ithome.com.tw/news/180845",
+      "isoDate": "2026-11-27T12:11:37.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
+    {
+      "title": "Drupal揭露已遭利用的安裝程式新漏洞",
+      "link": "https://www.ithome.com.tw/news/180846",
+      "isoDate": "2026-11-27T12:11:16.000Z",
+      "source": "iThome",
+      "category": "科技"
+    },
     {
       "title": "近4,200個AI自主攻擊框架暴露於公開網路，臺灣也發現10個",
       "link": "https://www.ithome.com.tw/news/180843",
       "isoDate": "2026-11-27T11:11:39.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
-      "link": "https://www.ithome.com.tw/news/180841",
-      "isoDate": "2026-11-27T10:11:51.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "研究人員揭露已遭利用的Drupal重大漏洞Fail2Install細節",
-      "link": "https://www.ithome.com.tw/news/180838",
-      "isoDate": "2026-11-27T10:11:42.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "中國及北韓駭客皆已於武器庫中加入ARTEX",
-      "link": "https://www.ithome.com.tw/news/180835",
-      "isoDate": "2026-11-27T10:11:31.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "日本JAXA網站遭駭，2,000名用戶帳密外洩",
-      "link": "https://www.ithome.com.tw/news/180839",
-      "isoDate": "2026-11-27T10:11:19.000Z",
       "source": "iThome",
       "category": "科技"
     }
