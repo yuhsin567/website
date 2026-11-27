@@ -1,7 +1,21 @@
 {
-  "generated": "2026-11-27T13:28:36.603Z",
+  "generated": "2026-11-27T22:28:43.687Z",
   "count": 5,
   "items": [
+    {
+      "title": "改寫免疫療法認知，研究：穿孔素能單獨引發癌細胞「鐵死症」",
+      "link": "https://technews.tw/2026/11/28/new-discovery-perforin-anti-cancer-mechanism/",
+      "isoDate": "2026-11-27T16:00:56.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
+    {
+      "title": "小行星如何化身「迷你月亮」？解密 2026 QQ8 與地球短暫交會的引力之舞",
+      "link": "https://technews.tw/2026/11/28/earth-temporarily-captures-a-mini-moon-2026-qq8/",
+      "isoDate": "2026-11-27T16:00:32.000Z",
+      "source": "科技新報",
+      "category": "科技"
+    },
     {
       "title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
       "link": "https://www.ithome.com.tw/news/180847",
@@ -20,20 +34,6 @@
       "title": "幣安解除63.4億美元數位資產竊案相關提款限制",
       "link": "https://www.ithome.com.tw/news/180845",
       "isoDate": "2026-11-27T12:11:37.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "Drupal揭露已遭利用的安裝程式新漏洞",
-      "link": "https://www.ithome.com.tw/news/180846",
-      "isoDate": "2026-11-27T12:11:16.000Z",
-      "source": "iThome",
-      "category": "科技"
-    },
-    {
-      "title": "近4,200個AI自主攻擊框架暴露於公開網路，臺灣也發現10個",
-      "link": "https://www.ithome.com.tw/news/180843",
-      "isoDate": "2026-11-27T11:11:39.000Z",
       "source": "iThome",
       "category": "科技"
     }
